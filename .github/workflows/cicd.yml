@@ -14,6 +14,8 @@ jobs:
     with:
       hugo-context-root: "."
       hugo-devl-url: "https://911.dev.chnm.gmu.edu"
+      hugo-prod-url: "https://911digitalarchive.org"
 
       release-tag-name-type: "iso"
       website-devl-fqdn: "911.dev.chnm.gmu.edu"
+      website-prod-fqdn: "911digitalarchive.org"
