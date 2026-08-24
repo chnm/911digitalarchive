@@ -1,0 +1,104 @@
+---
+collections:
+  - '24'
+date: '2014-01-07 22:03:09'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: dojR000645.xml
+featured: false
+files: []
+geo:
+id: 30283
+item_type: September 11 Email
+item_type_metadata:
+  'September 11 Email: Body':
+    - html: false
+      text: |-
+        Wednesday, March 13, 2002 12:57 PM
+        I'm reading something that makes me quite sad!
+
+
+        Dear Victim's Comp. Employee,
+
+        I can't believe that we "American's" are being as ridiculously
+        fundamentalist as the very Terrorist's who would destroy us!
+
+        Shame on you all & on your hateful god who directs you to hate and
+        discriminate!
+
+        Is this true?
+
+        http://uspolitics.about.com/library/weekly/aa031102a.htm
+
+        Is it?
+
+        Maybe we need to change the people in charge in Washington.
+        Hey...the Constitution say's, WE THE PEOPLE!"
+        I am one of those people too & I vote!
+
+
+        Regretfully,
+        Individual Comment
+  'September 11 Email: Date':
+    - html: false
+      text: '2002-03-13'
+lastmod: '2014-09-11 01:57:08'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: email
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-03-13'
+related_items: []
+slug: '30283'
+sortdate: '9999-99-99'
+tags: []
+title: dojR000645.xml
+type: items
+---

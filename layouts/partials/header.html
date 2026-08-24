@@ -1,0 +1,11 @@
+<header class="site-header">
+  <a class="site-title" href="{{ "" | relURL }}">{{ site.Title }}</a>
+  <nav class="site-nav" aria-label="Main">
+    <a href="{{ "items/" | relURL }}">Items</a>
+    <a href="{{ "collections/" | relURL }}">Collections</a>
+    {{ with site.Taxonomies.tags }}{{ if . }}<a href="{{ "tags/" | relURL }}">Tags</a>{{ end }}{{ end }}
+    {{ with site.GetPage "/map" }}<a href="{{ "map/" | relURL }}">Map</a>{{ end }}
+    {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>

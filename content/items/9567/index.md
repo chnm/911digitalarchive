@@ -1,0 +1,81 @@
+---
+collections:
+  - '23'
+date: '2014-01-07 19:11:38'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: story5022.xml
+featured: false
+files: []
+geo:
+id: 9567
+item_type: 911DA Story
+item_type_metadata:
+  '911DA Story: Story':
+    - html: false
+      text: THE MORNING OF SEPT 11,2001 MY 2 YEAR OLD DAUTHER HAD A DR.S APPT. I GOT HER READY THE TURNED ON ELMO FOR HER. I GOT IN THE SHOWER. MY CAR RADIO DIDN'T WORK, SO I STILL KNEW NOTHING.  MY MOTHER WORKS AT THE DR.S' OFFICE SO IT WAS NOT UNTILL AROUND 10:30AM THAT I FIRST HEARD ABOUT THE ATTACKS.  AFTER I WAS DONE THERE I RUSHED TO MY MOTHER IN-LAWS HOUSE.  WHEN I GOT THERE AND SAW THE TV WAS WHEN IT REALLY HIT ME WHAT WAS GOING ON.  BUT, IT WAS NOT UNTIL MY 2 YEAR OLD SAW THE PLANE (WHICH SHE LOVED PLANES, SHE HAD JUST GOTTEN BACK FROM CALIFORNA)SHE WAS SO HAPPY WHEN SHE FIRST SAW THE PLAN, THEN WHEN THE PLAN IT THE SECOND TOWER SHE GASPED FOR AIR, THE TURNED TO ME WITH TEARS IN HER EYES AND ASKED ME TO KISS THE BOOBOO THAT THE PLANE HAD MADE. ALL I COULD DO WAS HOLD HER AND TELL HER THAT MY KISSES WOULD NOT FIX THIS PROBLEM.  THE HARDEST THING I HAD TO DO WAS GO TO WORK AT 2 AND LEAVE MY BABY NOT UNDERSTANDING WHAT WAS GOING ON AND WHY I COULDN'T FIX THIS PROBLEM.  WHEN I GOT TO WORK AS I WAS GOING INTO THE STORE A LITTLE GIRL AROUND THE AGE OF 5 AND HER DADDY WHERE COMING OUT.  HE WAS EXPLAING TO HER THAT THE HAD TO MAKE SURE THERE WAS NO CARS COMING SO THAT THEY DON'T GET HIT.  SHE TURNED TO HER DAD AND SAID,"WE HAVE TO LOOK FOR PLANES TOO DADDY, WE DON'T WANT TO GET HIT BY THEM LIKE ALL THE PEOPLE IN THE BULIDINGS." IT WAS THEN THAT I SAW MANY CHILDREN LOOK LIKE GROWN ADULTS WHEN I LOOKED INTO THEIR EYES.  I AM 22 YEARS OLD NOW 21 AT THE TIME AND I JUST DIDN'T UNDERSTAND WHY THINGS WHERE THE WAY THEY WHERE. I WAS ANGRY, THEN SAD FOR THE ONES MISSING. IT WAS NOT RIGHT THAT THE ONES WHO USED OUR PLANES TO KILL OUR PEOPLE WOULD NOT HAVE TO PAY. FROM THAT DAY ON I LOOKED AT LIFE MUCH DIFFERENT. I TOOK TIME OUT OF MY DAY TO HOLD MY BABY AND TELL HER I LOVE HER. YOU NEVER KNOW WHEN YOUR TIME WILL BE OVER, SO WE ALL NEED TO TAKE THE TIME TO TELL OUR LOVED ONES HOW MUCH THE MEAN TO US. AND HELP THOSE WHO ARE A LITTLE LESS FORTUNATE.  WE NEED TO STOP FIGHTING WITH PEOPLE BECAUSE OF THE COLOR OF THEIR SKIN, BECAUSE ON 9/11/01 THE WORLD SAW WE REALLY DO BLEED THE SAME. I'M NO BETTER THEN ANYONE ELSE. LIFE IS TO SHORT TO FIGHT ANYMORE. MAY GOD BLESS YOU AND YOURS.  REMEBER THE SAYING THEN FOLLOW IT, "STOP AND SMELL THE ROSES."
+lastmod: '2014-09-11 01:39:22'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-09-11'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 205.188.209.38
+related_items: []
+slug: '9567'
+sortdate: '9999-99-99'
+tags: []
+title: story5022.xml
+type: items
+---

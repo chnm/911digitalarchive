@@ -1,0 +1,96 @@
+---
+collections:
+  - '26'
+date: '2014-01-08 15:49:21'
+draft: false
+dublin_core:
+  Description:
+    - html: false
+      text: This Is a photo taken of my brother, my cousin and his wife by the tribute of light in March 2002
+  Title:
+    - html: false
+      text: 1087.pjpeg
+featured: false
+files:
+  - fullsize: /files/fullsize/6a506b13e92625caffb4281335bd637a.jpg
+    id: 3192
+    mime: image/jpeg
+    original_filename: Tribute of light 1.JPG
+    thumb: /files/thumbnails/6a506b13e92625caffb4281335bd637a.jpg
+    url: /files/original/6a506b13e92625caffb4281335bd637a.JPG
+geo:
+id: 35462
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:01:44'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: still image
+  - field: Original Name
+    set: 911DA Item
+    values:
+      - html: false
+        text: Tribute of light 1.JPG
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-09-08'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 24.168.107.163
+related_items: []
+slug: '35462'
+sortdate: '9999-99-99'
+tags: []
+title: 1087.pjpeg
+type: items
+---
+
+{{< raw >}}
+This Is a photo taken of my brother, my cousin and his wife by the tribute of light in March 2002
+{{< /raw >}}

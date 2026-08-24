@@ -1,0 +1,81 @@
+---
+collections:
+  - '23'
+date: '2014-01-07 18:51:56'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: story2980.xml
+featured: false
+files: []
+geo:
+id: 7106
+item_type: 911DA Story
+item_type_metadata:
+  '911DA Story: Story':
+    - html: false
+      text: I WAS WOKEN BY A PHINE CALL FROM MY DAUDHTER WHOSE IS A LONGSHORE PERSON .SHE HAD JUST GOTTEN OF THE 3RD SHIFT AND HEARD WHAT HAD HAPPENED AROUND 7AM. SHE IS 23 YEARS OLD ON THE PHONE TELLING MOM TURN ON THE T.V. WHAT IS GOING ON. I DON'T UNDERSTAND IS IT AN ACCIDENT OR WAS IS DONE ON PURPOSE. WHAT IS GOING TO HAPPEN TO US? WHERE ARE MY SISTERS? IS EVERYONE GOING TO BE OK? ALL THESE QUESTIONS FROM MY DAUGHTER AND I HAD NO ANSWERS. FOR THE FIRST TIME AS A MOTHER I COULD NOT ANSWER HER QUESTIONS.MI FELT HELPLESS AND WORRIED FROM ALL THE PEOPLE I LOVED AND AROUND THE WORLD. IS THIS THE END OF LIFE AS WE KNOW IT? IS THIS THE END OF OUR LIVES? WILL SOMEONE USE THE UNSPOKENABOUT NUCULER BOMB THE TALK ABOUT TO SOFTLY? ALL I WANTED TO DO WAS HOLD MY BABIES OF 26, 23, AND 20 AND MY HUSBAND, WELL I SEE MY MOM AGAIN? WHO LIVES IN SAN PEDRO ACROSS THE BRIDGE IN WHICH I TRAVEL EVERYDAY. AND NOW I AM SCARED TO DEATH TO TRAVEL ACROSS....WHAT ABOUT ALL THE PEOPLE WHO ARE LOST MOM? CAN THEY FIND THEM? WILL THEY ALL DIE? WHAT ABOUT THEIR PARENTS AND CHILDREN?  THE QUESTIONS THEY NEVER STOPPED FOR DAYS. ALL WE DID WAS SIT TOGETHER AND WATCH THE TV HOPING THEY WOULD FIND SOME PEOPLE ALIVE AS IF SOME WAS THERE THAT WAS APART OF OUR FAMILY.  WE JUST COULD HELP BUT TO FEEL THESE ARE OUR FAMILY MEMBERS THESE ARE THE PEOPLE WHO MAKE UP THE FAMILY OF AMERICA. AND SOMEONE FROME SOME PLACE TOKE THEM AWAY FROM OUR FAMILY. WHY? WHAT WILL WE DO NOW? WILL THEY DO IT AGAIN? QUESTIONS STILL I CAN'T ANSWER. THIS TO ME WAS A DAY WHEN I FELT TOTALLY HELPLESS EVEN TO MY OWN DAUGHTERS. A MOTHER WITH NO ANSWER FOR HER CHILDERN. CAN THAT BE? I FELT THAT THEY MADE SUCH CHANGES TO US EMOTIONAL AND PHYSICAL EVERYTIME TIME I SEE AND AIRPLANE FLYING LOW A HELICOPTER GOING IN CIRCLES MY INSIDES SHAKE, MY MIND STARTS ASKING ME QUESTIONS. AND I WONDER WILL I HAVE THE ANSWERS THIS TIME........TO ALL OF THOSE WHO HAVE LOST LOVED ONES I WILL ALWAYS FEEL AS THOUGH THEY WERE APART OF MY FAMILY ALSO.AND THINK ABOUT HOW MANY QUESTIONS YOU HAD TO ANSWER FOR YOUR CHILDREN TOO.  SO MANY I KNOW THAT YOU HAD NO ANSWERS TOO.....I LOVE YOU AND MAY PEACE ALWAYS BE WITH YOU..........LINDA PEDROZA  LONG BEACH CA.
+lastmod: '2014-09-11 01:37:27'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-09-11'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 64.12.96.8
+related_items: []
+slug: '7106'
+sortdate: '9999-99-99'
+tags: []
+title: story2980.xml
+type: items
+---

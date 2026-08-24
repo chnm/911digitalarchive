@@ -1,0 +1,74 @@
+---
+collections:
+  - '186'
+date: '2014-01-14 14:40:58'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: wtc16.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/a99f44d2ebbb3a185da824d5398f86cd.jpg
+    id: 69512
+    mime: image/jpeg
+    original_filename: wtc16.jpg
+    thumb: /files/thumbnails/a99f44d2ebbb3a185da824d5398f86cd.jpg
+    url: /files/original/a99f44d2ebbb3a185da824d5398f86cd.jpg
+geo:
+id: 84641
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:39:15'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+related_items: []
+slug: '84641'
+sortdate: '9999-99-99'
+tags: []
+title: wtc16.jpg
+type: items
+---

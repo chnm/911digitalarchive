@@ -1,0 +1,52 @@
+/* minimal placeholder; expand later */
+body { font-family: -apple-system, system-ui, sans-serif; margin: 0 auto; max-width: 980px; padding: 1em; line-height: 1.5; }
+.site-header { display: flex; align-items: center; gap: 1.5em; border-bottom: 1px solid #ddd; padding: 0.5em 0; }
+.site-title { font-weight: bold; font-size: 1.2em; text-decoration: none; color: #222; }
+.site-nav a { margin-right: 1em; text-decoration: none; color: #444; }
+.site-nav a:hover { text-decoration: underline; }
+.item-metadata dt { font-weight: bold; margin-top: 0.5em; }
+.item-metadata dd { margin-left: 1em; }
+.item-files img { max-width: 100%; height: auto; }
+.page-list li { margin: 0.3em 0; }
+.terms-summary { color: #666; font-size: 0.9em; }
+.terms-cloud { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5em 1em; }
+.terms-cloud li { display: inline-flex; align-items: baseline; gap: 0.3em; }
+.terms-cloud .terms-count { color: #595959; font-size: 0.85em; } /* #595959 ≈ 7:1 on white (AA) */
+.terms-cloud a { text-decoration: none; }
+.terms-cloud a:hover { text-decoration: underline; }
+/* dev-only "View original" link (development environment) */
+.dev-source-link { margin: 0.25em 0 1em; font-size: 0.85em; }
+.dev-source-link a { display: inline-block; padding: 0.15em 0.6em; border: 1px dashed #c9a227; border-radius: 4px; background: #fffbe6; color: #8a6d00; text-decoration: none; }
+.dev-source-link a:hover { background: #fff3bf; }
+
+/* ------------------------------------------------------------------ */
+/* WCAG 2.2 AA additions                                              */
+/* ------------------------------------------------------------------ */
+
+/* SC 2.4.1 Bypass Blocks — skip link, visually hidden until focused. */
+.skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 1000;
+  padding: 10px 16px; background: #fff; color: #003; text-decoration: underline;
+}
+.skip-link:focus { left: 8px; top: 8px; }
+/* The skip target is a non-interactive <main tabindex="-1"> — suppress its ring. */
+main:focus { outline: none; }
+
+/* SC 2.4.7 / 2.4.11 Focus Visible / Not Obscured — a real, high-contrast ring. */
+:focus-visible { outline: 3px solid #005fcc; outline-offset: 2px; }
+
+/* Accessible-name helper (e.g. a search field's <label>). */
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0);
+  white-space: nowrap; border: 0;
+}
+
+/* SC 2.5.8 Target Size (Min) — >= 24x24 for standalone nav/pagination/tag/facet
+   controls, which are otherwise tight inline links. */
+.site-nav a, .pager a, .pagination a, .item-tags a, .terms-cloud a, .footer-help a {
+  display: inline-block; min-height: 24px; min-width: 24px;
+  padding: 4px 8px; line-height: 1.6;
+}
+.site-nav { display: flex; flex-wrap: wrap; gap: 0.25em 0.5em; }
+.site-nav a { margin-right: 0; }

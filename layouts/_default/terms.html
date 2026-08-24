@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ $count := len .Data.Terms }}
+<p class="terms-summary">{{ $count }} {{ .Data.Singular }}{{ if ne $count 1 }}s{{ end }}</p>
+
+<ul class="terms-cloud">
+  {{ range .Data.Terms.Alphabetical }}
+    <li>
+      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+      <span class="terms-count">{{ .Count }}</span>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

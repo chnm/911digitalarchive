@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "source_root": "/tmp/claude-1000/-workspace-util-websites-mirrorer/e2135570-1c6e-4167-a2f8-80d84f0c1531/scratchpad",
+  "db_sqlite": "/tmp/claude-1000/-workspace-util-websites-mirrorer/e2135570-1c6e-4167-a2f8-80d84f0c1531/scratchpad/db_911digiarch.sqlite",
+  "site_name": "911digitalarchive",
+  "site_url": "https://911digitalarchive.org",
+  "counts": {
+    "redirects": 277,
+    "redirects_caddy": 10
+  },
+  "skipped": {},
+  "missing_assets": 0,
+  "missing_assets_by_parent": {},
+  "entries": {
+    "omeka2hugo/README.md": "deb0c3a733451f71839aaea4a5e2c21a2a522f2ae1a50292dc9a075a42289900",
+    "omeka2hugo/redirects.txt": "98d758d127a6748b5aedf32cefbf4a0e86b7746813512db4765b1753813b0b33",
+    "redirects.caddy": "c95ecb3f7da61cd5012ffed9164d4a7454c05586032e931d37aaf578425379ca"
+  }
+}

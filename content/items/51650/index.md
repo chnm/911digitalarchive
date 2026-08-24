@@ -1,0 +1,96 @@
+---
+collections:
+  - '31'
+date: '2014-01-09 23:29:15'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 2003040800000050.xml
+featured: false
+files:
+  - fullsize: /files/fullsize/b9e99a020d949b0d4241140c8cf7a938.jpg
+    id: 12435
+    mime: image/tiff
+    original_filename: 2003040800000050_1.tif
+    thumb: /files/thumbnails/b9e99a020d949b0d4241140c8cf7a938.jpg
+    url: /files/original/b9e99a020d949b0d4241140c8cf7a938.tif
+  - fullsize: /files/fullsize/a98987d032e9eecf19709e97248446fd.jpg
+    id: 12436
+    mime: image/tiff
+    original_filename: 2003040800000050_2.tif
+    thumb: /files/thumbnails/a98987d032e9eecf19709e97248446fd.jpg
+    url: /files/original/a98987d032e9eecf19709e97248446fd.tif
+geo:
+id: 51650
+item_type: NMAH Card
+item_type_metadata:
+  'NMAH Card: Card Version':
+    - html: false
+      text: howwitness
+  'NMAH Card: Image Available':
+    - html: false
+      text: no
+lastmod: '2014-09-11 02:15:45'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: scanned image
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2004-05-10'
+  - field: Notes
+    set: 911DA Item
+    values:
+      - html: false
+        text: 'Comes from box: BOX13'
+related_items: []
+slug: '51650'
+sortdate: '9999-99-99'
+tags: []
+title: 2003040800000050.xml
+type: items
+---

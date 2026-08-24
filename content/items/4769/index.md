@@ -1,0 +1,148 @@
+---
+collections:
+  - '23'
+date: '2014-01-07 18:33:25'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: story10375.xml
+featured: false
+files: []
+geo:
+id: 4769
+item_type: 911DA Story
+item_type_metadata:
+  '911DA Story: Story':
+    - html: false
+      text: |-
+        I WAS HAVING A MEETING THAT MORNING AND MY HUSBAND WAS ON FLIGHT 93 COMING TO NEW YORK FOR MY GRADUATION. MY CELL PHONE KEPT GOING OFF DURING MY MEETING AND IT I COULDNT ANSWER IT. I FINALLY REMOVE MYSELF OUT THE MEETING, AND IT WAS A MESS FROM MY DAUGHTER'S SCHOOL THAT SHE WASNT FEELING WELL, AND TO COME TO THE SCHOOL TO CHECK ON HER. THAN MY CELL PHONE RING AGAIN, BUT THIS TIME IT WAS MY HUSBAND TELLING ME THAT HE DIDNT THINK HE WAS GOING TO MAKE IT, AND I WAS LIKE WHAT ARE U TALKING ABOUT, HE THAN STATED THAT SOME PEOPLE WERE HIJACKING THE PLANE.ACCOPMPANYING MY HUSBAND WAS MY BEST FRIEND WHO HAD NEVER FLOWN BEFORE, I HEARD HER IN THE BACKGROUND TELLING ME SHE LOVED ME AND TO TELL HER HUSBAND, DAUGHTER AND PARENTS THAT SHE LOVES THEM, BY THIS TIME MY BODY BECAME NUMB, AND THE LAST WORDS THAT MY HUSBAND TOLD ME WAS HE LOVED ME, AND HE LOVES ME SO MUCH AND CONGRATULATIONS ME ON THIS DAY, AND OH BY THE WAY TELL MYA THAT DADDY LOVES HER, AND I SAID I LOVE AND THATS WHEN THE PHONE WENT DEAD. ALL U CAN HEAR WAS HEARING PEOPLE SCREAMING AND THAN THE PHONE WENT DEAD. SEPTEMBER THE 11TH WAS MY OLDER SISTER'S BDAY, AND MY 9TH WEDDING ANNIVERSARY. I LOST MY HUSBAND, BEST FRIEND, AND MY EXTENDED FAMILY. I WILL LIKE TO LEAVE THIS POEM THAT I WROTE ABOUT SEPT. 11TH.
+
+        IF I KNEW
+        IF I KNEW IT WOULD BE THE LAST TIME
+        THAT I'D SEE YOU FALL ASLEEP
+        I WOULD TUCK YOU IN MORE TIGHTLY
+        AND PRAY THE LORD, YOUR SOUL TO KEEP
+
+        IF I KNEW IT WOULD BE THE LAST TIME
+        THAT I SEE YOU WALK OUT THE DOOR,
+        I WOULD GIVE YOU A HUG AND A KISS
+        AMD CALL YOU BACK  FOR ONE MORE
+
+        IF I KNEW IT WOULD BE THE LAST TIME
+        I'D HEAR YOUR VOICE LIFTED UP IN PRAISE,
+        I WOULD VIDEO TAPE EACH ACTION AND WORD
+        SO I COULD PLAY THEM BACK DAY AFTER DAY
+
+        IF I KNEW IT WOULD BE THE LAST TIME
+        I COULD SPARE AN EXTRA MINUTE
+        TO STOP AND SAY "I LOVE YOU"
+        INSTEAD OF ASSUMING YOU WOULD KNOW I DO
+
+        IF I KNEW IT WOULD BE THE LAST TIME
+        I WOULD BE THERE TO SHARE YOUR DAY
+        WELL IM SURE YOU'LL HAVE SO MANY MORE,
+        SO I CAN LET JUST THIS ONE SLIP AWAY
+
+        FOR SURELY THERE'S ALWAYS TOMORROW
+        TO MAKE UP FOR AN OVERSIGHT
+        AND WE ALWAYS GET A SECOND CHANCE
+        TO MAKE EVERYTHING JUST RIGHT
+
+        THERE WILL ALWAYS NE ANOTHER DAY
+        TO SAY "I LOVE YOU"
+        AND CERTAINLY THERE'S ANOTHER CHANCE
+        TO SAY OUR" ANYTHING I CAN DO?"
+
+        BUT JUST IN CASE I MIGHT BE WRONG
+        AND TODAY IS ALL I GET
+        I'D LIKE TO SAY HOW MUCH I LOVE YOU
+        AND I HOPE WE NEVER FORGET
+
+        TOMORROW IS NOT PROMISED TO ANYONE,
+        YOUNG OR OLD ALIKE,
+        AND TODAY MAY BE THE LAST CHANCE
+        YOU GET TO HOLD YOUR LOVED ONE TIGHT
+
+        SO IF YOU'RE WAITING FOR TOMORROW
+        WHY NOT DO IT TODAY?
+        FOR IF TOMORROW NEVER COMES
+        YOU'LL SURELY DO IT TODAY
+
+        THAT YOU DIDN'T TAKE THAT EXTRA TIME
+        FOR A SMILE,A HUG, OR A KISS
+        AND YOU WERE TOO BUSY TO GRANT SOMEONE
+        WHAT TURNED OUT TO BE THEIR ONE LAST WISH
+
+        SO HOLD YOUR LOVED ONES CLOSE TODAY,
+        AND WHISPER IN THEIR EAR,
+        TELL THEM HOW MUCH YOU LOVE THEM
+        AND THAT YOU'LL ALWAYS HOLD THEM DEAR
+
+        TAKE TIME OUT TO SAY "IM SORRY"
+        "PLEASE FORGIVE ME," "THANK YOU," OR "IT'S OKAY"
+        AND IF TOMORROW NEVER COMES
+        YOU'LL HAVE NO REGRETS ABOUT TODAY
+lastmod: '2014-09-11 01:35:44'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2004-01-27'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 68.153.69.174
+related_items: []
+slug: '4769'
+sortdate: '9999-99-99'
+tags: []
+title: story10375.xml
+type: items
+---

@@ -1,0 +1,72 @@
+---
+collections:
+  - '261'
+date: '2014-01-14 20:49:10'
+draft: false
+dublin_core: {}
+featured: false
+files:
+  - fullsize: /files/fullsize/e4c004d698c51fef500297531dae36ca.jpg
+    id: 75122
+    mime: image/jpeg
+    original_filename: 1629.jpg
+    thumb: /files/thumbnails/e4c004d698c51fef500297531dae36ca.jpg
+    url: /files/original/e4c004d698c51fef500297531dae36ca.jpg
+geo:
+id: 90276
+item_type: HINY Photo
+item_type_metadata:
+  'HINY Photo: Category':
+    - html: false
+      text: Policemen
+    - html: false
+      text: Environmental Damage
+  'HINY Photo: Description':
+    - html: false
+      text: 2 images on CD (no hardcopy reference).
+  'HINY Photo: Submitted On':
+    - html: false
+      text: 9/28/01
+lastmod: '2014-09-11 02:43:35'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: digital image
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: still image
+related_items: []
+slug: '90276'
+sortdate: '9999-99-99'
+tags: []
+title: Item 90276
+type: items
+---

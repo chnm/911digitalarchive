@@ -1,0 +1,74 @@
+---
+collections:
+  - '177'
+date: '2014-01-14 14:29:06'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 26a.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/453e2ee020bdf1b667de22f33057ed2a.jpg
+    id: 69069
+    mime: image/jpeg
+    original_filename: 26a.jpg
+    thumb: /files/thumbnails/453e2ee020bdf1b667de22f33057ed2a.jpg
+    url: /files/original/453e2ee020bdf1b667de22f33057ed2a.jpg
+geo:
+id: 84198
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:38:56'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+related_items: []
+slug: '84198'
+sortdate: '9999-99-99'
+tags: []
+title: 26a.jpg
+type: items
+---

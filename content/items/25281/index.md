@@ -1,0 +1,88 @@
+---
+collections:
+  - '24'
+date: '2014-01-07 21:22:41'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: dojN000417.xml
+featured: false
+files: []
+geo:
+id: 25281
+item_type: September 11 Email
+item_type_metadata:
+  'September 11 Email: Body':
+    - html: false
+      text: |-
+        Friday, December 21, 2001 11:25 AM
+        Comments
+
+        Without getting into the legal aspects, I see greed, greed, developing from
+        the victims. Money will not replace the lost person or their love but this is
+        all there is... To hear people comment about the out poring of these monies I
+        only hear greed. Be grateful for what you are getting from the rest of the
+        nation and continue with your lives and those around you. A VICTIM!!
+        Individual Comment
+  'September 11 Email: Date':
+    - html: false
+      text: '2001-12-21'
+lastmod: '2014-09-11 01:52:38'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: email
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2001-12-21'
+related_items: []
+slug: '25281'
+sortdate: '9999-99-99'
+tags: []
+title: dojN000417.xml
+type: items
+---

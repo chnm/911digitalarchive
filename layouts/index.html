@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ site.Title }}</h1>
+{{ with site.Params.description }}<p class="site-description">{{ . }}</p>{{ end }}
+{{ .Content }}
+<nav class="home-browse" aria-label="Browse the archive">
+  <ul>
+    <li><a href="{{ "items/" | relURL }}">Browse items</a></li>
+    <li><a href="{{ "collections/" | relURL }}">Browse collections</a></li>
+    {{ with site.Taxonomies.tags }}{{ if . }}<li><a href="{{ "tags/" | relURL }}">Browse tags</a></li>{{ end }}{{ end }}
+    {{ with site.GetPage "/news" }}<li><a href="{{ .RelPermalink }}">News</a></li>{{ end }}
+  </ul>
+</nav>
+{{ end }}

@@ -1,0 +1,67 @@
+{{ define "main" }}
+<article class="exhibit show">
+  {{ with .Params.exhibit_slug }}
+    <nav class="exhibit-breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ (printf "exhibits/show/%s/" .) | relURL }}">{{ $.Params.exhibit_title | default "Exhibit" }}</a>
+    </nav>
+  {{ end }}
+
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Params.blocks }}
+    {{ $o := .options }}
+    {{ $pos := or (index $o "file-position") "left" }}
+    {{ $size := or (index $o "file-size") "square_thumbnail" }}
+    {{ $cap := or (index $o "caption-position") "center" }}
+    {{ if eq .layout "file-text" }}
+      <div class="exhibit-block layout-file-text">
+        <div class="exhibit-items {{ $pos }} size-{{ $size }} captions-{{ $cap }}">
+          {{ range .attachments }}
+            <div class="exhibit-item">
+              {{ if .image }}
+                <a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ .image }}" alt="{{ .title }}" title="{{ .title }}"></a>
+              {{ else }}
+                <a class="exhibit-item-link" href="{{ .url }}">{{ .title }}</a>
+              {{ end }}
+              {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
+            </div>
+          {{ end }}
+        </div>
+        {{ with .text }}{{ . | safeHTML }}{{ end }}
+      </div>
+    {{ else if eq .layout "gallery" }}
+      <div class="exhibit-block layout-gallery">
+        <div class="gallery captions-{{ $cap }}">
+          {{ range .attachments }}
+            <div class="exhibit-item exhibit-gallery-item">
+              {{ if .image }}
+                <a href="{{ .url }}"><img src="{{ .image }}" alt="{{ .title }}" title="{{ .title }}"></a>
+              {{ else }}
+                <a class="exhibit-item-link" href="{{ .url }}">{{ .title }}</a>
+              {{ end }}
+              {{ with .caption }}<div class="exhibit-item-caption">{{ . | safeHTML }}</div>{{ end }}
+            </div>
+          {{ end }}
+        </div>
+        {{ with .text }}{{ . | safeHTML }}{{ end }}
+      </div>
+    {{ else }}
+      <div class="exhibit-block layout-{{ .layout }}">
+        {{ with .text }}{{ . | safeHTML }}{{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{/* Prev / next within the exhibit, ordered by page weight (= ExhibitBuilder order). */}}
+  {{ $ordered := .CurrentSection.Pages.ByWeight }}
+  {{ $cur := .RelPermalink }}
+  <nav class="exhibit-pagination" aria-label="Exhibit page navigation">
+    {{ range $i, $p := $ordered }}
+      {{ if eq $p.RelPermalink $cur }}
+        {{ if gt $i 0 }}<a class="previous-page" rel="prev" href="{{ (index $ordered (sub $i 1)).RelPermalink }}">&larr; {{ (index $ordered (sub $i 1)).Title }}</a>{{ end }}
+        {{ if lt (add $i 1) (len $ordered) }}<a class="next-page" rel="next" href="{{ (index $ordered (add $i 1)).RelPermalink }}">{{ (index $ordered (add $i 1)).Title }} &rarr;</a>{{ end }}
+      {{ end }}
+    {{ end }}
+  </nav>
+</article>
+{{ end }}

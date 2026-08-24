@@ -1,0 +1,101 @@
+---
+collections:
+  - '26'
+date: '2014-01-08 15:31:09'
+draft: false
+dublin_core:
+  Description:
+    - html: false
+      text: |-
+        View from West Broadway, ca 9:00 AM,
+        September 11, 2001
+        On my way to our Tuesday morning staff meeting this is what I saw.
+  Title:
+    - html: false
+      text: 26.jpeg
+featured: false
+files:
+  - fullsize: /files/fullsize/bc4a526014cd94b0779752014d15a155.jpg
+    id: 2194
+    mime: image/jpeg
+    original_filename: WTC1SF.jpg
+    thumb: /files/thumbnails/bc4a526014cd94b0779752014d15a155.jpg
+    url: /files/original/bc4a526014cd94b0779752014d15a155.jpg
+geo:
+id: 34464
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:00:57'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: still image
+  - field: Original Name
+    set: 911DA Item
+    values:
+      - html: false
+        text: WTC1SF.jpg
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-02-08'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 146.96.94.194
+related_items: []
+slug: '34464'
+sortdate: '9999-99-99'
+tags: []
+title: 26.jpeg
+type: items
+---
+
+{{< raw >}}
+View from West Broadway, ca 9:00 AM,
+September 11, 2001
+On my way to our Tuesday morning staff meeting this is what I saw.
+{{< /raw >}}

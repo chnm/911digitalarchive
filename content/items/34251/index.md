@@ -1,0 +1,106 @@
+---
+collections:
+  - '25'
+date: '2014-01-07 22:48:15'
+draft: false
+dublin_core:
+  Description:
+    - html: false
+      text: Hospital equipment is moved into position in the street outside St. Vincent's Hospital on September 11, 2001.
+  Title:
+    - html: false
+      text: 1951.jpeg
+featured: false
+files:
+  - fullsize: /files/fullsize/f171dbda1f68e42eff7388aab106b51b.jpg
+    id: 1981
+    mime: text/html
+    original_filename: wtc23.jpg
+    thumb: /files/thumbnails/f171dbda1f68e42eff7388aab106b51b.jpg
+    url: /files/original/f171dbda1f68e42eff7388aab106b51b.jpg
+geo:
+id: 34251
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:00:45'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: still image
+  - field: Original Name
+    set: 911DA Item
+    values:
+      - html: false
+        text: wtc23.jpg
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2003-03-31'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 146.96.81.90
+  - field: Annotation
+    set: 911DA Item
+    values:
+      - html: false
+        text: da
+  - field: Notes
+    set: 911DA Item
+    values:
+      - html: false
+        text: 1199SEIU News
+related_items: []
+slug: '34251'
+sortdate: '9999-99-99'
+tags: []
+title: 1951.jpeg
+type: items
+---
+
+{{< raw >}}
+Hospital equipment is moved into position in the street outside St. Vincent's Hospital on September 11, 2001.
+{{< /raw >}}

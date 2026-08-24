@@ -1,0 +1,104 @@
+---
+collections:
+  - '23'
+date: '2014-01-07 19:42:09'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: story6949.xml
+featured: false
+files: []
+geo:
+id: 13335
+item_type: 911DA Story
+item_type_metadata:
+  '911DA Story: Story':
+    - html: false
+      text: |-
+        I REMIMBER I GOT MY CHILDREN OFF TO SCHOOL ON TIME FOR A CHANGE AND WITH NO HASEL OR PROBLEMS WITH THEM AT ALL.  I REMIMBER THINKING TO MY SELF "THIS IS GOING TO BE A GOOD DAY" EVENTHOUGH I WAS HAVING SERIOUS BACK PROBLEMS ( WHICH ONLY OCCUR WHEN SOMETHING MAJOR IS OR HAS JUST HAPPENED)
+
+        I TURNED ON MY TELEVISION LAYED ON MY FLOOR TOO HELP MY BACK AND FELL BACK TO SLEEP JUST TO BE WOKE UP BY MY FIANCE SHOCKED AND IN FEAR.  I LOOKED AT THE TV AND IN DISBELIFE AND TROUMENDOUS SHOCK COULD NOT BELIEVE WHAT I WAS SEEING.
+
+        I STARTED CRING IN FEAR AND SYMPATHY FOR EVERYONE INVOLVED.  THEN I REMIMBERED MY CHILDREN.  HOW I ALLOWED THEM TO WALK THEMSELVES TO SCHOOL TODAY WITHOUT ME.  I REMIMBER THINKING WAHT IF SOMETHING HAPPENS HERE OR HAS ANYTHING ALRESDY HAPPENED HERE?
+
+        I IMMEDIATLY CALLED THE SCHOOL AND WAS TOLD CORY AND ASHLEY WERE IN SCHOOL AND THAT IT WOULD BE BEST FOR THEM TO STAY IN SCHOOL.  I CONTEMPLATED ON THAT FOR A MOMENT THEN SOMEWHAT AGREED.
+
+        THAT WAS WHEN I REMIMBERED MY OLDER SISTER....
+
+        TODAY IS HER BIRTHDAY AND HER HUSBAND WAS TO BE A PASSENGER ON FLIGHT 93.
+
+        I CALLED HER RIGHT THEN IF A FRANTIC SCARE.  WHEN SHE ANSWERED SHE SOUNDED FINE SO I WAS NATURALLY SCARED TO ASK HER IF SHE HAD HEARD WHAT HAPPENED AND TO MY AMAZEMENT SHE SAID YES AND ASSURED ME THAT CRAIG (HER HUSBAND) CHOSE TO DRIVE HOME RATHER THEN FLY AND HEADED FOR HOME THE NIGHT BEFOR.  SHE TOLD ME "CRAIG CAN'T WAIT FOR THE PLANE, HE WANTED TO GET HOME TO ME NOW"  I'M EXPECTING HIM ANYTIME NOW.  WITH THAT IN MIND I WAS GIVEN A LITTLE RELIFE BUT NOT ENOUGH TO STOP THE PAIN OR HURT OR ANGRE THAT I WAS AND AM FEELING FROM ALL OF THIS.
+
+        SO WHEN THE ONE YEAR ANNIVERSARY CAME AROUND I FELT WORRIED FOR MY SISTER AGAIN THINKING HOW MUCH SHE MUST DISLIKE HER BIRTHDAY NOW BECAUSE OF THE TERORIST ATTACKS AND THE THOUGHT OF "IF HER HUSBAND HAD NOT DECIDED TO DRIVE HE WOULD NOT HAVE MADE IT HOME FOR HER BIRTHDAY".
+
+        SO I GAVE HER A CALL AND LEARNED THAT ON HER BIRTHDAY THIS YEAR SHE HAD THE SAME THOUGHTS I HAD PKLUS THE HURT IN HER HEART AND FAMIY FOR THE LOSE OF HER FATHER IN LAW ON THIS ANNIVERSARY OF 9-11
+
+        MY HEART GOES OUT TO HER AND ALL THE FAMILIES AND FRIENDS THAT HAVE LOST SOMEONE ON THIS DATE OF 9-11
+
+        SINCERLY NAD WITH THE MOST SYMPATHY
+        MY GOD BLESS YOUR SOULS
+        GINA ROACH
+lastmod: '2014-09-11 01:42:24'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-09-12'
+  - field: IP Address
+    set: 911DA Item
+    values:
+      - html: false
+        text: 152.163.188.6
+related_items: []
+slug: '13335'
+sortdate: '9999-99-99'
+tags: []
+title: story6949.xml
+type: items
+---

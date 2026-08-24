@@ -1,0 +1,74 @@
+---
+collections:
+  - '127'
+date: '2014-01-13 22:53:20'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 2001_12_21.pdf
+featured: false
+files:
+  - fullsize: /files/fullsize/6625c8822eb514f8a670cf6dcc4bb2ce.jpg
+    id: 66911
+    mime: video/quicktime
+    original_filename: 2001_12_21.pdf
+    thumb: /files/thumbnails/6625c8822eb514f8a670cf6dcc4bb2ce.jpg
+    url: /files/original/6625c8822eb514f8a670cf6dcc4bb2ce.pdf
+geo:
+id: 82040
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:37:22'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+related_items: []
+slug: '82040'
+sortdate: '9999-99-99'
+tags: []
+title: 2001_12_21.pdf
+type: items
+---

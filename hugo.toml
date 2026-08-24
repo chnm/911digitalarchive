@@ -1,0 +1,37 @@
+baseURL = ""
+title = "September 11 Digital Archive"
+languageCode = "en-us"
+disableKinds = ["RSS"]
+
+[params]
+  origin = "https://911digitalarchive.org"
+  site_name = "911digitalarchive"
+  matomo_url = "https://stats.rrchnm.org/"
+  matomo_site_id = "2"
+
+[taxonomies]
+  collection = "collections"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+# The only machine-readable metadata format retained from Omeka: a per-item
+# Dublin Core (DCMES) RDF/XML endpoint at /items/<id>/index.dcmesxml.xml.
+# Items opt in via the front-matter `outputs` key (see item_emitter); other
+# page kinds stay HTML-only (RSS/JSON/etc. are not produced).
+[mediaTypes]
+  [mediaTypes."application/rdf+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.dcmesxml]
+    mediaType = "application/rdf+xml"
+    baseName = "index.dcmesxml"
+    isHTML = false
+    isPlainText = false
+    rel = "alternate"
+    noUgly = true

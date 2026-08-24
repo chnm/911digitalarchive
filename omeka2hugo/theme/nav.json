@@ -1,0 +1,13 @@
+{
+  "links": [
+    {
+      "label": "Browse Items",
+      "uri": "/items/browse"
+    },
+    {
+      "label": "Browse Collections",
+      "uri": "/collections/browse"
+    }
+  ],
+  "source": "derived"
+}

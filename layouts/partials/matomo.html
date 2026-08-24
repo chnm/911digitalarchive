@@ -1,0 +1,27 @@
+{{- /* Single Matomo tracker — the only analytics on the site. Renders only in
+       production builds and only when both params are set, so `hugo server`
+       never pings production analytics. No Google Analytics or other tracker is
+       added; because the converter rebuilds the page chrome from templates
+       (never scraping origin HTML), the source site's legacy Piwik/Matomo
+       snippets never enter the output and there is nothing to strip. */ -}}
+{{- if hugo.IsProduction -}}
+{{- $url := site.Params.matomo_url -}}
+{{- $id := site.Params.matomo_site_id -}}
+{{- if and $url $id -}}
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="{{ $url }}";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '{{ $id }}']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><img referrerpolicy="no-referrer-when-downgrade" style="border:0" alt="" src="{{ $url }}matomo.php?idsite={{ $id }}&amp;rec=1"></noscript>
+<!-- End Matomo Code -->
+{{- end -}}
+{{- end -}}

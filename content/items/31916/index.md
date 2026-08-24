@@ -1,0 +1,89 @@
+---
+collections:
+  - '24'
+date: '2014-01-07 22:16:24'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: dojN002230.xml
+featured: false
+files: []
+geo:
+id: 31916
+item_type: September 11 Email
+item_type_metadata:
+  'September 11 Email: Body':
+    - html: false
+      text: |-
+        Tuesday, January 22, 2002 10:21 AM
+        Level of Compensation
+
+
+        I am glad that as a nation, we have both the compassion and the prosperity to compensate the victims of the September 11 tragedies.
+
+        However, I am not sympathetic to making them millionaires.  I find the levels of the awards excessive.
+
+
+        Individual Comment
+  'September 11 Email: Date':
+    - html: false
+      text: '2002-01-22'
+lastmod: '2014-09-11 01:58:40'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: email
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-01-22'
+related_items: []
+slug: '31916'
+sortdate: '9999-99-99'
+tags: []
+title: dojN002230.xml
+type: items
+---

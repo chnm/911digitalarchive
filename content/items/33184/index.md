@@ -1,0 +1,93 @@
+---
+collections:
+  - '24'
+date: '2014-01-07 22:26:45'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: dojR002096.xml
+featured: false
+files: []
+geo:
+id: 33184
+item_type: September 11 Email
+item_type_metadata:
+  'September 11 Email: Body':
+    - html: false
+      text: |-
+        Wednesday, March 13, 2002 3:41 PM
+        Unbelievable
+
+
+        I read that the partners of the homosexual HEROS on September 11th will not
+        be compensated as fully as the heterosexual heros. I am absolutely beyond
+        sickened in this.
+
+        This policy is a desecration to the memory of those who died so that others
+        would not on that terrifying day and the Bush Administration should be
+        ashamed of themselves for allowing this.
+
+
+        Individual Comment
+  'September 11 Email: Date':
+    - html: false
+      text: '2002-03-13'
+lastmod: '2014-09-11 01:59:48'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: born-digital
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: email
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2002-03-13'
+related_items: []
+slug: '33184'
+sortdate: '9999-99-99'
+tags: []
+title: dojR002096.xml
+type: items
+---

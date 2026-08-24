@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ $posts := .Pages.ByDate.Reverse }}
+{{ $count := len $posts }}
+<p class="terms-summary">{{ $count }} post{{ if ne $count 1 }}s{{ end }}</p>
+<ol class="news-list">
+  {{ range $posts }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    </li>
+  {{ end }}
+</ol>
+{{ end }}

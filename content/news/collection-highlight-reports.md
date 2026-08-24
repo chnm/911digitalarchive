@@ -1,0 +1,12 @@
+---
+title: "Collection Highlight: Reports"
+date: "2013-11-20T15:20:36+00:00"
+draft: false
+aliases: ["/news/2013/collection-highlight-reports/"]
+author: "Ben Schneider"
+---
+{{< raw >}}
+<p><a href="http://911.chnm.org/news/wp-content/uploads/2013/11/1813.jpeg"><img alt="1813" class="size-medium wp-image-133 alignleft" height="300" loading="lazy" sizes="(max-width: 251px) 100vw, 251px" src="http://911.chnm.org/news/wp-content/uploads/2013/11/1813-251x300.jpeg" srcset="/news/wp-content/uploads/2013/11/1813-251x300.jpeg 251w, /news/wp-content/uploads/2013/11/1813-858x1024.jpeg 858w, /news/wp-content/uploads/2013/11/1813.jpeg 892w" width="251"/></a></p>
+<p style="text-align: left;">The popular response to 9/11 was overwhelming. The events, and what to do in their aftermath, consumed the America’s national conversation for months, if not years, afterwards. But while much of the outpouring was that of individuals grieving or trying to come to terms with what had happened, scholars, researchers and other organizations were attempting to put together more formal assessments of the changes brought about that day. The 9/11 Digital Archive <a href="/collections/show/19">collection of reports</a> offers a partial view of the outpouring of material that sought to provide more formal guidance to a distraught nation.The collection pulls together largely unrelated reports from numerous non-profits and think tanks.</p>
+<p>This collection, unlike others in the archive, is unified by form rather than source or topic, tending more towards white papers and published articles. The organizations represented include official government publication, ethnic lobbying groups, economic and business concerns, and national security think tanks. The reports cover a wide range of topics, rarely overlapping, and offer insight into the effect of 9/11 on the activities of many different segments of American life. Some of these are from professions seeking to address new concerns in the communities they served, like psychiatric associations seeking to give their members the tools to deal with a new influx of trauma patients or those providing literacy and English language services to New York City’s poor and immigrant populations, who disproportionately felt the effects of the dislocations of that September. Others are from groups attempting to establish the extent of the damage that had been done, looking for numbers to gauge the economic damage, or the backlash against ethnic groups perceived as sharing responsibility for the attacks.</p>
+{{< /raw >}}

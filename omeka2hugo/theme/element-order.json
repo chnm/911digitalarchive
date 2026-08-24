@@ -1,0 +1,520 @@
+{
+  "element_sets": [
+    {
+      "fields": [
+        "Contributor",
+        "Coverage",
+        "Creator",
+        "Date",
+        "Description",
+        "Format",
+        "Identifier",
+        "Language",
+        "Publisher",
+        "Relation",
+        "Rights",
+        "Source",
+        "Subject",
+        "Title",
+        "Type",
+        "Alternative Title",
+        "Abstract",
+        "Table Of Contents",
+        "Date Available",
+        "Date Created",
+        "Date Accepted",
+        "Date Copyrighted",
+        "Date Submitted",
+        "Date Issued",
+        "Date Modified",
+        "Date Valid",
+        "Access Rights",
+        "License",
+        "Conforms To",
+        "Has Format",
+        "Has Part",
+        "Has Version",
+        "Is Format Of",
+        "Is Part Of",
+        "Is Referenced By",
+        "Is Replaced By",
+        "Is Required By",
+        "Is Version Of",
+        "References",
+        "Replaces",
+        "Requires",
+        "Extent",
+        "Medium",
+        "Bibliographic Citation",
+        "Spatial Coverage",
+        "Temporal Coverage",
+        "Accrual Method",
+        "Accrual Periodicity",
+        "Accrual Policy",
+        "Audience",
+        "Audience Education Level",
+        "Mediator",
+        "Instructional Method",
+        "Provenance",
+        "Rights Holder"
+      ],
+      "set": "Dublin Core"
+    },
+    {
+      "fields": [
+        "Text",
+        "Interviewer",
+        "Interviewee",
+        "Location",
+        "Transcription",
+        "Local URL",
+        "Original Format",
+        "Physical Dimensions",
+        "Duration",
+        "Compression",
+        "Producer",
+        "Director",
+        "Bit Rate/Frequency",
+        "Time Summary",
+        "Email Body",
+        "Subject Line",
+        "From",
+        "To",
+        "CC",
+        "BCC",
+        "Number of Attachments",
+        "Standards",
+        "Objectives",
+        "Materials",
+        "Lesson Plan Text",
+        "URL",
+        "Event Type",
+        "Participants",
+        "Birth Date",
+        "Birthplace",
+        "Death Date",
+        "Occupation",
+        "Biographical Text",
+        "Bibliography",
+        "September 11 Email: Body",
+        "September 11 Email: Date",
+        "September 11 Email: To",
+        "September 11 Email: From",
+        "September 11 Email: CC",
+        "September 11 Email: Subject",
+        "LC Story: Story",
+        "LC Story: Memory",
+        "LC Story: Affects",
+        "RC Story: Story",
+        "RC Story: Response",
+        "RC Story: RC Volunteer",
+        "RC Story: RC Employee",
+        "CAIR Story: Story",
+        "SEIU Story: Story",
+        "SEIU Story: Local Union",
+        "TomPaine Story: Story",
+        "VTMBH Article: Edition",
+        "VTMBH Article: Article Order",
+        "VTMBH Article: Title",
+        "VTMBH Article: Author",
+        "VTMBH Article: Publication",
+        "VTMBH Article: Original Language",
+        "VTMBH Article: Translator",
+        "VTMBH Article: Section",
+        "VTMBH Article: Blurb",
+        "VTMBH Article: Keywords",
+        "VTMBH Article: Body",
+        "VTMBH Article: Line Breaks",
+        "VTMBH Article: Date",
+        "VTMBH Article: Thumb",
+        "VTMBH Article: Article File",
+        "VTMBH Article: Hit Count",
+        "911DA Story: Story",
+        "NMAH Story: Story",
+        "NMAH Story: Life Changed",
+        "NMAH Story: Remembered",
+        "NMAH Story: Flag",
+        "NMAH Card: Card Version",
+        "NMAH Card: Image Available",
+        "Chinatown Interview: Interviewee",
+        "Chinatown Interview: Interviewer",
+        "Chinatown Interview: Date",
+        "Chinatown Interview: Language",
+        "Chinatown Interview: Occupation",
+        "Chinatown Interview: Interview (en)",
+        "Chinatown Interview: Interview (zh)",
+        "HINY Photo: Description",
+        "HINY Photo: Notes",
+        "HINY Photo: Caption",
+        "HINY Photo: Submitted On",
+        "HINY Photo: Category",
+        "HINY Photo: Comment",
+        "Sonic Memorial: Name",
+        "Sonic Memorial: Source Ref Name",
+        "Sonic Memorial: Comments",
+        "Sonic Memorial: Source Type",
+        "Sonic Memorial: Duration",
+        "Sonic Memorial: Permission",
+        "Sonic Memorial: Creation Date",
+        "Sonic Memorial: Contact",
+        "Sonic Memorial: Status",
+        "Sonic Memorial: Is Browsable",
+        "Sonic Memorial: Keyword",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "Referred to by",
+        "Description or Caption",
+        "How should the U.S. remember the events on Sept 11?",
+        "How should the U.S. remember the events of September 11?",
+        "How will you remember the 10th anniversary of the September 11 attacks?",
+        "911DA Story: Location on 9-11",
+        "911DA Story: Contributor",
+        "911DA Story: Date"
+      ],
+      "set": "Item Type Metadata"
+    },
+    {
+      "fields": [
+        "Status",
+        "Consent",
+        "Posting",
+        "Copyright",
+        "Source",
+        "Media Type",
+        "Original Name",
+        "Created by Author",
+        "Described by Author",
+        "Date Entered",
+        "IP Address",
+        "Annotation",
+        "Notes"
+      ],
+      "set": "911DA Item"
+    },
+    {
+      "fields": [
+        "Text"
+      ],
+      "set": "PDF Text"
+    },
+    {
+      "fields": [
+        "What is your current zip code?",
+        "How old were you on September 11, 2001"
+      ],
+      "set": "911 Contributors Elements"
+    },
+    {
+      "fields": [
+        "Additional Creator",
+        "Transcriber",
+        "Producer",
+        "Render Device",
+        "Render Details",
+        "Capture Date",
+        "Capture Device",
+        "Capture Details",
+        "Change History",
+        "Watermark",
+        "Encryption",
+        "Compression",
+        "Post Processing"
+      ],
+      "set": "Omeka Legacy File"
+    },
+    {
+      "fields": [
+        "Width",
+        "Height",
+        "Bit Depth",
+        "Channels",
+        "Exif String",
+        "Exif Array",
+        "IPTC String",
+        "IPTC Array"
+      ],
+      "set": "Omeka Image File"
+    },
+    {
+      "fields": [
+        "Bitrate",
+        "Duration",
+        "Sample Rate",
+        "Codec",
+        "Width",
+        "Height"
+      ],
+      "set": "Omeka Video File"
+    },
+    {
+      "fields": [
+        "What is your current zip code?",
+        "How old were you on September 11, 2011?"
+      ],
+      "set": "Contributor Elements"
+    }
+  ],
+  "item_types": [
+    {
+      "fields": [
+        "Text",
+        "Original Format",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "Referred to by"
+      ],
+      "type": "Text"
+    },
+    {
+      "fields": [
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Compression",
+        "Producer",
+        "Director",
+        "Description or Caption",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "Text",
+        "Referred to by",
+        "How should the U.S. remember the events of September 11?",
+        "How will you remember the 10th anniversary of the September 11 attacks?"
+      ],
+      "type": "Moving Image"
+    },
+    {
+      "fields": [
+        "Interviewer",
+        "Interviewee",
+        "Location",
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Bit Rate/Frequency",
+        "Time Summary"
+      ],
+      "type": "Oral History"
+    },
+    {
+      "fields": [
+        "Transcription",
+        "Original Format",
+        "Duration",
+        "Bit Rate/Frequency",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "Referred to by",
+        "Text",
+        "Description or Caption",
+        "How should the U.S. remember the events of September 11?",
+        "How will you remember the 10th anniversary of the September 11 attacks?"
+      ],
+      "type": "Sound"
+    },
+    {
+      "fields": [
+        "Original Format",
+        "Physical Dimensions",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "Referred to by",
+        "Text",
+        "How should the U.S. remember the events of September 11?",
+        "How will you remember the 10th anniversary of the September 11 attacks?"
+      ],
+      "type": "Still Image"
+    },
+    {
+      "fields": [
+        "Local URL"
+      ],
+      "type": "Website"
+    },
+    {
+      "fields": [
+        "Duration",
+        "Event Type",
+        "Participants"
+      ],
+      "type": "Event"
+    },
+    {
+      "fields": [
+        "Email Body",
+        "Subject Line",
+        "From",
+        "To",
+        "CC",
+        "BCC",
+        "Number of Attachments"
+      ],
+      "type": "Email"
+    },
+    {
+      "fields": [
+        "Duration",
+        "Standards",
+        "Objectives",
+        "Materials",
+        "Lesson Plan Text"
+      ],
+      "type": "Lesson Plan"
+    },
+    {
+      "fields": [
+        "URL"
+      ],
+      "type": "Hyperlink"
+    },
+    {
+      "fields": [
+        "Birth Date",
+        "Birthplace",
+        "Death Date",
+        "Occupation",
+        "Biographical Text",
+        "Bibliography"
+      ],
+      "type": "Person"
+    },
+    {
+      "fields": [
+        "September 11 Email: Body",
+        "September 11 Email: Date",
+        "September 11 Email: To",
+        "September 11 Email: From",
+        "September 11 Email: CC",
+        "September 11 Email: Subject"
+      ],
+      "type": "September 11 Email"
+    },
+    {
+      "fields": [
+        "LC Story: Story",
+        "LC Story: Memory",
+        "LC Story: Affects"
+      ],
+      "type": "LC Story"
+    },
+    {
+      "fields": [
+        "RC Story: Story",
+        "RC Story: Response",
+        "RC Story: RC Volunteer",
+        "RC Story: RC Employee"
+      ],
+      "type": "RC Story"
+    },
+    {
+      "fields": [
+        "CAIR Story: Story"
+      ],
+      "type": "CAIR Story"
+    },
+    {
+      "fields": [
+        "SEIU Story: Story",
+        "SEIU Story: Local Union"
+      ],
+      "type": "SEIU Story"
+    },
+    {
+      "fields": [
+        "TomPaine Story: Story"
+      ],
+      "type": "TomPaine Story"
+    },
+    {
+      "fields": [
+        "VTMBH Article: Edition",
+        "VTMBH Article: Article Order",
+        "VTMBH Article: Title",
+        "VTMBH Article: Author",
+        "VTMBH Article: Publication",
+        "VTMBH Article: Original Language",
+        "VTMBH Article: Translator",
+        "VTMBH Article: Section",
+        "VTMBH Article: Blurb",
+        "VTMBH Article: Keywords",
+        "VTMBH Article: Body",
+        "VTMBH Article: Line Breaks",
+        "VTMBH Article: Date",
+        "VTMBH Article: Thumb",
+        "VTMBH Article: Article File",
+        "VTMBH Article: Hit Count"
+      ],
+      "type": "VTMBH Article"
+    },
+    {
+      "fields": [
+        "911DA Story: Story",
+        "911DA Story: Location on 9-11",
+        "911DA Story: Contributor",
+        "911DA Story: Date"
+      ],
+      "type": "911DA Story"
+    },
+    {
+      "fields": [
+        "NMAH Story: Story",
+        "NMAH Story: Life Changed",
+        "NMAH Story: Remembered",
+        "NMAH Story: Flag"
+      ],
+      "type": "NMAH Story"
+    },
+    {
+      "fields": [
+        "NMAH Card: Card Version",
+        "NMAH Card: Image Available"
+      ],
+      "type": "NMAH Card"
+    },
+    {
+      "fields": [
+        "Chinatown Interview: Interviewee",
+        "Chinatown Interview: Interviewer",
+        "Chinatown Interview: Date",
+        "Chinatown Interview: Language",
+        "Chinatown Interview: Occupation",
+        "Chinatown Interview: Interview (en)",
+        "Chinatown Interview: Interview (zh)"
+      ],
+      "type": "Chinatown Interview"
+    },
+    {
+      "fields": [
+        "HINY Photo: Description",
+        "HINY Photo: Notes",
+        "HINY Photo: Caption",
+        "HINY Photo: Submitted On",
+        "HINY Photo: Category",
+        "HINY Photo: Comment"
+      ],
+      "type": "HINY Photo"
+    },
+    {
+      "fields": [
+        "Sonic Memorial: Name",
+        "Sonic Memorial: Source Ref Name",
+        "Sonic Memorial: Comments",
+        "Sonic Memorial: Source Type",
+        "Sonic Memorial: Duration",
+        "Sonic Memorial: Permission",
+        "Sonic Memorial: Creation Date",
+        "Sonic Memorial: Contact",
+        "Sonic Memorial: Status",
+        "Sonic Memorial: Is Browsable",
+        "Sonic Memorial: Keyword"
+      ],
+      "type": "Sonic Memorial"
+    },
+    {
+      "fields": [
+        "Text",
+        "Original Format",
+        "Referred to by",
+        "How has your life changed because of what happened on September 11, 2001?",
+        "How should the U.S. remember the events of September 11?",
+        "How will you remember the 10th anniversary of the September 11 attacks?"
+      ],
+      "type": "Document"
+    }
+  ]
+}

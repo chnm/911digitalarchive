@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1>Map</h1>
+<p>{{ .Params.items }} geotagged items.</p>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<style>#map { height: 600px; }</style>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+fetch('{{ "index.geo.json" | relURL }}').then(r => r.json()).then(points => {
+  const map = L.map('map').setView([0, 0], 2);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+  }).addTo(map);
+  const group = L.featureGroup();
+  for (const p of points) {
+    const m = L.marker([p.lat, p.lng]).bindPopup(
+      `<a href="${p.url}">${p.title}</a>`
+    );
+    group.addLayer(m);
+  }
+  group.addTo(map);
+  if (points.length) map.fitBounds(group.getBounds().pad(0.1));
+});
+</script>
+{{ end }}

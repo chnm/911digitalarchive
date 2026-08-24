@@ -1,0 +1,7 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} &middot; {{ site.Title }}{{ end }}</title>
+{{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+{{ with resources.Get "css/site.css" }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
+{{- /* Advertise the one retained machine-readable format (Dublin Core RDF/XML). */ -}}
+{{ range .OutputFormats }}{{ if eq .Name "dcmesxml" }}<link rel="alternate" type="application/rdf+xml" href="{{ .RelPermalink }}" title="Dublin Core (DCMES XML)">{{ end }}{{ end }}

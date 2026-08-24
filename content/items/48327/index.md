@@ -1,0 +1,96 @@
+---
+collections:
+  - '31'
+date: '2014-01-09 20:32:05'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 2003042300000162.xml
+featured: false
+files:
+  - fullsize: /files/fullsize/7d9e39b29c4c714c648a41e6d32b85e2.jpg
+    id: 5726
+    mime: image/tiff
+    original_filename: 2003042300000162_1.tif
+    thumb: /files/thumbnails/7d9e39b29c4c714c648a41e6d32b85e2.jpg
+    url: /files/original/7d9e39b29c4c714c648a41e6d32b85e2.tif
+  - fullsize: /files/fullsize/3df8c56e09bd65f789f2333ae9b0e729.jpg
+    id: 5727
+    mime: image/tiff
+    original_filename: 2003042300000162_2.tif
+    thumb: /files/thumbnails/3df8c56e09bd65f789f2333ae9b0e729.jpg
+    url: /files/original/3df8c56e09bd65f789f2333ae9b0e729.tif
+geo:
+id: 48327
+item_type: NMAH Card
+item_type_metadata:
+  'NMAH Card: Card Version':
+    - html: false
+      text: howlifechanged
+  'NMAH Card: Image Available':
+    - html: false
+      text: no
+lastmod: '2014-09-11 02:13:24'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: scanned image
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2004-04-22'
+  - field: Notes
+    set: 911DA Item
+    values:
+      - html: false
+        text: 'Comes from box: BOX14'
+related_items: []
+slug: '48327'
+sortdate: '9999-99-99'
+tags: []
+title: 2003042300000162.xml
+type: items
+---

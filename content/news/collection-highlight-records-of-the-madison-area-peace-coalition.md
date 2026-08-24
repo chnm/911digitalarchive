@@ -1,0 +1,14 @@
+---
+title: "Collection Highlight: Records of the Madison Area Peace Coalition"
+date: "2013-09-11T08:48:37+00:00"
+draft: false
+aliases: ["/news/2013/collection-highlight-records-of-the-madison-area-peace-coalition/"]
+author: "sbrennan"
+---
+{{< raw >}}
+<p><em>Guest post by Benjamin Schneider, Graduate Research Assistant, RRCHNM </em></p>
+<p>In the aftermath of the 9/11 attacks, there was tremendous uncertainty about how America would respond to what had happened. As discussion shifted to the likelihood, and then inevitability, of a military response, anti-war groups organized to try to stop it, including the <a href="/collections/show/9">Madison Area Peace Coalition</a>. <a href="/news/wp-content/uploads/2013/09/justicenotwar-e1378849357947.jpg"><img alt="justicenotwar" class="alignright size-medium wp-image-108" height="300" loading="lazy" sizes="(max-width: 231px) 100vw, 231px" src="/news/wp-content/uploads/2013/09/justicenotwar-e1378849357947-231x300.jpg" srcset="/news/wp-content/uploads/2013/09/justicenotwar-e1378849357947-231x300.jpg 231w, /news/wp-content/uploads/2013/09/justicenotwar-e1378849357947.jpg 330w" width="231"/></a>The bulk of this collection <a href="/items/show/1035">reveals the group’s advocacy work</a>, from organizing teach-ins, rallies, and collaborations <a href="/items/show/866">with other affiliated groups</a>. Other materials include opinion pieces and news articles as well as more general responses to the changing political situation.</p>
+<p>While the collection offers substantial material to any researcher interested in American attitudes towards war and use of force, it also offers a number of less orthodox avenues for inquiry. Those interested in <a href="/items/show/1197">historical memory and the legacy of the Vietnam War</a> will find lengthy discussions within MAPC of how opposition movements to US involvement in Vietnam shaped their efforts and understanding of the post-9/11 world. For those interested in politics, the collection offers good source material tracing MAPC’s affiliations and efforts to build coalitions and highlight the then growing though tentative connections between the <a href="/items/show/1218">anti-war left and the libertarian movement</a>.</p>
+<p>Discussion of race and religion in America also feature prominently throughout the collection, particularly as it pertains to Americans of Middle Eastern heritage and practicing Muslims. In the immediate aftermath of the attacks, the members of MAPC were deeply concerned that these communities would be targeted, and actively <a href="/items/show/1219">sought to organize for their defense.</a></p>
+<p>The MAPC collection is one of many we will highlight that will give researchers a more nuanced look at the responses to the September 11 attacks.</p>
+{{< /raw >}}

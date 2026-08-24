@@ -1,0 +1,25 @@
+{
+  "contract": {
+    "_comment": "HTML class/DOM contract Omeka Classic theme CSS targets. Emit these from the Hugo layouts so the vendored stylesheet binds. Confirm per site with the theme-verify harness; themes may customize item_show.",
+    "item_browse": "div.item.hentry > div.item-meta",
+    "item_show": {
+      "element": "div.element",
+      "element_set": "div.element-set",
+      "element_text": "div.element-text",
+      "element_title": "h3",
+      "metadata_block": "div#metadata",
+      "root": "div#content",
+      "title": "h1"
+    },
+    "navigation": "ul.navigation > li.nav-<slug> > a",
+    "page": {
+      "content": "div#content",
+      "footer": "div#footer",
+      "header": "div#header",
+      "wrap": "div#wrap"
+    }
+  },
+  "notes": {},
+  "theme": "nineeleven-omeka",
+  "verified_against_dom": false
+}

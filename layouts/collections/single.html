@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="collection">
+  <h1>{{ .Title }}</h1>
+  {{ partial "original-source.html" . }}
+  <div class="page-body">{{ .Content }}</div>
+
+  {{ $term := index site.Taxonomies.collections .Params.slug }}
+  {{ with $term }}
+    <h2>Items in this collection ({{ len .Pages }})</h2>
+    <ul class="item-list">
+      {{ range .Pages.ByTitle }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p class="item-list-empty">No items in this collection.</p>
+  {{ end }}
+</article>
+{{ end }}

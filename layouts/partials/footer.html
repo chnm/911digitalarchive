@@ -1,0 +1,9 @@
+<footer id="site-footer" class="site-footer">
+  {{- /* Consistent Help (WCAG 2.2 SC 3.2.6): a help affordance in the same
+         place on every page. Prefer an FAQ/help page, fall back to About. */ -}}
+  <nav class="footer-help" aria-label="Help">
+    {{ with site.GetPage "/faqs" }}<a href="{{ .RelPermalink }}">Help &amp; FAQs</a>
+    {{ else }}{{ with site.GetPage "/about" }}<a href="{{ .RelPermalink }}">About this archive</a>{{ end }}{{ end }}
+  </nav>
+  <p class="footer-meta">{{ site.Title }}</p>
+</footer>

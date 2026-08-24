@@ -1,0 +1,10 @@
+.git
+_reference
+public
+public-deploy
+resources
+node_modules
+.hugo_build.lock
+# Converter provenance artifacts (manifest, theme kit, redirects.txt) — kept in
+# git but not needed in the image. redirects.caddy lives at the repo root.
+omeka2hugo

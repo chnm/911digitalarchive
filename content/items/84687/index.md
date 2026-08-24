@@ -1,0 +1,74 @@
+---
+collections:
+  - '190'
+date: '2014-01-14 14:41:32'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 3small.jpg
+featured: false
+files:
+  - fullsize: /files/fullsize/fce35fb63ebe4a2bd73acb31efcb7ffe.jpg
+    id: 69558
+    mime: image/jpeg
+    original_filename: 3small.jpg
+    thumb: /files/thumbnails/fce35fb63ebe4a2bd73acb31efcb7ffe.jpg
+    url: /files/original/fce35fb63ebe4a2bd73acb31efcb7ffe.jpg
+geo:
+id: 84687
+item_type:
+item_type_metadata: {}
+lastmod: '2014-09-11 02:39:17'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: unknown
+related_items: []
+slug: '84687'
+sortdate: '9999-99-99'
+tags: []
+title: 3small.jpg
+type: items
+---

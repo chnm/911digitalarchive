@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="news-post">
+  <h1>{{ .Title }}</h1>
+  <p class="entry-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ with .Params.author }}<span class="byline">by {{ . }}</span>{{ end }}
+  </p>
+  <div class="news-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "**"
+    paths:
+      - '**'
+      - "!.github/**"
+
+jobs:
+  hugo-build-release-deploy:
+    secrets: inherit
+    uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
+    with:
+      hugo-context-root: "."
+      hugo-devl-url: "https://911.dev.chnm.gmu.edu"
+
+      release-tag-name-type: "iso"
+      website-devl-fqdn: "911.dev.chnm.gmu.edu"

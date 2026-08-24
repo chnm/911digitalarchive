@@ -1,0 +1,19 @@
+{{- /* DCMES-XML: DCMI "Expressing Dublin Core in RDF/XML"; parity with Omeka
+       Classic's ?output=dcmes-xml. Only the 15 Dublin Core elements are
+       emitted, one <dc:element> per value, in canonical element order. HTML-
+       typed values are flattened to text; html/template auto-escapes XML. */ -}}
+{{- $order := slice "Title" "Creator" "Subject" "Description" "Publisher" "Contributor" "Date" "Type" "Format" "Identifier" "Source" "Language" "Relation" "Coverage" "Rights" -}}
+{{- $dc := .Params.dublin_core -}}
+{{- $about := printf "%s/items/show/%v" (site.Params.origin | strings.TrimSuffix "/") .Params.id -}}
+{{ `<?xml version="1.0" encoding="UTF-8"?>` | safeHTML }}
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="{{ $about }}">
+{{- range $field := $order }}
+{{- with index $dc $field }}
+{{- range . }}
+    <dc:{{ lower $field }}>{{ if .html }}{{ .text | plainify | chomp }}{{ else }}{{ .text | chomp }}{{ end }}</dc:{{ lower $field }}>
+{{- end }}
+{{- end }}
+{{- end }}
+  </rdf:Description>
+</rdf:RDF>

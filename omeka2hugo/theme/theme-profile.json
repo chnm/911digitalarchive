@@ -1,0 +1,18 @@
+{
+  "chrome_options": {
+    "author": "",
+    "copyright": "Copyright © 2002–2021, Roy Rosenzweig Center for History and New Media and American Social History Project/Center for Media and Learning",
+    "description": "",
+    "public_theme": "nineeleven-omeka",
+    "show_empty_elements": "0",
+    "site_title": "September 11 Digital Archive",
+    "use_square_thumbnail": "1"
+  },
+  "description": "",
+  "site_title": "September 11 Digital Archive",
+  "theme": "nineeleven-omeka",
+  "theme_options": {
+    "display_footer_copyright": "1",
+    "logo": "7c6f790d5b9534b2f7bfc9cb93ac4ad4.png"
+  }
+}

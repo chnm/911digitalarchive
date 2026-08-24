@@ -1,0 +1,96 @@
+---
+collections:
+  - '31'
+date: '2014-01-10 17:28:16'
+draft: false
+dublin_core:
+  Title:
+    - html: false
+      text: 200211030019.xml
+featured: false
+files:
+  - fullsize: /files/fullsize/08f83b51c29aa8275bace7d02fcbbb5b.jpg
+    id: 53223
+    mime: image/tiff
+    original_filename: 200211030019_1.tif
+    thumb: /files/thumbnails/08f83b51c29aa8275bace7d02fcbbb5b.jpg
+    url: /files/original/08f83b51c29aa8275bace7d02fcbbb5b.tif
+  - fullsize: /files/fullsize/34ca87914c4cdaa90551100d00427408.jpg
+    id: 53224
+    mime: image/tiff
+    original_filename: 200211030019_2.tif
+    thumb: /files/thumbnails/34ca87914c4cdaa90551100d00427408.jpg
+    url: /files/original/34ca87914c4cdaa90551100d00427408.tif
+geo:
+id: 71980
+item_type: NMAH Card
+item_type_metadata:
+  'NMAH Card: Card Version':
+    - html: false
+      text: howlifechanged
+  'NMAH Card: Image Available':
+    - html: false
+      text: no
+lastmod: '2014-09-11 02:30:11'
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Status
+    set: 911DA Item
+    values:
+      - html: false
+        text: approved
+  - field: Consent
+    set: 911DA Item
+    values:
+      - html: false
+        text: full
+  - field: Posting
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Copyright
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Source
+    set: 911DA Item
+    values:
+      - html: false
+        text: scanned image
+  - field: Media Type
+    set: 911DA Item
+    values:
+      - html: false
+        text: story
+  - field: Created by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: yes
+  - field: Described by Author
+    set: 911DA Item
+    values:
+      - html: false
+        text: no
+  - field: Date Entered
+    set: 911DA Item
+    values:
+      - html: false
+        text: '2003-07-14'
+  - field: Notes
+    set: 911DA Item
+    values:
+      - html: false
+        text: 'Comes from box: box1'
+related_items: []
+slug: '71980'
+sortdate: '9999-99-99'
+tags: []
+title: 200211030019.xml
+type: items
+---

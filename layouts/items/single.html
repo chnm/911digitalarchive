@@ -1,0 +1,86 @@
+{{ define "main" }}
+{{- /* data-pagefind-* marks the searchable region for the (deferred) static
+       search build; harmless data attributes until a Pagefind index exists. */ -}}
+<article class="item" data-pagefind-body data-pagefind-filter="type:{{ .Params.item_type }}">
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  {{ partial "original-source.html" . }}
+
+  {{ with .Params.files }}
+    <div class="item-files">
+      {{ range . }}
+        <div class="item-file">
+          {{ if and .mime (hasPrefix .mime "image/") }}
+            {{- /* Accessible name: DC Title (the item title) is a better alt
+                   than a hashed filename; fall back to the filename. */ -}}
+            <a href="{{ .url }}"><img src="{{ or .fullsize .url }}" alt="{{ $.Title | default .original_filename }}"></a>
+          {{ else }}
+            <a href="{{ .url }}">{{ or .original_filename .url }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <div class="item-body">
+    {{ .Content }}
+  </div>
+
+  <h2 data-pagefind-ignore>Metadata</h2>
+  <dl class="item-metadata">
+    {{ range $field, $vals := .Params.dublin_core }}
+      <dt>{{ $field }}</dt>
+      <dd>
+        {{ range $vals }}
+          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
+        {{ end }}
+      </dd>
+    {{ end }}
+    {{ range $field, $vals := .Params.item_type_metadata }}
+      <dt>{{ $field }}</dt>
+      <dd>
+        {{ range $vals }}
+          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
+        {{ end }}
+      </dd>
+    {{ end }}
+  </dl>
+
+  {{ with .Params.plugin_metadata }}
+    <h3>Additional metadata</h3>
+    <dl class="item-plugin-metadata">
+      {{ range . }}
+        <dt>{{ .set }}: {{ .field }}</dt>
+        <dd>
+          {{ range .values }}
+            {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
+          {{ end }}
+        </dd>
+      {{ end }}
+    </dl>
+  {{ end }}
+
+  {{ with .Params.geo }}
+    <h2>Location</h2>
+    <dl class="item-geo">
+      {{ with .address }}<dt>Address</dt><dd>{{ . }}</dd>{{ end }}
+      <dt>Coordinates</dt><dd>{{ .lat }}, {{ .lng }}</dd>
+    </dl>
+  {{ end }}
+
+  {{ with .Params.collections }}
+    <p>
+      <strong>Collection:</strong>
+      {{ range . }}
+        <a href="{{ (printf "collections/%s/" .) | relURL }}">{{ . }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+
+  {{ with .Params.tags }}
+    <p>
+      <strong>Tags:</strong>
+      {{ range . }}<a href="{{ (printf "tags/%s/" (. | urlize)) | relURL }}">{{ . }}</a> {{ end }}
+    </p>
+  {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to main content</a>
+  {{ partial "header.html" . }}
+  <main id="content" class="container" tabindex="-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ partial "matomo.html" . }}
+</body>
+</html>

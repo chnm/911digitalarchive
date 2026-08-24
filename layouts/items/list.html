@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ $count := len .Pages }}
+<p class="terms-summary">{{ $count }} item{{ if ne $count 1 }}s{{ end }}</p>
+<ul class="page-list">
+  {{ range .Paginator.Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ end }}

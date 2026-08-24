@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="exhibit summary">
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Content }}<div class="exhibit-description">{{ . }}</div>{{ end }}
+
+  {{ with .Pages.ByWeight }}
+    <nav class="exhibit-page-nav" aria-label="Exhibit pages">
+      <ul class="exhibit-pages" id="exhibit-pages">
+        {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  {{ end }}
+
+  {{ with .Params.credits }}
+    <div class="exhibit-credits">{{ . | safeHTML }}</div>
+  {{ end }}
+</article>
+{{ end }}

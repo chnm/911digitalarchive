@@ -1,0 +1,8 @@
+{
+  "name": "911digitalarchive",
+  "private": true,
+  "description": "Static Hugo build of the September 11 Digital Archive (migrated from Omeka).",
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}
