@@ -12,7 +12,12 @@ FROM stagex/pallet-nodejs AS build-stage
 # Copy the actual file so /usr/local/bin/hugo is an executable, not a dir.
 COPY --from=stagex/user-hugo-extended /usr/bin/hugo/hugo_exended /usr/local/bin/hugo
 
-ARG hugobuildargs=--environment production
+# Hugo build flags come from CI, not from here. The reusable workflow
+# (chnm/.github hugo--build-release-deploy.yml) sets hugobuildargs per branch
+# via --build-arg — prod gets `--environment production --minify --baseURL <prod-url>`,
+# devl gets the development/draft flags. No default, so CI stays the single source
+# of truth (a baked-in default would silently mask a missing build-arg).
+ARG hugobuildargs
 ENV HUGO_BUILD_ARGS=$hugobuildargs
 
 WORKDIR /app
