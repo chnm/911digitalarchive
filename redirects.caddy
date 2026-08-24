@@ -18,11 +18,9 @@ map {path} {redirect_target} {
   ~^/items/show/([0-9]+)(?:\.html)?/?$  /items/${1}/
   ~^/collections/show/([0-9]+)(?:\.html)?/?$  /collections/${1}/
   /collections  /collections/
-  /collections/  /collections/
   /collections/browse  /collections/
   /collections/browse/  /collections/
   /items  /items/
-  /items/  /items/
   /items/browse  /items/
   /items/browse/  /items/
 }
