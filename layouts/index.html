@@ -22,13 +22,14 @@
   </ul>
   <button class="home-carousel-nav home-carousel-next" type="button" aria-label="Scroll right">&rsaquo;</button>
 </div>
+<p class="home-carousel-dots" aria-hidden="true"></p>
 {{ end }}
 
 {{ .Content }}
 
 {{- /* Featured collections (up to 3), emitting the theme's .collection.record
        contract so #home .collection styles them. Thumbnail = first item image. */ -}}
-{{ $fcols := first 3 (where (where site.Pages "Type" "collections") "Params.featured" true) }}
+{{ $fcols := first 3 (shuffle (where (where site.Pages "Type" "collections") "Params.featured" true)) }}
 {{ with $fcols }}
 <h2>Featured Collections</h2>
 {{ range . }}
@@ -58,10 +59,26 @@
   var c = document.querySelector('.home-carousel');
   if(!c) return;
   var track = c.querySelector('.home-carousel-track');
-  var step = function(){ return Math.max(track.clientWidth * 0.8, 160); };
+  var dots = c.parentNode.querySelector('.home-carousel-dots');
   var prev = c.querySelector('.home-carousel-prev'), next = c.querySelector('.home-carousel-next');
-  prev.addEventListener('click', function(){ track.scrollBy({left: -step(), behavior: 'smooth'}); });
-  next.addEventListener('click', function(){ track.scrollBy({left: step(), behavior: 'smooth'}); });
+  function page(){ return track.clientWidth ? Math.round(track.scrollLeft / track.clientWidth) : 0; }
+  function pages(){ return track.clientWidth ? Math.max(1, Math.ceil(track.scrollWidth / track.clientWidth)) : 1; }
+  function buildDots(){
+    if(!dots) return;
+    var n = pages(); dots.innerHTML = '';
+    for(var i=0;i<n;i++){
+      var b = document.createElement('button');
+      b.type='button'; b.setAttribute('aria-label','Slide '+(i+1)); b.dataset.p=i;
+      if(i===page()) b.className='active';
+      dots.appendChild(b);
+    }
+  }
+  function sync(){ if(!dots) return; var p=page(); [].forEach.call(dots.children,function(d,i){ d.className = i===p?'active':''; }); }
+  prev.addEventListener('click', function(){ track.scrollBy({left: -track.clientWidth, behavior:'smooth'}); });
+  next.addEventListener('click', function(){ track.scrollBy({left: track.clientWidth, behavior:'smooth'}); });
+  if(dots) dots.addEventListener('click', function(e){ var p=e.target && e.target.dataset ? e.target.dataset.p : null; if(p!==null && p!==undefined) track.scrollTo({left: p*track.clientWidth, behavior:'smooth'}); });
+  track.addEventListener('scroll', sync, {passive:true});
+  buildDots(); window.addEventListener('resize', buildDots);
 })();
 </script>
 {{ end }}

@@ -80,9 +80,12 @@ main:focus { outline: none; }
 .home-carousel-track { list-style: none; display: flex; gap: 0.5em; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 0; margin: 0; flex: 1 1 auto; }
 .home-carousel-track li { flex: 0 0 auto; scroll-snap-align: start; margin: 0; }
 .home-carousel-track a { display: block; }
-.home-carousel-track img { display: block; width: 150px; height: 150px; object-fit: cover; }
+.home-carousel-track img { display: block; width: 185px; height: 185px; object-fit: cover; }
 .home-carousel-nav { flex: 0 0 auto; background: #8e8264; color: #fff; border: 0; font-size: 1.5em; line-height: 1; padding: 0 0.45em; cursor: pointer; }
 .home-carousel-nav:hover { background: #6f6550; }
+.home-carousel-dots { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4em; margin: 0.6em 0 0; padding: 0; }
+.home-carousel-dots button { width: 10px; height: 10px; padding: 0; border-radius: 50%; border: 1px solid #8e8264; background: #fff; cursor: pointer; }
+.home-carousel-dots button.active { background: #8e8264; }
 
 /* Featured collections — the theme's #home .collection styles most of this;
    just size the thumbnail and description. */
@@ -97,7 +100,22 @@ main:focus { outline: none; }
 #collection-tree > ul { padding-left: 0; }
 #collection-tree li { margin: 0.25em 0; }
 
-.news-entry { border-bottom: 1px solid #cfcabc; padding-bottom: 1em; margin-bottom: 1.25em; }
+/* Collections browse cards (theme adds the .collections .collection divider). */
+.collections .collection { padding: 0.9em 0; }
+.collections .collection h2 { font-size: 1.1em; margin-bottom: 0.35em; }
+.collections .collection .image img { display: block; max-width: 150px; height: auto; margin: 0 0 0.4em; }
+.collections .collection .view-items-link { font-size: 0.9em; }
+
+/* News: two-column blog with an Archives sidebar. */
+.news-layout { display: flex; gap: 2em; align-items: flex-start; }
+.news-main { flex: 1 1 auto; min-width: 0; }
+.news-sidebar { flex: 0 0 180px; }
+.news-sidebar h2 { font-size: 1.15em; border-bottom: 1px solid #cfcabc; padding-bottom: 0.25em; }
+.news-sidebar ul { list-style: none; padding: 0; margin: 0; }
+.news-sidebar li { margin: 0.35em 0; }
+.news-entry { border-bottom: 1px solid #cfcabc; padding-bottom: 1.25em; margin-bottom: 1.5em; }
 .news-entry h2 { margin-bottom: 0.15em; }
-.news-entry .entry-meta { color: #666; font-size: 0.85em; margin: 0 0 0.5em; }
-.news-more { font-size: 0.9em; }
+.news-entry .entry-meta { color: #666; font-size: 0.85em; margin: 0 0 0.75em; }
+.news-body img { max-width: 100%; height: auto; }
+.news-body figure { margin: 0 0 1em; }
+@media (max-width: 640px) { .news-layout { flex-direction: column; } .news-sidebar { flex-basis: auto; } }

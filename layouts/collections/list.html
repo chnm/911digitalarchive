@@ -1,9 +1,21 @@
 {{ define "main" }}
-{{- /* Collections as the theme's hierarchical tree (#collection-tree), nested by
-       each collection's parent_id, matching the original Collections page. */ -}}
+{{- /* Collections as the theme's browse cards (body.collections styles .collection):
+       h2 title link + a representative thumbnail + a "View the items" link, matching
+       the original /collections/browse. Thumbnail = a collection item's image. */ -}}
 <h1>{{ .Title | default "Collections" }}</h1>
 {{ .Content }}
-<div id="collection-tree">
-  {{ partial "collection-tree.html" (dict "all" (where site.Pages "Type" "collections") "parent" nil) }}
-</div>
+{{ $paginator := .Paginate (.Sections.ByTitle) }}
+{{ range $paginator.Pages }}
+  {{ $col := . }}
+  {{ $thumb := "" }}
+  {{ with (index site.Taxonomies.collections $col.Params.slug) }}
+    {{ range first 6 .Pages }}{{ if eq $thumb "" }}{{ with .Params.files }}{{ with (index . 0).thumb }}{{ $thumb = . }}{{ end }}{{ end }}{{ end }}{{ end }}
+  {{ end }}
+  <div class="collection">
+    <h2><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h2>
+    {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
+    <a href="{{ $col.RelPermalink }}" class="view-items-link">View the items in {{ $col.Title }}</a>
+  </div>
+{{ end }}
+{{ template "_internal/pagination.html" . }}
 {{ end }}

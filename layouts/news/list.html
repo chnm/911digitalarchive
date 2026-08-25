@@ -1,19 +1,33 @@
 {{ define "main" }}
-{{- /* News: a blog-style list of posts with dates and excerpts. (The original
-       news lived on a separate WordPress site; this presents the migrated posts
-       within the archive's theme.) */ -}}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-{{ $posts := .Pages.ByDate.Reverse }}
-{{ range $posts }}
-  <article class="news-entry">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p class="entry-meta">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      {{ with .Params.author }}<span class="byline"> &middot; by {{ . }}</span>{{ end }}
-    </p>
-    <div class="news-summary">{{ .Summary | plainify | truncate 280 }}</div>
-    <p class="news-more"><a href="{{ .RelPermalink }}">Read more &rarr;</a></p>
-  </article>
-{{ end }}
+{{- /* News as a blog with full posts and an Archives sidebar (months + counts),
+       approximating the original WordPress news page within the theme. */ -}}
+<div class="news-layout">
+  <div class="news-main">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ $groups := .Pages.GroupByDate "2006-01" }}
+    {{ range $groups }}
+      <section id="archive-{{ .Key }}" class="news-month">
+        {{ range .Pages.ByDate.Reverse }}
+          <article class="news-entry">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="entry-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+              {{ with .Params.author }}<span class="byline"> &middot; by {{ . }}</span>{{ end }}
+            </p>
+            <div class="news-body">{{ .Content }}</div>
+          </article>
+        {{ end }}
+      </section>
+    {{ end }}
+  </div>
+  <aside class="news-sidebar" aria-label="Archives">
+    <h2>Archives</h2>
+    <ul>
+      {{ range $groups }}
+        <li><a href="#archive-{{ .Key }}">{{ (index .Pages 0).Date.Format "January 2006" }} ({{ len .Pages }})</a></li>
+      {{ end }}
+    </ul>
+  </aside>
+</div>
 {{ end }}
