@@ -4,7 +4,7 @@
        the original /collections/browse. Thumbnail = a collection item's image. */ -}}
 <h1>{{ .Title | default "Collections" }}</h1>
 {{ .Content }}
-{{ $paginator := .Paginate (.Sections.ByTitle) }}
+{{ $paginator := .Paginate (.Pages.ByTitle) }}
 {{ range $paginator.Pages }}
   {{ $col := . }}
   {{ $thumb := "" }}
