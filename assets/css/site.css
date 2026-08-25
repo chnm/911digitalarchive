@@ -50,3 +50,7 @@ main:focus { outline: none; }
 }
 .site-nav { display: flex; flex-wrap: wrap; gap: 0.25em 0.5em; }
 .site-nav a { margin-right: 0; }
+
+/* Pagefind search (only rendered on /search/). PagefindUI brings its own
+   styles; just give the widget breathing room within the content column. */
+#search { margin-top: 1em; }
