@@ -35,9 +35,9 @@
 {{ range . }}
   {{ $col := . }}
   {{ $thumb := "" }}
-  {{ with (index site.Taxonomies.collections $col.Params.slug) }}
+  {{ with $col.Params.slug }}{{ with (index site.Taxonomies.collections .) }}
     {{ range first 8 .Pages }}{{ if eq $thumb "" }}{{ with .Params.files }}{{ with (index . 0).thumb }}{{ $thumb = . }}{{ end }}{{ end }}{{ end }}{{ end }}
-  {{ end }}
+  {{ end }}{{ end }}
   <div class="collection record">
     <h3><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h3>
     {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}

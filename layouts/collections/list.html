@@ -8,9 +8,9 @@
 {{ range $paginator.Pages }}
   {{ $col := . }}
   {{ $thumb := "" }}
-  {{ with (index site.Taxonomies.collections $col.Params.slug) }}
+  {{ with $col.Params.slug }}{{ with (index site.Taxonomies.collections .) }}
     {{ range first 6 .Pages }}{{ if eq $thumb "" }}{{ with .Params.files }}{{ with (index . 0).thumb }}{{ $thumb = . }}{{ end }}{{ end }}{{ end }}{{ end }}
-  {{ end }}
+  {{ end }}{{ end }}
   <div class="collection">
     <h2><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h2>
     {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
