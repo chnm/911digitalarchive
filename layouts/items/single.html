@@ -32,23 +32,24 @@
 
   {{- /* Dublin Core: Title first, then the remaining fields (Hugo ranges the map
          A-Z, which matches the theme's canonical Dublin Core field order). */ -}}
+  {{- /* Hugo lowercases map keys, so match case-insensitively and humanize the
+         labels for display. Title first, then the remaining fields A-Z. */ -}}
   {{ with .Params.dublin_core }}
   <div class="element-set">
-    {{ with index . "Title" }}
-      <div class="element"><h3>Title</h3>{{ range . }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
-    {{ end }}
-    {{ range $field, $vals := . }}
-      {{ if ne $field "Title" }}
-      <div class="element"><h3>{{ $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
-      {{ end }}
-    {{ end }}
+    {{ $dc := . }}
+    {{ range $field, $vals := $dc }}{{ if eq (lower $field) "title" }}
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+    {{ end }}{{ end }}
+    {{ range $field, $vals := $dc }}{{ if ne (lower $field) "title" }}
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+    {{ end }}{{ end }}
   </div>
   {{ end }}
 
   {{ with .Params.item_type_metadata }}
   <div class="element-set">
     {{ range $field, $vals := . }}
-      <div class="element"><h3>{{ $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
     {{ end }}
   </div>
   {{ end }}
