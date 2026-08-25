@@ -102,8 +102,8 @@ main:focus { outline: none; }
 
 /* Collections browse cards (theme adds the .collections .collection divider). */
 .collections .collection { padding: 0.9em 0; }
-.collections .collection h2 { font-size: 1.1em; margin-bottom: 0.35em; }
-.collections .collection .image img { display: block; max-width: 150px; height: auto; margin: 0 0 0.4em; }
+.collections .collection h2 { margin-bottom: 0.35em; }
+.collections .collection .image img { display: block; max-width: 200px; height: auto; margin: 0.3em 0; }
 .collections .collection .view-items-link { font-size: 0.9em; }
 
 /* News: two-column blog with an Archives sidebar. */

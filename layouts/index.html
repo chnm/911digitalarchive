@@ -29,9 +29,12 @@
 
 {{- /* Featured collections (up to 3), emitting the theme's .collection.record
        contract so #home .collection styles them. Thumbnail = first item image. */ -}}
-{{ $fcols := first 3 (shuffle (where (where site.Pages "Type" "collections") "Params.featured" true)) }}
+{{- /* Render all featured collections; the homepage script shows 3 at random on
+       each load (the original picked them at random server-side). */ -}}
+{{ $fcols := where (where site.Pages "Type" "collections") "Params.featured" true }}
 {{ with $fcols }}
 <h2>Featured Collections</h2>
+<div class="featured-collections">
 {{ range . }}
   {{ $col := . }}
   {{ $thumb := "" }}
@@ -44,6 +47,7 @@
     <p class="collection-description">{{ $col.Content | plainify | truncate 160 }}</p>
   </div>
 {{ end }}
+</div>
 {{ end }}
 
 <nav class="home-browse" aria-label="Browse the archive">
@@ -56,9 +60,17 @@
 
 <script>
 (function(){
+  function shuffle(a){ for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+
+  // Featured collections: show 3 at random on each load (original picked at random).
+  var fc = Array.prototype.slice.call(document.querySelectorAll('.featured-collections .collection.record'));
+  if(fc.length > 3){ shuffle(fc); fc.forEach(function(el,i){ if(i>=3){ el.style.display='none'; el.setAttribute('aria-hidden','true'); } }); }
+
   var c = document.querySelector('.home-carousel');
   if(!c) return;
   var track = c.querySelector('.home-carousel-track');
+  // Shuffle carousel slides for per-load variety.
+  shuffle(Array.prototype.slice.call(track.children)).forEach(function(li){ track.appendChild(li); });
   var dots = c.parentNode.querySelector('.home-carousel-dots');
   var prev = c.querySelector('.home-carousel-prev'), next = c.querySelector('.home-carousel-next');
   function page(){ return track.clientWidth ? Math.round(track.scrollLeft / track.clientWidth) : 0; }

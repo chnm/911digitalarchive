@@ -2,9 +2,10 @@
 {{- /* Collections as the theme's browse cards (body.collections styles .collection):
        h2 title link + a representative thumbnail + a "View the items" link, matching
        the original /collections/browse. Thumbnail = a collection item's image. */ -}}
-<h1>{{ .Title | default "Collections" }}</h1>
+<h1>Browse Collections ({{ len .Pages }} total)</h1>
 {{ .Content }}
 {{ $paginator := .Paginate (.Pages.ByTitle) }}
+{{ template "_internal/pagination.html" . }}
 {{ range $paginator.Pages }}
   {{ $col := . }}
   {{ $thumb := "" }}
