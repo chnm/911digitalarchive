@@ -1,8 +1,8 @@
-{{- /* Pagefind search UI. The index is built by the Dockerfile (stage 7,
-       `pagefind --site public --glob "items/*/index.html"`) and shipped at
-       /pagefind/. Item pages carry the data-pagefind-* annotations, so this
-       page only needs to load the UI bundle and mount it. The whole feature is
-       client-side; without JS the <noscript> fallback points to browse. */ -}}
+{{- /* Pagefind search UI. The index is built by the Dockerfile (stage 7, the
+       pagefind run restricted to per-item pages) and shipped at /pagefind/.
+       Item pages carry the data-pagefind annotations, so this page only needs
+       to load the UI bundle and mount it. The whole feature is client-side;
+       without JS the noscript fallback points to browse. */ -}}
 {{ define "head" }}
   <link rel="stylesheet" href="{{ "pagefind/pagefind-ui.css" | relURL }}">
 {{ end }}
