@@ -1,7 +1,9 @@
 {{ define "main" }}
-{{- /* data-pagefind-* marks the searchable region for the (deferred) static
-       search build; harmless data attributes until a Pagefind index exists. */ -}}
-<article class="item" data-pagefind-body data-pagefind-filter="type:{{ .Params.item_type }}">
+{{- /* data-pagefind-* marks the searchable region and the type facet for the
+       Pagefind index (built in the Dockerfile; the search UI lives at /search/).
+       Only emit the type filter when item_type is set, else Pagefind shows an
+       empty-valued facet. Administrative metadata below is data-pagefind-ignored. */ -}}
+<article class="item" data-pagefind-body{{ with .Params.item_type }} data-pagefind-filter="type:{{ . }}"{{ end }}>
   <h1 data-pagefind-meta="title">{{ .Title }}</h1>
   {{ partial "original-source.html" . }}
 
@@ -46,8 +48,8 @@
   </dl>
 
   {{ with .Params.plugin_metadata }}
-    <h3>Additional metadata</h3>
-    <dl class="item-plugin-metadata">
+    <h3 data-pagefind-ignore>Additional metadata</h3>
+    <dl class="item-plugin-metadata" data-pagefind-ignore>
       {{ range . }}
         <dt>{{ .set }}: {{ .field }}</dt>
         <dd>
