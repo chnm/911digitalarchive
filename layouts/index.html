@@ -1,12 +1,14 @@
 {{ define "main" }}
-<h1>{{ site.Title }}</h1>
-{{ with site.Params.description }}<p class="site-description">{{ . }}</p>{{ end }}
+{{- /* The masthead logo carries the visible title; keep an h1 for document
+       structure but hide it. Intro copy comes from content/_index.md. */ -}}
+<h1 class="visually-hidden">{{ site.Title }}</h1>
+
 {{ .Content }}
+
 <nav class="home-browse" aria-label="Browse the archive">
   <ul>
     <li><a href="{{ "items/" | relURL }}">Browse items</a></li>
     <li><a href="{{ "collections/" | relURL }}">Browse collections</a></li>
-    {{ with site.Taxonomies.tags }}{{ if . }}<li><a href="{{ "tags/" | relURL }}">Browse tags</a></li>{{ end }}{{ end }}
     {{ with site.GetPage "/news" }}<li><a href="{{ .RelPermalink }}">News</a></li>{{ end }}
   </ul>
 </nav>

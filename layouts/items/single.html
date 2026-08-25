@@ -1,88 +1,95 @@
 {{ define "main" }}
-{{- /* data-pagefind-* marks the searchable region and the type facet for the
-       Pagefind index (built in the Dockerfile; the search UI lives at /search/).
-       Only emit the type filter when item_type is set, else Pagefind shows an
-       empty-valued facet. Administrative metadata below is data-pagefind-ignored. */ -}}
-<article class="item" data-pagefind-body{{ with .Params.item_type }} data-pagefind-filter="type:{{ . }}"{{ end }}>
+{{- /* Item show, matching the nineeleven-omeka DOM so the theme CSS binds:
+       h1, #itemfiles, then .element-set blocks of .element (h3 + .element-text),
+       a #collection element, and tags. data-pagefind-* mark the searchable
+       region and the type facet; the item_type filter is only emitted when set.
+       Administrative plugin fields (Status/Consent/...) are hidden like the
+       original and kept out of the search index. */ -}}
+<div class="item-show" data-pagefind-body{{ with .Params.item_type }} data-pagefind-filter="type:{{ . }}"{{ end }}>
+
   <h1 data-pagefind-meta="title">{{ .Title }}</h1>
   {{ partial "original-source.html" . }}
 
   {{ with .Params.files }}
-    <div class="item-files">
+  <div id="itemfiles" class="element">
+    <div class="element-text">
       {{ range . }}
-        <div class="item-file">
-          {{ if and .mime (hasPrefix .mime "image/") }}
-            {{- /* Accessible name: DC Title (the item title) is a better alt
-                   than a hashed filename; fall back to the filename. */ -}}
-            <a href="{{ .url }}"><img src="{{ or .fullsize .url }}" alt="{{ $.Title | default .original_filename }}"></a>
-          {{ else }}
-            <a href="{{ .url }}">{{ or .original_filename .url }}</a>
-          {{ end }}
-        </div>
+        {{ if and .mime (hasPrefix .mime "image/") }}
+          <div class="item-file"><a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ or .thumb .fullsize .url }}" alt="{{ $.Title | default .original_filename }}"></a></div>
+        {{ else if and .mime (hasPrefix .mime "audio/") }}
+          <div class="item-file"><audio controls src="{{ .url }}"></audio> <a class="download-file" href="{{ .url }}">{{ or .original_filename "Download" }}</a></div>
+        {{ else if and .mime (hasPrefix .mime "video/") }}
+          <div class="item-file"><video controls src="{{ .url }}"></video></div>
+        {{ else }}
+          <div class="item-file"><a class="download-file" href="{{ .url }}">{{ or .original_filename "Download file" }}</a></div>
+        {{ end }}
       {{ end }}
     </div>
+  </div>
   {{ end }}
 
-  <div class="item-body">
-    {{ .Content }}
-  </div>
+  {{ with .Content }}<div class="element item-body"><div class="element-text">{{ . }}</div></div>{{ end }}
 
-  <h2 data-pagefind-ignore>Metadata</h2>
-  <dl class="item-metadata">
-    {{ range $field, $vals := .Params.dublin_core }}
-      <dt>{{ $field }}</dt>
-      <dd>
-        {{ range $vals }}
-          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
-        {{ end }}
-      </dd>
+  {{- /* Dublin Core: Title first, then the remaining fields (Hugo ranges the map
+         A-Z, which matches the theme's canonical Dublin Core field order). */ -}}
+  {{ with .Params.dublin_core }}
+  <div class="element-set">
+    {{ with index . "Title" }}
+      <div class="element"><h3>Title</h3>{{ range . }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
     {{ end }}
-    {{ range $field, $vals := .Params.item_type_metadata }}
-      <dt>{{ $field }}</dt>
-      <dd>
-        {{ range $vals }}
-          {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
-        {{ end }}
-      </dd>
+    {{ range $field, $vals := . }}
+      {{ if ne $field "Title" }}
+      <div class="element"><h3>{{ $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+      {{ end }}
     {{ end }}
-  </dl>
+  </div>
+  {{ end }}
+
+  {{ with .Params.item_type_metadata }}
+  <div class="element-set">
+    {{ range $field, $vals := . }}
+      <div class="element"><h3>{{ $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+    {{ end }}
+  </div>
+  {{ end }}
 
   {{ with .Params.plugin_metadata }}
-    <h3 data-pagefind-ignore>Additional metadata</h3>
-    <dl class="item-plugin-metadata" data-pagefind-ignore>
+    {{ $hide := slice "Status" "Consent" "Posting" "Copyright" "IP Address" "Annotation" "Notes" }}
+    {{ $visible := where . "field" "not in" $hide }}
+    {{ with $visible }}
+    <div class="element-set" data-pagefind-ignore>
       {{ range . }}
-        <dt>{{ .set }}: {{ .field }}</dt>
-        <dd>
-          {{ range .values }}
-            {{ if .html }}<div>{{ .text | safeHTML }}</div>{{ else }}<div>{{ .text }}</div>{{ end }}
-          {{ end }}
-        </dd>
+        <div class="element"><h3>{{ .field }}</h3>{{ range .values }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
       {{ end }}
-    </dl>
+    </div>
+    {{ end }}
   {{ end }}
 
   {{ with .Params.geo }}
-    <h2>Location</h2>
-    <dl class="item-geo">
-      {{ with .address }}<dt>Address</dt><dd>{{ . }}</dd>{{ end }}
-      <dt>Coordinates</dt><dd>{{ .lat }}, {{ .lng }}</dd>
-    </dl>
+  <div id="item-geo" class="element">
+    <h3>Location</h3>
+    <div class="element-text">{{ with .address }}{{ . }} {{ end }}{{ if .lat }}({{ .lat }}, {{ .lng }}){{ end }}</div>
+  </div>
   {{ end }}
 
   {{ with .Params.collections }}
-    <p>
-      <strong>Collection:</strong>
-      {{ range . }}
-        <a href="{{ (printf "collections/%s/" .) | relURL }}">{{ . }}</a>
+  <div id="collection" class="element">
+    <h3>Collection{{ if gt (len .) 1 }}s{{ end }}</h3>
+    <div class="element-text">
+      {{ range $cid := . }}
+        {{ $col := site.GetPage (printf "/collections/%s" $cid) }}
+        <p><a href="{{ (printf "collections/%s/" $cid) | relURL }}">{{ with $col }}{{ .Title }}{{ else }}{{ $cid }}{{ end }}</a></p>
       {{ end }}
-    </p>
+    </div>
+  </div>
   {{ end }}
 
   {{ with .Params.tags }}
-    <p>
-      <strong>Tags:</strong>
-      {{ range . }}<a href="{{ (printf "tags/%s/" (. | urlize)) | relURL }}">{{ . }}</a> {{ end }}
-    </p>
+  <div id="item-tags" class="element">
+    <h3>Tags</h3>
+    <div class="element-text item-tags">{{ range . }}<a href="{{ (printf "tags/%s/" (. | urlize)) | relURL }}">{{ . }}</a> {{ end }}</div>
+  </div>
   {{ end }}
-</article>
+
+</div>
 {{ end }}
