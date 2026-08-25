@@ -1,0 +1,18 @@
+{{- /* Recursive collection tree. Context: dict "all" (all collection pages)
+       "parent" (a parent_id, or nil for the roots). Renders a nested <ul> of the
+       collections whose parent_id matches, then recurses on each one's id.
+       Pages without an id (the auto-generated section root) are skipped. */ -}}
+{{ $all := .all }}
+{{ $children := where $all "Params.parent_id" .parent }}
+{{ with $children }}
+<ul>
+  {{ range .ByTitle }}
+    {{ if .Params.id }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ partial "collection-tree.html" (dict "all" $all "parent" .Params.id) }}
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}

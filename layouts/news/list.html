@@ -1,15 +1,19 @@
 {{ define "main" }}
+{{- /* News: a blog-style list of posts with dates and excerpts. (The original
+       news lived on a separate WordPress site; this presents the migrated posts
+       within the archive's theme.) */ -}}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 {{ $posts := .Pages.ByDate.Reverse }}
-{{ $count := len $posts }}
-<p class="terms-summary">{{ $count }} post{{ if ne $count 1 }}s{{ end }}</p>
-<ol class="news-list">
-  {{ range $posts }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ range $posts }}
+  <article class="news-entry">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p class="entry-meta">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    </li>
-  {{ end }}
-</ol>
+      {{ with .Params.author }}<span class="byline"> &middot; by {{ . }}</span>{{ end }}
+    </p>
+    <div class="news-summary">{{ .Summary | plainify | truncate 280 }}</div>
+    <p class="news-more"><a href="{{ .RelPermalink }}">Read more &rarr;</a></p>
+  </article>
+{{ end }}
 {{ end }}

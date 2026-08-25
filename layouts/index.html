@@ -1,9 +1,49 @@
 {{ define "main" }}
-{{- /* The masthead logo carries the visible title; keep an h1 for document
-       structure but hide it. Intro copy comes from content/_index.md. */ -}}
+{{- /* Homepage: a thumbnail carousel, the intro copy, and featured collections.
+       The masthead logo carries the visible title, so the h1 is hidden. The
+       body#home id lets the theme's #home rules style the .collection blocks. */ -}}
 <h1 class="visually-hidden">{{ site.Title }}</h1>
 
+{{- /* Carousel of archive images. The original's curated set lived in an Omeka
+       plugin that wasn't migrated, so draw photos from a featured photo
+       collection (Here Is New York Photos) — visually equivalent. */ -}}
+{{ $carItems := slice }}
+{{ with (index site.Taxonomies.collections "260") }}{{ $carItems = first 16 .Pages }}{{ end }}
+{{ with $carItems }}
+<div class="home-carousel" aria-label="Images from the archive">
+  <button class="home-carousel-nav home-carousel-prev" type="button" aria-label="Scroll left">&lsaquo;</button>
+  <ul class="home-carousel-track">
+    {{ range . }}
+      {{ $it := . }}
+      {{ with $it.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
+      <li><a href="{{ $it.RelPermalink }}"><img src="{{ . }}" alt="{{ $it.Title }}" loading="lazy"></a></li>
+      {{ end }}{{ end }}
+    {{ end }}
+  </ul>
+  <button class="home-carousel-nav home-carousel-next" type="button" aria-label="Scroll right">&rsaquo;</button>
+</div>
+{{ end }}
+
 {{ .Content }}
+
+{{- /* Featured collections (up to 3), emitting the theme's .collection.record
+       contract so #home .collection styles them. Thumbnail = first item image. */ -}}
+{{ $fcols := first 3 (where (where site.Pages "Type" "collections") "Params.featured" true) }}
+{{ with $fcols }}
+<h2>Featured Collections</h2>
+{{ range . }}
+  {{ $col := . }}
+  {{ $thumb := "" }}
+  {{ with (index site.Taxonomies.collections $col.Params.slug) }}
+    {{ range first 8 .Pages }}{{ if eq $thumb "" }}{{ with .Params.files }}{{ with (index . 0).thumb }}{{ $thumb = . }}{{ end }}{{ end }}{{ end }}{{ end }}
+  {{ end }}
+  <div class="collection record">
+    <h3><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h3>
+    {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
+    <p class="collection-description">{{ $col.Content | plainify | truncate 160 }}</p>
+  </div>
+{{ end }}
+{{ end }}
 
 <nav class="home-browse" aria-label="Browse the archive">
   <ul>
@@ -12,4 +52,16 @@
     {{ with site.GetPage "/news" }}<li><a href="{{ .RelPermalink }}">News</a></li>{{ end }}
   </ul>
 </nav>
+
+<script>
+(function(){
+  var c = document.querySelector('.home-carousel');
+  if(!c) return;
+  var track = c.querySelector('.home-carousel-track');
+  var step = function(){ return Math.max(track.clientWidth * 0.8, 160); };
+  var prev = c.querySelector('.home-carousel-prev'), next = c.querySelector('.home-carousel-next');
+  prev.addEventListener('click', function(){ track.scrollBy({left: -step(), behavior: 'smooth'}); });
+  next.addEventListener('click', function(){ track.scrollBy({left: step(), behavior: 'smooth'}); });
+})();
+</script>
 {{ end }}

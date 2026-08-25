@@ -70,3 +70,34 @@ main:focus { outline: none; }
 
 /* Pagefind search widget on /search/. */
 #search { margin-top: 1em; }
+
+/* ------------------------------------------------------------------ */
+/* Homepage: carousel + featured collections                          */
+/* ------------------------------------------------------------------ */
+
+/* Thumbnail carousel (the theme's jCarousel CSS isn't vendored). */
+.home-carousel { display: flex; align-items: stretch; gap: 0.3em; margin: 1em 0 1.5em; }
+.home-carousel-track { list-style: none; display: flex; gap: 0.5em; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 0; margin: 0; flex: 1 1 auto; }
+.home-carousel-track li { flex: 0 0 auto; scroll-snap-align: start; margin: 0; }
+.home-carousel-track a { display: block; }
+.home-carousel-track img { display: block; width: 150px; height: 150px; object-fit: cover; }
+.home-carousel-nav { flex: 0 0 auto; background: #8e8264; color: #fff; border: 0; font-size: 1.5em; line-height: 1; padding: 0 0.45em; cursor: pointer; }
+.home-carousel-nav:hover { background: #6f6550; }
+
+/* Featured collections — the theme's #home .collection styles most of this;
+   just size the thumbnail and description. */
+.collection.record .image img { display: block; max-width: 200px; height: auto; margin: 0.3em 0; }
+.collection.record .collection-description { font-size: 0.9em; }
+
+/* ------------------------------------------------------------------ */
+/* Collection tree (/collections/) and news list (/news/)             */
+/* ------------------------------------------------------------------ */
+
+#collection-tree ul { list-style: none; margin: 0.2em 0; padding-left: 1.3em; }
+#collection-tree > ul { padding-left: 0; }
+#collection-tree li { margin: 0.25em 0; }
+
+.news-entry { border-bottom: 1px solid #cfcabc; padding-bottom: 1em; margin-bottom: 1.25em; }
+.news-entry h2 { margin-bottom: 0.15em; }
+.news-entry .entry-meta { color: #666; font-size: 0.85em; margin: 0 0 0.5em; }
+.news-more { font-size: 0.9em; }

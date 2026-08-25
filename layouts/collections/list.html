@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{- /* Collections as the theme's hierarchical tree (#collection-tree), nested by
+       each collection's parent_id, matching the original Collections page. */ -}}
+<h1>{{ .Title | default "Collections" }}</h1>
+{{ .Content }}
+<div id="collection-tree">
+  {{ partial "collection-tree.html" (dict "all" (where site.Pages "Type" "collections") "parent" nil) }}
+</div>
+{{ end }}
