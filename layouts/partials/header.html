@@ -1,11 +1,24 @@
-<header class="site-header">
-  <a class="site-title" href="{{ "" | relURL }}">{{ site.Title }}</a>
-  <nav class="site-nav" aria-label="Main">
-    <a href="{{ "items/" | relURL }}">Items</a>
-    <a href="{{ "collections/" | relURL }}">Collections</a>
-    {{ with site.Taxonomies.tags }}{{ if . }}<a href="{{ "tags/" | relURL }}">Tags</a>{{ end }}{{ end }}
-    {{ with site.GetPage "/map" }}<a href="{{ "map/" | relURL }}">Map</a>{{ end }}
-    {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>
-    {{ end }}
+{{- /* Reproduces the original nineeleven-omeka banner so the vendored theme CSS
+       binds: #site-title logo, #search-container form, nav#top-nav > ul.navigation.
+       The search form GETs our Pagefind page (/search) with q=<term>; the search
+       template reads that param and runs the query. */ -}}
+<header role="banner">
+
+  <div id="site-title">
+    <a href="{{ "" | relURL }}">
+      <img src="{{ "theme/logo.png" | relURL }}" alt="{{ site.Title }}">
+    </a>
+  </div>
+
+  <div id="search-container">
+    <form id="search-form" role="search" action="{{ "search/" | relURL }}" method="get">
+      <input type="search" name="q" id="query" title="Search" aria-label="Search the archive" autocomplete="off">
+      <button name="submit_search" id="submit_search" type="submit">Search</button>
+    </form>
+  </div>
+
+  <nav id="top-nav" class="main-navigation" aria-label="Main">
+    {{ partial "nav-links.html" . }}
   </nav>
+
 </header>

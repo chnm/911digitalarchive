@@ -1,9 +1,14 @@
-<footer id="site-footer" class="site-footer">
-  {{- /* Consistent Help (WCAG 2.2 SC 3.2.6): a help affordance in the same
-         place on every page. Prefer an FAQ/help page, fall back to About. */ -}}
-  <nav class="footer-help" aria-label="Help">
-    {{ with site.GetPage "/faqs" }}<a href="{{ .RelPermalink }}">Help &amp; FAQs</a>
-    {{ else }}{{ with site.GetPage "/about" }}<a href="{{ .RelPermalink }}">About this archive</a>{{ end }}{{ end }}
+{{- /* Original theme footer: a repeat of ul.navigation plus #footer-text copyright.
+       The nav's FAQs link keeps a help affordance in a consistent place (SC 3.2.6).
+       Copyright text is the theme's; year is build-time (the original computed it in JS). */ -}}
+<footer>
+
+  <nav id="bottom-nav" aria-label="Footer">
+    {{ partial "nav-links.html" . }}
   </nav>
-  <p class="footer-meta">{{ site.Title }}</p>
+
+  <div id="footer-text">
+    <p>Copyright &copy; 2002&ndash;{{ now.Year }}, Roy Rosenzweig Center for History and New Media and American Social History Project/Center for Media and Learning</p>
+  </div>
+
 </footer>

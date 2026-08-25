@@ -1,0 +1,10 @@
+{{- /* ul.navigation is the theme's nav contract; the original repeats it in the
+       header and footer. Items/Collections are fixed; the rest come from the main
+       menu (About, FAQs, Partners, Staff, and our Search page). */ -}}
+<ul class="navigation">
+  <li><a href="{{ "items/" | relURL }}">Items</a></li>
+  <li><a href="{{ "collections/" | relURL }}">Collections</a></li>
+  {{ with site.Taxonomies.tags }}{{ if . }}<li><a href="{{ "tags/" | relURL }}">Tags</a></li>{{ end }}{{ end }}
+  {{ with site.GetPage "/map" }}<li><a href="{{ "map/" | relURL }}">Map</a></li>{{ end }}
+  {{ range site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}
+</ul>

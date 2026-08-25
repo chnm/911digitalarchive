@@ -6,11 +6,15 @@
 </head>
 <body>
   <a class="skip-link" href="#content">Skip to main content</a>
-  {{ partial "header.html" . }}
-  <main id="content" class="container" tabindex="-1">
-    {{ block "main" . }}{{ end }}
-  </main>
-  {{ partial "footer.html" . }}
+  {{- /* #wrap / #content bind the vendored theme's layout; <main> keeps the
+         content landmark and the skip-link target (theme uses id, not element). */ -}}
+  <div id="wrap">
+    {{ partial "header.html" . }}
+    <main id="content" tabindex="-1">
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+  </div>
   {{ partial "matomo.html" . }}
 </body>
 </html>
