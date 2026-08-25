@@ -4,7 +4,16 @@
   {{ partial "head.html" . }}
   {{ block "head" . }}{{ end }}
 </head>
-<body>
+{{- /* Body id/class per page type, matching Omeka so the theme's page-scoped
+       rules bind (.items .item, .collections #collection-items, #home, #about). */ -}}
+{{- $bid := "" -}}{{- $bclass := "" -}}
+{{- if .IsHome -}}{{- $bid = "home" -}}
+{{- else if eq .Section "items" -}}{{- if eq .Kind "page" -}}{{- $bclass = "items show" -}}{{- else -}}{{- $bclass = "items browse" -}}{{- end -}}
+{{- else if eq .Section "collections" -}}{{- if .Params.id -}}{{- $bclass = "collections show" -}}{{- else -}}{{- $bclass = "collections browse" -}}{{- end -}}
+{{- else if eq .Section "news" -}}{{- if eq .Kind "page" -}}{{- $bclass = "news show" -}}{{- else -}}{{- $bclass = "news browse" -}}{{- end -}}
+{{- else if and .File (eq .Kind "page") (ne .Layout "search") -}}{{- $bid = .File.ContentBaseName -}}
+{{- end -}}
+<body{{ with $bid }} id="{{ . }}"{{ end }}{{ with $bclass }} class="{{ . }}"{{ end }}>
   <a class="skip-link" href="#content">Skip to main content</a>
   {{- /* #wrap / #content bind the vendored theme's layout; <main> keeps the
          content landmark and the skip-link target (theme uses id, not element). */ -}}

@@ -28,12 +28,10 @@
   </div>
   {{ end }}
 
-  {{ with .Content }}<div class="element item-body"><div class="element-text">{{ . }}</div></div>{{ end }}
-
-  {{- /* Dublin Core: Title first, then the remaining fields (Hugo ranges the map
-         A-Z, which matches the theme's canonical Dublin Core field order). */ -}}
-  {{- /* Hugo lowercases map keys, so match case-insensitively and humanize the
-         labels for display. Title first, then the remaining fields A-Z. */ -}}
+  {{- /* No separate item body: the converted markdown body either duplicates a
+         metadata field or is empty, so all content comes from the element-sets
+         below (as on the original item pages). Hugo lowercases map keys, so
+         match case-insensitively and humanize labels; Title first, then A-Z. */ -}}
   {{ with .Params.dublin_core }}
   <div class="element-set">
     {{ $dc := . }}

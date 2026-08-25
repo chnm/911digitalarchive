@@ -1,19 +1,32 @@
 {{ define "main" }}
-<article class="collection">
-  <h1>{{ .Title }}</h1>
-  {{ partial "original-source.html" . }}
-  <div class="page-body">{{ .Content }}</div>
+{{- /* Collection show, matching the theme: a Dublin Core element-set (Title +
+       Description) then #collection-items, a list of .item.hentry (h3 permalink
+       + .item-img + .item-description). Items come from the collections
+       taxonomy keyed on this collection's slug. */ -}}
+<h1>{{ .Title }}</h1>
+{{ partial "original-source.html" . }}
 
-  {{ $term := index site.Taxonomies.collections .Params.slug }}
+<div class="element-set">
+  <div class="element"><h3>Title</h3><div class="element-text">{{ .Title }}</div></div>
+  {{ with .Content }}<div class="element"><h3>Description</h3><div class="element-text">{{ . }}</div></div>{{ end }}
+</div>
+
+{{ $term := index site.Taxonomies.collections .Params.slug }}
+<div id="collection-items">
+  <h2>Items in the {{ .Title }}</h2>
   {{ with $term }}
-    <h2>Items in this collection ({{ len .Pages }})</h2>
-    <ul class="item-list">
-      {{ range .Pages.ByTitle }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
+    {{ range .Pages.ByTitle }}
+      {{ $item := . }}
+      <div class="item hentry">
+        <h3><a href="{{ $item.RelPermalink }}" class="permalink">{{ $item.Title }}</a></h3>
+        {{ with $item.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
+        <div class="item-img"><a href="{{ $item.RelPermalink }}"><img src="{{ . }}" alt="{{ $item.Title }}"></a></div>
+        {{ end }}{{ end }}
+        {{ with $item.Params.dublin_core }}{{ with index . "description" }}<div class="item-description">{{ (index . 0).text }}</div>{{ end }}{{ end }}
+      </div>
+    {{ end }}
   {{ else }}
     <p class="item-list-empty">No items in this collection.</p>
   {{ end }}
-</article>
+</div>
 {{ end }}

@@ -1,12 +1,22 @@
 {{ define "main" }}
+{{- /* Item browse, matching the theme: .item.hentry > h2 permalink + .item-meta
+       > .item-img thumbnail. The body.items.browse class binds the theme's
+       per-item divider styling. */ -}}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
-{{ $count := len .Pages }}
-<p class="terms-summary">{{ $count }} item{{ if ne $count 1 }}s{{ end }}</p>
-<ul class="page-list">
-  {{ range .Paginator.Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>
+<p class="browse-count">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</p>
+
+{{ range .Paginator.Pages }}
+  {{ $item := . }}
+  <div class="item hentry">
+    <h2><a href="{{ $item.RelPermalink }}" class="permalink">{{ $item.Title }}</a></h2>
+    <div class="item-meta">
+      {{ with $item.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
+      <div class="item-img"><a href="{{ $item.RelPermalink }}"><img src="{{ . }}" alt="{{ $item.Title }}"></a></div>
+      {{ end }}{{ end }}
+    </div>
+  </div>
+{{ end }}
+
 {{ template "_internal/pagination.html" . }}
 {{ end }}
