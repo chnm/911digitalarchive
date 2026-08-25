@@ -46,8 +46,11 @@ main:focus { outline: none; }
 
 /* Item/browse link lists — the theme reset strips list styling, and these use
    our classes (not the theme's), so restore clean spacing. */
-.page-list, .home-browse ul { list-style: none; padding: 0; margin: 1em 0; }
-.page-list li, .home-browse ul li { margin: 0.35em 0; }
+.page-list { list-style: none; padding: 0; margin: 1em 0; }
+.page-list li { margin: 0.3em 0; }
+/* .home-browse is a <nav>, so the theme's `nav ul li { inline-block }` applies;
+   lay the links out as a spaced row instead of letting them run together. */
+.home-browse ul { list-style: none; padding: 0; margin: 1em 0; display: flex; flex-wrap: wrap; gap: 0.4em 1.5em; }
 
 /* Pagination (Hugo's internal template) — keep it horizontal after the reset. */
 .pagination { list-style: none; display: flex; flex-wrap: wrap; align-items: center; gap: 0.25em; padding: 0; margin: 1em 0; }

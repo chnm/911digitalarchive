@@ -9,6 +9,7 @@ lastmod: '2014-09-10 19:47:46'
 layout: simple
 menus:
   main:
+    name: FAQs about 9/11
     weight: 20
 parent_id: 0
 slug: faqs
