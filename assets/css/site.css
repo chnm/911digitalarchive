@@ -96,10 +96,6 @@ main:focus { outline: none; }
 /* Collection tree (/collections/) and news list (/news/)             */
 /* ------------------------------------------------------------------ */
 
-#collection-tree ul { list-style: none; margin: 0.2em 0; padding-left: 1.3em; }
-#collection-tree > ul { padding-left: 0; }
-#collection-tree li { margin: 0.25em 0; }
-
 /* Collections browse cards (theme adds the .collections .collection divider). */
 /* Item/collection browse thumbnails — 200x200 square-cropped like the original's
    square_thumbnails (our stored thumbs aren't square). */

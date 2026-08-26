@@ -1,24 +1,10 @@
 {{ define "main" }}
-{{- /* Collections as the theme's browse cards (body.collections styles .collection):
-       h2 title link + a representative thumbnail + a "View the items" link, matching
-       the original /collections/browse. Ordered newest-first (default .Pages order,
-       as the original does) so image-bearing collections lead. */ -}}
-<h1>Browse Collections ({{ len .Pages }} total)</h1>
+{{- /* Collections as the original's nested category tree (#collection-tree),
+       grouped by parent_id — the view the header "Collections" link points to.
+       body.collection-tree binds the theme's tree styling. */ -}}
+<h1 class="visually-hidden">Collections</h1>
 {{ .Content }}
-{{ partial "browse-pager.html" . }}
-{{ range .Paginator.Pages }}
-  {{ if .Params.id }}
-  {{ $col := . }}
-  {{ $thumb := "" }}
-  {{ with $col.Params.slug }}{{ with (index site.Taxonomies.collections .) }}
-    {{ range first 6 .Pages }}{{ if eq $thumb "" }}{{ with .Params.files }}{{ with (index . 0).thumb }}{{ $thumb = . }}{{ end }}{{ end }}{{ end }}{{ end }}
-  {{ end }}{{ end }}
-  <div class="collection">
-    <h2><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h2>
-    {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
-    <a href="{{ $col.RelPermalink }}" class="view-items-link">View the items in {{ $col.Title }}</a>
-  </div>
-  {{ end }}
-{{ end }}
-{{ partial "browse-pager.html" . }}
+<div id="collection-tree">
+  {{ partial "collection-tree.html" (dict "all" (where site.Pages "Type" "collections") "parent" nil) }}
+</div>
 {{ end }}

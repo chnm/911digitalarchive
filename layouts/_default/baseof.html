@@ -9,7 +9,7 @@
 {{- $bid := "" -}}{{- $bclass := "" -}}
 {{- if .IsHome -}}{{- $bid = "home" -}}
 {{- else if eq .Section "items" -}}{{- if eq .Kind "page" -}}{{- $bclass = "items show" -}}{{- else -}}{{- $bclass = "items browse" -}}{{- end -}}
-{{- else if eq .Section "collections" -}}{{- if .Params.id -}}{{- $bclass = "collections show" -}}{{- else -}}{{- $bclass = "collections browse" -}}{{- end -}}
+{{- else if eq .Section "collections" -}}{{- if .Params.id -}}{{- $bclass = "collections show" -}}{{- else -}}{{- $bclass = "collection-tree" -}}{{- end -}}
 {{- else if eq .Section "news" -}}{{- if eq .Kind "page" -}}{{- $bclass = "news show" -}}{{- else -}}{{- $bclass = "news browse" -}}{{- end -}}
 {{- else if and .File (eq .Kind "page") (ne .Layout "search") -}}{{- $bid = .File.ContentBaseName -}}
 {{- end -}}
