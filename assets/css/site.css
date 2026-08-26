@@ -35,6 +35,20 @@ main:focus { outline: none; }
   display: inline-block; min-height: 24px; min-width: 24px; padding: 4px 8px;
 }
 
+/* SC 1.4.3 Contrast — the theme puts white text on tan #8e8264 (only 3.8:1) for
+   buttons, the pager, and sort links; darken to #6f6550 (5.5:1 vs white). */
+button, input[type="button"], input[type="reset"], input[type="submit"],
+.pagination .pagination_next, .pagination .pagination_previous,
+#sort-links a { background-color: #6f6550; }
+
+/* SC 1.4.3 Contrast — the theme's link color, tan #8e8264, is only 3.8:1 on white
+   (and it sits over the translucent content background), so darken general links
+   to #5f5533 (~7:1). Heading links stay the theme blue (already high-contrast).
+   The white-on-tan pager/sort links keep their #fff (more specific) on the now
+   darker background above. */
+a { color: #5f5533; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #213881; }
+
 /* ------------------------------------------------------------------ */
 /* Content classes still emitted by our item/list templates          */
 /* (pending the item/list/collection DOM-contract port)              */

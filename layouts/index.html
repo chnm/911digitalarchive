@@ -20,7 +20,7 @@
   </ul>
   <button class="home-carousel-nav home-carousel-next" type="button" aria-label="Scroll right">&rsaquo;</button>
 </div>
-<p class="home-carousel-dots" aria-hidden="true"></p>
+<p class="home-carousel-dots"></p>
 
 {{ .Content }}
 
@@ -40,7 +40,7 @@
   {{ end }}{{ end }}
   <div class="collection record">
     <h3><a href="{{ $col.RelPermalink }}">{{ $col.Title }}</a></h3>
-    {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
+    {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="{{ $col.Title }}" loading="lazy"></a>{{ end }}
     <p class="collection-description">{{ $col.Content | plainify | truncate 160 }}</p>
   </div>
 {{ end }}
