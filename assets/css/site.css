@@ -101,9 +101,19 @@ main:focus { outline: none; }
 #collection-tree li { margin: 0.25em 0; }
 
 /* Collections browse cards (theme adds the .collections .collection divider). */
-/* Item/collection browse thumbnails — square-cropped like the original's
+/* Item/collection browse thumbnails — 200x200 square-cropped like the original's
    square_thumbnails (our stored thumbs aren't square). */
-.item-img img { width: 150px; height: 150px; object-fit: cover; }
+.item-img img,
+.collections .collection .image img { width: 200px; height: 200px; object-fit: cover; }
+
+/* Browse controls (items/collections): secondary nav + "Page X of Y" pager. */
+.items-nav.secondary-nav { margin: 0.25em 0 1em; }
+.items-nav.secondary-nav .navigation { list-style: none; display: flex; flex-wrap: wrap; gap: 1.25em; padding: 0; margin: 0; }
+.items-nav.secondary-nav .active a { font-weight: bold; }
+.pagination-nav { margin: 1em 0; }
+.pagination-nav .pagination { list-style: none; display: flex; flex-wrap: wrap; align-items: center; gap: 1.5em; padding: 0; margin: 0; }
+.pagination-nav .pagination li { margin: 0; }
+.pagination-nav .pagination_next { margin-left: auto; }
 
 /* Previous/next item navigation on item pages. */
 .item-pagination { list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 1em; padding-top: 1em; margin-top: 1.5em; border-top: 1px solid #cfcabc; }
@@ -113,7 +123,7 @@ main:focus { outline: none; }
 
 .collections .collection { padding: 0.9em 0; }
 .collections .collection h2 { margin-bottom: 0.35em; }
-.collections .collection .image img { display: block; max-width: 200px; height: auto; margin: 0.3em 0; }
+.collections .collection .image img { display: block; margin: 0.3em 0; }
 .collections .collection .view-items-link { font-size: 0.9em; }
 
 /* News: two-column blog with an Archives sidebar. */

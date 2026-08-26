@@ -1,0 +1,12 @@
+{{- /* Compact pager matching the original browse pages:
+       [Previous Page]  Page X of Y  [Next Page]. Call with the list page context. */ -}}
+{{ $p := .Paginator }}
+{{ if gt $p.TotalPages 1 }}
+<nav class="pagination-nav" aria-label="Pagination">
+  <ul class="pagination">
+    {{ if $p.HasPrev }}<li class="pagination_previous"><a rel="prev" href="{{ $p.Prev.URL }}">&larr; Previous Page</a></li>{{ end }}
+    <li class="page-input">Page {{ $p.PageNumber }} of {{ $p.TotalPages }}</li>
+    {{ if $p.HasNext }}<li class="pagination_next"><a rel="next" href="{{ $p.Next.URL }}">Next Page &rarr;</a></li>{{ end }}
+  </ul>
+</nav>
+{{ end }}

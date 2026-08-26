@@ -1,12 +1,13 @@
 {{ define "main" }}
 {{- /* Collections as the theme's browse cards (body.collections styles .collection):
        h2 title link + a representative thumbnail + a "View the items" link, matching
-       the original /collections/browse. Thumbnail = a collection item's image. */ -}}
+       the original /collections/browse. Ordered newest-first (default .Pages order,
+       as the original does) so image-bearing collections lead. */ -}}
 <h1>Browse Collections ({{ len .Pages }} total)</h1>
 {{ .Content }}
-{{ $paginator := .Paginate (.Pages.ByTitle) }}
-{{ template "_internal/pagination.html" . }}
-{{ range $paginator.Pages }}
+{{ partial "browse-pager.html" . }}
+{{ range .Paginator.Pages }}
+  {{ if .Params.id }}
   {{ $col := . }}
   {{ $thumb := "" }}
   {{ with $col.Params.slug }}{{ with (index site.Taxonomies.collections .) }}
@@ -17,6 +18,7 @@
     {{ with $thumb }}<a href="{{ $col.RelPermalink }}" class="image"><img src="{{ . }}" alt="" loading="lazy"></a>{{ end }}
     <a href="{{ $col.RelPermalink }}" class="view-items-link">View the items in {{ $col.Title }}</a>
   </div>
+  {{ end }}
 {{ end }}
-{{ template "_internal/pagination.html" . }}
+{{ partial "browse-pager.html" . }}
 {{ end }}
