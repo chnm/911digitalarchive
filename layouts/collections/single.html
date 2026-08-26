@@ -29,4 +29,15 @@
     <p class="item-list-empty">No items in this collection.</p>
   {{ end }}
 </div>
+
+{{- /* Child-collection sub-tree, as on the original category pages. */ -}}
+{{ $all := where site.Pages "Type" "collections" }}
+{{ $children := where $all "Params.parent_id" .Params.id }}
+{{ with $children }}
+<div id="collection-tree">
+  <ul>
+    <li>{{ $.Title }}{{ partial "collection-tree.html" (dict "all" $all "parent" $.Params.id) }}</li>
+  </ul>
+</div>
+{{ end }}
 {{ end }}

@@ -4,26 +4,23 @@
        body#home id lets the theme's #home rules style the .collection blocks. */ -}}
 <h1 class="visually-hidden">{{ site.Title }}</h1>
 
-{{- /* Carousel of archive images. The original's curated set lived in an Omeka
-       plugin that wasn't migrated, so draw photos from a featured photo
-       collection (Here Is New York Photos) — visually equivalent. */ -}}
-{{ $carItems := slice }}
-{{ with (index site.Taxonomies.collections "260") }}{{ $carItems = first 16 .Pages }}{{ end }}
-{{ with $carItems }}
+{{- /* Carousel: the original's exact curated item set (its ShortcodeCarousel
+       config wasn't migrated, so the ids are pinned here), rendered with our
+       thumbnails and permalinks. */ -}}
+{{ $carIds := slice "4" "6" "12" "23" "516" "517" "518" "519" "520" "521" }}
 <div class="home-carousel" aria-label="Images from the archive">
   <button class="home-carousel-nav home-carousel-prev" type="button" aria-label="Scroll left">&lsaquo;</button>
   <ul class="home-carousel-track">
-    {{ range . }}
-      {{ $it := . }}
-      {{ with $it.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
+    {{ range $carIds }}
+      {{ $it := site.GetPage (printf "/items/%s" .) }}
+      {{ with $it }}{{ with .Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
       <li><a href="{{ $it.RelPermalink }}"><img src="{{ . }}" alt="{{ $it.Title }}" loading="lazy"></a></li>
-      {{ end }}{{ end }}
+      {{ end }}{{ end }}{{ end }}
     {{ end }}
   </ul>
   <button class="home-carousel-nav home-carousel-next" type="button" aria-label="Scroll right">&rsaquo;</button>
 </div>
 <p class="home-carousel-dots" aria-hidden="true"></p>
-{{ end }}
 
 {{ .Content }}
 

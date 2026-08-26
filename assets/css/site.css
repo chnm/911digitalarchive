@@ -89,7 +89,7 @@ main:focus { outline: none; }
 
 /* Featured collections — the theme's #home .collection styles most of this;
    just size the thumbnail and description. */
-.collection.record .image img { display: block; max-width: 200px; height: auto; margin: 0.3em 0; }
+.collection.record .image img { display: block; width: 200px; height: 200px; object-fit: cover; margin: 0.3em 0; }
 .collection.record .collection-description { font-size: 0.9em; }
 
 /* ------------------------------------------------------------------ */
@@ -121,6 +121,12 @@ main:focus { outline: none; }
 .collections .collection h2 { margin-bottom: 0.35em; }
 .collections .collection .image img { display: block; margin: 0.3em 0; }
 .collections .collection .view-items-link { font-size: 0.9em; }
+
+/* Child-collection sub-tree on a collection page (plain nested list; the card
+   tree at /collections/ uses body.collection-tree, not .collections). */
+.collections #collection-tree > ul { list-style: none; padding-left: 0; margin: 0.5em 0; }
+.collections #collection-tree ul ul { list-style: disc; padding-left: 1.5em; margin: 0.3em 0; }
+.collections #collection-tree li { margin: 0.2em 0; }
 
 /* News: two-column blog with an Archives sidebar. */
 .news-layout { display: flex; gap: 2em; align-items: flex-start; }
