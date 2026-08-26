@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{- /* Shared item browse for the non-default sort orders. Front matter params:
+       sort_field (title|date), sort_dir (asc|desc). Items come from the /items/
+       section; this section just re-sorts and paginates them. */ -}}
+{{ $items := where site.RegularPages "Section" "items" }}
+{{ $field := .Params.sort_field }}{{ $dir := .Params.sort_dir }}
+{{ $sorted := cond (eq $field "title") $items.ByTitle $items.ByDate }}
+{{ if eq $dir "desc" }}{{ $sorted = $sorted.Reverse }}{{ end }}
+<h1>Browse Items ({{ len $items }} total)</h1>
+
+<nav class="items-nav navigation secondary-nav" aria-label="Item views">
+  <ul class="navigation">
+    <li class="active"><a href="{{ "items/" | relURL }}">Browse All</a></li>
+    <li><a href="{{ "search/" | relURL }}">Search Items</a></li>
+  </ul>
+</nav>
+
+{{ $paginator := .Paginate $sorted }}
+{{ partial "browse-pager.html" . }}
+{{ partial "sort-links.html" (dict "field" $field "dir" $dir) }}
+
+{{ range $paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
+
+{{ partial "browse-pager.html" . }}
+{{ end }}

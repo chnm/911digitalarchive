@@ -12,10 +12,7 @@
 </nav>
 
 {{ partial "browse-pager.html" . }}
-<div id="sort-links"><span class="sort-label">Sort by: </span><ul id="sort-links-list">
-  <li><a href="{{ "items-title/" | relURL }}">Title</a></li>
-  <li class="sorting desc"><a href="{{ "items/" | relURL }}">Date Added</a></li>
-</ul></div>
+{{ partial "sort-links.html" (dict "field" "date" "dir" "desc") }}
 
 {{ range .Paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
 

@@ -98,8 +98,10 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #213881; }
 .home-carousel-nav { flex: 0 0 auto; background: #8e8264; color: #fff; border: 0; font-size: 1.5em; line-height: 1; padding: 0 0.45em; cursor: pointer; }
 .home-carousel-nav:hover { background: #6f6550; }
 .home-carousel-dots { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4em; margin: 0.6em 0 0; padding: 0; }
-.home-carousel-dots button { width: 10px; height: 10px; padding: 0; border-radius: 50%; border: 1px solid #8e8264; background: #fff; cursor: pointer; }
-.home-carousel-dots button.active { background: #8e8264; }
+/* SC 2.5.8 Target Size — 24x24 hit area with a 10px visual dot centered inside. */
+.home-carousel-dots button { width: 24px; height: 24px; padding: 0; border: 0; background: transparent; cursor: pointer; position: relative; }
+.home-carousel-dots button::before { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 10px; height: 10px; border-radius: 50%; border: 1px solid #8e8264; background: #fff; }
+.home-carousel-dots button.active::before { background: #8e8264; }
 
 /* Featured collections — the theme's #home .collection styles most of this;
    just size the thumbnail and description. */

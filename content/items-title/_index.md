@@ -1,4 +1,6 @@
 ---
 title: "Browse Items by Title"
-type: items-title
+type: items-sort
+sort_field: title
+sort_dir: asc
 ---

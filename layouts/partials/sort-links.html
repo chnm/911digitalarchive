@@ -1,0 +1,16 @@
+{{- /* Item-browse sort links with an asc/desc toggle, like the original. Context:
+       dict "field" (title|date) "dir" (asc|desc) of the CURRENT view. Clicking the
+       active field flips its direction; clicking the other switches to it. */ -}}
+{{ $field := .field }}{{ $dir := .dir }}
+<div id="sort-links"><span class="sort-label">Sort by: </span><ul id="sort-links-list">
+  {{ if eq $field "title" }}
+    <li class="sorting {{ $dir }}"><a href="{{ (cond (eq $dir "asc") "items-title-desc/" "items-title/") | relURL }}" aria-label="Title, sorted {{ cond (eq $dir "asc") "ascending" "descending" }}; activate to reverse">Title <span aria-hidden="true">{{ cond (eq $dir "asc") "↑" "↓" }}</span></a></li>
+  {{ else }}
+    <li><a href="{{ "items-title/" | relURL }}">Title</a></li>
+  {{ end }}
+  {{ if eq $field "date" }}
+    <li class="sorting {{ $dir }}"><a href="{{ (cond (eq $dir "desc") "items-oldest/" "items/") | relURL }}" aria-label="Date Added, sorted {{ cond (eq $dir "asc") "ascending" "descending" }}; activate to reverse">Date Added <span aria-hidden="true">{{ cond (eq $dir "asc") "↑" "↓" }}</span></a></li>
+  {{ else }}
+    <li><a href="{{ "items/" | relURL }}">Date Added</a></li>
+  {{ end }}
+</ul></div>
