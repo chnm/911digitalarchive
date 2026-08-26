@@ -1,7 +1,7 @@
 {{ define "main" }}
-{{- /* Item browse, matching the original: heading with count, a Browse All /
-       Search Items secondary nav, the "Page X of Y" pager, then .item.hentry
-       cards (h2 permalink + .item-meta > .item-img square thumbnail). */ -}}
+{{- /* Item browse, default order (Date Added desc, like the original). Top
+       controls: heading with count, Browse All / Search Items nav, "Page X of Y"
+       pager, and Sort by: Title / Date Added. Cards via the item-card partial. */ -}}
 <h1>Browse Items ({{ len .Pages }} total)</h1>
 
 <nav class="items-nav navigation secondary-nav" aria-label="Item views">
@@ -12,18 +12,12 @@
 </nav>
 
 {{ partial "browse-pager.html" . }}
+<div id="sort-links"><span class="sort-label">Sort by: </span><ul id="sort-links-list">
+  <li><a href="{{ "items-title/" | relURL }}">Title</a></li>
+  <li class="sorting desc"><a href="{{ "items/" | relURL }}">Date Added</a></li>
+</ul></div>
 
-{{ range .Paginator.Pages }}
-  {{ $item := . }}
-  <div class="item hentry">
-    <h2><a href="{{ $item.RelPermalink }}" class="permalink">{{ $item.Title }}</a></h2>
-    <div class="item-meta">
-      {{ with $item.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
-      <div class="item-img"><a href="{{ $item.RelPermalink }}"><img src="{{ . }}" alt="{{ $item.Title }}" loading="lazy"></a></div>
-      {{ end }}{{ end }}
-    </div>
-  </div>
-{{ end }}
+{{ range .Paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
 
 {{ partial "browse-pager.html" . }}
 {{ end }}

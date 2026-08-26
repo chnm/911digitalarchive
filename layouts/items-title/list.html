@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{- /* Items sorted by Title — a second paginated browse view. The sort links
+       toggle between this and the default (Date Added) /items/. Items come from
+       the items section, not this one. */ -}}
+{{ $items := where site.RegularPages "Section" "items" }}
+<h1>Browse Items ({{ len $items }} total)</h1>
+
+<nav class="items-nav navigation secondary-nav" aria-label="Item views">
+  <ul class="navigation">
+    <li class="active"><a href="{{ "items/" | relURL }}">Browse All</a></li>
+    <li><a href="{{ "search/" | relURL }}">Search Items</a></li>
+  </ul>
+</nav>
+
+{{ $paginator := .Paginate ($items.ByTitle) }}
+{{ partial "browse-pager.html" . }}
+<div id="sort-links"><span class="sort-label">Sort by: </span><ul id="sort-links-list">
+  <li class="sorting"><a href="{{ "items-title/" | relURL }}">Title</a></li>
+  <li><a href="{{ "items/" | relURL }}">Date Added</a></li>
+</ul></div>
+
+{{ range $paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
+
+{{ partial "browse-pager.html" . }}
+{{ end }}

@@ -1,0 +1,10 @@
+{{- /* One item rendered as a browse card (.item.hentry): h2 permalink +
+       .item-meta > .item-img square thumbnail. Context is the item page. */ -}}
+<div class="item hentry">
+  <h2><a href="{{ .RelPermalink }}" class="permalink">{{ .Title }}</a></h2>
+  <div class="item-meta">
+    {{ with .Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
+    <div class="item-img"><a href="{{ $.RelPermalink }}"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></a></div>
+    {{ end }}{{ end }}
+  </div>
+</div>
