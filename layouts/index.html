@@ -50,14 +50,6 @@
 </div>
 {{ end }}
 
-<nav class="home-browse" aria-label="Browse the archive">
-  <ul>
-    <li><a href="{{ "items/" | relURL }}">Browse items</a></li>
-    <li><a href="{{ "collections/" | relURL }}">Browse collections</a></li>
-    {{ with site.GetPage "/news" }}<li><a href="{{ .RelPermalink }}">News</a></li>{{ end }}
-  </ul>
-</nav>
-
 <script>
 (function(){
   function shuffle(a){ for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }

@@ -91,4 +91,17 @@
   {{ end }}
 
 </div>
+
+<div id="item-citation" class="element">
+  <h3>Citation</h3>
+  <div class="element-text">&ldquo;{{ .Title }},&rdquo; <em>September 11 Digital Archive</em>, accessed <span class="citation-date">{{ now.Format "January 2, 2006" }}</span>, <span class="citation-url">{{ .Permalink }}</span>.</div>
+</div>
+
+{{- /* Adjacent-item navigation. */ -}}
+<ul class="item-pagination navigation">
+  {{ with .PrevInSection }}<li id="previous-item" class="previous"><a href="{{ .RelPermalink }}">&larr; Previous Item</a></li>{{ end }}
+  {{ with .NextInSection }}<li id="next-item" class="next"><a href="{{ .RelPermalink }}">Next Item &rarr;</a></li>{{ end }}
+</ul>
+
+<script>(function(){var d=document.querySelector(".citation-date");if(d){try{d.textContent=new Date().toLocaleDateString("en-US",{year:"numeric",month:"long",day:"numeric"});}catch(e){}}})();</script>
 {{ end }}

@@ -101,6 +101,16 @@ main:focus { outline: none; }
 #collection-tree li { margin: 0.25em 0; }
 
 /* Collections browse cards (theme adds the .collections .collection divider). */
+/* Item/collection browse thumbnails — square-cropped like the original's
+   square_thumbnails (our stored thumbs aren't square). */
+.item-img img { width: 150px; height: 150px; object-fit: cover; }
+
+/* Previous/next item navigation on item pages. */
+.item-pagination { list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 1em; padding-top: 1em; margin-top: 1.5em; border-top: 1px solid #cfcabc; }
+.item-pagination li { margin: 0; }
+.item-pagination .next { margin-left: auto; }
+#item-citation .citation-url { word-break: break-word; }
+
 .collections .collection { padding: 0.9em 0; }
 .collections .collection h2 { margin-bottom: 0.35em; }
 .collections .collection .image img { display: block; max-width: 200px; height: auto; margin: 0.3em 0; }
