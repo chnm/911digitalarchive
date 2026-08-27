@@ -15,9 +15,11 @@
 <div id="collection-items">
   <h2>Items in the {{ .Title }} Collection</h2>
   {{ with $term }}
-    {{- /* Original collection show lists items by item id ascending, not by
-           title, so order on the id param. */ -}}
-    {{ range .Pages.ByParam "id" }}
+    {{- /* Order items by item id ascending (as the original does) and paginate
+           at the site pager size, so a large collection doesn't dump every item
+           onto one page — the original capped its collection page too. */ -}}
+    {{ $paginator := $.Paginate (.Pages.ByParam "id") }}
+    {{ range $paginator.Pages }}
       {{ $item := . }}
       <div class="item hentry">
         <h3><a href="{{ $item.RelPermalink }}" class="permalink">{{ $item.Title }}</a></h3>
@@ -42,14 +44,28 @@
     <p class="item-list-empty">No items in this collection.</p>
   {{ end }}
 </div>
+{{ with $term }}{{ partial "browse-pager.html" $ }}{{ end }}
 
-{{- /* Collection Tree — always shown (as on the original collection show),
-       rooted at this collection with any child collections nested beneath it. */ -}}
+{{- /* Collection Tree — as on the original collection show: root at this
+       collection's top-level ancestor, render the ancestor breadcrumb (links)
+       down to this collection (plain text), plus this collection's own child
+       sub-tree. Ancestors' other branches are not shown. Built inside-out by
+       wrapping the current node with each parent while walking up parent_id. */ -}}
 {{ $all := where site.Pages "Type" "collections" }}
+{{ $inner := printf "<li>%s%s</li>" (.Title | htmlEscape) (partial "collection-tree.html" (dict "all" $all "parent" .Params.id)) }}
+{{ $pid := .Params.parent_id }}
+{{ range seq 20 }}
+  {{ if $pid }}
+    {{ with (index (where $all "Params.id" $pid) 0) }}
+      {{ $inner = printf "<li><a href=\"%s\">%s</a><ul>%s</ul></li>" .RelPermalink (.Title | htmlEscape) $inner }}
+      {{ $pid = .Params.parent_id }}
+    {{ else }}
+      {{ $pid = false }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 <h2>Collection Tree</h2>
 <div id="collection-tree">
-  <ul>
-    <li>{{ .Title }}{{ partial "collection-tree.html" (dict "all" $all "parent" .Params.id) }}</li>
-  </ul>
+  <ul>{{ $inner | safeHTML }}</ul>
 </div>
 {{ end }}
