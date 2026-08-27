@@ -24,6 +24,10 @@ type: page
 <p>Through maintaining these collections, we hope to foster some positive legacies of those terrible events by allowing people to tell their stories, making those stories available to a wide audience, providing historical context for understanding those events and their consequences, and helping historians and archivists improve their practices based on the lessons we learn from this project.</p>
 <p>Regarding the rights management of materials in the archive, please be aware that the original contributors maintain copyright over all objects. We are no longer able to provide a referral service to secure these rights. </p>
 <p>You can <a href="https://rrchnm.org/our-story/contact-us/">contact this project</a> through the Roy Rosenzweig Center for History and New Media.</p>
+<div class="contact-logos" style="display:flex;flex-wrap:wrap;align-items:center;gap:32px;margin:16px 0 24px;">
+  <a href="https://rrchnm.org/"><img src="/images/rrchnm-logo.png" alt="Roy Rosenzweig Center for History and New Media" style="height:72px;width:auto;max-width:100%;"></a>
+  <a href="https://historyarthistory.gmu.edu/"><img src="/images/gmu-hah-logo.png" alt="George Mason University Department of History and Art History" style="height:72px;width:auto;max-width:100%;"></a>
+</div>
 <h2>Media Enquiries</h2>
 <p>Please direct all media enquires regarding the 20th anniversary to <a href="mailto:chnm@gmu.edu">chnm@gmu.edu</a>.</p>
 <h2>Finding old content</h2>
