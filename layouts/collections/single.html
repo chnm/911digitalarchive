@@ -13,12 +13,15 @@
 
 {{ $term := index site.Taxonomies.collections .Params.slug }}
 <div id="collection-items">
-  <h2>Items in the {{ .Title }} Collection</h2>
   {{ with $term }}
     {{- /* Order items by item id ascending (as the original does) and paginate
            at the site pager size, so a large collection doesn't dump every item
-           onto one page — the original capped its collection page too. */ -}}
+           onto one page — the original capped its collection page too. Pagers
+           run top and bottom. The heading and this whole item list appear only
+           when the collection has items; the original omits them otherwise. */ -}}
     {{ $paginator := $.Paginate (.Pages.ByParam "id") }}
+    <h2>Items in the {{ $.Title }} Collection</h2>
+    {{ partial "browse-pager.html" $ }}
     {{ range $paginator.Pages }}
       {{ $item := . }}
       <div class="item hentry">
@@ -40,11 +43,11 @@
         {{- end -}}
       </div>
     {{ end }}
+    {{ partial "browse-pager.html" $ }}
   {{ else }}
-    <p class="item-list-empty">No items in this collection.</p>
+    <p class="item-list-empty">There are currently no items within this collection.</p>
   {{ end }}
 </div>
-{{ with $term }}{{ partial "browse-pager.html" $ }}{{ end }}
 
 {{- /* Collection Tree — as on the original collection show: root at this
        collection's top-level ancestor, render the ancestor breadcrumb (links)
