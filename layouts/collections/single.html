@@ -13,16 +13,29 @@
 
 {{ $term := index site.Taxonomies.collections .Params.slug }}
 <div id="collection-items">
-  <h2>Items in the {{ .Title }}</h2>
+  <h2>Items in the {{ .Title }} Collection</h2>
   {{ with $term }}
-    {{ range .Pages.ByTitle }}
+    {{- /* Original collection show lists items by item id ascending, not by
+           title, so order on the id param. */ -}}
+    {{ range .Pages.ByParam "id" }}
       {{ $item := . }}
       <div class="item hentry">
         <h3><a href="{{ $item.RelPermalink }}" class="permalink">{{ $item.Title }}</a></h3>
         {{ with $item.Params.files }}{{ $f := index . 0 }}{{ with $f.thumb }}
         <div class="item-img"><a href="{{ $item.RelPermalink }}"><img src="{{ . }}" alt="{{ $item.Title }}"></a></div>
         {{ end }}{{ end }}
-        {{ with $item.Params.dublin_core }}{{ with index . "description" }}<div class="item-description">{{ (index . 0).text }}</div>{{ end }}{{ end }}
+        {{- /* Description snippet: Dublin Core Description if present, else the
+               item's primary text field (e.g. a Text item's Text element), as on
+               the original, which falls back to the item's text. Strip angle-
+               bracket runs (Omeka's snippet strips tags) and keep line breaks. */ -}}
+        {{- $desc := "" -}}
+        {{- with $item.Params.dublin_core -}}{{- range $f, $vals := . -}}{{- if and (eq (lower $f) "description") (eq $desc "") -}}{{- $desc = (index $vals 0).text -}}{{- end -}}{{- end -}}{{- end -}}
+        {{- if eq $desc "" -}}{{- with $item.Params.item_type_metadata -}}
+          {{- with index . "Text" -}}{{- $desc = (index . 0).text -}}{{- else -}}{{- range $f, $vals := . -}}{{- if eq $desc "" -}}{{- $desc = (index $vals 0).text -}}{{- end -}}{{- end -}}{{- end -}}
+        {{- end -}}{{- end -}}
+        {{- with $desc -}}
+        <div class="item-description"><p>{{ . | replaceRE `<[^>]*>` "" | truncate 250 "…" | replaceRE `\r?\n` "<br>\n" | safeHTML }}</p></div>
+        {{- end -}}
       </div>
     {{ end }}
   {{ else }}
@@ -30,14 +43,13 @@
   {{ end }}
 </div>
 
-{{- /* Child-collection sub-tree, as on the original category pages. */ -}}
+{{- /* Collection Tree — always shown (as on the original collection show),
+       rooted at this collection with any child collections nested beneath it. */ -}}
 {{ $all := where site.Pages "Type" "collections" }}
-{{ $children := where $all "Params.parent_id" .Params.id }}
-{{ with $children }}
+<h2>Collection Tree</h2>
 <div id="collection-tree">
   <ul>
-    <li>{{ $.Title }}{{ partial "collection-tree.html" (dict "all" $all "parent" $.Params.id) }}</li>
+    <li>{{ .Title }}{{ partial "collection-tree.html" (dict "all" $all "parent" .Params.id) }}</li>
   </ul>
 </div>
-{{ end }}
 {{ end }}

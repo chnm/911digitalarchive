@@ -1,0 +1,9 @@
+{{- /* Render one metadata value's inner text. HTML-flagged values pass through
+       as raw markup; plain values are escaped and their newlines turned into
+       <br> so multi-line text (e.g. the emails items) keeps its line breaks,
+       matching the original Omeka item pages, whose stored text used <br>. */ -}}
+{{- if .html -}}
+{{- .text | safeHTML -}}
+{{- else -}}
+{{- .text | htmlEscape | replaceRE `\r?\n` "<br>\n" | safeHTML -}}
+{{- end -}}

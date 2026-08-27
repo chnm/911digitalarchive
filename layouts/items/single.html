@@ -36,10 +36,10 @@
   <div class="element-set">
     {{ $dc := . }}
     {{ range $field, $vals := $dc }}{{ if eq (lower $field) "title" }}
-      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ partial "element-text.html" . }}</div>{{ end }}</div>
     {{ end }}{{ end }}
     {{ range $field, $vals := $dc }}{{ if ne (lower $field) "title" }}
-      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ partial "element-text.html" . }}</div>{{ end }}</div>
     {{ end }}{{ end }}
   </div>
   {{ end }}
@@ -47,7 +47,7 @@
   {{ with .Params.item_type_metadata }}
   <div class="element-set">
     {{ range $field, $vals := . }}
-      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+      <div class="element"><h3>{{ humanize $field }}</h3>{{ range $vals }}<div class="element-text">{{ partial "element-text.html" . }}</div>{{ end }}</div>
     {{ end }}
   </div>
   {{ end }}
@@ -58,7 +58,7 @@
     {{ with $visible }}
     <div class="element-set" data-pagefind-ignore>
       {{ range . }}
-        <div class="element"><h3>{{ .field }}</h3>{{ range .values }}<div class="element-text">{{ if .html }}{{ .text | safeHTML }}{{ else }}{{ .text }}{{ end }}</div>{{ end }}</div>
+        <div class="element"><h3>{{ .field }}</h3>{{ range .values }}<div class="element-text">{{ partial "element-text.html" . }}</div>{{ end }}</div>
       {{ end }}
     </div>
     {{ end }}
