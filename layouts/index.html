@@ -62,25 +62,29 @@
   shuffle(Array.prototype.slice.call(track.children)).forEach(function(li){ track.appendChild(li); });
   var dots = c.parentNode.querySelector('.home-carousel-dots');
   var prev = c.querySelector('.home-carousel-prev'), next = c.querySelector('.home-carousel-next');
-  // The original jCarousel advances one item per click, with one dot per item.
-  // step() = distance between adjacent items (thumbnail width + gap).
+  // Prev/next advance one image at a time (step = thumbnail width + gap). Dots
+  // mark each reachable scroll stop so every dot maps to a real position: when
+  // only one image is visible that's one dot per image; when several are visible
+  // the last images share the right-aligned end view, so its dot count is fewer.
   function step(){ var it = track.children; return it.length > 1 ? it[1].offsetLeft - it[0].offsetLeft : (it.length ? it[0].offsetWidth : track.clientWidth); }
-  function count(){ return track.children.length; }
-  function index(){ var s = step(); return s ? Math.round(track.scrollLeft / s) : 0; }
+  function maxScroll(){ return Math.max(0, track.scrollWidth - track.clientWidth); }
+  function dotCount(){ var s = step(), m = maxScroll(); if(m <= 0 || !s) return 0; var full = Math.floor(m / s); return (m - full * s > 1) ? full + 2 : full + 1; }
+  function posOf(i){ return Math.min(i * step(), maxScroll()); }
+  function activeDot(){ var n = dotCount(); if(!n) return 0; if(track.scrollLeft >= maxScroll() - 1) return n - 1; return Math.min(n - 1, Math.round(track.scrollLeft / step())); }
   function buildDots(){
     if(!dots) return;
-    var n = count(); dots.innerHTML = '';
+    var n = dotCount(); dots.innerHTML = '';
     for(var i=0;i<n;i++){
       var b = document.createElement('button');
-      b.type='button'; b.setAttribute('aria-label','Image '+(i+1)); b.dataset.i=i;
-      if(i===index()) b.className='active';
+      b.type='button'; b.setAttribute('aria-label','Slide '+(i+1)); b.dataset.i=i;
+      if(i===activeDot()) b.className='active';
       dots.appendChild(b);
     }
   }
-  function sync(){ if(!dots) return; var p=index(); [].forEach.call(dots.children,function(d,i){ d.className = i===p?'active':''; }); }
+  function sync(){ if(!dots) return; var p=activeDot(); [].forEach.call(dots.children,function(d,i){ d.className = i===p?'active':''; }); }
   prev.addEventListener('click', function(){ track.scrollBy({left: -step(), behavior:'smooth'}); });
   next.addEventListener('click', function(){ track.scrollBy({left: step(), behavior:'smooth'}); });
-  if(dots) dots.addEventListener('click', function(e){ var i=e.target && e.target.dataset ? e.target.dataset.i : null; if(i!==null && i!==undefined) track.scrollTo({left: i*step(), behavior:'smooth'}); });
+  if(dots) dots.addEventListener('click', function(e){ var i=e.target && e.target.dataset ? e.target.dataset.i : null; if(i!==null && i!==undefined) track.scrollTo({left: posOf(+i), behavior:'smooth'}); });
   track.addEventListener('scroll', sync, {passive:true});
   buildDots(); window.addEventListener('resize', buildDots);
 })();
