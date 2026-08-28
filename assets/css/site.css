@@ -89,14 +89,18 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #213881; }
 /* Homepage: carousel + featured collections                          */
 /* ------------------------------------------------------------------ */
 
-/* Thumbnail carousel (the theme's jCarousel CSS isn't vendored). */
-.home-carousel { display: flex; align-items: stretch; gap: 0.3em; margin: 1em 0 1.5em; }
-.home-carousel-track { list-style: none; display: flex; gap: 0.5em; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 0; margin: 0; flex: 1 1 auto; }
+/* Thumbnail carousel — mirrors the original's jCarousel frame (rounded corners,
+   soft grey shadow) and round dark-brown prev/next controls that overlap the
+   left/right edges. (The theme's jCarousel CSS isn't vendored.) */
+.home-carousel { position: relative; margin: 1.25em 0 2em; padding: 10px; border-radius: 5px; box-shadow: 0 0 2px #999; }
+.home-carousel-track { list-style: none; display: flex; gap: 0.5em; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; padding: 0; margin: 0; }
 .home-carousel-track li { flex: 0 0 auto; scroll-snap-align: start; margin: 0; }
 .home-carousel-track a { display: block; }
 .home-carousel-track img { display: block; width: 185px; height: 185px; object-fit: cover; }
-.home-carousel-nav { flex: 0 0 auto; background: #8e8264; color: #fff; border: 0; font-size: 1.5em; line-height: 1; padding: 0 0.45em; cursor: pointer; }
-.home-carousel-nav:hover { background: #6f6550; }
+.home-carousel-nav { position: absolute; top: 50%; transform: translateY(-50%); z-index: 2; width: 30px; height: 30px; padding: 0; border: 0; border-radius: 50%; background: #4e443c; color: #fff; font-size: 24px; line-height: 30px; text-align: center; cursor: pointer; }
+.home-carousel-prev { left: 15px; }
+.home-carousel-next { right: 15px; }
+.home-carousel-nav:hover { background: #63574c; }
 .home-carousel-dots { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.4em; margin: 0.6em 0 0; padding: 0; }
 /* SC 2.5.8 Target Size — 24x24 hit area with a 10px visual dot centered inside. */
 .home-carousel-dots button { width: 24px; height: 24px; padding: 0; border: 0; background: transparent; cursor: pointer; position: relative; }
