@@ -7,10 +7,9 @@
 
 FROM stagex/pallet-nodejs AS build-stage
 
-# stagex/user-hugo-extended ships the binary inside a directory at
-# /usr/bin/hugo/, named "hugo_exended" (sic — the missing 'x' is upstream's).
-# Copy the actual file so /usr/local/bin/hugo is an executable, not a dir.
-COPY --from=stagex/user-hugo-extended /usr/bin/hugo/hugo_exended /usr/local/bin/hugo
+# Pinned: upstream has changed the binary's path before (it was once
+# /usr/bin/hugo/hugo_exended), which broke this COPY. Re-check the path when bumping.
+COPY --from=stagex/user-hugo-extended@sha256:a7f938c2bc8a759a733b1738f050e46e913ada600f60901a89ff09b3e4b8e77e /usr/bin/hugo /usr/local/bin/hugo
 
 # Hugo build flags come from CI, not from here. The reusable workflow
 # (chnm/.github hugo--build-release-deploy.yml) sets hugobuildargs per branch
