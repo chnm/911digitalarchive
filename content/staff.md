@@ -17,17 +17,19 @@ type: page
 ---
 
 {{< raw >}}
-<p><strong>Jessica Otis</strong>, Project administrator (2022-present); Roy Rosenzweig Center for History and New Media.</p>
-<p><strong>Megan Brett</strong>, Project Manager (2020-2022); Roy Rosenzweig Center for History and New Media.</p>
-<h2>Project Team, 2006-2020</h2>
-<p><strong>Sheila Brennan</strong>, Co-Director and administrator (2008-2018); Associate Director of Public Projects, Roy Rosenzweig Center for History and New Media</p>
-<p><strong>Sharon Leon</strong>, Co-Director (2011-2017); Director of Public Projects, Roy Rosenzweig Center for History and New Media</p>
-<p><strong>Jim Safley</strong>, Lead Developer and Digital Archivist (2005-present); Software Developer and Metadata Specialist, Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Jessica Otis</strong>, Project Administrator; Roy Rosenzweig Center for History and New Media.</p>
+<p><strong>Jason Helper</strong>, Senior Developer; Roy Rosenzweig Center for History and New Media.</p>
+<p><strong>Tony Trinh</strong>, Systems Administrator; Roy Rosenzweig Center for History and New Media.</p>
+<h2>Omeka Project Team, 2006-2022</h2>
+<p><strong>Sheila Brennan</strong>, Co-Director and administrator (2008-18); Associate Director of Public Projects, Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Sharon Leon</strong>, Co-Director (2011-17); Director of Public Projects, Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Megan Brett</strong>, Project Manager (2020-22); Roy Rosenzweig Center for History and New Media.</p>
+<p><strong>Jim Safley</strong>, Lead Developer and Digital Archivist (2005-21); Software Developer and Metadata Specialist, Roy Rosenzweig Center for History and New Media</p>
 <p><strong>Ken Albers, </strong>Graduate Research Assistant, (2006-08); Roy Rosenzweig Center for History and New Media<strong></strong></p>
-<p><strong>Alyssa Fahringer, </strong>Project Associate (2014-2019); Graduate Research Assistant, Public Projects Division, Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Alyssa Fahringer, </strong>Project Associate (2014-19); Graduate Research Assistant, Public Projects Division, Roy Rosenzweig Center for History and New Media</p>
 <p><strong>Ben Schneider</strong>, Project Associate (2013-14); Graduate Research Assistant, Public Projects Division, Roy Rosenzweig Center for History and New Media</p>
-<p><strong>Ammon Shepherd</strong>, System Administrator (2006-2014), Roy Rosenzweig Center for History and New Media</p>
-<p><strong>Jeri Wieringa</strong>, Project Associate (2014-2015); Graduate Research Assistant, Public Projects Division, Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Ammon Shepherd</strong>, System Administrator (2006-14), Roy Rosenzweig Center for History and New Media</p>
+<p><strong>Jeri Wieringa</strong>, Project Associate (2014-15); Graduate Research Assistant, Public Projects Division, Roy Rosenzweig Center for History and New Media</p>
 <h2>Original Project Team, 2002-2005</h2>
 <p><strong><em>Tom Scheinfeldt</em></strong>, Managing Director, September 11 Digital Archive; Assistant Director, Center for History and New Media, George Mason University.</p>
 <p><strong><em>Greg ("Fritz") Umbach</em></strong>, Managing Director, September 11 Digital Archive; Assistant Professory of History, John Jay College, City University of New York.</p>
