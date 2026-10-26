@@ -94,7 +94,7 @@
 
 <div id="item-citation" class="element">
   <h3>Citation</h3>
-  <div class="element-text">&ldquo;{{ .Title }},&rdquo; <em>September 11 Digital Archive</em>, accessed <span class="citation-date">{{ now.Format "January 2, 2006" }}</span>, <span class="citation-url">{{ .Permalink }}</span>.</div>
+  <div class="element-text">&ldquo;{{ .Title }},&rdquo; <em>September 11 Digital Archive</em>, accessed <span class="citation-date">{{ now.Format "January 2, 2006" }}</span>, <span class="citation-url">{{ site.Params.origin | strings.TrimSuffix "/" }}{{ .RelPermalink }}</span>.</div>
 </div>
 
 {{- /* Adjacent-item navigation. */ -}}
