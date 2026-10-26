@@ -20,6 +20,11 @@
           <div class="item-file"><audio controls src="{{ .url }}"></audio> <a class="download-file" href="{{ .url }}">{{ or .original_filename "Download" }}</a></div>
         {{ else if and .mime (hasPrefix .mime "video/") }}
           <div class="item-file"><video controls src="{{ .url }}"></video></div>
+        {{- /* A thumbnail means Omeka derived an image, and its item pages showed
+               it whatever the mime said; some imports carry a wrong mime (e.g.
+               911DA photos recorded as text/html). */ -}}
+        {{ else if .thumb }}
+          <div class="item-file"><a class="download-file" href="{{ .url }}"><img class="thumb" src="{{ or .thumb .fullsize .url }}" alt="{{ $.Title | default .original_filename }}"></a></div>
         {{ else }}
           <div class="item-file"><a class="download-file" href="{{ .url }}">{{ or .original_filename "Download file" }}</a></div>
         {{ end }}
