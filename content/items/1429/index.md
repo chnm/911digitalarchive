@@ -26,10 +26,10 @@ item_type_metadata:
     - html: false
       text: Deli workers in New York City, supported by the United Food and Commercial Workers Union (UFCW) Local 1500, protested their working conditions Monday.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        Deli workers in New York City, supported by the United Food and Commercial Workers Union (UFCW) Local 1500, protested their working conditions Monday.  Among other things, the protestors demanded  that they be treated with dignity and respect and that they be paid the wages that the law stipulates, including overtime. Many are required to work between 10 and 12 hours a day, six days a week.  The protest happened in the heart of Manhattan, at 43rd Street and Madison Avenue.
-
+        Deli workers in New York City, supported by the United Food and Commercial Workers Union (UFCW) Local 1500, protested their working conditions Monday.  Among other things, the protestors demanded  that they be treated with dignity and respect and that they be paid the wages that the law stipulates, including overtime. Many are required to work between 10 and 12 hours a day, six days a week.  The protest happened in the heart of Manhattan, at 43rd Street and Madison Avenue.<br>
+        <br>
         <i>Photo courtesy of El Diario.</i>
   'VTMBH Article: Date':
     - html: false

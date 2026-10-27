@@ -11,7 +11,7 @@ id: 3441
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I thought that in the picture of the smoke with a face in it, who looks like the Afghan wacko, that in the upper left it looks like an eagle coming down towards the face image with it's talons down. My husband has been posted at the Pentagon since the day after the tragedies. So I haven't been able to show him this picture, but I know he would say that it looks like an eagle coming towards the face. <br><br>Elizabeth Rogers<br>Ocean Pines, MD.<br>babyliza69@hotmail.com<br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

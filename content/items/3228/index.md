@@ -14,7 +14,7 @@ id: 3228
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I can understand the need for an income, but what I don't understand is why, on your website you will not let people save the picture of what looks like the devils face in the smoke of the burning WTC? Is there a particular reason for this? Are you needing some sort of compensation for showing this picture?<br><br>I downloaded your picture already and saved in my pictures file and can freely distribute it as I wish, so I am not concerned. I just find it interesting that you had to put your name and words all over the picture and then disable people from being able to download it. <br><br><br><br>Richard Moore<br>Senior Account Manager<br>MRI Worldwide.<br>St. Louis, MO<br>314-344-0900<br>
   'September 11 Email: CC':
     - html: false

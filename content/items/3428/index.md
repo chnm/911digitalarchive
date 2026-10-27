@@ -14,7 +14,7 @@ id: 3428
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,   I commend you on a job well done, during a truly difficult time.  I truly believe that if the face in the picture is the devil (which does not surprise me), is was by God's grace that you were able to capture it.  America should be scared, scared enough to seek out God, and to remember how and why this country was truly founded.  We as a nation have turned our backs on God in many ways and this should be a definite wake-up call.  Apparently, God wanted you to be the one to show what"evil" truly looks like, and that "evil" was the one behind it.  God didn't make this happen, but our protection that he has given us for years is no longer there because we have turned our backs on him (history repeats itself-check out many Biblical stories).   May you turn towards God at this time, so he may bless you and give you peace.   In His Name,   Julie Robins<br>
   'September 11 Email: CC':
     - html: false

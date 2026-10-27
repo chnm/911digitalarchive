@@ -14,7 +14,7 @@ id: 3105
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I looked at the pic of the face in the smoke and never thought nothing differnet than it was a satanic face....but when i glanced again..without the horns..i could see a resemblence to Bin Ladin....wondered if u could see the same? I viewed yours and cnn and also art bells pics....we could say, Bin ladin is the face if the devil himself.!<br>
   'September 11 Email: CC':
     - html: false

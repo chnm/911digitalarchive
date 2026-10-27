@@ -14,7 +14,7 @@ id: 2967
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I think that is Evil and Very Extroidinary. <br><br><br>Josh Carter , 11<br>
   'September 11 Email: CC':
     - html: false

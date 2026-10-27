@@ -11,7 +11,7 @@ id: 3325
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>Received a copy of the photo from a friend and I'm glad we were able to see it. In a crazy way that helps us make sense of all of this. <br><br>tks.<br>Cathy@Lincolnton, NC<br>
   'September 11 Email: CC':
     - html: false

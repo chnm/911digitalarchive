@@ -14,7 +14,7 @@ id: 3501
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: your photo of the face in the smoke is one of the most frightening things i've ever seen. thank you for sharing it with the world. respectfully,<br>a photographer<br>
   'September 11 Email: CC':
     - html: false

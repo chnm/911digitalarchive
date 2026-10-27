@@ -14,7 +14,7 @@ id: 3403
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips, I would like to purchase a copy of your photo that you shot of on 9/11, with the image of a face in the smoke, I truly beieve that this is undoctored, and I would like to share this photo with my friends, to prove that there is a evil force in this world. As a christian, my heart goes out to the people that have lost their lives in this horrific tradegy, and I appreciated your kind words that you had said on your web page.. <br><br>Please let me know if this photo is availabe to purchase,, <br><br>May God Bless,, Carol McMichael<br>
   'September 11 Email: CC':
     - html: false

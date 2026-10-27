@@ -14,8 +14,8 @@ id: 3481
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold>I am going to purchase three of the "Tower" pictures........They are so beautiful....I wondered if you had a picture of the Aftermath which I could purchase?  I have them in my "basket," but will wait to hear from you. <br><br><br><br>Thank You,<br><br>Joyce Dawson<br><br>calvinhomer@aol.com </bold><br>
+    - html: true
+      text: <br><b>I am going to purchase three of the "Tower" pictures........They are so beautiful....I wondered if you had a picture of the Aftermath which I could purchase?  I have them in my "basket," but will wait to hear from you. <br><br><br><br>Thank You,<br><br>Joyce Dawson<br><br>calvinhomer@aol.com </b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

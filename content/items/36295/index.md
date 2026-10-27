@@ -5,7 +5,7 @@ date: '2014-01-08 16:47:33'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>The Forgotten of the WTC,</b> Cover art. Undocumented immigrant victims of the WTC attacks are honored in Day of the Dead ceremonies sponsored by Asociación Tepeyac. (videotape, Asociación Tepeyac, producción; Vicencio Marquez, Javier de la Torre, dirección, 6 minutes, 2001) The video itself will not go up on the website until more room is available, but it will be available to scholars using the archives.
   Title:
     - html: false

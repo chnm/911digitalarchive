@@ -14,7 +14,7 @@ id: 3385
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Isn't it your business!  So who is the guy supposed to be?  Is it only aimed at the Christian community?  Or have you several editions for Jews, Muslims and what about Atheists?<br>
   'September 11 Email: CC':
     - html: false

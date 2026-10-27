@@ -14,7 +14,7 @@ id: 3461
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: AFTER SEEING YOUR IMAGES OF THE WORLD TRADE CENTER BOMBING AND DEVIL REFERENCES   <br><br>I THINK YOUR FULL OF CRAP<br>
   'September 11 Email: CC':
     - html: false

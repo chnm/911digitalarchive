@@ -14,8 +14,8 @@ id: 3257
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: I am not sure if you have seen this web site, however it also shows a picture of the devil & it is outline..I am sending you the web site, although maybe you have seen this already...I do believe you when you say the photo you took was not doctored in any way...God Bless...Serena Griffin     http://home.att.net/~ChimerraDesignLtd/memorial/memorial.html    <br>
+    - html: true
+      text: I am not sure if you have seen this web site, however it also shows a picture of the devil &amp; it is outline..I am sending you the web site, although maybe you have seen this already...I do believe you when you say the photo you took was not doctored in any way...God Bless...Serena Griffin     http://home.att.net/~ChimerraDesignLtd/memorial/memorial.html    <br>
   'September 11 Email: CC':
     - html: false
       text: ''

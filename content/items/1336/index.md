@@ -26,20 +26,20 @@ item_type_metadata:
     - html: false
       text: Astoria resident Nurul Islam, 55, committed suicide on May 12 after eight months of unemployment and the rejection of his green card application.  He was originally from Bianaibazar, Bangladesh. On May 26, Nurul Alam of Alexandria, Va., took his own life with a knife after fighting with family members about returning to Bangladesh.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        Astoria resident Nurul Islam, 55, committed suicide on May 12 after eight months of unemployment and the rejection of his green card application.  He was originally from Bianaibazar, Bangladesh.
-
-        On May 26, Nurul Alam of Alexandria, Va., took his own life with a knife after fighting with family members about returning to Bangladesh.
-
-        Islams body was discovered on the morning of May 12, after his wife, Sadia Murad, left for work. Islams brother, Irman Ali, noticed that the door to his room was closed. Upon hearing no response to his knock, Ali called the house owner, Shamshuddin Ahmed, who unlocked the door and found Islam, who had hung himself.
-
-        Someone called the police, who made a preliminary report and locked the room.  At this point, the news spread throughout the community, and people rushed to give consolation to the family. Murad, his wife, returned from work that afternoon to discover the scene. She said they had been married for five years. Murad is a United States citizen and had sponsored Islam for a green card, but his application was rejected. Murad could not explain why his green card was rejected.
-
-        Ali said that Islam also had a wife in Bangladesh who suffers from mental illness. Islam came to the United States 10 years ago, and had never had a green card. Before September 11th, Islam held a good job at the World Trade Center, but had been unemployed since. Neighbors said he had become obsessed with his unemployment situation. He was diagnosed with heart disease and also suffered from stomach pain. Islam is also survived by a son and a daughter, who live in Canada.
-
-        Alam had worked at the Bangladesh Mission in Washington, D.C., for five years, under the the previous government. He had been unemployed for about one year, and wanted to return to Bangladesh against the wishes of his wife and children. A family source said his daughter, who graduated from George Washington University, and his son, who is in college, did not want to go. The Mission did not comment on the position Alam held there.
-
+        Astoria resident Nurul Islam, 55, committed suicide on May 12 after eight months of unemployment and the rejection of his green card application.  He was originally from Bianaibazar, Bangladesh.<br>
+        <br>
+        On May 26, Nurul Alam of Alexandria, Va., took his own life with a knife after fighting with family members about returning to Bangladesh.<br>
+        <br>
+        Islams body was discovered on the morning of May 12, after his wife, Sadia Murad, left for work. Islams brother, Irman Ali, noticed that the door to his room was closed. Upon hearing no response to his knock, Ali called the house owner, Shamshuddin Ahmed, who unlocked the door and found Islam, who had hung himself.<br>
+        <br>
+        Someone called the police, who made a preliminary report and locked the room.  At this point, the news spread throughout the community, and people rushed to give consolation to the family. Murad, his wife, returned from work that afternoon to discover the scene. She said they had been married for five years. Murad is a United States citizen and had sponsored Islam for a green card, but his application was rejected. Murad could not explain why his green card was rejected.<br>
+        <br>
+        Ali said that Islam also had a wife in Bangladesh who suffers from mental illness. Islam came to the United States 10 years ago, and had never had a green card. Before September 11th, Islam held a good job at the World Trade Center, but had been unemployed since. Neighbors said he had become obsessed with his unemployment situation. He was diagnosed with heart disease and also suffered from stomach pain. Islam is also survived by a son and a daughter, who live in Canada.<br>
+        <br>
+        Alam had worked at the Bangladesh Mission in Washington, D.C., for five years, under the the previous government. He had been unemployed for about one year, and wanted to return to Bangladesh against the wishes of his wife and children. A family source said his daughter, who graduated from George Washington University, and his son, who is in college, did not want to go. The Mission did not comment on the position Alam held there.<br>
+        <br>
         <i>The report about Nurul Islam also appeared in Thikana, an IPA member publication.</i>
   'VTMBH Article: Date':
     - html: false

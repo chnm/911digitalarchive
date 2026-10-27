@@ -14,7 +14,7 @@ id: 3520
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Mr. Phillips: What would the cost be to reproduce the "face" photo in News Photographer, the monthly magazine of the National Press Photographers Association? It would accompany a story about the response to the image and digest of your on-line discussion at the Web site of KUSA-TV, Denver, last week.<br><br>James R. Gordon, Editor<br>E-mail: magazine@nppa.org or jrgordon@dacor.net News Photographer magazine of the<br>National Press Photographers Association www.NPPA.org<br>NPPA office: Durham, N.C.<br>-------------------<br>News Photographer Editorial Office<br>1446 Conneaut Ave.<br>Bowling Green, OH 43402-2145<br>(888) 564-8592<br>FAX: (419) 354-5435<br>-------------------<br>Professor Emeritus of Journalism<br>Bowling Green (Ohio) State University<br>'
   'September 11 Email: CC':
     - html: false

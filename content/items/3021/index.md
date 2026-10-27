@@ -14,8 +14,8 @@ id: 3021
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "Understand completely and must say I very much respect your decision as sign of humanity and refrain from the greed some have displayed. <br><br>Take care,<br>Lou S.<br><br>----- Original Message -----<br>From: \"Mark D. Phillips\" <info@stellarimages.com> To: \"Lou Schisler\" <cheiflou@home.com><br>Sent: Thursday, September 20, 2001 6:05 AM Subject: Re: \"Devil's Face\"<br><br><br>>>Hi, Lou Schisler from Minot, ND here. Saw your \"devil face\" image <br>in smoke on your website and saw that you were selling some of your NY skyline prints. Are you also offering the smoke print for sale? If so what is the cost? Thanks, Lou S.<br><br><br>>We are not selling this photo at this time. We want everyone to focus on <br>the fact that New York was devastated by a horrible event. Please respect our decision in this matter.<br><br>>Thank You for your support.<br><br>>Sincerely,<br>>Mark D. Phillips<br><br>"
+    - html: true
+      text: "Understand completely and must say I very much respect your decision as sign of humanity and refrain from the greed some have displayed. <br><br>Take care,<br>Lou S.<br><br>----- Original Message -----<br>From: \"Mark D. Phillips\" &lt;info@stellarimages.com&gt; To: \"Lou Schisler\" &lt;cheiflou@home.com&gt;<br>Sent: Thursday, September 20, 2001 6:05 AM Subject: Re: \"Devil's Face\"<br><br><br>&gt;&gt;Hi, Lou Schisler from Minot, ND here. Saw your \"devil face\" image <br>in smoke on your website and saw that you were selling some of your NY skyline prints. Are you also offering the smoke print for sale? If so what is the cost? Thanks, Lou S.<br><br><br>&gt;We are not selling this photo at this time. We want everyone to focus on <br>the fact that New York was devastated by a horrible event. Please respect our decision in this matter.<br><br>&gt;Thank You for your support.<br><br>&gt;Sincerely,<br>&gt;Mark D. Phillips<br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 2983
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>I've read about the claims that your photo from the World Trade Center, looked at the photo repeatedly and I can't believe it. It's totally ridiculous. Anyone who knows you and your work can't believe it, I'm sure. <br><br>First, it's not true. Second, I can't understand why anyone wouldn't have more important things to worry about.<br><br>I know you'll weather this bullshit and come out stronger. Your work speaks for itself, and everyone I know who knows you feels the same way. Hang in there.<br><br>Ray Locker<br>
   'September 11 Email: CC':
     - html: false

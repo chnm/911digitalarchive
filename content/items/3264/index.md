@@ -14,7 +14,7 @@ id: 3264
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: This is an incredible photo.  Well, I'm quite sure the devil was present in the hearts and minds of those people who committed this atrocious act against the American people.  I am just as sure, however, that the spirit of the American people will not be crushed, if that was the intent of these maniacs when they committed this act.  They will most likely learn, as did Admiral Yamomota upon the attack of Pearl Harbor--"I fear we have wakened a sleeping giant, and filled him with a terrible resolve."   <br><br>I believe in the American people, and know we can survive even this if we keep a cool head and aim for the perpetrators, not merely target people who have ethnic backgrounds that might somehow seem to be connected to the terrorists.  We cannot allow ourselves to make this same mistake again. <br><br>Marion Barrett<br>
   'September 11 Email: CC':
     - html: false

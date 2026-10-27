@@ -26,14 +26,14 @@ item_type_metadata:
     - html: false
       text: ''
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        <i>Women frisked as well, by male soldiers; indignant, many leave without offering prayers</i>
-
-        For years, prayers on the occasion of Abraham's sacrifice (Eid-ul-Adha) have been offered at the Jersey City armory. This year, because of security measures, the prayer space was restricted to a basement with a small entrance. The National Guard frisked all attendees, delaying the prayers by one hour. Many recoiled at the thought of being frisked and led into a dungeon, and left without saying their prayers.
-
-        Muslims of Pakistani, Indian and African origin have prayed at the armory on Eid-ul-Adha for several years. Members of the congregation say that in the past, officials, including the police, have extended all courtesies. This time, frisking was not the only thing that dismayed those in attendance. Organizers of the prayers, including a South Asian maulvi [religious leader], had not told them beforehand that the prayers would be in the basement of a building housing the National Guard.
-
+        <i>Women frisked as well, by male soldiers; indignant, many leave without offering prayers</i><br>
+        <br>
+        For years, prayers on the occasion of Abraham's sacrifice (Eid-ul-Adha) have been offered at the Jersey City armory. This year, because of security measures, the prayer space was restricted to a basement with a small entrance. The National Guard frisked all attendees, delaying the prayers by one hour. Many recoiled at the thought of being frisked and led into a dungeon, and left without saying their prayers.<br>
+        <br>
+        Muslims of Pakistani, Indian and African origin have prayed at the armory on Eid-ul-Adha for several years. Members of the congregation say that in the past, officials, including the police, have extended all courtesies. This time, frisking was not the only thing that dismayed those in attendance. Organizers of the prayers, including a South Asian maulvi [religious leader], had not told them beforehand that the prayers would be in the basement of a building housing the National Guard.<br>
+        <br>
         A spokesperson for a Pakistani community organization said that those who organize prayers for the community must be more sensitive in these times.
   'VTMBH Article: Date':
     - html: false

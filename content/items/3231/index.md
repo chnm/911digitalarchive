@@ -14,7 +14,7 @@ id: 3231
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark I pray that this photo has not been doctored with all the technology we have. To many people have been hurt already and this is really scary if it is true. However, why weren't the Heavenly images above the picture also shown so that the American People can see the entire image? And, are you sure it isn't a picture of Ben Ladin? After all, he appears to be the devil himself?<br>
   'September 11 Email: CC':
     - html: false

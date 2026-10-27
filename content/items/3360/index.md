@@ -11,7 +11,7 @@ id: 3360
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: in reference to the face in the smoke picture. when it was aired on TV, I saw the face, but did not say anything, now that there is proof, i can let people know it is so. thanks for this information.<br>
   'September 11 Email: CC':
     - html: false

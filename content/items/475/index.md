@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: 'IUF Japan Office <P>Concerns: Sympathy to union members and all citizens in the United States <P>Dear Brother Andrew Stern, <P>We are very shocked to know that terrorists hijacked airplanes and crashed them into the World Trade Center buildings in New York, the Pentagon in Washington DC, and Pittsburgh in the morning of September 11.  On behalf of the IUF affiliates in Japan representing 168,500 workers, I sincerely express our sympathy and solidarity to your members and all citizens of the United States. <P>We strongly condemn such terrorisms that are criminal acts agaisnt all human kind.  We are also concerned about the security of union members in the United States. <P>We earnestly hope the people in the United States will be guranteed to live in safety as soon as possible. <P>Yours Sincerely, <P>Tomoji Misato,  General Secretary'
+    - html: true
+      text: 'IUF Japan Office <p>Concerns: Sympathy to union members and all citizens in the United States <p>Dear Brother Andrew Stern, <p>We are very shocked to know that terrorists hijacked airplanes and crashed them into the World Trade Center buildings in New York, the Pentagon in Washington DC, and Pittsburgh in the morning of September 11.  On behalf of the IUF affiliates in Japan representing 168,500 workers, I sincerely express our sympathy and solidarity to your members and all citizens of the United States. <p>We strongly condemn such terrorisms that are criminal acts agaisnt all human kind.  We are also concerned about the security of union members in the United States. <p>We earnestly hope the people in the United States will be guranteed to live in safety as soon as possible. <p>Yours Sincerely, <p>Tomoji Misato,  General Secretary'
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

@@ -14,7 +14,7 @@ id: 3127
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello Sir, I am looking at the photos that where taken of the trade center. I can't not believe what I am seeing. My name is Rick Dixon from Cranston RI. I would like to place the photos and your storie on the churches web site. You can view this site at www.wolcc.com   The name of the church is Word of Life Covenant Church 1308 Phenix Ave Cranston, RI 02921   If so please email me on how I can get this great info up on our site.   Thanks Rick Dixon   rickdixon@wolcc.com  <br>
   'September 11 Email: CC':
     - html: false

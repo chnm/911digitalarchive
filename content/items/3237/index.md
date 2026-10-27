@@ -14,7 +14,7 @@ id: 3237
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello,   I just wanted to take a moment to share with you what I saw the other day as they were showing the WTC smoldering. I was watching the coverage when I saw what appeared to be the face of the devil. I told a friend of mine who, I thought would not think me crazy when I told her what I thought I had seen. I didn't tell anyone else. Anyway, tonight I had gone to see some friends of mine when they told me of your sight and what was on it. I actually saw the same image but from what I thought to be a different angle.  I was with my father that night watching the t.v., but I thought if I told him what I had seen, he would think I was crazy. I thought that maybe I was so high strung from what had happened that I was seeing things in the cloud of smoke, like you would, when you look into the clouds and see people etc. I'm glad to know that I was not the only person to see the image. Thank you for all you work, Rosita Czekala Atlanta, Georgia<br>
   'September 11 Email: CC':
     - html: false

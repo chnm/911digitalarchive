@@ -11,8 +11,8 @@ id: 3456
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br>hey mark, they forwarded that message to me. I just returned home from vacation.<br>I got stuck in alaska and it took me five days to get back. but we're here and safe now.<br>hope all is well with you. I think I saw one of your photos in the anchorage paper....<br>maybe made from NJ of the NYC skyline. let me know. I check my email a lot from the<br>house. either cliddy@newsobserver.com or chuckliddy@hotmail.com <br><br><br><br><br><br>Chuck Liddy<br>Staff Photographer<br>The News & Observer<br>Raleigh,N.C.<br><br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
+    - html: true
+      text: <br>hey mark, they forwarded that message to me. I just returned home from vacation.<br>I got stuck in alaska and it took me five days to get back. but we're here and safe now.<br>hope all is well with you. I think I saw one of your photos in the anchorage paper....<br>maybe made from NJ of the NYC skyline. let me know. I check my email a lot from the<br>house. either cliddy@newsobserver.com or chuckliddy@hotmail.com <br><br><br><br><br><br>Chuck Liddy<br>Staff Photographer<br>The News &amp; Observer<br>Raleigh,N.C.<br><br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false
       text: ''

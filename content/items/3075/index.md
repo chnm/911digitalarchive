@@ -14,7 +14,7 @@ id: 3075
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Just letting you know that your picture is not the only one with a face.  I can see an image of a skull on a picture of the explosion on the WTC.  If you would like to take a look, please check out yahoo.com and look for the most popular pictures emailed, or sent.  It is a picture that is below the six showing the sequence of the plane hitting the WTC.     You may not even have the time to look at it, but it personally creeps me out!<br>
   'September 11 Email: CC':
     - html: false

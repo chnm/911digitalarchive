@@ -14,7 +14,7 @@ id: 2963
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "For those of us who know the Bible, this is not a surprising photograph for it is written in Luke 21:25-26 - \"And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and waves roaring; Men's hearts failing them for fear, and for looking after those things which are coming on the earth: The powers of the heaven shall be shaken.\"<br><br>This quote is from the very lips of the Lord Jesus Christ who was describing the end time days.<br><br>Allen Barber<br>Carrollton, TX<br>"
   'September 11 Email: CC':
     - html: false

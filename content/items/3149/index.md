@@ -14,7 +14,7 @@ id: 3149
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Mark:      As an associate pastor of a church, I appreciate the image you took.  We, members of the clergy have been spreading the message that evil exists in this world and it has a name, "the Devil."  It had to be an act of God that not only yourself, but also another member of the legitimate press, CNN, caught this image in the clouds.  That bombing served as a serious wake up call to the world.  I can tell you that the churches are packed as never before.  I thank you for standing behind that picture.<br>'
   'September 11 Email: CC':
     - html: false

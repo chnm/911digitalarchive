@@ -14,7 +14,7 @@ id: 3329
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I commend you for putting this picture out to the world. I believe God used you to expose the face of satan, the emery of us all. Too many people do not believe in the existence of a very real spiritual world, both good and evil.  Many have a picture of satan with horns and pitchfork, not to be taken seriously. The main thing to remember is this, The Lord Jesus Christ, has given believer's authority over all the rulers of darkness. Praise God, He (Jesus) lives!!   A believer in Jesus Christ, Grace LaCasse gracelac@spacestar.net  <br>
   'September 11 Email: CC':
     - html: false

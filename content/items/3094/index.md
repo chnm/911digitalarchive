@@ -14,8 +14,8 @@ id: 3094
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hi; I was just surfing on urban legends and ran across the article on your picture. I just had to see for myself what you captured because I saw a similar picture as I watched the smoke and dust (via TV) rise >from the ruins that day. The image I saw was a bit different, and it came quite later evidently. It seemed he was looking up and laughing as if mocking God. But to me what was more interesting is that as the black smoke turned to light gray another picture took shape. To me it was as the Lord responding that He was still in charge and good would come out of this another attempt of  Satan to destroy freedom and Liberty. I am not surprised, I have no picture, but I do have a memory. Peace be with you;  P.H.B.<br>
+    - html: true
+      text: Hi; I was just surfing on urban legends and ran across the article on your picture. I just had to see for myself what you captured because I saw a similar picture as I watched the smoke and dust (via TV) rise &gt;from the ruins that day. The image I saw was a bit different, and it came quite later evidently. It seemed he was looking up and laughing as if mocking God. But to me what was more interesting is that as the black smoke turned to light gray another picture took shape. To me it was as the Lord responding that He was still in charge and good would come out of this another attempt of  Satan to destroy freedom and Liberty. I am not surprised, I have no picture, but I do have a memory. Peace be with you;  P.H.B.<br>
   'September 11 Email: CC':
     - html: false
       text: ''

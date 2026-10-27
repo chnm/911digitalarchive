@@ -11,7 +11,7 @@ id: 3474
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I know the photograph was not doctored while i was watching video of the tragic attack i too saw the face on live tv. Thanks for the wonderful coverage and reporting of events keep up the good work.<br>
   'September 11 Email: CC':
     - html: false

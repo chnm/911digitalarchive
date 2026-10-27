@@ -14,7 +14,7 @@ id: 3436
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark<br>My husband is a photographer also. I just wanted to let you know that he would never enhance a photo as I am sure you have not enhanced your photo either. I truly believe you have captured something very special and very real. God works in strange ways to send us messages. It's almost like you have photographed the horror God was witnessing through our own eyes. <br><br>Thank you for sharing your images.<br><br>God Bless America !!!!!<br><br>Paula Timmons<br>Littleton, CO<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3106
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I have a son who is an inmate in a Georgia State Prison.  I would like permission to print your web page picture of the smoke that looks like satan, and, mail it to my son...thanks in advance for your help...tom young...email tyoung@roman.net<br>
   'September 11 Email: CC':
     - html: false

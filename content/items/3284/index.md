@@ -14,7 +14,7 @@ id: 3284
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I enjoyed the Mark P, photo's and loved the one of SATAN-I am a christian and feel he is telling us all the truth... I feel as americans we are all going through some ATTACK from the enemy-weather it be depresssion, gluttony, drugs, alcohol, etc etc...and I feel the terrorism brought me back to the Lord,and to Reality. Thanks so much for the GIFT GOD GAVE Mark... <br><br>SIncerely,<br>jackiePaulson<br>
   'September 11 Email: CC':
     - html: false

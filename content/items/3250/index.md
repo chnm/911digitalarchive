@@ -14,7 +14,7 @@ id: 3250
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I know you didn't alter the picture as I'm sure many have agreed.  I saw the picture long before I heard about your photo.  Good picture.  Paula-Mt Crow<br>
   'September 11 Email: CC':
     - html: false

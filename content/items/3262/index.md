@@ -14,7 +14,7 @@ id: 3262
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To whom it may concern<br><br>I don't think this was something a person can manifest this was something to bring everyone's attention. This is fate and other people have their ideas or opinions and me personally; it could be the devil's face image, but I think it is the face of the man people are holding responsible for these tragic events Asam Bin Ladin or how ever that man's name is if you really look at it and hold a picture of Asam and this image everyone is saying is "the devil" there is a resemblance, don't get me wrong I also think it looks like the devil but in some sort of way it looks like that man. <br><br>P.S UNITED WE STAND<br>Sincerely,<br>Lori in L.A.<br>
   'September 11 Email: CC':
     - html: false

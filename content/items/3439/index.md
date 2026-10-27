@@ -14,7 +14,7 @@ id: 3439
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "<br>Hello Mark,<br><br>When I first saw a link to this picture, I was overwhelmed with goosebumps.... As I watched the horror on TV last Tuesday morning, I thought I saw a face in the billowing clouds and I immediately thought binLaden.... I never mentioned this to anyone because it happened for only a couple seconds and I thought it's just good imagination. <br><br>My memory is of the clouds OVER the building (to the right in the TV picture) and I seem to remember the clouds being less black than your picture. Could there have been more than one image? <br><br>This is truly spooky stuff!!!<br><br>God bless,<br><br>Dave Welk<br>CIENA® Communications Inc. www.ciena.com<br>David P. Welk, Systems Engineer dwelk@ciena.com<br>Ciena Midwest Office: 630.321.0942<br>6809 Western Ave. Cell: 630.841.9098<br>Darien, IL 60561 Pager: 888.680.8336<br>"
   'September 11 Email: CC':
     - html: false

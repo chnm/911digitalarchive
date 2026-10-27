@@ -14,7 +14,7 @@ id: 3394
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just wanted to say that I don't think it looks like the devil.  I think it looks like a angel, or god mad.  My mom thought it looked like the cowardly Loin from the Wizard of Oz.    So I guess it is in the eyes of the beholder. It is wild how the smoke created an image.   Keep taking pictures, it gives all of us all something to connect with one another, and talk about the tragedy, and release our grief.   Thank you.    Tracey<br>
   'September 11 Email: CC':
     - html: false

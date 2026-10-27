@@ -14,7 +14,7 @@ id: 2985
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I've just only now discovered your amazing photograph.  Though you certainly did not intend to spark such a controversy, you were granted an opportunity to show the world what truly was behind this merciless attack.  Whether it's a trick of light or camera angle or happenstance or - god forbid - the actual face of satan, your photo documents the true evil that was cast upon us and for that we should all be grateful that you were there.  People doubt you now because they cannot face the truth -- that is their misfortune.  Please do not accept that it is an attack on your credibility - one must never doubt oneself in the face of ignorance.  God bless you and your family, and hold strong. <br><br>Stacey Rosenthal<br>Elmwood Park, Illinois<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3219
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: If this is not a retouch job, I would be very surprised. How does anyone know what the devil looks like? Does evil really even have a face? If it does, then I think the face on the side of the tower looks like Osama Bin Laden.<br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

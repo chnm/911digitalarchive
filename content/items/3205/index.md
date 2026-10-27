@@ -14,7 +14,7 @@ id: 3205
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>Who do you think you are to or not to permit met o do things on my computer? <br><br><br>How dare ìPERMITî???<br><br><br>I think you should learn to be more respectful to your visitors. <br><br><br> <br><br><br>Besides if i am not permitted to right click i can allways ìPrint Screenî ñ CUT ñ PASTE and SAVE AS. <br><br><br>This image is all over the internet for weeks now. <br><br><br> <br><br><br>Whose very clever idea is this??????<br><br><br> <br><br><br>Go open a comics site.<br><br><br> <br><br><br>No regards.<br><br><br> <br><br><br>Mete GÐRGÐN<br><br><br> <br><br>
   'September 11 Email: CC':
     - html: false

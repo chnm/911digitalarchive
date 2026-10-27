@@ -14,7 +14,7 @@ id: 3252
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Saw your picture with the text which says some say that it show the "face of the devil." My question to you: How do you know this is the face of the devil?? Who do you know who has seen the face of the devil who has come forward to verify that this is indeed the face of the devil? The image you have captured might fall into what artists and non-artists have imagined the face of the devil, but there is no living human being that has seen the face of the devil any more then there is a living human being who has seen the "face" of God. Anna<br>'
   'September 11 Email: CC':
     - html: false

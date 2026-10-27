@@ -14,7 +14,7 @@ id: 3121
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I have just ordered the picture of  the World Trade Center behind the Statue of Liberty (WTC statue - wtc statue).<br><br>I am interested in getting the same shot showing the World Trade Center either as it is going down or after the collapse, as a contrast photo. <br><br>Is this available by this photographer, Mark Phillips? <br><br>Thank You,<br>LaVerne Lindsey<br>bob1lav@aol.com<br>
   'September 11 Email: CC':
     - html: false

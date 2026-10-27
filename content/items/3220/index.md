@@ -14,7 +14,7 @@ id: 3220
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just want ed to tell you that your picture of the face is very believable to me. I go to college and showed all my friends and they all tell me that the picture was touched up. I don't think so but people will believe that because now there are so many ways to change things on computers. It is really scary but there is nothing we can do but pray that things will be all right from now on and pray for the families that have been hurt by this horrible thing that has happened to the WONDERFUL United States of America.   Keep on snapping picutres!!!!!!   Angela, Missouri<br>
   'September 11 Email: CC':
     - html: false

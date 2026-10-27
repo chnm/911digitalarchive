@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: In the case of history,<br> there are times of world peace<Br> then political warfare.<Br> We are frozen in time,<Br> in one of the darkest hours.<br> Folks listening to the news, awe-struck<br> Never realizing<br> That a thing of this magnitude can happen.<br> For all the folks I never met,<br> for all the folks that knew these<br> special people <br> You will never forget.<br> Remember that person in your heart,<Br> The years or a moment in time,<br> A memory of a pleasant word<br> or of a friendly face.<Br> For they are the special folks.<br> Those times, no one can erase.<Br> The biggest gifts life gives<Br> are memories and love,<br> To hold in our hearts and look upon.<Br> Our hearts are with you.<br>
+    - html: true
+      text: In the case of history,<br> there are times of world peace<br> then political warfare.<br> We are frozen in time,<br> in one of the darkest hours.<br> Folks listening to the news, awe-struck<br> Never realizing<br> That a thing of this magnitude can happen.<br> For all the folks I never met,<br> for all the folks that knew these<br> special people <br> You will never forget.<br> Remember that person in your heart,<br> The years or a moment in time,<br> A memory of a pleasant word<br> or of a friendly face.<br> For they are the special folks.<br> Those times, no one can erase.<br> The biggest gifts life gives<br> are memories and love,<br> To hold in our hearts and look upon.<br> Our hearts are with you.<br>
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

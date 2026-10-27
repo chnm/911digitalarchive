@@ -14,7 +14,7 @@ id: 3473
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>Mark, I have just heard about your photo. As I watched the events unfold on TV Tues morning, I absolutely thought without a doubt that I could see a face in the smoke clouds. I noticed it later than your photo was taken. I saw the face in the clouds above the towers and the face had become rounder. I know if the news footage was viewed again, you could easily see the face. Tracy<br>
   'September 11 Email: CC':
     - html: false

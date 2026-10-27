@@ -14,8 +14,8 @@ id: 3133
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "Mark,   Is the attached your picture?  It's already spreading fast on the WWW.  Your site was not my source, which said the picture was not copyrighted and had no download block:   http://www.oddhobby.com/FOO/DarkFooMain.htm     It looks a lot like one of the fakes we see occasionally on the cover of Weekly World News.      Content-Type: image/jpeg;  name=\"Devil in WTC.jpg\"<br>Content-ID: <001501c140bc$87f51620$129a0b18@elcjn1.sdca.home.com> <br><br>Attachment converted: maddogs enterprise:Devil in WTC.jpg (JPEG/JVWR) (000A4CF5)<br>"
+    - html: true
+      text: "Mark,   Is the attached your picture?  It's already spreading fast on the WWW.  Your site was not my source, which said the picture was not copyrighted and had no download block:   http://www.oddhobby.com/FOO/DarkFooMain.htm     It looks a lot like one of the fakes we see occasionally on the cover of Weekly World News.      Content-Type: image/jpeg;  name=\"Devil in WTC.jpg\"<br>Content-ID: &lt;001501c140bc$87f51620$129a0b18@elcjn1.sdca.home.com&gt; <br><br>Attachment converted: maddogs enterprise:Devil in WTC.jpg (JPEG/JVWR) (000A4CF5)<br>"
   'September 11 Email: CC':
     - html: false
       text: ''

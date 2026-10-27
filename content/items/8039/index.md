@@ -14,7 +14,7 @@ id: 8039
 item_type: 911DA Story
 item_type_metadata:
   '911DA Story: Story':
-    - html: false
+    - html: true
       text: It was one of the most incredible times in the 21st century and we are only getting started. See <a href="http://www.chrisbrauer.com/weblog/2006/09/reflections-on-911.php"> Reflections on 9/11</a>.
 lastmod: '2014-09-11 01:38:10'
 layout: single

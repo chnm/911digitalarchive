@@ -14,7 +14,7 @@ id: 3444
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thank you for the photo.   If there is any fear on my part, if comes from the affirmation that there truly is a satanic force.  I've seen faces of angels in the clouds, but never those of demons.  I've seen two other pics with this image, and have seen the face in replays of the attack.   <br><br>If you do not yet believe in what you see, I hope you do soon.  Satan is real, and here to destroy us all.  Your picture only proves that.  The Almighty God is a merciful God, and would not do this.  In fact, I just read an article last night, showing just how many lives were spared, compared to the 50,000 we could have lost.   <br><br>God be with you all in NY.  The world is praying with you.<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3340
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark, Thank You for your talent to show the world there are evil forces at work against God and people of the earth. Your pic is remarkable and outstanding and should warrant an award. You have my vote Mark. God bless you and keep shooting that camera as your heart desires. I do believe in God, Jesus, Holy Spirit who are in my heart and for as the despicable Satan, he will be locked away forever one day. Amen. Terry Hurd Salem, MO<br>
   'September 11 Email: CC':
     - html: false

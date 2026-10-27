@@ -14,7 +14,7 @@ id: 3331
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Has anyone else noticed the two faces on the bottom of the chin of the big face? Could this be Satin's Trinity? The Beast, the Antichrist and Satin? Patsy Vernon<br>
   'September 11 Email: CC':
     - html: false

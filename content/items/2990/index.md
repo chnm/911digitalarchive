@@ -14,7 +14,7 @@ id: 2990
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To whom it may concern,<br>    I just want to give a little hope. I believe that the picture of the face in the World Trade Center is real. We have had a similar experience. My husband got saved and decided to burn all of his KISS cassette tapes. My friend took a picture of the fire as it was burning. When we got them back we saw a face similar to the one that is at the World Trade Center. My husband kept them as a testimony. As the fire was burning that night we also heard really weird hissing and other noises like low screaming. If you believe in God at all you know that the spirit world is real as well. My husband is a Fireman and knows how fires burn and ours was not a normal fire. I just want to let you know that you are not the only one out there that this has happened to and We Believe You! What has happened to our Country is absolutely an "Act of Evil!"God Bless America!                                                         Sincerely,                                                   Praying for America                                      <br>
   'September 11 Email: CC':
     - html: false

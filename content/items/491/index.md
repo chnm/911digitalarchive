@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: American Federation of Teachers <P>Here's the $600 my wife, Barbara, and I got from the tax cut.  We figure that the families of your members, especially from local 32Bj, can use the money more than we can.
+    - html: true
+      text: American Federation of Teachers <p>Here's the $600 my wife, Barbara, and I got from the tax cut.  We figure that the families of your members, especially from local 32Bj, can use the money more than we can.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

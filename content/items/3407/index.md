@@ -14,8 +14,8 @@ id: 3407
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: People kill me, they always see the worst.  In Mark Phillips photo I see something totally different.  Remember, there were about 50,000 people in those buildings, only 6000 died, it could have been much worse.  I see the FACE OF GOD holding the buildings up for over a hour to allow thousands to escape.                 Teresa Smith                                                                    Bluesea33@msn.com <br><br><br>Get your FREE download of MSN Explorer at <http://go.msn.com/bql/hmtag_itl_EN.asp'>http://explorer.msn.com <br>
+    - html: true
+      text: People kill me, they always see the worst.  In Mark Phillips photo I see something totally different.  Remember, there were about 50,000 people in those buildings, only 6000 died, it could have been much worse.  I see the FACE OF GOD holding the buildings up for over a hour to allow thousands to escape.                 Teresa Smith                                                                    Bluesea33@msn.com <br><br><br>Get your FREE download of MSN Explorer at &lt;http://go.msn.com/bql/hmtag_itl_EN.asp'&gt;http://explorer.msn.com <br>
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 3006
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'SEE THE DEMONS.<br><br>THE PICTURES YOU TOOK WERE ALL TO SCARRY. <br><br>COINCIDENTALLY ABOUT A MOTTH AGO I DISCOVERED IMAGES VERY SIMILAR TO YOUR PHOTOS IN SOME OF MY MOMS ART WORK THAT SHE HAD LEFT ME AFTER HER PASSING. <br><br>I HAVE HAD THE PAINTINGS FOR 6 YEARS NOW AND FOR SOME REASON I JUST DISCOVED THE PICTURES WITH IN THE PICTUES A MONTH AGO. I DON¹T KNOW WHY I DIDN¹T SEE THEM EARLIER BUT NOW THEY ARE CLEAR AS DAY. <br><br>GOTO THE WEB SITE @ HTTP://FRANCINEWALES.COM/ <br><br>AND TELL ME WHAT YOU THINK.<br><br>I WOULD LIKE TO TALK WITH YOU ON THE PHONE IF YOU COULD TAKE THE TIME TO GIVE A QUICK CALL.<br><br>THANKS FOR YOUR TIME.<br>Matt Wales<br>--<br>Matt Wales<br>www.InternetWebDesign.com, Inc.<br>3557 Laurant Way<br>San Jose CA 95132<br><br>Direct: 408.262.8135<br>Fax: 408.956.8611<br>Cell: 408.666.9985<br>PGR/VM: 408.948.2832<br><br>mailto: matt@internetwebdesign.com<br>http://www.InternetWebDesign.com/<br>'
   'September 11 Email: CC':
     - html: false

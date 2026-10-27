@@ -14,7 +14,7 @@ id: 3289
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Please forward this info to Mark Phillips:     To refute the people who are saying that you docotored your photograph direct them to :     Go to CNN.com, bottom of page - more audio-video.  Select 2nd plane hit WTC and you can see the image.   or try:www.cnn.com/SPECIALS/2001/trade.center/multimedia   This same image may be seen on the video - proof that his still photo was not doctored.   Thanks.<br>'
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3445
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: i would like to know if that picture is real or fake my name is jessica.                                                     sincerely,jessica<br>
   'September 11 Email: CC':
     - html: false

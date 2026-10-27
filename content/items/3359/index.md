@@ -14,7 +14,7 @@ id: 3359
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Sir,<br><br>During our after school prayer group, someone brought up the value of your picture. We saw on your web site that we were not allowed to copy it without your permission.<br><br>May we please print it. Our group does not have any funds as we just got started but the picture sends a great message. <br><br>Thanks alot<br>Shelby Middle School Prayer group.<br>
   'September 11 Email: CC':
     - html: false

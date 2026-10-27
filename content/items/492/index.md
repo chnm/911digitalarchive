@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: Federazione Italiana Sindacati Addetti Servizi Commerciali Affini e del Turismo (FISASCAT-CISL)<br><br>We express all our mourning and solidarity to the SEIU friends for the tragedy that has hit the United States. <P>We felt a deep emotion watching on TV the SEIU colleagues of New York providing first aid to victims and woundeds. <P>The feeling pervading workers of the Italian labour movement, and in general all the Italian people, is indignation for these attacks towards innocent and defenceless people. <P>FISASCAT-CISL is close to You! <P>Glann Baratta
+    - html: true
+      text: Federazione Italiana Sindacati Addetti Servizi Commerciali Affini e del Turismo (FISASCAT-CISL)<br><br>We express all our mourning and solidarity to the SEIU friends for the tragedy that has hit the United States. <p>We felt a deep emotion watching on TV the SEIU colleagues of New York providing first aid to victims and woundeds. <p>The feeling pervading workers of the Italian labour movement, and in general all the Italian people, is indignation for these attacks towards innocent and defenceless people. <p>FISASCAT-CISL is close to You! <p>Glann Baratta
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

@@ -14,8 +14,8 @@ id: 3100
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: 'we would like to call really early, if its ok...maybe 6amish central? Please respond at larrymoon@ev1.net<br><br>thanks!<br><br>-----Original Message-----<br>From: Mark D. Phillips<br>To: Moon, Larry<br>Sent: 9/26/2001 2:57 PM<br>Subject: Re: wanna be on the radio in Houston? <br><br>Give me a call at 718-858-8980<br><br>>got your email from Rocky and sue, good friends of mine....we would <br>love to<br>>talk to you about the pix...Can you join us in the morning??? <br><br>>Larry Moon<br>>Mix Morning Show<br>>KHMX - Mix 96.5<br>>3050 Post Oak Blvd, Suite 1200<br>>Houston, TX 77056<br>>713-968-1063<br>>larrymoon@clearchannel.com<br>'
+    - html: true
+      text: 'we would like to call really early, if its ok...maybe 6amish central? Please respond at larrymoon@ev1.net<br><br>thanks!<br><br>-----Original Message-----<br>From: Mark D. Phillips<br>To: Moon, Larry<br>Sent: 9/26/2001 2:57 PM<br>Subject: Re: wanna be on the radio in Houston? <br><br>Give me a call at 718-858-8980<br><br>&gt;got your email from Rocky and sue, good friends of mine....we would <br>love to<br>&gt;talk to you about the pix...Can you join us in the morning??? <br><br>&gt;Larry Moon<br>&gt;Mix Morning Show<br>&gt;KHMX - Mix 96.5<br>&gt;3050 Post Oak Blvd, Suite 1200<br>&gt;Houston, TX 77056<br>&gt;713-968-1063<br>&gt;larrymoon@clearchannel.com<br>'
   'September 11 Email: CC':
     - html: false
       text: ''

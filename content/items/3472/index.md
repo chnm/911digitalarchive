@@ -14,7 +14,7 @@ id: 3472
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I am attempting to view the photograph and inquire about pricing but can not locate this information on your web site.   Please advice.   Sincerely, Thad Keating<br>
   'September 11 Email: CC':
     - html: false

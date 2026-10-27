@@ -14,7 +14,7 @@ id: 3265
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Stellar Images,<br><br>I saw the photo, I was wondering if it was for real. I was also wondering where else I could find other imagery that backs it up. It is really a frightening picture!!<br><br>Thanks for your time,<br><br>Bobbi Iervolino<br>
   'September 11 Email: CC':
     - html: false

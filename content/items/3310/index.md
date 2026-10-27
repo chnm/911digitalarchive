@@ -14,7 +14,7 @@ id: 3310
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,<br><br>Before we had seen your picture, last week my husband's friend at work was on the CNN website and watched a video of the 2nd plane hitting the tower and he saw satan's face rise up out of the smoke and paused the picture at that moment. We had sent that email to our friends so we know you did not doctor that photo.<br><br>Remember there is a God, and He is BIGGER than Satan!!!!!!!!!!!!!!!!!!!!!!!!!!!! :)<br><br>There is a spiritual world and I believe that satan is showing his face because he knows his time is short and he knows that Jesus is coming soon so I think that this is one of his desperate attempts to try and make himself look great before he is thrown into the bottomless pit. <br><br>Sincerely,<br><br>Kim Raymer<br>kimjraymer@integrity.com<br>
   'September 11 Email: CC':
     - html: false

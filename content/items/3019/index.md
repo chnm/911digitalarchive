@@ -14,8 +14,8 @@ id: 3019
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hi. I have been looking for the perfect photo of the World Trade Center to post on my tribute page that I have on my website. Your photograph showing the Statue of Liberty in front of the towers is absolutely wonderful. I wanted to ask permission to use that on my site. Of course if you allow it, I will give credit to where that photo originated from. Thank you,<br><br>Sincerely,<br><br>John Atkinson<br><br>=====<br>***VISIT JOHNS NEW WEBPAGE AT >>>>HTTP://WWW.GEOCITIES.COM/DRAGONSLAYER_74/TRIBUTE.HTML <br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: Hi. I have been looking for the perfect photo of the World Trade Center to post on my tribute page that I have on my website. Your photograph showing the Statue of Liberty in front of the towers is absolutely wonderful. I wanted to ask permission to use that on my site. Of course if you allow it, I will give credit to where that photo originated from. Thank you,<br><br>Sincerely,<br><br>John Atkinson<br><br>=====<br>***VISIT JOHNS NEW WEBPAGE AT &gt;&gt;&gt;&gt;HTTP://WWW.GEOCITIES.COM/DRAGONSLAYER_74/TRIBUTE.HTML <br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

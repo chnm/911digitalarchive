@@ -14,7 +14,7 @@ id: 2962
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I think it looks more like Bill Clinton. Check out the cocaine swollen nose.         Democracy must be something more than two wolves and a sheep voting on what to have for dinner. James Bovard (1994)<br>
   'September 11 Email: CC':
     - html: false

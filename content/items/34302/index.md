@@ -5,7 +5,7 @@ date: '2014-01-08 15:28:26'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Betsy M </b> Betsy Martinez, 33, worked for Cantor and Fitzgerald Company as an assistant manager.
   Title:
     - html: false

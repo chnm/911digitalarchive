@@ -5,7 +5,7 @@ date: '2014-01-08 15:29:45'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Julia, wife of Antonio Melendez</b>, and their child. Antonio Melendez, 43,  was on the 107th floor of the restaurant, Windows on the World, when the disaster struck.
   Title:
     - html: false

@@ -11,8 +11,8 @@ id: 3371
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> Mark I do believe this image of the devil  was there,  as it took evil people to do this act and Satan, wants war and hatred. We must come close to God, with love and kindness and pray for Peace every day.   Bernadette O'Hara Canada <br><br><br><br><br><bold>This e-mail and any attachments may contain confidential and privileged information. If you are not the intended recipient, please notify the sender immediately by return e-mail, delete this e-mail and destroy any copies. Any dissemination or use of this information by a person other than the intended recipient is unauthorized and may be illegal. Unless otherwise stated, opinions expressed in this e-mail are those of the author and are not endorsed by the author's employer. <br><br><br><br><br><br><br></bold><br>
+    - html: true
+      text: <br> Mark I do believe this image of the devil  was there,  as it took evil people to do this act and Satan, wants war and hatred. We must come close to God, with love and kindness and pray for Peace every day.   Bernadette O'Hara Canada <br><br><br><br><br><b>This e-mail and any attachments may contain confidential and privileged information. If you are not the intended recipient, please notify the sender immediately by return e-mail, delete this e-mail and destroy any copies. Any dissemination or use of this information by a person other than the intended recipient is unauthorized and may be illegal. Unless otherwise stated, opinions expressed in this e-mail are those of the author and are not endorsed by the author's employer. <br><br><br><br><br><br><br></b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

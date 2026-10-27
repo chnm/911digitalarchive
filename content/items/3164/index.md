@@ -14,7 +14,7 @@ id: 3164
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thank you for making the photo available on the web.  3 years, I, too, took a picture that had a face in it.  Just a regular person w/a 35 mm taking a picture of my parents farm after my 56 year old Dad died.  Walmart which developed my picture alerted me to the little boys face in the clouds.  So for those who think it was doctored, let them.  I believe we have messages through pictures.   Sincerely, Linda Elben-Adams Cordova, Maryland<br>
   'September 11 Email: CC':
     - html: false

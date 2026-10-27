@@ -14,7 +14,7 @@ id: 3124
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Interestingly enough, a friend of mine noticed the same thing as it was originally played on TV the first time. She thought it was her imagination.<br>
   'September 11 Email: CC':
     - html: false

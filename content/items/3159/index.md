@@ -14,8 +14,8 @@ id: 3159
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br>Mark,<br><br>An amazing photo. You'll have to tell me how you came to be near the WTC just at that moment.<br><br>On a happier note, I'm working on some business for us - a possible Web site for a local architect.<br><br>Regards,<br><br>Jeff Blumenfeld<br><br>In a message dated 9/16/01 4:44:11 AM, mphillips@stellarimages.com writes: <br><br><< To all my friends, family and clients, <br><br>Please look at http://www.stellarimages.com or http://www.markdphillips.com for my response to the photo I shot.<br><br>Mark<br>"
+    - html: true
+      text: "<br>Mark,<br><br>An amazing photo. You'll have to tell me how you came to be near the WTC just at that moment.<br><br>On a happier note, I'm working on some business for us - a possible Web site for a local architect.<br><br>Regards,<br><br>Jeff Blumenfeld<br><br>In a message dated 9/16/01 4:44:11 AM, mphillips@stellarimages.com writes: <br><br>&lt;&lt; To all my friends, family and clients, <br><br>Please look at http://www.stellarimages.com or http://www.markdphillips.com for my response to the photo I shot.<br><br>Mark<br>"
   'September 11 Email: CC':
     - html: false
       text: ''

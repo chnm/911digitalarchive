@@ -5,7 +5,7 @@ date: '2014-01-08 16:04:11'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Carrera Antorcha Guadalupana 2002</b> [jpg file, Asociación Tepeyac, September, 2002] Poster announcing the annual race from  Mexico City to New York City. The race is both a religious pilgrimage  culminating on the feast of Our Lady of Guadalupe on December 12th, and a demonstration against the borders which divide so many families and against the laws which by making migrants illegal, have caused so much suffering.This year the torch was given to the first runner by Luz Maria Mendoza, the wife of one of the Mexican victims of the September 11th attacks.
   Title:
     - html: false

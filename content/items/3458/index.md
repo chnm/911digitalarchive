@@ -14,7 +14,7 @@ id: 3458
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Are you people actually trying to make money off of this event?  You should be ashamed.  It would be different if you had copyrights to a picture of Michael Jordan dunking a basketball or something and you sold it to poster companies for a profit, but the WTC event is much different.  How dare you attempt to make money off this, you self-promoting jerk.   Regards, Concerned Citizen<br>
   'September 11 Email: CC':
     - html: false

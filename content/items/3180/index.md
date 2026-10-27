@@ -14,7 +14,7 @@ id: 3180
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mr. Phillips,<br><br>I saw the face the first day in the live coverage on T.V.  I know you did not doctor the photographs in any way. <br><br>My sincerest hopes and prayers are with you to be able to find peace in this time of insanity. <br><br>Sincerely,<br>Lesley Stagg<br>
   'September 11 Email: CC':
     - html: false

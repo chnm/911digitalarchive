@@ -14,7 +14,7 @@ id: 3122
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark,<br>I wanted to thank you for capturing that image, what ever it is. On Tuesday, After being told the Trade center was on fire, I turned on my T.V. As I stood there with my husband I watched horrified as the events unfolded. During that time I clearly saw a face.<br>I said it to my husband, immediately. He dismissed what I saw. All I know is when I saw it, I was frightened. I was following the events on ABC television. Thank you for validating what my eyes saw that day. <br><br>Coleen Mitchell<br>
   'September 11 Email: CC':
     - html: false

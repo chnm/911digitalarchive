@@ -14,7 +14,7 @@ id: 3269
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,   My brother, deeply religious, lives in Florida.  as soon as he saw the picture he recognized it immediately.  The image is the same image that has been on a former bank building in Clearwater, Florida for the past several years.  It is his belief that this image is that of The Blessed Mother, Mary, Mother of Jesus.  He recognized the image immediately as that.  I believe that is what the image may be of - and that your image is the correct one of her. That IS what you caught ON FILM.    As for that being the image of the devil - he highly doubts that  - no one has actually seen such an image - accruing to him - horns are the human depiction of what they can not fathom.  HE BELIEVES THAT IF YOU LOOK CLOSELY ENOUGH, RATHER THAN BEEING THE DEVIL, YOU MAY ACTUALLY BE ABLE TO SEE JESUS.    Let me know what you think.   Lee Battista<br>
   'September 11 Email: CC':
     - html: false

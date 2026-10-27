@@ -14,7 +14,7 @@ id: 3044
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To whom it may concern:<br><br>I was at my girlfriends home when this awful tragedy occurred, I personally saw the image and told my girlfriend to look at it and at first she couldn't make the face until I got up and pointed to the horrible image.  So, in conclusion this is just a note to let you know that you couldn't have done anything else but take the picture.  The image was there, and I'm sure that there are other people like myself that saw this. <br><br>Sincerely,<br><br>Lucy<br>
   'September 11 Email: CC':
     - html: false

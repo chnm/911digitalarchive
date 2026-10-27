@@ -14,8 +14,8 @@ id: 3386
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Mark,<br><br>This is a very interesting shot. The details are all there. Sometimes the devil only shows part of it's face. This pic shows eyes, mouth, nose.<br>I also have a colour pic of the devil exposing it's entire face and head from an orange burning fireball. This pic was taken in Canada a couple of years ago by a 16 year old who follows fire trucks with has camera. He caught the devil for that split second coming from a fully involved burning roof as firemen carried out operations from the exterior on the third floor (top) balcony.<br>My point is that the devil has been captured on film before and I have the pic to prove it so there is a very high probability that your pic is not doctored in any way.<br><br><br>Good luck and God Bless America!!<br>Your friends & allies from the north.<br>Sincerely,<br><br>Alec Sprenger, President<br>CustomTec Fire Apparatus<br>www.customtecfire.com<br>
+    - html: true
+      text: Mark,<br><br>This is a very interesting shot. The details are all there. Sometimes the devil only shows part of it's face. This pic shows eyes, mouth, nose.<br>I also have a colour pic of the devil exposing it's entire face and head from an orange burning fireball. This pic was taken in Canada a couple of years ago by a 16 year old who follows fire trucks with has camera. He caught the devil for that split second coming from a fully involved burning roof as firemen carried out operations from the exterior on the third floor (top) balcony.<br>My point is that the devil has been captured on film before and I have the pic to prove it so there is a very high probability that your pic is not doctored in any way.<br><br><br>Good luck and God Bless America!!<br>Your friends &amp; allies from the north.<br>Sincerely,<br><br>Alec Sprenger, President<br>CustomTec Fire Apparatus<br>www.customtecfire.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

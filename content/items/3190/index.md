@@ -14,7 +14,7 @@ id: 3190
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Greetings - I was shown this photograph taken during the terrioist attacks last week and have become increasingly interested in this image. <br><br>I've also visited your website and was wondering if I could purchase an original photographic hard copy of this image? This will be for personal use - to show friends that are also interested in the photograph and to confirm it is not a phony. I understand that there will be a charge. <br><br>Is this possible, and if so, how does the process work? <br><br>Thank you and God Bless America!<br><br>Barbara<br>
   'September 11 Email: CC':
     - html: false

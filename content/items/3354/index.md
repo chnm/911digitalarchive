@@ -14,7 +14,7 @@ id: 3354
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi, I am 20 years old My name is Lawrence and I'm from Oklahoma City.  My aunt had called my family and told us about your picture.  I feel very saddened and upset about what has happened in New York City.  I was studdying the picture and right away I seen a picture of timmothy Mcveigh and what seemed to be a picture of satin over his left shoulder.  I also seen another picture of a demon behind the left sholder of what seemed to be satin.  I do believe that this picture has not been touched or messed with.          <br>      Sincerely,<br>            Lawrence Roberts<br>
   'September 11 Email: CC':
     - html: false

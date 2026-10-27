@@ -11,7 +11,7 @@ id: 3035
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: About the photo that Mark took.  I do believe the face to be the face of Satan as well.  Why should anyone be alarmed.  Everyone who believes in God, should believe that Satan exists as well.  Anyone who believes in heaven, should believe in a hell as well.  Would anyone disagree that the people who did this horrific crime were of the devil?  I'm not surprised about Satan "autographing" his work, but the autograph was for the terrorists.  The heart of any man who could do this certainly had to be possessed by something evil.  The laugh is on the terrorists however, because while the victims share eternity with God in paradise, the highjackers aren't able to report to their organization that their eternal resting place is an eternity in hell. <br><br>
   'September 11 Email: CC':
     - html: false

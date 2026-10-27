@@ -14,8 +14,8 @@ id: 3320
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hello Mark,I just want to thank you for that photo shot.Wether its been doctor or not,which I dont beleve it has.It relley maid a lot of people open there eyes,to realize we are living in the last days.Into accept "Jesus as our Lord & Savor".So when we see photos like this one,we want be scared or affraid.I thank you agin.                                    Ricky Hickory,NC <br>
+    - html: true
+      text: Hello Mark,I just want to thank you for that photo shot.Wether its been doctor or not,which I dont beleve it has.It relley maid a lot of people open there eyes,to realize we are living in the last days.Into accept "Jesus as our Lord &amp; Savor".So when we see photos like this one,we want be scared or affraid.I thank you agin.                                    Ricky Hickory,NC <br>
   'September 11 Email: CC':
     - html: false
       text: ''

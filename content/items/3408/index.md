@@ -14,7 +14,7 @@ id: 3408
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I have been sent this e-mail two times and both times the first thing I saw was The Blessed Mother in the lower left side of what people are calling the picture of satan. I know that Our Blessed Mother will win over satan and will announce the coming of her Son, Jesus Christ! I also hurt and pray for all the innocent people who lost their lives on that horrible day! I also know that the American people need to turn to God and put him first in their lives! If we do this, then we need not be afraid because God will protect us! If we keep turning our backs on God, then we have alot to fear!  We as a nation need to stand together not only as a nation ready to defend it's soil, but also a nation joined together with the love for God. We need to bring God back into our schools and stop killing innocent babies! We need to love God first, and everyone else, and then God will protect us. I too see the picture of satan in the smoke, but I also see God winning over evil in the end.                                                                                                                       GOD BLESS,                                                                                                                  KIM HILLS     e-mail address;  khills4@hotmail.com<br>
   'September 11 Email: CC':
     - html: false

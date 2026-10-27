@@ -14,7 +14,7 @@ id: 3483
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>Allow me to voice my support.<br><br>Brian<br><br>member,<br>NPPA<br>WNPA<br>EP<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3280
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I want to first of all thank you for coming on the 9news chat this evening. <br><br>I had mentioned a couple of times during the chat about a third photo that no one seems to be talking about. It was on the front page of the Rocky Mountain New on Sept. 12th. When people talk about your photo and CNN's photo, I thought they were talking about this one, but this one was taken by Kristen Brochmann of the New York Times. Have you seen it? <br><br>The devil is to the left of the burning building. His nose is broader than the one in yours, but it's more of a frontal view. <br><br>Sends chills up my spine. I think every American should ask themselves..."Is my heart right with God?"<br><br>Pegasus (yes that's my real name) Truntschka <br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

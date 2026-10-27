@@ -14,7 +14,7 @@ id: 3135
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: THANK YOU FOR SHARING YOUR PICTURE WITH ME. IT IS VERY REAL. AS THE ANTICHRIST ENERGY IS IN THIS WORLD, VERY REAL. THANK YOU AGAIN. AMAZING ABSOLUTLY AMAZING!!!!  GOD BLESS YOU AND YOURS.... <br><br>CHRISTINE.......<br>
   'September 11 Email: CC':
     - html: false

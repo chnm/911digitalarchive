@@ -14,7 +14,7 @@ id: 3477
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "...for the words of reason in a world of much panic and stupidity. I see what people are referring to and maybe we are projecting that image mentally because we need to feel that there is some evil beyond our control. If it was something that could have been prevented, we would feel too guilty. That's OK. A belief in God necessitates a believe in the Devil as the evil force in the world and it does exist. I used to lie on my back and see shapes in the clouds...still do in fact. Our eyes see what our brain feels it needs to see. The picture is wonderful and horrible in that it truly captures the awful reality.<br>Mimi<br>Austin, TX<br>"
   'September 11 Email: CC':
     - html: false

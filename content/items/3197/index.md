@@ -14,8 +14,8 @@ id: 3197
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br>Thank you for your quick response and the heartfelt note on the homepage.  I will share this with the folks who forwarded this original photo with me.  This is eerie beyond words.  My thoughts and prayers are with you, and all others who experienced this horrible act.   Dee <br><br><br><br><br><br><paraindent><param>left</param><br><br>----- Original Message ----- <bold>From:</bold> Mark D. Phillips <bold>Sent:</bold> Saturday, September 15, 2001 8:02 PM <bold>To:</bold> Andrea Janelle <bold>Subject:</bold> Re: Fw: IS THIS REAL? OR DID YOU GRAPHICALLY ENHANCE? <br><br><br><br></paraindent><br><br><br><br>Get your FREE download of MSN Explorer at <<http://go.msn.com/bql/hmtag_itl_EN.asp'>http://explorer.msn.com <br><br><br>"
+    - html: true
+      text: "<br>Thank you for your quick response and the heartfelt note on the homepage.  I will share this with the folks who forwarded this original photo with me.  This is eerie beyond words.  My thoughts and prayers are with you, and all others who experienced this horrible act.   Dee <br><br><br><br><br><br><br><br>----- Original Message ----- <b>From:</b> Mark D. Phillips <b>Sent:</b> Saturday, September 15, 2001 8:02 PM <b>To:</b> Andrea Janelle <b>Subject:</b> Re: Fw: IS THIS REAL? OR DID YOU GRAPHICALLY ENHANCE? <br><br><br><br><br><br><br><br>Get your FREE download of MSN Explorer at &lt;&lt;http://go.msn.com/bql/hmtag_itl_EN.asp'&gt;http://explorer.msn.com <br><br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

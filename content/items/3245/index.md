@@ -14,7 +14,7 @@ id: 3245
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello, I was wondering if I could have the picture e-mailed to me with the devil face in the smoke without any writing over it. I am a firefighter in Vermont and would like to put the picture inside our firehouse for other firefighters to see. If you decide to send the picture it will only be printed once and will not be e-mailed to anybody.<br><br>Thank you,<br>Mark Barone<br>
   'September 11 Email: CC':
     - html: false

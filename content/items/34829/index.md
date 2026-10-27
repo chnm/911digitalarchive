@@ -5,7 +5,7 @@ date: '2014-01-08 15:37:53'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: Family of <b>Victor Antonio Martinez Pastrana</b>, who supported his family in Mexico through his work at a restaurant at the Twin Towers.
   Title:
     - html: false

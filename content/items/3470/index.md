@@ -14,7 +14,7 @@ id: 3470
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: This is not something altered or tampered with in any way. Just as there is good there is evil also. As we know there is a God the devil also exists .The angels cast out of heaven are demon spirits just as we have angels watching over us. This is nothing but what we know is in the word (Bible).This country will come thru this but we need to repent and turn from our wicked ways and many need to turn back to God.<br>
   'September 11 Email: CC':
     - html: false

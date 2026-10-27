@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: NUDGE National Executive Board, National Union of Public and General Employees <P>None of us can change what happened yesterday.  But every one of us can change what happens tomorrow.  We stand behind you in solidarity, shoulder to shoulder, for as many tomorrows as it takes.
+    - html: true
+      text: NUDGE National Executive Board, National Union of Public and General Employees <p>None of us can change what happened yesterday.  But every one of us can change what happens tomorrow.  We stand behind you in solidarity, shoulder to shoulder, for as many tomorrows as it takes.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

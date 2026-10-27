@@ -8,7 +8,7 @@ dublin_core:
     - html: false
       text: '[Flash file, Nicola Brusco, January 2002, Italian, 5:59 minutes] In this Italian language animation, a television news anchorman introduces a video clip  reportedly obtained through an anonymous member of Al-Qaeda -- in which Bin Laden presents his last message to the world.   In the clip, Bin Laden both prays profusely and coughs continuously. After a few sentences, however, he changes style and commences to lament the ways in which his life has gone awry. He had, he informs us, originally wanted to become a lawyer. But now  despite his wealth  he finds himself living in caves with camels. Osama then professes that he had not really intended to cause such pain, and that his actions now trouble him so profoundly that he can neither sleep or defecate. He continues by explaining that he suffers from dreams in which dogs bark "Bush, Bush."   Further, he worries that if steps outside of his caves, "They will colander me" (employing an expression in Italian meaning "to make a colander of"; in other words, to be shot full of holes).  Osama then declares that his situation is so dire, he cant even get to Switzerland to get plastic surgery on his face. He finishes with a poem, dedicated to the terrorists that immolated themselves on 9/11. They wanted, Bin Laden recites, to change the world in the most violent way but they failed to realize that killing changes nothing. Finally, Osama declares he wants his money and youth back, that Jihad is garbage, and begs for forgiveness. The animation ends with the theme-song from the Italian version of the TV show "Mork and Mindy," and Bin Laden finishes his address with Morks signature "Nanoo-Nanoo" hand gesture.'
   Title:
-    - html: false
+    - html: true
       text: Osama's Last Video <i> (Italian) </i>
 featured: false
 files:
@@ -77,7 +77,7 @@ related_items: []
 slug: '2841'
 sortdate: '9999-99-99'
 tags: []
-title: Osama's Last Video <i> (Italian) </i>
+title: Osama's Last Video (Italian)
 type: items
 ---
 

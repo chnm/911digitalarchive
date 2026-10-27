@@ -5,9 +5,9 @@ date: '2014-01-07 17:52:09'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: |-
-        Endless Cycle? [Mov file, Nishan Kazazian, 2001, 1:50 minutes] Kazazian created this work to address the parallels he perceives between the events of September 11, 2001, and the Armenian genocide  that compelleded his father to leave his native country at age 6. The work challenges us to be more than silent emotionless mannequins, oblivious to the suffering around us, raising our heads only briefly before going back to our daily routines.   This animation was first shown at the
+        Endless Cycle? [Mov file, Nishan Kazazian, 2001, 1:50 minutes] Kazazian created this work to address the parallels he perceives between the events of September 11, 2001, and the Armenian genocide  that compelleded his father to leave his native country at age 6. The work challenges us to be more than silent emotionless mannequins, oblivious to the suffering around us, raising our heads only briefly before going back to our daily routines.   This animation was first shown at the<br>
         Art Resources Transfer Gallery in New York City. <br> <br><a href="http://www.911digitalarchive.org/diganimbackup/END_HIRES.MOV">Hi-Res Version </a> (warning: this file is extremely large and may take five to ten minutes to download.)
   Title:
     - html: false

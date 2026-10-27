@@ -14,7 +14,7 @@ id: 3137
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thanks Mark for the picture the devil was sure in that building on that day, cause had it not been the devil that building would still stand today and mothers and fathers daughters and sons would be here today.I pray that all those that call themselves not to believe in God change their heart and began to pray for our country and our leaders.   Thanks again  un_tee_ro<br>
   'September 11 Email: CC':
     - html: false

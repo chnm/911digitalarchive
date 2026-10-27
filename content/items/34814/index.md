@@ -5,7 +5,7 @@ date: '2014-01-08 15:37:37'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Fanny Espinoza</b>, 29,  worked on the 102nd floor of the North tower at Cantor Fitzgerald Company.
   Title:
     - html: false

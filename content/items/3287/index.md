@@ -14,8 +14,8 @@ id: 3287
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br>To Mark,<br>Your photos of The Twin Towers are absolutely breathtaking. I can't image how looking at the skyline everyday & they not being there . But I want to order the two night time photos. But I would like to send you a check. Is that possible?<br><br><br><br><br>LA ROSE!<br>
+    - html: true
+      text: <br>To Mark,<br>Your photos of The Twin Towers are absolutely breathtaking. I can't image how looking at the skyline everyday &amp; they not being there . But I want to order the two night time photos. But I would like to send you a check. Is that possible?<br><br><br><br><br>LA ROSE!<br>
   'September 11 Email: CC':
     - html: false
       text: ''

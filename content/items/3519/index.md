@@ -14,7 +14,7 @@ id: 3519
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I heard of the picture on the Wimington, DE News journal.  I did not get a copy of paper...but had hear of this picture. Friends of mine had emailed this to me.  I believe in the second coming of Our Lord...the time is nearing and we all need to get right and ask God forgiveness and forgive other....this was a terriable act on the USA...I fear it is not the last either.  Maybe this is a wake up call for all Americans to call together in peace, and love one another as the bible and God teaches us...as for life is to short and in the blink of an eye we can be gone....God is nearing, and we should all pray for one another... Bonnie Anderson<br>Lewes, De<br>
   'September 11 Email: CC':
     - html: false

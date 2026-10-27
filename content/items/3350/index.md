@@ -14,8 +14,8 @@ id: 3350
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br>   ----- Original Message ----- <bold>From:</bold> Linda's Mail <bold>To: </bold><<mailto:info@stellarimages.com>info@stellarimages.com <bold>Sent:</bold> Tuesday, October 02, 2001 4:29 PM <bold>Subject:</bold> thank you, great pix <br><br>  I had seen your clip with inside edition, it's a shame that an artist has to always defend his work. You seem like a man that would never even thought of doing something so horrific. With the country so devastated  I can't see you doing anything so imoral  and really think that money was  on your mind at the time. You happen to be a great photograher and was blessed enough to get a great shot...And donating the proceeds just shows what kind of man you are... Linda Cardoza<br>"
+    - html: true
+      text: "<br>   ----- Original Message ----- <b>From:</b> Linda's Mail <b>To: </b>&lt;&lt;mailto:info@stellarimages.com&gt;info@stellarimages.com <b>Sent:</b> Tuesday, October 02, 2001 4:29 PM <b>Subject:</b> thank you, great pix <br><br>  I had seen your clip with inside edition, it's a shame that an artist has to always defend his work. You seem like a man that would never even thought of doing something so horrific. With the country so devastated  I can't see you doing anything so imoral  and really think that money was  on your mind at the time. You happen to be a great photograher and was blessed enough to get a great shot...And donating the proceeds just shows what kind of man you are... Linda Cardoza<br>"
   'September 11 Email: CC':
     - html: false
       text: ''

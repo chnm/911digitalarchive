@@ -14,7 +14,7 @@ id: 3098
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Please send me a copy of the picture of the trade of the trade center picture with the devil in the smoke. I can't find the sales form on the internet. My address is Teresa Vaughn, P.O. Box 476 Henrietta North Carolina, 28076.  I will send a money order or if you send it to the Post office, I will pay it then.                                                 Thank you,                                                       Teresa Vaughn                                                     jvaugh7@bellsouth.net<br>
   'September 11 Email: CC':
     - html: false

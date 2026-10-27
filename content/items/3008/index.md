@@ -14,7 +14,7 @@ id: 3008
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: After seeing this photo that people claim they see the devil, I was moved by what Mr. Phillips wrote about the events of that day and his experience of taking the photos. No matter what we see in these photos, we must always remember the loss of life that occurred here and help the friends and families of those who lost their lives that day. As a nation we must stand behind each other and I think it is amazing that we are seeing first hand this happening.<br><br>Thank you Mr. Phillips for your honesty and contribution to this event. <br><br>Karen<br>Pittsburgh, PA<br>
   'September 11 Email: CC':
     - html: false

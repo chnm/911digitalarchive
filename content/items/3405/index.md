@@ -14,7 +14,7 @@ id: 3405
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: hello i recently went to your website about seeing the devil's face on the side of the WTC building.  Unfortunatley im not sure if im seeing it clearly and was wondering if there is another site that possibly has a better pic of it? <br><br>thanks so much<br>Michele Rodriguez<br>(freshman student at The University of Connecticu from New York)<br>
   'September 11 Email: CC':
     - html: false

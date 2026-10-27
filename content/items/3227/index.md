@@ -14,7 +14,7 @@ id: 3227
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark Phillips, I, too, saw that distinct image in the clouds of smoke that bellowed out of the World Trade Center towers. However, I saw it as I watched in horror on TV at my home in Georgia. It sent chills through my body and I thought that the emotions I was feeling had allowed my mind to play tricks on me, now I know what I saw was real. Because I watched NBC, ABC and CNN throughout the day, I cannot say which network aired that image but someone has it and there will be no denying that demonic face in the clouds.<br>In New Bedford, MA a few years back, a photographer captured the image of an angel in the clouds. That picture is displayed in my home as a reminder we are not alone and need not be afraid. Never before have I needed that picture more than I do now.<br><br>Sincerely,<br><br>Faye Ketzler<br>Alpharetta, GA<br>
   'September 11 Email: CC':
     - html: false

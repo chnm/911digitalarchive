@@ -14,7 +14,7 @@ id: 3487
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: i heard of that image but have never seen it til this minate!!! i do believe satan and evil was alive that horrible day for us as americans but we will over come terrorism thank you for taking those incredible pictures eric dolenshak ca usa<br>
   'September 11 Email: CC':
     - html: false

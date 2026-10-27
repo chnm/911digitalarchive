@@ -14,7 +14,7 @@ id: 2968
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: just remeber that JESUS was a controverrsial figure.  what you have is unexplained but not impossible to be believed.  your work is fantastic and those who wish to degrade you are to full of fear to have an opened mind. will continue to watch for more of your work and do not sweat those who are to afraid to believe in any one. jstermer@hiroad.net     <br>
   'September 11 Email: CC':
     - html: false

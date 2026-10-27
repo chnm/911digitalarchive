@@ -14,7 +14,7 @@ id: 3028
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark,<br>I'm not normally impressed by allegedly 'miraculous' images in clouds, tree-bark, flaking paintwork and the like, but I must admit to finding the image of satan in the smoke billowing from the WTC chilling to say the least.<br>It recalled to mind a message which the famous Italian locutionist, Fr Stefano Gobbi, received from the Virgin Mary, which said, in part, ".......satan now thinks that he reigns over you as sure victor......" And that is the way it looked. As though Lucifer hasd ascended his throne, and was surveying his kingdom from the midst of the devastation he had wrought.<br>It really doesn't matter whether the image was of supernatural origin or not. The symbolism was inescapable. But fortunately we also know this. It is just when satan believes he has total victory in his grasp that he will be overthrown.<br><br>God bless you, now and always,<br><br>Stewart.<br>
   'September 11 Email: CC':
     - html: false

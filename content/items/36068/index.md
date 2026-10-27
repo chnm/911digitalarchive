@@ -5,8 +5,8 @@ date: '2014-01-08 16:00:21'
 draft: false
 dublin_core:
   Description:
-    - html: false
-      text: <B>Elda e Hijo </b>Family of Luis Norales, who was in tower 1 on the 87th floor for a job interview when the attack occurred.
+    - html: true
+      text: <b>Elda e Hijo </b>Family of Luis Norales, who was in tower 1 on the 87th floor for a job interview when the attack occurred.
   Title:
     - html: false
       text: 1970.jpeg

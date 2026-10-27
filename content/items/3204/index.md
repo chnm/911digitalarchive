@@ -14,8 +14,8 @@ id: 3204
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "Hello, my name is Tanesa Sanchez and I live in Philadelphia, I saw the tragedy of the world trade center on the news, and I myself saw the face in the smoke, I just wanted to let Mr. Phillips know that I find his photos a true work of art, and he has a genuine eye for beauty, and I do not believe that Mr. Phillips would in any way alter his photos, so please let Mr. Phillips know, he has a true fan in Philadelphia who appreciates the beauty seen through his eyes, and thank you for sharing it with us. Keep up the great work Mr. Phillips. Thank you Tanesa Sanchez<br><br>Get more from the Web. FREE MSN Explorer download : <http://explorer.msn.com'>http://explorer.msn.com <br><br>"
+    - html: true
+      text: "Hello, my name is Tanesa Sanchez and I live in Philadelphia, I saw the tragedy of the world trade center on the news, and I myself saw the face in the smoke, I just wanted to let Mr. Phillips know that I find his photos a true work of art, and he has a genuine eye for beauty, and I do not believe that Mr. Phillips would in any way alter his photos, so please let Mr. Phillips know, he has a true fan in Philadelphia who appreciates the beauty seen through his eyes, and thank you for sharing it with us. Keep up the great work Mr. Phillips. Thank you Tanesa Sanchez<br><br>Get more from the Web. FREE MSN Explorer download : &lt;http://explorer.msn.com'&gt;http://explorer.msn.com <br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

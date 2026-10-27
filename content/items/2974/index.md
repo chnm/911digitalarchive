@@ -14,7 +14,7 @@ id: 2974
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: i find it pretty amusing that these people are so quick to see satan in your smoke image. and you can see mickey mouse in the clouds or the virgin mary in the bark of a tree. as was said in ingmar bergman's "the hour of the wolf", "you see what you want to see" this was a tragic day, but these people really should be more rational in their thinking.<br>cynth<br>
   'September 11 Email: CC':
     - html: false

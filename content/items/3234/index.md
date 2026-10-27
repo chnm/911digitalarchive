@@ -14,7 +14,7 @@ id: 3234
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Our hearts and thoughts and prayers are with you.  I lost a child in a random act of violence.  I wish I was closer to be their to comfort all dealing with this tradedy so close up and with lives and families.  God Bless Sandi<br>
   'September 11 Email: CC':
     - html: false

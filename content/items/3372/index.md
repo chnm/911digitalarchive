@@ -14,7 +14,7 @@ id: 3372
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: There has not been enough tragedy and emotional upheaval over this horrible disaster, you have to look for something like this to show people? Congratulations, your close to achieving the same mental level as the people who caused it. <br><br>This is ridiculous!<br>
   'September 11 Email: CC':
     - html: false

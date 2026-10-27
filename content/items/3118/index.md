@@ -14,7 +14,7 @@ id: 3118
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I'm surprised none of the controversy regarding the "face" in the smoke hasn't mentioned that you could see the smoke looking like a face even in the news coverage on CBS 2 (the local NY/NJ station). I escaped WTC building 5, ran home to Jersey City, and while watching the news on channel 2, remarked that the smoke looked like a face. Your photo is not the only image to capture this -- video cameras saw it, too. <br><br>I don't think that this is a portent of doom. It's only natural for humans to make things look like faces. I can see them in the wood grain on my desk, in my bathroom rug, in the clouds and the trees. Yet it is an eerie image.<br><br>Jenny<br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3369
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br>Dear Mark,<br><br>I think this was an amazing photo. I have looked at it in an Colorado news paper article. For some reason I see Kennedy's face stretched.The small picture looks like Kennedy on a bad day. Is this me or have you had others that say the same thing. Thanks for being on your toes. <br><br>Debby<br>
   'September 11 Email: CC':
     - html: false

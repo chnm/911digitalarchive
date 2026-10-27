@@ -26,38 +26,38 @@ item_type_metadata:
     - html: false
       text: New York State Assembly District 28, currently represented by State Sen. Olga Mendez, will consist of only El Barrio (Spanish Harlem), Roosevelt Island and part of the South Bronx, leaving part of Washington Heights as another, newly established, predominately Hispanic district.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        New York State Assembly District 28, currently represented by State Sen. Olga Mendez, will consist of only El Barrio (Spanish Harlem), Roosevelt Island and part of the South Bronx, leaving part of Washington Heights as another, newly established, predominately Hispanic district.
-
-        According to Rep. Adam Clayton Powell IV, the change will leave us the same. The district will continue to be just as Hispanic as before, and by unifying Washington Heights, there is the possibility of choosing two senators instead of one.
-
-        According to a source close to Sen. Mendez, she sacrificed part of her district, just as she had done ten years earlier, for larger Hispanic representation in the state senate. Changing the electoral borders makes it possible to create another district likely to elect a Hispanic representative.
-
-        But did radio host Falin Falus announcement of her plans to run against Sen. Mendez influence the senators position on the new boundaries of the district?
-
-        Falu said she withdrew from the race because of the new boundaries, which now do not include the part of Harlem where she lives, making it too difficult for her to win in the primaries.
-
-        Powell did not deny that this could have figured into the redistricting and the siting of the borders. In redistricting, the incumbent legislator has great influence on where the new electoral borders are drawn.
-
-        Felix Rosado, also a candidate for the legislative position that Mendez currently holds, lives on a block cut out of District 28, but he is still eligible to run in the primaries.
-
-        To Rosado, the redistricting of District 28 is both good and bad for the people of El Barrio. It is good because the district now has a greater number of Hispanic voters, but bad because Bronx voters may want to have their own candidate and divide the Hispanic vote, a threat that has always been present.
-
-        A similar case is expected in Washington Heights, where two Dominican political adversaries are likely to announce their candidacy for the senate: Assemblyman Adriano Espillat and the ex-City Councilman Guillermo Linares. This could divide the Hispanic vote, which would benefit District 30 incumbent Eric Schneiderman, who may retain the right to represent the Democrats in November.
-
-        Meanwhile, another predominantly Hispanic district was created in QueensDistrict 13-where Charlie Castro is running. This increases the number of districts with a Hispanic majority in New York State to 12.
-
-        As for the Assembly district represented by Rep. Powell, it was hardly affected. The City  Council district has not yet been established.
-
-        The plan for the new districts was approved by Gov. George Pataki. The plan had been approved previously by the House of Representatives and the State Assembly.
-
-        <i>What is redistricting?</i>
-
-        The United States Constitution requires that the borders of congressional and state legislative districts be revised every ten years, reflecting population changes as recorded by the U.S. Census. This process is done by the state legislature.
-
-        The Voting Rights Act requires that new borders be delineated in a way that provides minority communities with the opportunity to elect the representatives that they prefer.
-
+        New York State Assembly District 28, currently represented by State Sen. Olga Mendez, will consist of only El Barrio (Spanish Harlem), Roosevelt Island and part of the South Bronx, leaving part of Washington Heights as another, newly established, predominately Hispanic district.<br>
+        <br>
+        According to Rep. Adam Clayton Powell IV, the change will leave us the same. The district will continue to be just as Hispanic as before, and by unifying Washington Heights, there is the possibility of choosing two senators instead of one.<br>
+        <br>
+        According to a source close to Sen. Mendez, she sacrificed part of her district, just as she had done ten years earlier, for larger Hispanic representation in the state senate. Changing the electoral borders makes it possible to create another district likely to elect a Hispanic representative.<br>
+        <br>
+        But did radio host Falin Falus announcement of her plans to run against Sen. Mendez influence the senators position on the new boundaries of the district?<br>
+        <br>
+        Falu said she withdrew from the race because of the new boundaries, which now do not include the part of Harlem where she lives, making it too difficult for her to win in the primaries.<br>
+        <br>
+        Powell did not deny that this could have figured into the redistricting and the siting of the borders. In redistricting, the incumbent legislator has great influence on where the new electoral borders are drawn.<br>
+        <br>
+        Felix Rosado, also a candidate for the legislative position that Mendez currently holds, lives on a block cut out of District 28, but he is still eligible to run in the primaries.<br>
+        <br>
+        To Rosado, the redistricting of District 28 is both good and bad for the people of El Barrio. It is good because the district now has a greater number of Hispanic voters, but bad because Bronx voters may want to have their own candidate and divide the Hispanic vote, a threat that has always been present.<br>
+        <br>
+        A similar case is expected in Washington Heights, where two Dominican political adversaries are likely to announce their candidacy for the senate: Assemblyman Adriano Espillat and the ex-City Councilman Guillermo Linares. This could divide the Hispanic vote, which would benefit District 30 incumbent Eric Schneiderman, who may retain the right to represent the Democrats in November.<br>
+        <br>
+        Meanwhile, another predominantly Hispanic district was created in QueensDistrict 13-where Charlie Castro is running. This increases the number of districts with a Hispanic majority in New York State to 12.<br>
+        <br>
+        As for the Assembly district represented by Rep. Powell, it was hardly affected. The City  Council district has not yet been established.<br>
+        <br>
+        The plan for the new districts was approved by Gov. George Pataki. The plan had been approved previously by the House of Representatives and the State Assembly.<br>
+        <br>
+        <i>What is redistricting?</i><br>
+        <br>
+        The United States Constitution requires that the borders of congressional and state legislative districts be revised every ten years, reflecting population changes as recorded by the U.S. Census. This process is done by the state legislature.<br>
+        <br>
+        The Voting Rights Act requires that new borders be delineated in a way that provides minority communities with the opportunity to elect the representatives that they prefer.<br>
+        <br>
         The new district borders for the U.S. Congress, New York State Assembly and State Senate will be in place for this years elections.
   'VTMBH Article: Date':
     - html: false

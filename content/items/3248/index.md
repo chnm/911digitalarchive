@@ -14,7 +14,7 @@ id: 3248
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: got your email from Rocky and sue, good friends of mine....we would love to talk to you about the pix...Can you join us in the morning??? <br><br>Larry Moon<br>Mix Morning Show<br>KHMX - Mix 96.5<br>3050 Post Oak Blvd, Suite 1200<br>Houston, TX 77056<br>713-968-1063<br>larrymoon@clearchannel.com<br>
   'September 11 Email: CC':
     - html: false

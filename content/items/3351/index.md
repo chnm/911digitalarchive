@@ -14,7 +14,7 @@ id: 3351
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I am hosting a prayer circle in a small, rural community and would like permission to print copies of your famous image to have available to members of the prayer group. Your permission would be greatly appreciated.   Susan Laferriere Innovations 1222 East Street Honesdale PA  18431 570/253-7755 innovations@dfnow.com<br>
   'September 11 Email: CC':
     - html: false

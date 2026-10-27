@@ -14,7 +14,7 @@ id: 3422
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The picture shocked me to speechlessness.....and chills ran across my body when I believe there are more than the one face....there are several around the one!! I believe they are demons! People have captured pictures of Angels....why can't they photograph demons too? Thank you,<br>Nicole in Arkansas....a proud American!<br>
   'September 11 Email: CC':
     - html: false

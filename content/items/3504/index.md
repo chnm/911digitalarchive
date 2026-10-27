@@ -14,7 +14,7 @@ id: 3504
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "<br><br>-----Original Message-----<br>From: Silent Thunder [mailto:SilentThunder@austin.rr.com] Sent: Wednesday, September 19, 2001 11:02 PM To: kusa@9news.com<br>Subject: Attn: Mark Phillips<br><br><br>I see that there was a discussion board for the controversial photo of a \"face\" in the smoke. In your article you state \"Phillips stands by his photo and says he has been a journalist for 25 years and would never alter a photo. He says he has the original digital photo untouched, with the date and time. \"<br><br>What was the exact *time* of the photo? Do you have a timeline of events? It seems that the times vary from one news station to the next- and the Air Force is giving yet another set of times... <br><br>Thank You.<br>Shayla Kolar<br><br>I'm a happy red cat from Neptune. =^*v*^=<br>"
   'September 11 Email: CC':
     - html: false

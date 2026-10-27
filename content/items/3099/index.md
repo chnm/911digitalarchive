@@ -14,7 +14,7 @@ id: 3099
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "There is another view, taken from the right of the image, available on the Washington Post's web site. It is found under Camera Works/US Under Attack/enter the gallery/scroll to image #9. It is different than yours, but is a clear image of a face. From the photo, it was taken after yours as this photo is of the tower as it was beginning to collapse. Yours appears to be taken before that event.<br><br>Steve Shepherd, Hillsborough NC<br>"
   'September 11 Email: CC':
     - html: false

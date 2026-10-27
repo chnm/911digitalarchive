@@ -11,7 +11,7 @@ id: 3116
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: mark is one of the few journalists who i believe is a very honest person.i am not a believer in such things as this photo, but it is scary. sincerely bea boprey ny<br>
   'September 11 Email: CC':
     - html: false

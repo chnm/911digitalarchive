@@ -14,7 +14,7 @@ id: 3421
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I don't know if anyone noticed, but there is a face of a man with very little hair and a woman right next to him on the devil's chin.  My husband can't see it but I sure as heck can.  I would really like some confirmation on this.  Also, you did a fabulous job photographing this picture!                                                       Kellie<br>
   'September 11 Email: CC':
     - html: false

@@ -14,8 +14,8 @@ id: 3155
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: ">I am the photographer who shot the \"devil\" face photo you are showing on your site. I respectfully request that you place a link under the photo to my sites explaining the photo and my feelings about this horrible attack.<br><br>>Please put these up as soon as possible: <br><br>>http://www.stellarimages.com<br>>http://www.markdphillips.com<br><br>Thanks for coming forward -- we're delighted to know the identity of the photographer that took this amazing photo and grateful for the opportunity to properly credit him. We have complied with your request -- see http://www.snopes2.com/spoons/photos/wtcface.htm <br><br>- Barbara<br><br>+---------------------------------------------------------------------+ | Urban Legends Reference Pages --> http://www.snopes.com |<br>+---------------------------------------------------------------------+<br>"
+    - html: true
+      text: "&gt;I am the photographer who shot the \"devil\" face photo you are showing on your site. I respectfully request that you place a link under the photo to my sites explaining the photo and my feelings about this horrible attack.<br><br>&gt;Please put these up as soon as possible: <br><br>&gt;http://www.stellarimages.com<br>&gt;http://www.markdphillips.com<br><br>Thanks for coming forward -- we're delighted to know the identity of the photographer that took this amazing photo and grateful for the opportunity to properly credit him. We have complied with your request -- see http://www.snopes2.com/spoons/photos/wtcface.htm <br><br>- Barbara<br><br>+---------------------------------------------------------------------+ | Urban Legends Reference Pages --&gt; http://www.snopes.com |<br>+---------------------------------------------------------------------+<br>"
   'September 11 Email: CC':
     - html: false
       text: ''

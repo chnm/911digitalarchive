@@ -14,7 +14,7 @@ id: 3078
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Within minutes of the planes crashing into the WTC - in the earliest views of the tragedy, an image of the leering face of satan, as commonly depicted, was formed in the smoke that billowed from the buildings. More surprising, it wasn't mentioned in any of the broadcasts that I saw that anyone else saw the face. Though I didn't see it on the building itself, I did see it in the smoke, and mentioned it to my sister, fearing that she may think I was being a bit dramatic. The image was there, and was very clearly the face of satan. If the early films of the tragedy are played it will surely be obvious to others, but I believe it was in the smoke that rose above the buildings that I saw the face. <br><br>Dorothy Masterson<br>
   'September 11 Email: CC':
     - html: false

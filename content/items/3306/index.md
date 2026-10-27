@@ -14,7 +14,7 @@ id: 3306
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Good luck buddy - I dont believe anyone would actually make something like this up in a time like this ... I support you...<br>
   'September 11 Email: CC':
     - html: false

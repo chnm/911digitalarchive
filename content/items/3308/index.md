@@ -14,7 +14,7 @@ id: 3308
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,   I can't believe that you would even give satan credit!  The smoke did not make this face, I believe that you somehow fixed it to look like that. If you look at the pic closer you would see, Elvis, or even Oz him self.However the only mark that satan or Jesus puts in the world are in the individuals heart. so I am not buying the fact that the smoke created your image.   Art<br>
   'September 11 Email: CC':
     - html: false

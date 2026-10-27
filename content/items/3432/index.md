@@ -14,7 +14,7 @@ id: 3432
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi, My name is Kristen Rol, and I got your web address from a friend who had received it from one of her friends. What happened on September 21, is indeed a terrible tradgedy that alot of Americans will never forget!!!! It also has, undoubtedly, changed the way that we all look at things!!!! I was just wondering if it was possible to get a copy of the picture that was taken of the face in the smoke. I would really like to have one, because, it is, I believe a good reminder and keepsake of how life can change in one instant, and, how it is not always, just by man. Anyway, could you please E-Mail me back and let me know if I can purchase a copy anywhere? Thank-You for your time, and, for your help, and, May God Bless America!!!!!!! Sincerely, Kristen A. Rol<br>
   'September 11 Email: CC':
     - html: false

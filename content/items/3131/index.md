@@ -14,7 +14,7 @@ id: 3131
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Dear Mr. Mark D. Phillips:<br><br>I would like to thank you for pictures that you took on the day of September 11 and its information about satanic face. It really scares me, but I think it is very true picture. My friends sent to me the http://www.9news.com in order to show me the strange images appeared in the pictures you took on that day. However, the site just posts only picture with the santanic face in the black smoke. I would like to ask you where the other picture with light yellow santanic face images? Would you mind post it again or send to me at: tho.nguyen@multi-culture.com?<br><br>I would like to thank you for your pictures recently and look forwards to your response.<br><br><br>Sincerely,<br><br>Tho Nguyen<br>'
   'September 11 Email: CC':
     - html: false

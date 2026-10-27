@@ -5,7 +5,7 @@ date: '2014-01-08 15:34:02'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: Wife and son of <b>Juan Ortega</b>, 31, who was doing deliveries for the Fine and Schapiro Restaurant at South Tower at the time of the attacks.
   Title:
     - html: false

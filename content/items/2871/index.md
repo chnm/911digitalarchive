@@ -5,7 +5,7 @@ date: '2014-01-07 18:00:35'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: |-
         <b><a href="http://www.911da.org/diganimbackup/Tepeyac.swf">Flash File: WTC Relief Project for Disadvantaged Latino Immigrants</a> </b><br>
         [Flash file, Asociación Tepeyac, 2001] Using graphics and photos, this digital animation documents the efforts of Asociación Tepeyac to assist Latino workers and their families affected by the September 11. Asociación Tepeyac is a Latino immigrant advocacy organization focusing on New York metropolitan area Mexican American communities.

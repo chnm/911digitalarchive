@@ -14,7 +14,7 @@ id: 3058
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello, I was wondering if you could send me anymore pictures of the world trade center like this one, this is very interesting!!          thank-you<br>
   'September 11 Email: CC':
     - html: false

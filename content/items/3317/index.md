@@ -14,8 +14,8 @@ id: 3317
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Most people identified the devil, while I saw both he & Bin Laden in one - as if a testiment of whom was responsible  broadcast to all the world...   I am not frightened, time for that is over, I was not even surprised.  Just totally overwhelmed and consumed with deep sadness as our American way of life was destroyed in a few minutes. I have stated since that fateful day that those who lost their lives in that cowardly, dastardly deed, may be the luckiest of us all. We shall prevail but it will be a bitter horrific fight with the devil himself!!! God Bless America - I pray!   janice padgett crenshaw - age 64 mother & grandmother, aunt and cousin of those who will be in the front lines. . . 3217 Weaver Road Palatka, FL 32177-2635    <br>
+    - html: true
+      text: Most people identified the devil, while I saw both he &amp; Bin Laden in one - as if a testiment of whom was responsible  broadcast to all the world...   I am not frightened, time for that is over, I was not even surprised.  Just totally overwhelmed and consumed with deep sadness as our American way of life was destroyed in a few minutes. I have stated since that fateful day that those who lost their lives in that cowardly, dastardly deed, may be the luckiest of us all. We shall prevail but it will be a bitter horrific fight with the devil himself!!! God Bless America - I pray!   janice padgett crenshaw - age 64 mother &amp; grandmother, aunt and cousin of those who will be in the front lines. . . 3217 Weaver Road Palatka, FL 32177-2635    <br>
   'September 11 Email: CC':
     - html: false
       text: ''

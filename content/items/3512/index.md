@@ -14,7 +14,7 @@ id: 3512
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi,<br>my name is Stephanie and I am 15 years old and I am from Virginia very close to DC, and I just want to say that even though we are all going through a rough time right now, we will hold strong and stick together, and come out of this with a sense of hope for the future. As for your picture I think it is a great photograph in the first place, but I do not for one-second think that you 'doctored' or changed the image in any way, nobody in their right mind would do such a horrible thing just to get publicity. But I do believe that it is some sort of message, I do not like it and feel that it is a very awful thing to see, but it is here and we are going to see it, so all we can do is either try to deal with it or interpret. Thank you for reading my email and taking into consideration what I think and what others think about our horrible ordeal our beautiful country has to go through. My prayers go out to everyone in need, and a special place in my heart for the ones we have unfortunately lost. <br>    Love*Stephanie L.*     @~~}~~<br>
   'September 11 Email: CC':
     - html: false

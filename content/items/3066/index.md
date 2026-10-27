@@ -14,7 +14,7 @@ id: 3066
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Dear representatives of StellarImages,<br><br>I'm sorry but I do not believe in this kind of nonsense. If the image has to be interpreted in some way, I think it resembles more Bill Clinton than the Devil... However, I can't be 100 % sure, since I haven't met either of them, yet. But I would like to know how you came me up with an idea like this. <br><br>Sincerely,<br>Tiina Seppälä<br><br>---<br>Tiina Seppälä<br>Researcher<br>International Relations<br>Department of Social Studies<br>University of Lapland<br>FINLAND<br><br>address: room 191 A, Faculty of Social Scinces, PL 122, 96101 Rovaniemi, FINLAND tel. +358-16-341 2681<br>mobile: +358-40-726 2687<br>e-mail: tiina.seppala@urova.fi<br>---<br>"
   'September 11 Email: CC':
     - html: false

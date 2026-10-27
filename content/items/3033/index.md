@@ -14,7 +14,7 @@ id: 3033
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: How can I obtain a copy of the picture of "satan in the smoke" at the wtc?<br>
   'September 11 Email: CC':
     - html: false

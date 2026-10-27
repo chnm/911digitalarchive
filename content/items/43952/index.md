@@ -23,7 +23,7 @@ item_type_metadata:
     - html: false
       text: I think we should remember all those whose lives were taken, the heroes who sacrificed their lives as well as the heroes who responded and survived. We met the worst of humanity with the best of humanity and we have shown the world that you can smash our mightiest buildings but you will not put a dent on the American spirit.
   'NMAH Story: Story':
-    - html: false
+    - html: true
       text: |-
         I was on the West Side Highway, driving to work. I had come out of the Battery Tunnel and got caught at the light like I had done countless times before. Just a week to ten days before they had opened up the West Side Highway, removing the final barriers that had been in place since the first attack against the WTC. It was a pleasure to drive. In between the Battery Tunnel and the first pedestrian crossover closest to the WTC, DOT had installed another light. So while waiting for the Battery Tunnel light to change, I held my foot on the clutch without taking my car out of gear.<br>
         I took a sip of coffee and I took a pull on my cigarette. The light changed and I gunned it to beat the newly installed light. I got caught on the light neat the parking lot and the pedestrian crossover closest to the WTC.<br>

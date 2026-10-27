@@ -11,7 +11,7 @@ id: 3304
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: My mother was watching a Spanish news station (Television 47) a few days after the attack. A Columbian gentlemen showed a picture taken in Columbia displaying Satan. Have you heard of it or seen the picture? I wonder if that too was taken the same time you took your shot. <br><br>Wanda L. Quinones<br>Senior Exec., Assistant<br>(212) 882.5096<br>Brinson Advisors, Inc.<br>quinonesw@brinson.com<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3172
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: '<br>Mark;<br><br>How are you doing theses days? I hope all is well with you these days. Not much else to say.<br><br>Take care;<br>Guy<br><br>Content-Transfer-Encoding: 7bit<br>Content-Type: text/x-vcard; charset=us-ascii; <br>name="gsolimano.vcf"<br>Content-Description: Card for Guy V. Solimano Content-Disposition: attachment;<br>filename="gsolimano.vcf"<br><br>Attachment converted: maddogs enterprise:gsolimano.vcf (TEXT/ttxt) (000A498F)<br>'
   'September 11 Email: CC':
     - html: false

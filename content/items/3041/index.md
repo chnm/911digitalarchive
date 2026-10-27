@@ -14,7 +14,7 @@ id: 3041
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: This is one more piece of evidence that we are fight the devil himself through his twisted pawns who think they are fighting the devil.I wonder if someone could convince them that they are working for the devil.What would they do then?A mass suicide or just complete disbelief or would they even care? <br>                                               Greg Louderback                                            Wheelersburg,Ohio<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3238
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: HI,<br>"I just was looking at that photo in the smoke (face)---and i recalled seeing that on tv when watching all that ---knowing smoke will take all kinds of shapes and not giving it another thought---being into photography myself a little.<br>I suppose if a person wanted to say that it was the face of "Death" -- i supppose they could say that --it just looks like a guy with a beard--and some people are scared of guys with beards --i have a beard but not a scary face---in the 60's when people started growing beards more --some people --often older women --were very afraid of any man with a beard---yawwwwwn cant help how some people take things --takes all kinds i guess. <br>yes lady for a minute it looked like a face---BUt its just smoke lady--Relax...lol.<br>Regards,<br>Ray , male,55 yrs , northern michigan.<br>
   'September 11 Email: CC':
     - html: false

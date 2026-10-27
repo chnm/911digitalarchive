@@ -14,7 +14,7 @@ id: 3418
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I am sorry for offending you. I am angry, just like most people in the country, but still no excuse for judging you.......<br>
   'September 11 Email: CC':
     - html: false

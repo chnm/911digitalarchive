@@ -14,7 +14,7 @@ id: 3424
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi,   Do you have a pic available for sale of the image described below?   Thank you for your time, and also for your photo.  I hope you and yours are OK and doing as well as can be expected.   Paul   Through a split second of a camera's shutter, I captured an image that many people are saying shows the face of the devil on the side of the burning tower. The image was also seen in videotape. I cannot explain how or why this happened, but those who think I somehow doctored the photograph are wrong.<br>
   'September 11 Email: CC':
     - html: false

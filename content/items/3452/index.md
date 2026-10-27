@@ -14,7 +14,7 @@ id: 3452
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was just curiouse if anyone saw Christ in the upper right hand corner. I bought the WTC moonlight picture. You sure take beautiful pictures. At least those ones! My son does not have access to a computer and I`d like your permission to print the article for him If that is ok? Please let me know. God Bless Coleen Yonker  <br><br>To God we are all equally important. Do you treat people as you want to be treated? Thank you for being you we can`t be perfect like Him but, we can try. God Bless and be thankful for your blessings. Smile God loves us!<br>
   'September 11 Email: CC':
     - html: false

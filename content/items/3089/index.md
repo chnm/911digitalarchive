@@ -14,7 +14,7 @@ id: 3089
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,<br><br>I felt as if I must respond in your defense of the photographs that have been published. I know that you did not alter them. In our local paper, The Ann Arbor News (September 16, 2001) a similar photograph appear just at a different angle. Images may be seen. Everyone has an opinion on it. My opinion is in your defense.<br><br>No response from you is necessary in regards to this e- mail.<br><br>Sincerely,<br><br>Pam DeSha<br>Pinckney, MI<br>
   'September 11 Email: CC':
     - html: false

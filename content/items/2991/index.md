@@ -14,7 +14,7 @@ id: 2991
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,<br><br>I saw your photos soon after they were released and as a Christian, I believed I was seeing the truth of these attacks through the "faces in the smoke".<br><br>Those who are denying this truth or say that you have altered the photos are unwilling to face certain truths about life. Certainly they, too, need our prayers, as I am sure they are deeply frightened and uncertain of the future.<br><br>Although we do not know WHAT the future holds, I do know WHO holds the future. And HIS peace is what we ALL need. <br><br>Sincerely,<br>Debra Simmons<br>Meeker, OK<br>
   'September 11 Email: CC':
     - html: false

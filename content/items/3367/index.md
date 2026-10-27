@@ -14,7 +14,7 @@ id: 3367
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like to download the photo of the image of the World Trade Center with the apparition of the face.   I am a private individual.  I have no commercial interest in this image.   Thank-you very much!   Robert Miller   P.S. Great web page!!!<br>
   'September 11 Email: CC':
     - html: false

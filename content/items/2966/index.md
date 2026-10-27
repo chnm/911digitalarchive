@@ -14,7 +14,7 @@ id: 2966
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi Mark!  I saw this picture when it first hit the press, and I still see the second image in it that I did then.  In the plume of blackish smoke above the buildings, is the face of an Eagle!!!!! looking down on the city!!!!  I would like to believe that is our emblem of a Godly country saying, 'You'll not get away with this!' .  Thanks for your time, talent, and efforts.  God Bless you, me and our great country!!!! <br>
   'September 11 Email: CC':
     - html: false

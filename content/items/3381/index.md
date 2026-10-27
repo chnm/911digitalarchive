@@ -14,8 +14,8 @@ id: 3381
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold>I have received that picture from friends and relatives, but we all agree that it looks like the photo was doctored. Can you Prove to us it was not?  I truly would hate to think you would use such a horrific tragedy for your own enrichment. <br><br><br><br><br>REFLECTIONS ON THE RIVER FRIEND<br><br>JANE<br><br><br><br><br><br><br></bold><br>
+    - html: true
+      text: <br><b>I have received that picture from friends and relatives, but we all agree that it looks like the photo was doctored. Can you Prove to us it was not?  I truly would hate to think you would use such a horrific tragedy for your own enrichment. <br><br><br><br><br>REFLECTIONS ON THE RIVER FRIEND<br><br>JANE<br><br><br><br><br><br><br></b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

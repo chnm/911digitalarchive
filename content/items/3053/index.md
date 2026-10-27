@@ -14,8 +14,8 @@ id: 3053
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hi, I am sure you have received tons of inquiries about your 9/11 photo.  I was wondering if there is a larger color photo on line or if it is available as a print.  Please e-mail answer to <mailto:rjarrgolden@aol.com>rjarrgolden@aol.com or reply to jgoldenlsg@yahoo.com thanks...jeanette<br>
+    - html: true
+      text: Hi, I am sure you have received tons of inquiries about your 9/11 photo.  I was wondering if there is a larger color photo on line or if it is available as a print.  Please e-mail answer to &lt;mailto:rjarrgolden@aol.com&gt;rjarrgolden@aol.com or reply to jgoldenlsg@yahoo.com thanks...jeanette<br>
   'September 11 Email: CC':
     - html: false
       text: ''

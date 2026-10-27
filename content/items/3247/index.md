@@ -14,7 +14,7 @@ id: 3247
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I SAW THE FACE OF THE DEVIL MY SELF WHILE WATCHING THE NEWS ON CNN I SAW THE DEVIL COMING OUT OF THE SECOND TOWER IN THE CNN PICTURE THAT CH 9 NEWS SHOWED ALONG WITH YOURS.I BELIVE YOU <br><br>DEB DAVIS<br>
   'September 11 Email: CC':
     - html: false

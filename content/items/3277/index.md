@@ -14,8 +14,8 @@ id: 3277
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "Mr. Phillips you are right and I do apologize, I had just watched the news that more and as all us American are going through tough times. I saw the picture and just reacted in anger, which I horribly deplore when I see it in others and I had fell into it. I went back and actually read your site and again I apologize.<br><br>Thank you for responding and giving the opportunity to look at myself. <br><br>Pete Kesselring<br>----- Original Message -----<br>From: \"Mark D. Phillips\" <info@stellarimages.com> To: <peteone@att.net><br>Sent: Thursday, September 20, 2001 7:48 AM Subject: Re: EVIL<br><br><br>>I'm sorry you feel this way. I have been a photojournalist for a long time <br>and all I have done is my job. You are judging someone you know nothing about, isn't that \"evil\"?<br><br>>>The picture of the tower in smoke you published must be a self portrait, for you to broadcast more fear into america.<br><br><br><br>>>Pete kesselring<br><br><br><br>"
+    - html: true
+      text: "Mr. Phillips you are right and I do apologize, I had just watched the news that more and as all us American are going through tough times. I saw the picture and just reacted in anger, which I horribly deplore when I see it in others and I had fell into it. I went back and actually read your site and again I apologize.<br><br>Thank you for responding and giving the opportunity to look at myself. <br><br>Pete Kesselring<br>----- Original Message -----<br>From: \"Mark D. Phillips\" &lt;info@stellarimages.com&gt; To: &lt;peteone@att.net&gt;<br>Sent: Thursday, September 20, 2001 7:48 AM Subject: Re: EVIL<br><br><br>&gt;I'm sorry you feel this way. I have been a photojournalist for a long time <br>and all I have done is my job. You are judging someone you know nothing about, isn't that \"evil\"?<br><br>&gt;&gt;The picture of the tower in smoke you published must be a self portrait, for you to broadcast more fear into america.<br><br><br><br>&gt;&gt;Pete kesselring<br><br><br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

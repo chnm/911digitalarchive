@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: 32BJ
   'SEIU Story: Story':
-    - html: false
-      text: Judy Micheels, 42, has been a maintenance worker at the World Trade Center for four years. She and her 19-year-old daughter, who is a tour guide, both escaped safely. However, Judy's coworker hasn't been seen since the tragedy hit. <P>'Manny Molina is my partner. I was on the mezzanine level, getting ready to go up to the observation deck. Manny was already there. Now he's missing,' Judy said. 'I'm glad my daughter and me made it, but I'm so sad about Manny.' <P>'The whole thing is such a tragedy.  All of us workers are so close, like family. This is terrible. We lost our jobs and we lost friends too.'
+    - html: true
+      text: Judy Micheels, 42, has been a maintenance worker at the World Trade Center for four years. She and her 19-year-old daughter, who is a tour guide, both escaped safely. However, Judy's coworker hasn't been seen since the tragedy hit. <p>'Manny Molina is my partner. I was on the mezzanine level, getting ready to go up to the observation deck. Manny was already there. Now he's missing,' Judy said. 'I'm glad my daughter and me made it, but I'm so sad about Manny.' <p>'The whole thing is such a tragedy.  All of us workers are so close, like family. This is terrible. We lost our jobs and we lost friends too.'
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

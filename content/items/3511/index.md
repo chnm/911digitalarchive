@@ -11,7 +11,7 @@ id: 3511
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "I THINK THAT IT WOULD BE BAD TIME TO PULL A JOKE LIKE THIS BUT I BELIVE THAT THE PHOTOGRAPH WAS NOT TAMPERD WITH. I'VE HERED A STORY THAT A PERSON SAID THAT SHE WAS TALKING TO A PERSON IN THE DEBREE OF ONE OF THE TOWERS AND THEY FOUND OUT SHE WAS LEING TO PULL A JOKE AND THEY ARRESTED HER.<br><br>I'M ONLY 13 BUT I KNOW ALOT ABOUT THIS KIND OF STUFF ________________________________________________________________ GET INTERNET ACCESS FROM JUNO!<br>Juno offers FREE or PREMIUM Internet access for less! Join Juno today! For your FREE software, visit: http://dl.www.juno.com/get/tagj.<br>"
   'September 11 Email: CC':
     - html: false

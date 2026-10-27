@@ -14,7 +14,7 @@ id: 3515
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello,<br><br>I saw your photograph this morning on TV... I don't know if you have noticed this, but if you look closely, you can see a second face right under the big one. We see a face seen from it's right side, and the top of it would be the big face's mouth. It also has a horn... Look closely, you will see it!<br><br>That makes the coincidence even more strange.... <br><br>Martine Beauchesne<br>Québec, Canada<br>
   'September 11 Email: CC':
     - html: false

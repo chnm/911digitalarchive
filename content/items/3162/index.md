@@ -14,7 +14,7 @@ id: 3162
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I also saw this image the day of the attack!!  It kind of freaked me out, but I also saw an angel image next to it. I told my co-workers about it and they just laughed like I was crazy, but when my friend sent me this e-mail, I got goosebumps. The devil was definitely a part of September 11.  I also believe the angels came to take the victims of this horrible attack too.         Thanks for your work.          Robyn Kelsey                                                                                 driveucrazy01@msn.com <br><br>
   'September 11 Email: CC':
     - html: false

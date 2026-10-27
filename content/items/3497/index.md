@@ -14,7 +14,7 @@ id: 3497
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: All I see, is what could be the face of an old man. I don't see anything demonic about that pillar of smoke. People are getting carried away.<br>
   'September 11 Email: CC':
     - html: false

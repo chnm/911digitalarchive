@@ -14,7 +14,7 @@ id: 3103
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Yeap, it's pretty horrifying, but if you cover the "face", you'll see that behind there's a light picture of the face of God.  He is telling us that no matter how evil people may become, HE IS ALWAYS HERE, THERE AND EVERYWHERE FOR US...ALL OF US.    From someone that still believes in the goodness of the humanity.<br>
   'September 11 Email: CC':
     - html: false

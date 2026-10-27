@@ -14,7 +14,7 @@ id: 3323
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was watching TV, and saw the explosion again.  I saw the face as the film played.  I know that it was there.   Gloria<br>
   'September 11 Email: CC':
     - html: false

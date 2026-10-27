@@ -14,7 +14,7 @@ id: 3496
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Are you the same Mark D. Phillips that took the AP picture of the WTC burning, that showed what appears to be a face in the smoke? It is truly an intriguing picture.  <br>
   'September 11 Email: CC':
     - html: false

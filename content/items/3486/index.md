@@ -11,7 +11,7 @@ id: 3486
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I don't know.  My opinion probably doesn't matter.  I have watched clouds on a quiet day by myself and made all kinds of images out of them.  I am 43, and every war or conflict that I can remember or have experienced someone is always trying to make something Biblical out of it.  Every incident has been "the end of time".  I don't think any of us know the what, why, when, or how.  This could be real or simply chemical effective.  Who knows.  I think we have enough to think about in the reality sense instead or exploring the mythical sense.  By the way, I am of the Christian faith.    <br>
   'September 11 Email: CC':
     - html: false

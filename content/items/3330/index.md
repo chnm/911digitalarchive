@@ -14,7 +14,7 @@ id: 3330
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I saw the face from the side the day of the bombing and told a co-worker about it.I thought I was the only one who saw it and felt kind of stupid. Then today the same guy I talked to last week brought me a copy of your picture. It gave me goose bumps. I truly believe the bombings were the devils work. <br>                                                      Cathy Drain<br>
   'September 11 Email: CC':
     - html: false

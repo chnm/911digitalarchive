@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: Trade Union of Workers in Health Service, Social Protection Service and Disability-Pension Insurance of Croatia <P>Dear Colleague, <P>It is with great shock and disbelief that we have been following the terrible news of the tragedy that happened yesterday in your country affecting thousands of American families.  The Trade Union of Workers in Health Service, Social Protection Service and Disability-Pension Insurance of Croatia strongly condems any form of violence and terrorism particularly when innocent people are targeted. <P>On my personal behalf and on behalf of the Trade Union and all American citizens who have been affected by this immense tragedy. <P>In Solidarity, <P>Yours, <P>Ljiljana Ostric Anic President
+    - html: true
+      text: Trade Union of Workers in Health Service, Social Protection Service and Disability-Pension Insurance of Croatia <p>Dear Colleague, <p>It is with great shock and disbelief that we have been following the terrible news of the tragedy that happened yesterday in your country affecting thousands of American families.  The Trade Union of Workers in Health Service, Social Protection Service and Disability-Pension Insurance of Croatia strongly condems any form of violence and terrorism particularly when innocent people are targeted. <p>On my personal behalf and on behalf of the Trade Union and all American citizens who have been affected by this immense tragedy. <p>In Solidarity, <p>Yours, <p>Ljiljana Ostric Anic President
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

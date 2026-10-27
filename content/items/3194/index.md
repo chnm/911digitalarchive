@@ -14,7 +14,7 @@ id: 3194
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>Mark,<br><br><br>Saw your photo and I've heard about the flak you've been getting. Easy for me to say, but I think the best thing you can do and let the photo do the talking, hold your ground, and hang tough. <br><br><br>Lee Landenberger<br><br>
   'September 11 Email: CC':
     - html: false

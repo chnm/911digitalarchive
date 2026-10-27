@@ -14,7 +14,7 @@ id: 3034
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br>I am looking at your photograph of the face on the WTC building.  Actually it looks like Lyle Lovett to me, although some think he looks like the devil. <br><br>Kathy Nichols<br>
   'September 11 Email: CC':
     - html: false

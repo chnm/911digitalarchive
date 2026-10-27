@@ -14,8 +14,8 @@ id: 3178
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Grow up<br><br>>>>"Mark D. Phillips" <info@stellarimages.com> 09/22/01 07:37AM >>> <br>I'm sorry you feel this way and nothing I can say will change your mind. Maybe after you see your HOME attacked and try to take the publicity you are receiving and raise money for your neighbors hurt and killed in a horrible tragedy, you will feel different. My hands are clean. Can you say the same about yourself?? Judging me when you don't know me. I was doing my job and now people like you respond this way. <br><br><br>>There has not been enough tragedy and emotional upheaval over this horrible disaster, you have to look for something like this to show people? Congratulations, your close to achieving the same mental level as the people who caused it. <br><br>>This is ridiculous!<br>
+    - html: true
+      text: Grow up<br><br>&gt;&gt;&gt;"Mark D. Phillips" &lt;info@stellarimages.com&gt; 09/22/01 07:37AM &gt;&gt;&gt; <br>I'm sorry you feel this way and nothing I can say will change your mind. Maybe after you see your HOME attacked and try to take the publicity you are receiving and raise money for your neighbors hurt and killed in a horrible tragedy, you will feel different. My hands are clean. Can you say the same about yourself?? Judging me when you don't know me. I was doing my job and now people like you respond this way. <br><br><br>&gt;There has not been enough tragedy and emotional upheaval over this horrible disaster, you have to look for something like this to show people? Congratulations, your close to achieving the same mental level as the people who caused it. <br><br>&gt;This is ridiculous!<br>
   'September 11 Email: CC':
     - html: false
       text: ''

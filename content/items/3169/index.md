@@ -14,8 +14,8 @@ id: 3169
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Dear Mark,<br><br>I can honestly say the photo of satan in the WTC is very impressive. I'm a Christian and believe there is a satan but I also believe my victory is won through my lord and savior Jesus Christ.<br><br>However, I have to be a somewhat curious, it seems a photo like this would be very easy to doctor up. Please give me your true comment with GOD as your witness that what you say is true and the photo is real.<br><br>Thanks for your reply<br>Thomas Gerke<br>eadgbemusic@yahoo.com<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: Dear Mark,<br><br>I can honestly say the photo of satan in the WTC is very impressive. I'm a Christian and believe there is a satan but I also believe my victory is won through my lord and savior Jesus Christ.<br><br>However, I have to be a somewhat curious, it seems a photo like this would be very easy to doctor up. Please give me your true comment with GOD as your witness that what you say is true and the photo is real.<br><br>Thanks for your reply<br>Thomas Gerke<br>eadgbemusic@yahoo.com<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 3517
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello. My name is Kim from Detroit, MI. I am shocked in the event that took place on 9-11-01. I was looking at the picture you had posted and thats really scary. My question is you said you took multiple pictures, were there any other photo's that had image's on them? Please write back.. <br><br><br>Sincerly,<br><br>Kim<br>
   'September 11 Email: CC':
     - html: false

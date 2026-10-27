@@ -14,7 +14,7 @@ id: 3063
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: TO:  MARK PHILLIPS   I am the wife of a retired NYC Fire Dept. Lieutenant and the mother of a NYC fightfighter (both alive Thank God)  When my husband was an active NYC firefighter, his brother firefighters always called a "job" the "red devil".  I have a black and white photo taken by a fire buff at a particularly brutal fire in Brooklyn, New York, showing a fireman on a ladder preparing to go into a burning window. What is so compelling about this photo is that it contains the same face in the smoke as your picture - and this picture was taken at least 20 years ago<br>
   'September 11 Email: CC':
     - html: false

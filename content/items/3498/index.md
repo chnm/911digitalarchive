@@ -14,7 +14,7 @@ id: 3498
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I know you are telling the truth, I saw the face too!, but thought I was seeing something that no one else was seeing. sincerely,<br>Carolyn<br>
   'September 11 Email: CC':
     - html: false

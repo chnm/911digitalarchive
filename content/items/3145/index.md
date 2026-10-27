@@ -14,7 +14,7 @@ id: 3145
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was reading and saw a picture that caught my attention. The picture everyone is discussing of the face. I find this believable. May I have your permission to download this photo or print it out. I am not going to copyright anything. I just want it for my personnal use. That is all. Thank you, Misty Jacobs                  Anderson, IN 46012<br>
   'September 11 Email: CC':
     - html: false

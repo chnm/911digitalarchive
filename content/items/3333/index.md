@@ -14,7 +14,7 @@ id: 3333
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark, I saw the same image when I was watching this when it first happen. I didn't say anything to anyone because I thought it was my imagination. Now I know for sure it wasn't.<br><br>Denise<br>Chicago, IL<br>
   'September 11 Email: CC':
     - html: false

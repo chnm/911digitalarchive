@@ -14,7 +14,7 @@ id: 3469
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I THINK THAT YOUR PHOTO TELLS IT ALL.......THE DEVIL HIMSELF HAD A HAD IN THAT, BUT KNOW THAT "GOD" WILL TAKE CARE OF IT....WE ARE PRAYING FOR YOU ALL IN NEW YORK.... GOD BLESS,<br>JENNA ENGLISH<br>KEYSTONE HEIGHTS, FLORIDA<br>
   'September 11 Email: CC':
     - html: false

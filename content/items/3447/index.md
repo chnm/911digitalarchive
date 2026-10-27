@@ -14,8 +14,8 @@ id: 3447
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: '<br>----- Original Message -----<br>From: Jefferson Breland <darkisart@earthlink.net> To: <info@stellarimages.com><br>Sent: Wednesday, October 10, 2001 5:37 PM Subject: Hey Mark<br><br><br>Natalie forwarded me the image and subsequently the notice that some people<br>were accusing you of doctoring the image. Though we have not remained in touch much over the years, I know you pretty<br>well from those good old days, and never, not even for a microsecond, did it<br>occur to me that you would have altered the image. I know you to be a completely ethical journalist and a just plain honest and good man. Hang in<br>there man. If you need character witnesses, count me in. <br><br>Your brother in arms, Jeff<br>'
+    - html: true
+      text: '<br>----- Original Message -----<br>From: Jefferson Breland &lt;darkisart@earthlink.net&gt; To: &lt;info@stellarimages.com&gt;<br>Sent: Wednesday, October 10, 2001 5:37 PM Subject: Hey Mark<br><br><br>Natalie forwarded me the image and subsequently the notice that some people<br>were accusing you of doctoring the image. Though we have not remained in touch much over the years, I know you pretty<br>well from those good old days, and never, not even for a microsecond, did it<br>occur to me that you would have altered the image. I know you to be a completely ethical journalist and a just plain honest and good man. Hang in<br>there man. If you need character witnesses, count me in. <br><br>Your brother in arms, Jeff<br>'
   'September 11 Email: CC':
     - html: false
       text: ''

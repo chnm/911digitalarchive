@@ -14,7 +14,7 @@ id: 3466
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: no i shouldn't  be ashmaned because  i believe that it's funny u were the only one to get that picture.  i have help a lot with the Tuesday problem.  i say a prayer all the time for the people that were hurt, killed, or  helping.  i hope that u and u're family are  ok and that nothing happens to u.                           God  bless!<br>
   'September 11 Email: CC':
     - html: false

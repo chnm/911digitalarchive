@@ -14,8 +14,8 @@ id: 3319
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold>I liked your picture.  Can I ask you what kind of a digital camera you have??  </bold>   <bold>Sandy</bold><br>
+    - html: true
+      text: <br> <b>I liked your picture.  Can I ask you what kind of a digital camera you have??  </b>   <b>Sandy</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

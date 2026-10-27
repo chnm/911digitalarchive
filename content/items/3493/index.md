@@ -14,7 +14,7 @@ id: 3493
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To Mr.Mark Phillips I saw the pictures of the World Trade Center that you took on Sept.11,2001 as the rest of us looked on in horror. I can plainly see the Devil in the smoke from the building. As they say a picture is worth a thousand words. I feel like the pictures you took depict the pure evil in those that are responsible for this horrendous act. Maybe it is a warning to all of us that we should be aware that there is evil out there and it is just waiting for us to give it an opening to instill itself into all of our lives. We as a nation need to become one and remember the lyrics from a song that says "TOGETHER WE STAND DEVIDED WE FALL" I for one do not think any human being with any compassion for other human beings could have doctored such a photograph for his own personal gain. Thank you so much for sharing this with us. Maybe we can learn and benefit from it.  <br><br>Malissia<br>
   'September 11 Email: CC':
     - html: false

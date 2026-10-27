@@ -20,9 +20,9 @@ item_type_metadata:
     - html: false
       text: Firemen
   'HINY Photo: Description':
-    - html: false
+    - html: true
       text: |-
-        <br>Tour missing in action, September 12, 2001.
+        <br>Tour missing in action, September 12, 2001.<br>
 
         <p>Nikon FM2, Nikkor 105mm f/2.5. <a href="http://www.geocities.com/synergy_two/wtcimages/index.html">http://www.geocities.com/synergy_two/wtcimages/index.html</a>
   'HINY Photo: Submitted On':

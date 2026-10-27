@@ -14,7 +14,7 @@ id: 3416
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark, I have seen this photo and am not surprised by anything anymore. I saw another face in the smoke billowing off to the LEFT of the towers. The smoke was moving slowly, but as I stared at the plumage, I saw an unmistakable face of evil. It was a huge face with eyes open and a large, sneering open mouth. I could not believe what I was seeing. Has anyone captured this picture with stop-action timing? I would love to see it again. <br>Thanks for great photography. Suzanne Courtney<br>
   'September 11 Email: CC':
     - html: false

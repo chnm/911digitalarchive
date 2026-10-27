@@ -11,7 +11,7 @@ id: 3032
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi my name is Josh and I was wondering about the video tape and if there was a web site on it if there is I would greatly appreciate it if you could e-mail me back and tell me thank you very much                          ":" GOD BLESS AMERICA ":"                                            and you to!!!!!!!<br>
   'September 11 Email: CC':
     - html: false

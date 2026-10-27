@@ -14,7 +14,7 @@ id: 3074
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Jesus said there would be signs in the heavens and the earth. I beleive this is a sign that Satan does exist contrary to what many beleive. I have no doubt this picture is the image many claim it to be. I am glad I have had the oppurtunity to e-mail you. Prtage 44 @aol.com<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3206
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: hai ,   This photo reall shows the presence of Negative forces behind the attacks.Congrates for your great snapshots!   thanks Manoj  <br>
   'September 11 Email: CC':
     - html: false

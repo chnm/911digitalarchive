@@ -14,7 +14,7 @@ id: 3051
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Photos by Carmen Taylor, Sean Adair, and Mark Phillips all captured face(s) in the smoke.  Additonally, there is a CNN video that has a face in the smoke.  I doubt anyone could have / would have altered all of these prior to their being put on national tv and web sites.     Thankx, Jesse  <br>
   'September 11 Email: CC':
     - html: false

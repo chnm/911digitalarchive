@@ -14,7 +14,7 @@ id: 3492
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: We saw ur pic at school of the faces in the smoke and we were talking and think its the devil trying to get out of hell. What do you think it means. Did you grow up in Springfield, MA<br>
   'September 11 Email: CC':
     - html: false

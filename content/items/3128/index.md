@@ -14,8 +14,8 @@ id: 3128
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br>   ----- Original Message ----- <bold>From:</bold> DONNA GODFREY <bold>To:</bold> kusa@9news.com <bold>Sent:</bold> Sunday, September 23, 2001 1:16 PM <bold>Subject:</bold> Another Face <br><br>To Whom it May Concern:   My son just showed me the picture of Satan's face in the smoke rising from the towers. If you look at the bottom of the face, directly below the mouth, in the beard, their is another face. It is a side view. You can see the right profile of a man, the eye, nose mouth, he also appears to have a beard, but it is a human face image.. Any comments or questions you can reach me at (724) 872-0340  this is my home # Donna.Godfrey@att.net                                           <br>"
+    - html: true
+      text: "<br>   ----- Original Message ----- <b>From:</b> DONNA GODFREY <b>To:</b> kusa@9news.com <b>Sent:</b> Sunday, September 23, 2001 1:16 PM <b>Subject:</b> Another Face <br><br>To Whom it May Concern:   My son just showed me the picture of Satan's face in the smoke rising from the towers. If you look at the bottom of the face, directly below the mouth, in the beard, their is another face. It is a side view. You can see the right profile of a man, the eye, nose mouth, he also appears to have a beard, but it is a human face image.. Any comments or questions you can reach me at (724) 872-0340  this is my home # Donna.Godfrey@att.net                                           <br>"
   'September 11 Email: CC':
     - html: false
       text: ''

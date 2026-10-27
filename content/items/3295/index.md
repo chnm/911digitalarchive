@@ -14,7 +14,7 @@ id: 3295
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark, This is some wonderful photography.   I am a native New Yorker living in Atlanta.  Just took my son (age 11, who was born in NY), to the city in June to see all the "sites".    We sure are glad that we took the trip.   Are you going to be selling your 'Satan in the Smoke" picture?   Would love to get one, if you are. Thank you, A tearful New Yorker, Valerie<br>
   'September 11 Email: CC':
     - html: false

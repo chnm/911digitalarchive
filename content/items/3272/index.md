@@ -14,7 +14,7 @@ id: 3272
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark<br><br>I just want you to know that you are not the only one capturing entities in their pictures. I have also captured them over the past 10 years. <br><br>I think it is unfair for people to jump to conculsions regarding the image. We really don't know if it's a devil. It could well be that a huge doorway was opened by the lives lost and what was captured on film is something that we don't generally see until the moment of our own deaths. At any rate, it is not something we will be able to anaylize using scientific methods. There was a lot of energy there that can't be put under the microscope. <br><br>Hope you're doing well. Take comfort that you're not alone and take care. <br><br>Regards,<br>Carol Ostrouch<br>Syracuse, NY<br><br><br><br>___________________________________________________ GO.com Mail<br>Get Your Free, Private E-mail at http://mail.go.com<br>
   'September 11 Email: CC':
     - html: false

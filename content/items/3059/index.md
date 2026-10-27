@@ -14,8 +14,8 @@ id: 3059
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hi Mark!<br><br>THANKS AGAIN for taking the time to tell story on our radio show this morning. You would not believe the amount of email we received over it. <br><br>I've added a link to your site on our website. <br><br>Rocky & Sue<br>***************************<br>Rocky & Sue<br>WKRZ Radio<br>305 Highway 315<br>Pittston, PA<br>18640<br>(570)883-9850 ext. 156<br>(570)883-9855 (FAX)<br>**************************<br>
+    - html: true
+      text: Hi Mark!<br><br>THANKS AGAIN for taking the time to tell story on our radio show this morning. You would not believe the amount of email we received over it. <br><br>I've added a link to your site on our website. <br><br>Rocky &amp; Sue<br>***************************<br>Rocky &amp; Sue<br>WKRZ Radio<br>305 Highway 315<br>Pittston, PA<br>18640<br>(570)883-9850 ext. 156<br>(570)883-9855 (FAX)<br>**************************<br>
   'September 11 Email: CC':
     - html: false
       text: ''

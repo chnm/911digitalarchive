@@ -5,7 +5,7 @@ date: '2014-01-08 16:02:27'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Ana y Kari</b> Wife and daughter of Enemencio Dario Hidalgo,48, who was working in the kitchen of the restaurant,  Windows on the World, when the tragedy occurred.
   Title:
     - html: false

@@ -14,7 +14,7 @@ id: 3042
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Could you please tell me how I can obtain a picture of the towers where the smoke showed the devil's face. Thank you<br>
   'September 11 Email: CC':
     - html: false

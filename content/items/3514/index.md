@@ -14,7 +14,7 @@ id: 3514
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like to know if I could buy the picture that Mark D. Phillips took of the towers, that looks just like saten, if so I very much, want to due so. Thankyou very much.<br>
   'September 11 Email: CC':
     - html: false

@@ -26,29 +26,29 @@ item_type_metadata:
     - html: false
       text: The violence that has followed in the wake of Vice President Dick Cheney's recent trip to the Middle East is a direct result of Bushs high-handed, arrogant and one-sided policies.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        President Bush and his administration are directly responsible for creating an atmosphere that has encouraged extremists to pursue violence as a means of not only destroying Israel, but destroying the Palestinian drive for peace as well.
-        The violence that has followed in the wake of Vice President Dick Cheney's recent trip to the Middle East is a direct result of the high-handed, arrogant and one-sided policies that President Bush has pursued.
-        Cheney's refusal to meet with Arafat while in Israel was a signal to extremists that they have the upper hand in determining the future of the Middle East. Cheney's pursuit of his one-sided, anti-Arab policies is a signal to those in the Middle East who wish not only to destory Israel, but also to undermine any remnant of the Palestinian movement to compromise with Israel.
-        Short-term, the inexperienced Bush leadership and the right-wing militant Israeli Government of Ariel Sharon see a venue through which they can extricate Palestine National Authority President Yasir Arafat, the only Palestinian leader ever to recognize Israels right to exist.
-        The extremists realize that Bush is long on moral rhetoric but short on fairness and promise. He also lacks in the skills needed to bring the Middle East conflict to an end.
-        At least the pressure of the fanatics in the Middle East has caused the Arab governments to move from their basically impotent stands as Israel continues to desecrate Muslim and Christian holy sites and cities.
-        Cheney began his trip to the Middle East naïvely believingor hoping to make it sothat the Arab governments did not see Bushs goal of undermining Iraq's Saddam Hussein, a purely personal vendetta Bush is pursuing for the sake of his father's memory.
-        But Cheney ended his trip acknowledging that the Arab governments are consumed with Israel's military provocation of the Palestinians and Israeli military policies that have raised the ranks of fanatics in the Arab World to new heights. Cheney acknowledged that Arab governments are preoccupied with the ongoing crisis in Palestine and are incapable of supporting the United States in its unilateral campaign to target all of former president Bush's Middle East enemies.
-        Cheney now says he will consider meeting with Arafat, but only with severe restrictions on Arafat. Arafat has been ordered not to say anything critical of Israel, an obnoxious limitation that Arafat must ignore.
-        Rather than return to Ramallah, where he is a captive, Arafat should remain outside of the territories and abandon any campaign to compromise with Israel.
-        He should instead allow the fanatics time to wreck havoc on Israel and bring the Israelis to their moral knees in the face of the worst violence to hit Israelis in a generation. The fact is, the Israelis have no reason to make peace with the Palestinians today. Backed by the naïve and inexperienced leadership of the Bush administration, Israel has violently entered Palestinian-occupied lands, and to murder innocent civilians without an outcry from the world.
-        The Israelis see that Arab governments fear losing their financial links to the West, and lack the will to stand up to Israel's state-run terrorism.
-        Cheney's trip  was a dismal failure. The policies of the Bush administration have helped widen the gap between the basic desires of the Palestinians and the Israelis to arrive at a difficult but achievable peace that recognizes Israel and establishes a Palestinian state.
-        Nothing the president can do will stop the violence. His actions only feed the fanatics who are willing to die as martyrs, striking at the heart of Israel's state-run terrorism against Palestinian civilians. They would rather die with that kind of dignity than allow the Nazi-like government policies of the government of Ariel Sharon to carry them to their grave.
-        Peace is possible only if the United States finds the moral courage to stand up and impose a peace, not on the Palestinians, but on the Israeli government, the true source of terrorism and violence in Palestine.
-        Short of that, Israel faces generations of violence that will not end. And the United States will have stirred the pot of emotion so terribly through the inexperienced and foolish leadership of President Bush that sorting out the latest carnage will become  nearly impossible.
-        Palestinians have a right to resist Israel's military attacks. They do not have a right to strike out at civilian targets through suicide attacks.
-        But as long as Israel's fanatic government is allowed to continue its policies of violence and terrorism, extremists in Palestinian circles will continue with their own.
-
-        Ray Hanania is a Palestinian author and writer and media strategist based in Chicago.
-
+        President Bush and his administration are directly responsible for creating an atmosphere that has encouraged extremists to pursue violence as a means of not only destroying Israel, but destroying the Palestinian drive for peace as well.<br>
+        The violence that has followed in the wake of Vice President Dick Cheney's recent trip to the Middle East is a direct result of the high-handed, arrogant and one-sided policies that President Bush has pursued.<br>
+        Cheney's refusal to meet with Arafat while in Israel was a signal to extremists that they have the upper hand in determining the future of the Middle East. Cheney's pursuit of his one-sided, anti-Arab policies is a signal to those in the Middle East who wish not only to destory Israel, but also to undermine any remnant of the Palestinian movement to compromise with Israel.<br>
+        Short-term, the inexperienced Bush leadership and the right-wing militant Israeli Government of Ariel Sharon see a venue through which they can extricate Palestine National Authority President Yasir Arafat, the only Palestinian leader ever to recognize Israels right to exist.<br>
+        The extremists realize that Bush is long on moral rhetoric but short on fairness and promise. He also lacks in the skills needed to bring the Middle East conflict to an end.<br>
+        At least the pressure of the fanatics in the Middle East has caused the Arab governments to move from their basically impotent stands as Israel continues to desecrate Muslim and Christian holy sites and cities.<br>
+        Cheney began his trip to the Middle East naïvely believingor hoping to make it sothat the Arab governments did not see Bushs goal of undermining Iraq's Saddam Hussein, a purely personal vendetta Bush is pursuing for the sake of his father's memory.<br>
+        But Cheney ended his trip acknowledging that the Arab governments are consumed with Israel's military provocation of the Palestinians and Israeli military policies that have raised the ranks of fanatics in the Arab World to new heights. Cheney acknowledged that Arab governments are preoccupied with the ongoing crisis in Palestine and are incapable of supporting the United States in its unilateral campaign to target all of former president Bush's Middle East enemies.<br>
+        Cheney now says he will consider meeting with Arafat, but only with severe restrictions on Arafat. Arafat has been ordered not to say anything critical of Israel, an obnoxious limitation that Arafat must ignore.<br>
+        Rather than return to Ramallah, where he is a captive, Arafat should remain outside of the territories and abandon any campaign to compromise with Israel.<br>
+        He should instead allow the fanatics time to wreck havoc on Israel and bring the Israelis to their moral knees in the face of the worst violence to hit Israelis in a generation. The fact is, the Israelis have no reason to make peace with the Palestinians today. Backed by the naïve and inexperienced leadership of the Bush administration, Israel has violently entered Palestinian-occupied lands, and to murder innocent civilians without an outcry from the world.<br>
+        The Israelis see that Arab governments fear losing their financial links to the West, and lack the will to stand up to Israel's state-run terrorism.<br>
+        Cheney's trip  was a dismal failure. The policies of the Bush administration have helped widen the gap between the basic desires of the Palestinians and the Israelis to arrive at a difficult but achievable peace that recognizes Israel and establishes a Palestinian state.<br>
+        Nothing the president can do will stop the violence. His actions only feed the fanatics who are willing to die as martyrs, striking at the heart of Israel's state-run terrorism against Palestinian civilians. They would rather die with that kind of dignity than allow the Nazi-like government policies of the government of Ariel Sharon to carry them to their grave.<br>
+        Peace is possible only if the United States finds the moral courage to stand up and impose a peace, not on the Palestinians, but on the Israeli government, the true source of terrorism and violence in Palestine.<br>
+        Short of that, Israel faces generations of violence that will not end. And the United States will have stirred the pot of emotion so terribly through the inexperienced and foolish leadership of President Bush that sorting out the latest carnage will become  nearly impossible.<br>
+        Palestinians have a right to resist Israel's military attacks. They do not have a right to strike out at civilian targets through suicide attacks.<br>
+        But as long as Israel's fanatic government is allowed to continue its policies of violence and terrorism, extremists in Palestinian circles will continue with their own.<br>
+        <br>
+        Ray Hanania is a Palestinian author and writer and media strategist based in Chicago.<br>
+        <br>
         <i>The Weekly Mirror International is an English-language Muslim newspaper published in Greenpoint, Brooklyn.</i>
   'VTMBH Article: Date':
     - html: false

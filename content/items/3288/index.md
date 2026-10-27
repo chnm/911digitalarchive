@@ -14,7 +14,7 @@ id: 3288
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Greetings,<br>Mr. Phillips<br><br>Will you "Please", send me more of these difference pictures to share with the people I am in contact with, because I am a Christian, and I share the good news of the Gospel to the world and my family and friends.  My email is, (alvinocarenas@aol.com), and mailing address is, PO BOX 4453, DOWNEY, CA. 90241                         <br><br>Sincerely Yours<br><br>Alvino M. Cardenas sr.<br>God Bless   :-)<br>
   'September 11 Email: CC':
     - html: false

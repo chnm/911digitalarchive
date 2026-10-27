@@ -14,7 +14,7 @@ id: 2994
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: This is an amazing picture!  To me it looks like Osama Bin Laden...you can even see his scraggly untrimed beard below the face.   May God bless and bring comfort and peace to all of you who have been so greatly affected by this terrible attrocity. You are all in our prayers!<br>
   'September 11 Email: CC':
     - html: false

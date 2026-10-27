@@ -26,15 +26,15 @@ item_type_metadata:
     - html: false
       text: ''
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        District 26, including Bayside, Douglaston, Little Neck and others, has high test scores and is generally considered one of the best educational environments in New York City.
-        The New York City Board of Education released its Year 2000-2001 Report on March 28. According to the report, Korean students who have been in the U.S. fewer than three years are well represented in the district. Out of 20 elementary schools, 13 schools have heavy populations of recent Korean immigrants.
-        PS 46 has the highest percentage of recently arrived Korean students, 5.4 percent of the total student body. Out of all students at PS 213 and 221 who have lived in the United States for a longer period, over half of them originated in Korea.
-        In District 25, which includes Flushing and Whitestone, 11 elementary and three middle schools have high numbers of Korean students who immigrated to the United States less than three years ago.
-        Of five middle schools in District 26, threeconsidered among the best schoolshave high percentages of students who arrived recently. At IS 188, average test scores are above 90 percent in both English and math. The percentage of students receiving free lunch is only 12 percent (in New York City, the average is 74.7 percent) and all teachers are licensed and employed full time.
-        Because of the sudden influx of Korean students, some schools are experiencing overflow. PS 94 is already 28.8 percent beyond capacity. PS 26, 31 and 162 are also experiencing overflow, with ten percent more than their capacity.
-
+        District 26, including Bayside, Douglaston, Little Neck and others, has high test scores and is generally considered one of the best educational environments in New York City.<br>
+        The New York City Board of Education released its Year 2000-2001 Report on March 28. According to the report, Korean students who have been in the U.S. fewer than three years are well represented in the district. Out of 20 elementary schools, 13 schools have heavy populations of recent Korean immigrants.<br>
+        PS 46 has the highest percentage of recently arrived Korean students, 5.4 percent of the total student body. Out of all students at PS 213 and 221 who have lived in the United States for a longer period, over half of them originated in Korea.<br>
+        In District 25, which includes Flushing and Whitestone, 11 elementary and three middle schools have high numbers of Korean students who immigrated to the United States less than three years ago.<br>
+        Of five middle schools in District 26, threeconsidered among the best schoolshave high percentages of students who arrived recently. At IS 188, average test scores are above 90 percent in both English and math. The percentage of students receiving free lunch is only 12 percent (in New York City, the average is 74.7 percent) and all teachers are licensed and employed full time.<br>
+        Because of the sudden influx of Korean students, some schools are experiencing overflow. PS 94 is already 28.8 percent beyond capacity. PS 26, 31 and 162 are also experiencing overflow, with ten percent more than their capacity.<br>
+        <br>
         <i>The Korea Central Daily News is the U.S. edition of JoonAng Ilbo.</i>
   'VTMBH Article: Date':
     - html: false

@@ -14,7 +14,7 @@ id: 3011
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: i dont know if you ve noticed or if anyone has brought it to your attention,but,there is another face there just to the top right ,do you see it? if you dim the screen contrast or brightness you can really make it out.just thought you like to know.<br>
   'September 11 Email: CC':
     - html: false

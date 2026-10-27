@@ -11,7 +11,7 @@ id: 2992
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: About de picture with the face on the side of the burning tower, i really don't think that it's the face of the devil...I see the face of a businessman......sorry for my english.   It's a tragedy what appended.   Andrée<br>
   'September 11 Email: CC':
     - html: false

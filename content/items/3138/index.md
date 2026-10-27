@@ -14,8 +14,8 @@ id: 3138
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Just a different perspective and a much more positive one than the evil perspective some viewers saw --<br>Viewing this picture, we did not see the devil. In fact, we see many images of faces. There is the profile of a woman's face. There are several male faces. There seem to be many glimpses of faces. Perhaps, these are people's souls rising to heaven.<br><br>Did anyone else see your photo in this light? <br><br>Cynthia Port & Stephen Montgomery<br>
+    - html: true
+      text: Just a different perspective and a much more positive one than the evil perspective some viewers saw --<br>Viewing this picture, we did not see the devil. In fact, we see many images of faces. There is the profile of a woman's face. There are several male faces. There seem to be many glimpses of faces. Perhaps, these are people's souls rising to heaven.<br><br>Did anyone else see your photo in this light? <br><br>Cynthia Port &amp; Stephen Montgomery<br>
   'September 11 Email: CC':
     - html: false
       text: ''

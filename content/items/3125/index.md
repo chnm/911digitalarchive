@@ -14,8 +14,8 @@ id: 3125
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: DEAR M<<br><br>REad interview. Terrific work. Lucidly defended. You go! You were right to stand up and defend yourself aggressively. <br><br>BEST<<br>|<br>Thelma<br>
+    - html: true
+      text: DEAR M&lt;<br><br>REad interview. Terrific work. Lucidly defended. You go! You were right to stand up and defend yourself aggressively. <br><br>BEST&lt;<br>|<br>Thelma<br>
   'September 11 Email: CC':
     - html: false
       text: ''

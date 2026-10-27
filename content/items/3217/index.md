@@ -14,7 +14,7 @@ id: 3217
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I seen the image, it's amazing but it's true.  She will be the image of 2000's. Thanks for your good job!<br>
   'September 11 Email: CC':
     - html: false

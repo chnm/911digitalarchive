@@ -11,7 +11,7 @@ id: 3251
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like Permission to download the picture of the towers with the image of a face in the smoke.  <br>
   'September 11 Email: CC':
     - html: false

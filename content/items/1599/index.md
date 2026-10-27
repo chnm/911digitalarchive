@@ -26,23 +26,23 @@ item_type_metadata:
     - html: false
       text: 'The current Administration is rolling out the red carpet for General Pervez Musharraf of Pakistan. But Musharraf be warned: that carpet is red with the blood of Pakistani demagogues, each of whom quickly became irrelevant to American foreign policy.'
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        In one of her poems, Sylvia Plath talks of a foot that was trapped in a black shoe for thirty years, poor and white, barely daring to breathe or achoo. That foot is Pakistan, which has suffered for thirty years in the black shoe of American-sponsored military dictatorships.
-
-        Similar American-bought black shoes have tramped over civilians in Latin America as well. Ever since the era of the Vietnam War American administrations have comfortably supported military dictators around the world. Such a policy allows them to wield influence in a country through one client instead of dealing with a multifarious public.
-
-        Accordingly the current Administration is rolling out the red carpet for General Pervez Musharraf of Pakistan. The red carpet can be extravagant; Kitty Kelley in her biography of Jackie claims that Field Marshal Ayub Khan (the famously handsome American supported martial leader of Pakistan from 1958-68) had intimate relations with the First Lady. But Musharraf be warned: that carpet is red with the blood of Pakistani demagogues, who become irrelevant to American foreign policy.
-
-        General Mohammad Zia-ul-Haq supported the American sponsored war in Afghanistan against the Russians. That was when Osama and the Taliban were designated freedom fighters by the U.S. government. When the Soviet Union withdrew, the Geneva Accords were signed, and General Zia seemed to be pursuing an independent policy in the region, he was assassinated.
-
-        Afghanistan was a country abandoned by the United States. Wealthy Osama and the Taliban took over Afghanistan. Now a decade later, Osama and the Taliban pursue objectives no longer in accordance with American interests; they are also men with an American death warrant.
-
-        And Musharraf, who was a usurper and called so by U.S. State Department officials when he staged a coup, is now a key ally.
-
-        As for the Pakistani public, they see their constitution mangled by a dictator, a state whose coffers are full of dollars, (the Pakistani rupee is doing very well against the dollar). But they, the public, continue to face chronic inflation and unemployment. They also face war-like conditions with India, something else that happens whenever a military dictator comes to
-        power in Pakistan.
-
+        In one of her poems, Sylvia Plath talks of a foot that was trapped in a black shoe for thirty years, poor and white, barely daring to breathe or achoo. That foot is Pakistan, which has suffered for thirty years in the black shoe of American-sponsored military dictatorships.<br>
+        <br>
+        Similar American-bought black shoes have tramped over civilians in Latin America as well. Ever since the era of the Vietnam War American administrations have comfortably supported military dictators around the world. Such a policy allows them to wield influence in a country through one client instead of dealing with a multifarious public.<br>
+        <br>
+        Accordingly the current Administration is rolling out the red carpet for General Pervez Musharraf of Pakistan. The red carpet can be extravagant; Kitty Kelley in her biography of Jackie claims that Field Marshal Ayub Khan (the famously handsome American supported martial leader of Pakistan from 1958-68) had intimate relations with the First Lady. But Musharraf be warned: that carpet is red with the blood of Pakistani demagogues, who become irrelevant to American foreign policy.<br>
+        <br>
+        General Mohammad Zia-ul-Haq supported the American sponsored war in Afghanistan against the Russians. That was when Osama and the Taliban were designated freedom fighters by the U.S. government. When the Soviet Union withdrew, the Geneva Accords were signed, and General Zia seemed to be pursuing an independent policy in the region, he was assassinated.<br>
+        <br>
+        Afghanistan was a country abandoned by the United States. Wealthy Osama and the Taliban took over Afghanistan. Now a decade later, Osama and the Taliban pursue objectives no longer in accordance with American interests; they are also men with an American death warrant.<br>
+        <br>
+        And Musharraf, who was a usurper and called so by U.S. State Department officials when he staged a coup, is now a key ally.<br>
+        <br>
+        As for the Pakistani public, they see their constitution mangled by a dictator, a state whose coffers are full of dollars, (the Pakistani rupee is doing very well against the dollar). But they, the public, continue to face chronic inflation and unemployment. They also face war-like conditions with India, something else that happens whenever a military dictator comes to<br>
+        power in Pakistan.<br>
+        <br>
         <i>Iti Nasim is a well-known humorist, Urdu poet and literary critic. </i>
   'VTMBH Article: Date':
     - html: false

@@ -14,25 +14,24 @@ id: 1218
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: |-
-        To everyone,
-
-             I did not know who to send this e-mail to hence I picked three people
-        at
-        MAPC.
-             I thought you might want to know that the Libertarian Party of Dane
-        County is also against the war.  Although most of their political views do
-        not match those of the member organisations of MAPC,  it might be possible
-        to
-        include them,  if they are interested.  The more the merrier?
-             The head of the Libertarian Party of Dane County is x and
-        his phone number is x.  x is a friend of mine and he may be
-        interested in joining MAPC.
-             Also,  checkout a good Libertarian web site about the war:   <A
-        HREF="http://antiwar.com/">Antiwar.com</A> .
-
-             Sincerely,
+        To everyone,<br>
+        <br>
+             I did not know who to send this e-mail to hence I picked three people<br>
+        at<br>
+        MAPC.<br>
+             I thought you might want to know that the Libertarian Party of Dane<br>
+        County is also against the war.  Although most of their political views do<br>
+        not match those of the member organisations of MAPC,  it might be possible<br>
+        to<br>
+        include them,  if they are interested.  The more the merrier?<br>
+             The head of the Libertarian Party of Dane County is x and<br>
+        his phone number is x.  x is a friend of mine and he may be<br>
+        interested in joining MAPC.<br>
+             Also,  checkout a good Libertarian web site about the war:   <a href="http://antiwar.com/">Antiwar.com</a> .<br>
+        <br>
+             Sincerely,<br>
                x
   'September 11 Email: CC':
     - html: false

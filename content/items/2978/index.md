@@ -14,7 +14,7 @@ id: 2978
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark D. Phillips<br>President, StellarImages<br>Brooklyn, NY<br><br>I didn't think that u had changed the smoke picture that thought hadn't even came up in my mind. but IM sorry if that's what u thought i ment i just wanted to see it cause i saw it on sat and then i told one of my friends about it and they wanted to see it so i was just trying to find it so i could show them it. i think the picture is out of the ordinary. may i ask u what u thought about what happened on tuesday the 11th? i thought i was just sad of them to do that. but just telling u that i wasnt thinking that. is that why u made that article on 9news? about how u didnt chnage it and stuff? <br>
   'September 11 Email: CC':
     - html: false

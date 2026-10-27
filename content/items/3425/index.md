@@ -14,7 +14,7 @@ id: 3425
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was wondering if you could possibly send me a copy by email of the clear picture on the home page of stellar images, the one with the skyline.  It is an incredible picture.  I have a file going so that my children never forget what happened on that day.  I feel this picture show the pure evil behind what happened.  Thank you in advance   ..· ´¨¨)) -:¦:- * *In GOD ¸.·´ .·´¨¨))*<br>* ((¸¸.·´ ..·´ -:¦:-<br>-:¦:- * we trust!¸.·´*<br>»§«·.,¸¸*,.·´¯`·.»§« Rhonda Thomassen »§«·.,¸¸,.·´¯`·.»§« <br><br>
   'September 11 Email: CC':
     - html: false

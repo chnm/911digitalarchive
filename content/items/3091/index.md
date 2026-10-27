@@ -14,7 +14,7 @@ id: 3091
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>When I viewed this picture on my screen, I moved the top face up so that I could only see from the bottom of the chin down, and I see another face facing to the right. (Can only see the right side of the face and the left eye.<br>
   'September 11 Email: CC':
     - html: false

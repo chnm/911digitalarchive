@@ -14,7 +14,7 @@ id: 3290
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello Mark,<br><br>We really don't have any LegalEase-type statement in place prohibitting additional prints, but I can definately see the need in this case. If you will construct such a statement for your benefit, we would be happy to look over it and sign it immediately.<br><br>Otherwise, let it be known from this correspondence that Imagers will not make any additional prints of any material you send us for output to any device.<br>thanks,<br><br>Jim Clanin<br>Production Manager<br>Imagers<br>
   'September 11 Email: CC':
     - html: false

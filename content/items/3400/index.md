@@ -14,7 +14,7 @@ id: 3400
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The act that they did to these innocent people who were just going to work is still hard to believe.They say that they are fighting a holy war.It is easy enough to believe that after seeing this photo.It was the devils work that they did.They want to call us the great satan,but what they did was pure evil!!!! I say that they are the great satan because of what they have done.I believe in all religions,because all of them have one central idea,God,being our creator.I was raised in church,my grandfather was a Pentecostal preacher,my uncle is an ordained minister for the assembly of God,also my mother-inlaw is ordained minister.I have been in churches and felt God's presence,so I believe in my heart that their is a God and that he sent his son Jesus to our planet to save us and for us to be able to be forgiven of our sins.So I know that their is a God which is responsible for all of the good in the world,and their is a satan that is responsible for all of the bad and evil taking place around us.This much I know,the good will triumph over the evil.Thank You <br>                                                     Greg Louderback                                                    Wheelersburg,oh<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3467
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: why can t i look closer your shitty photo. is it that we will see your fuckin lies then. it amazes how some american assholes tries to make business when his citizens dies(ltd edition t/shirts!!!). look in mirror and you see the real devil.<br>
   'September 11 Email: CC':
     - html: false

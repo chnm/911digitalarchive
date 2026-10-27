@@ -14,7 +14,7 @@ id: 3187
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>You don't know me but I have been a tv newsphotog for over 20 years and a still photog before that. I now am a training manager for a broadcast company that trains tv editors and photos on our non-linear tv editors and all our broadcast products. I've been in the business for a while and I can see that that shot was NOT doctored. I'm still a member of the NPPA and I get the NPPA-L and saw your comments. You don't have anything to apologize for or explain. It was simply in the shot and there is nothing you did to bring this upon yourself. Don't let it get you down. <br><br>Sincerely,<br><br>Bob<br><br>Bob J. Sprouls<br>bob.sprouls@gvg.tv<br>317-328-8519 Direct office<br>317-691-4560 Cell phone<br>
   'September 11 Email: CC':
     - html: false

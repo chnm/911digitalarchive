@@ -14,7 +14,7 @@ id: 3485
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark:<br><br>Thank you for not hiding this image, or not succumbing to censorship.  I think that we all should interpret this image as we see fit.  But please allow me to tell you what I see.  I have not been raised a religious person, but I am still a person of faith.  Whether or not this picture is an illusion of smoke and light, I take something very powerful away from it.  Whether it is visually or metaphorically, we all saw the face of evil on September 11, 2001.  Whether a person interprets the image you captured as a random convergence of light and smoke, or a sign of a higher presence, we should all respect the fact that evil was at work that day, and do whatever we can to ensure that it never happens again. <br><br>Sincerely,<br>Victoria Person<br>
   'September 11 Email: CC':
     - html: false

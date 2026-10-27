@@ -14,7 +14,7 @@ id: 3462
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: please be advised that good will always win out over evil . May god bless America,<br>
   'September 11 Email: CC':
     - html: false

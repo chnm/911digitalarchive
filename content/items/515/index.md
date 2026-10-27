@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: 1199 NATIONAL
   'SEIU Story: Story':
-    - html: false
-      text: I WISH <P>I wish my love was in perfect alignment with the Earth,Moon, and Stars. I Wish it was inifinite, with no beginning and no ending. Like the universe; I wish it was endless ! <P>I wish it was as deep as the deepest blue sea; and as wide as all the oceans combined. I wish it was as tall as the tallest mountain, and as low as the sky is high ! I wish it could be compared to the land of milk and honey ! <P>I wish it was all of these and more. But, then again I am only human. <P>I wish we were as innocent as a newborn baby, and as loving as children at play. I wish I could be all of these, without wishing my life away! I wish everyone could be more of a friend than an enemy.  For, in the end; we would all be one living in perfect harmony! <P>To wish for more-would make me more like Jesus, so instead, I find myself wishing for peace. Is my wish, I wish today! <P>Merry Christ-mas!
+    - html: true
+      text: I WISH <p>I wish my love was in perfect alignment with the Earth,Moon, and Stars. I Wish it was inifinite, with no beginning and no ending. Like the universe; I wish it was endless ! <p>I wish it was as deep as the deepest blue sea; and as wide as all the oceans combined. I wish it was as tall as the tallest mountain, and as low as the sky is high ! I wish it could be compared to the land of milk and honey ! <p>I wish it was all of these and more. But, then again I am only human. <p>I wish we were as innocent as a newborn baby, and as loving as children at play. I wish I could be all of these, without wishing my life away! I wish everyone could be more of a friend than an enemy.  For, in the end; we would all be one living in perfect harmony! <p>To wish for more-would make me more like Jesus, so instead, I find myself wishing for peace. Is my wish, I wish today! <p>Merry Christ-mas!
 lastmod: '2014-09-11 01:32:37'
 layout: single
 outputs:

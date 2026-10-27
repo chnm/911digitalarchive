@@ -14,8 +14,8 @@ id: 3156
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: I swear to God -- it looks like Jughead, from the Archie Comix... not Satan. <br><br>best,<br>FBC<br><br>F R A N K C O L E M A N<br><br>Member > BENTMEN<br>http://www.bentmen.com<br><br>Samurai Media Warlord > For Hire<br>http://www.21ca.com<br><br>Box 382 > Needham > MA > 02492 > USA > 781.455.6936 > 781.ILL.OXEN<br>
+    - html: true
+      text: I swear to God -- it looks like Jughead, from the Archie Comix... not Satan. <br><br>best,<br>FBC<br><br>F R A N K C O L E M A N<br><br>Member &gt; BENTMEN<br>http://www.bentmen.com<br><br>Samurai Media Warlord &gt; For Hire<br>http://www.21ca.com<br><br>Box 382 &gt; Needham &gt; MA &gt; 02492 &gt; USA &gt; 781.455.6936 &gt; 781.ILL.OXEN<br>
   'September 11 Email: CC':
     - html: false
       text: ''

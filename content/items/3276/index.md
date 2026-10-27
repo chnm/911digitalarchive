@@ -14,7 +14,7 @@ id: 3276
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hey how you dong I don't know if you noticed but right beside the one picture they're two more faces  in the smoke they're to the right and up and above almost  at the horns then the other one is almost at the same direction as the second one above and over from the second                thats wierd   <br>
   'September 11 Email: CC':
     - html: false

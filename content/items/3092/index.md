@@ -14,7 +14,7 @@ id: 3092
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Sir/Madam,   My husband came home last night and heard on the radio about you shot of the NY Towers.  We have lost many friends in that horrible terrorist assault.      I am a teacher at a middle school in Tennessee and would like to show this shot to my fellow teachers--I was unable to pull it up on your website.  Could you e-mail me back as to how to retrieve it, or possibly e-mail it to me at c_eckstein@hotmail.com Thanking you greatly in advance for your kind attention to this matter. Cathy Eckstein Brentwood, TN<br>
   'September 11 Email: CC':
     - html: false

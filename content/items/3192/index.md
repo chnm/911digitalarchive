@@ -14,7 +14,7 @@ id: 3192
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I think the picture looks like the man who made this all possible. I have believed for the past 8-1/2 yrs that he is the devil incarnate - bill clinton.    <br>
   'September 11 Email: CC':
     - html: false

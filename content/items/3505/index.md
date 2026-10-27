@@ -14,7 +14,7 @@ id: 3505
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I DONT FIND THIS FACE IN THE SMOKE ANY STRANGER THAN I FIND THE FACE ON MARS STRANGE...ITS ALL RELATIVE...USE YOUR IMAGINATION....IT IS HOWEVER VISUALLY STIRRING...GARY.............ROK65VETT@AOL.COM<br>
   'September 11 Email: CC':
     - html: false

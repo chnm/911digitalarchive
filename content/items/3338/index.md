@@ -14,7 +14,7 @@ id: 3338
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: '<br><br>Attachment converted: maddogs enterprise:devil.jpg (JPEG/JVWR) (000A3E08)<br>'
   'September 11 Email: CC':
     - html: false

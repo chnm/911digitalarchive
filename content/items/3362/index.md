@@ -14,7 +14,7 @@ id: 3362
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Also I am sorry to say I did a copy and paste on it from Art Bell's web site and posted on a message board on AOL.  I hope I have not violated copyright laws.  If so, I am sure AOL will remove it.  <br>
   'September 11 Email: CC':
     - html: false

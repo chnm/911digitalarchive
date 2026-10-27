@@ -20,11 +20,11 @@ item_type_metadata:
     - html: false
       text: Memorials
   'HINY Photo: Description':
-    - html: false
+    - html: true
       text: |-
-        <br>Candlelight vigil at Union Square. Hundreds had gathered to light candles for the missing, and remember the lost. People have scrawled their thoughts in chalk in the ground.
+        <br>Candlelight vigil at Union Square. Hundreds had gathered to light candles for the missing, and remember the lost. People have scrawled their thoughts in chalk in the ground.<br>
 
-        <p>Nikon FM2n, Nikkor 105mm f/2.5. <a href="http://www.geocities.com/syner
+        <p>Nikon FM2n, Nikkor 105mm f/2.5. &lt;a href="http://www.geocities.com/syner
   'HINY Photo: Submitted On':
     - html: false
       text: 10/10/01

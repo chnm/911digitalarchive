@@ -14,7 +14,7 @@ id: 3173
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Dear Mr. Kirby,<br><br>It saddens me deeply that you have impeached the reputation of Mark Phillips in your article regarding the image he photographed of the World Trade Center tragedy. Some have interpretted the image in the smoke billowing from the World Trade Center as the devil or Osama bin Laden. Wouldn't Freud have a field day with that one?<br><br>I have known and worked with Mark for a number of years and his integrity is unassailable. As a former photographer for daily newspapers and current freelance photographer, Mark is a journalist first and would never bring supermarket tabloid sensationalism to his work. <br><br>Did you ever try to contact Mark to ask him about the photograph? It is unfortunate that an esteemed organization such as The Poynter Institute has failed to practice what it preaches when it comes to journalism -- balanced reporting.<br><br>Sincerely,<br><br>Angela Harrington, president<br>Harrington Communications<br>11 Dundar Road, Suite 207<br>Springfield, NJ 07081<br>Phone: 973-912-8196<br>Fax: 973-912-7225<br>E-mail: angela@harringtoncom.com<br>"
   'September 11 Email: CC':
     - html: false

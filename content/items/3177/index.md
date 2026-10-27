@@ -14,7 +14,7 @@ id: 3177
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: HEY,<br> I think you did this just to have people look at your website! How sick if you get pleasure out of something SO SAD. I feel sorry for whats going on in YOUR mine if you did this just to have people check this out.              HOW SAD!!!!!!!                    connie<br>
   'September 11 Email: CC':
     - html: false

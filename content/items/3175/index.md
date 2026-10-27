@@ -14,7 +14,7 @@ id: 3175
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just wanted to let everyone at stellarimages know that you are trying to reap profits at the expence of those who died in WTCs. The picture which you have on you site at the following link:<br>http://www.stellarimages.com/images/wtc01.gif which you claim to be genuine and not doctored is evil and shows the amount of greed that your company is willing to be involved in. What proves to me that you are a fraud is the fact that you are making money of f of this picture at a time like this. This is very sad and I hope you people realize your greed.<br>
   'September 11 Email: CC':
     - html: false

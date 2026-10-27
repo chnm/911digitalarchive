@@ -14,7 +14,7 @@ id: 3160
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: How can I obtain a copy  of the image in the explosion of the World Trade Center (devil image)   Maureen McC (Liffey13@home.com)<br>
   'September 11 Email: CC':
     - html: false

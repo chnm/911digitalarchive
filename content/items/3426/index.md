@@ -14,7 +14,7 @@ id: 3426
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Look closely, just to the left of the distinct face looks like a darker gray face with dark hair or wearing a beanie type hat.  I can even see a long chin or beard and it could even be depicted as a half body wearing a dark jogging suit.  I'm not imaging it, it is really there in your picture.       Thankx, Jesse  <br>
   'September 11 Email: CC':
     - html: false

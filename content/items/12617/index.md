@@ -14,7 +14,7 @@ id: 12617
 item_type: 911DA Story
 item_type_metadata:
   '911DA Story: Story':
-    - html: false
+    - html: true
       text: |-
         I was driving to the printing plant early that morning. I had the radio off and was pondering to myself just what would be the next "big event" in history. What would be the next "Where were you when" that is talked about years later. The JFK assassination, the Challenger disaster. etc.
         <br>

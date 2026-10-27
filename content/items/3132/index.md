@@ -14,8 +14,8 @@ id: 3132
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br><bold>hiya mark<br><br><br></bold> <br><br><br><br><br><br><bold>firstly id just like to add condolances to you and your fellow country folk who have suffered such a terrible terrible loss. <br><br><br><br><br><br>a friend of mine in america sent me ur picture tonight - at the minute there are five of us looking at it. <br><br><br><br><br><br>i can see at least six people in it.<br><br><br><br><br><br>when pointed out to my friends they have been able to see six aswell. what is really freaking me out is that when i look closely at his beard i can see little kiddies there are at least two. <br><br><br><br><br><br>hope you fing this as interesting as we do. <br><br><br><br><br><br>love  stephanie foster - northern ireland <br><br><br><br><br><br>my email address is - hals90@hotmail.com <br><br><br></bold><br><br><br><br>Get more from the Web. FREE MSN Explorer download : <<http://explorer.msn.com'>http://explorer.msn.com <br><br><br><br>"
+    - html: true
+      text: "<br><b>hiya mark<br><br><br></b> <br><br><br><br><br><br><b>firstly id just like to add condolances to you and your fellow country folk who have suffered such a terrible terrible loss. <br><br><br><br><br><br>a friend of mine in america sent me ur picture tonight - at the minute there are five of us looking at it. <br><br><br><br><br><br>i can see at least six people in it.<br><br><br><br><br><br>when pointed out to my friends they have been able to see six aswell. what is really freaking me out is that when i look closely at his beard i can see little kiddies there are at least two. <br><br><br><br><br><br>hope you fing this as interesting as we do. <br><br><br><br><br><br>love  stephanie foster - northern ireland <br><br><br><br><br><br>my email address is - hals90@hotmail.com <br><br><br></b><br><br><br><br>Get more from the Web. FREE MSN Explorer download : &lt;&lt;http://explorer.msn.com'&gt;http://explorer.msn.com <br><br><br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

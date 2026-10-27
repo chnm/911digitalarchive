@@ -14,7 +14,7 @@ id: 3085
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: i cant find the transcript of the chat time about the photo..i had it yesterday but didnt<br>have time to read it all..now it is gone. can you direct me to it or send me a<br>rinted copy of it.<br><br>email... jjames1944@hotmail.com<br><br>mailing address Judy James 371 E Cranberry Hill Dr Draper, UT<br>84020<br><br>thank you.....I completely agree with the born again Christian that responded. This<br>is real.<br>
   'September 11 Email: CC':
     - html: false

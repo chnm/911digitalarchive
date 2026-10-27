@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: At a stop work meeting of over 1,000 of our public hospital and health service members held on Wednesday 12th September a minutes silence was observed in honour of those who lost their lives in the tragic events of September 11. <P>On behalf of the members of the Hospital Salaried Officers Association of Western Australia, our heartfelt condolences to those who have lost loved ones and friends. <P>We salute the health workers and other union members who, in the face of such tragedy, have shown the world the true  spirit of America.
+    - html: true
+      text: At a stop work meeting of over 1,000 of our public hospital and health service members held on Wednesday 12th September a minutes silence was observed in honour of those who lost their lives in the tragic events of September 11. <p>On behalf of the members of the Hospital Salaried Officers Association of Western Australia, our heartfelt condolences to those who have lost loved ones and friends. <p>We salute the health workers and other union members who, in the face of such tragedy, have shown the world the true  spirit of America.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

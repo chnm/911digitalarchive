@@ -14,7 +14,7 @@ id: 3200
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I know that you are getting tons of emails concerning this picture. I am a Christian. This picture does not scare me at all. But I would like to make mention to the face of Christ in this picture as well. In the Bible in the book of Daniel there is a story of 3 men thrown into a fire. At one point their is a 4th person in there as well even though 3 were thrown in. That 4th person was God. Just like then and through out the Bible is always with us. The same was done one the Tuesday morning. If you look underneath the face of the "Devil" you will see Christ. I and another see this and have no doubt that it is Jesus. I know that you recieve emails from all kinds of people as while as Christians. I'd just like to make mention of this and even if you are the only one that looks out of this email. I hope you see Jesus in the as well. His there. No doubt about it. God Bless and Thank you.<br>Jerri McKeever<br>
   'September 11 Email: CC':
     - html: false

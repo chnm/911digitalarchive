@@ -14,7 +14,7 @@ id: 3012
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Just to put my two cents in regarding the photo of the trade center.... Could it be an eagle rising.... above the "face," I see the head of a bird with it's wings outstretched. What do you make of that? Kathy Rose Bridgton, ME<br>
   'September 11 Email: CC':
     - html: false

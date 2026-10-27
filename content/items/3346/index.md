@@ -14,7 +14,7 @@ id: 3346
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I have been digitally photographing the skies for years.  I have many images unaltered with images of angels, skulls, faces, and angel above my father's house the nite before he died. And a photo of the sun rise the morning he did leave this earth with his face image behind the rising sun. <br><br>Many do not think out of the box, many chose not to see. Your photo is most enlightening.<br>Thank Your for sharing your treasure.<br><br>Sending light and love.<br>Smiling in the bluskies,<br>JoAnn M. Bailly/Whitebird<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3045
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Have 4 copies for you and tell me where to fax it and it shall be done. Whoa.<br><br>-----Original Message-----<br>From: Mark D. Phillips [mailto:mphillips@stellarimages.com] Sent: Tuesday, September 18, 2001 6:55 AM To: Bishopjax@aol.com<br>Subject: found it online<br><br><br>Found it.<br><br>http://www.boston.com/dailyglobe2/261/living/Beyond_belief+.shtml <br><br>Part of a larger story on the Internet. It is on page F1, written by Joanna Weiss<br><br>If you can fax it and buy two or three copies it would be great. <br><br>Love you.<br><br>Me<br>'
   'September 11 Email: CC':
     - html: false

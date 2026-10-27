@@ -14,8 +14,8 @@ id: 3015
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hi,<br>I heard you on the radio this morning in Greenville, SC. I could feel the pain and disappointment in your voice this morning. I understand your profession and it is people like you that make us feel and see your pain from ground zero. Please ignore the ignorant comments that some people are making over this innocent print, that is causing you and your family grief. It is obvious that you make your living as a photographer and I think that what prints you are offering to the public to view and purchase and all proceeds going to the victims families shows your true character. So please don't pay attention to the negative views of such a positive and touching print. You and your family are in our thoughts and prayers. David & Cathie<br>1 Misty Meadow Dr.<br>Greenville, SC  29615-6161<br>
+    - html: true
+      text: Hi,<br>I heard you on the radio this morning in Greenville, SC. I could feel the pain and disappointment in your voice this morning. I understand your profession and it is people like you that make us feel and see your pain from ground zero. Please ignore the ignorant comments that some people are making over this innocent print, that is causing you and your family grief. It is obvious that you make your living as a photographer and I think that what prints you are offering to the public to view and purchase and all proceeds going to the victims families shows your true character. So please don't pay attention to the negative views of such a positive and touching print. You and your family are in our thoughts and prayers. David &amp; Cathie<br>1 Misty Meadow Dr.<br>Greenville, SC  29615-6161<br>
   'September 11 Email: CC':
     - html: false
       text: ''

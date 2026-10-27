@@ -14,7 +14,7 @@ id: 2996
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Do you see all those different faces in your picture or did someone fool with the picture and add more to it?<br>
   'September 11 Email: CC':
     - html: false

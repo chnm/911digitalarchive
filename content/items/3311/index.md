@@ -14,7 +14,7 @@ id: 3311
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Dear Mr. Phillips:   I have a friend in England who is Catholic, and told me that he felt that the Anti-Christ was behind the terror bombings, precisely because they were such enormous expressions of hate.  I told him about your picture which I had first seen at a Philly media website, and he has asked to see it.  Would you be able to send me a copy so that I can send it on to him?   Sincerely,       Scott Vincent   170 Soundview Ave White Plains, NY 10606 (914) 948-6338<br>'
   'September 11 Email: CC':
     - html: false

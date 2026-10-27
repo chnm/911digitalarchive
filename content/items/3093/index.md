@@ -14,7 +14,7 @@ id: 3093
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Could you tell me if the smoke has been touched up or if the image at the base of the smoke on the building is for real? <br><br>http://cincinnati.com/news/towerphotos/tower_smoke.html <br><br>Thanks,<br>Bob Koob<br>
   'September 11 Email: CC':
     - html: false

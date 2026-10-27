@@ -14,7 +14,7 @@ id: 3365
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: its no wonder that this showed up. we all know that it is the work of the devil himself and either he wanted us to know, or GOD wanted us to know. either way its pure and simple. THIS WAS THE WORK OF THE DEVIL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3153
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'When I first saw the photo, I was convinced it was altered. However, when watching CNN with my family, I was able to see this exact image from a video taken. This is a genuine photo. There are other photos with similar faces and they can also be seen from other videos. If someone needs proof, I would recommend they search archived videos.<br><br>Thought I would share this with you.<br><br><br><br>Thanks<br><br>Matt Carlucci<br>PCG Development Team, Director<br>PCG Associates, Inc.<br>Main: 914.937.7121<br>Direct: 914.937.0554<br>Email: MJCarlucci@pcgcorp.com<br>'
   'September 11 Email: CC':
     - html: false

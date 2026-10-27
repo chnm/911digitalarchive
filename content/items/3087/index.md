@@ -14,7 +14,7 @@ id: 3087
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Is that the only image that the face appears on, becase I've seen faces in clouds dozens of times.<br>Or was that face a constant as the smoke continued to pour out? This is the only image I've seen<br>of this so far I haven't seen it on TV.<br>
   'September 11 Email: CC':
     - html: false

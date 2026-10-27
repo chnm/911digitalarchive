@@ -14,7 +14,7 @@ id: 3199
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I strongly believe the picture that was captured of the devil's face that Mark took is for real.  Looking back at some of the other pictures taken at the same location that were posted on cnn.com you can also see faces and skull's in the some of the smoke if you really focus on the pictures.  I believe these are some of the people soul's that are risen.  I do not believe any of those pictures were Mark's, people can see for theirselves that they are not make believe. <br>
   'September 11 Email: CC':
     - html: false

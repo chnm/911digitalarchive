@@ -14,7 +14,7 @@ id: 3072
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I know that you're probably busy with everyone elses emails and questions, but I heard that there is two images on the World Trade Center with faces. Can you tell me what website they're on? I couldn't find them both on http://www.stellarimages.com/. Personally, I think the image on the World Trade Center looks like Osama Bin Laden. <br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3336
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The men who carried out this diaboloical act are evil and i do not doubt for one minute that there is an image in the smoke. Perhaps its a message to America that we need to pray for those families who lost loved ones and for protection from future terrorist activity. <br><br>Don Alt<br>
   'September 11 Email: CC':
     - html: false

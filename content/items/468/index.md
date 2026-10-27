@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: My best friend's dad was killed in September 11th.  For months she would not say a word, and would always look at the floor. Until recently she has never done any homework or anything the teachers aks her to do.  I feel for her and for everyone who lost someone. <P> ~*~*GOD BLESS AMERICA*~*~               ~*GO USA*~
+    - html: true
+      text: My best friend's dad was killed in September 11th.  For months she would not say a word, and would always look at the floor. Until recently she has never done any homework or anything the teachers aks her to do.  I feel for her and for everyone who lost someone. <p> ~*~*GOD BLESS AMERICA*~*~               ~*GO USA*~
 lastmod: '2014-09-11 01:32:35'
 layout: single
 outputs:

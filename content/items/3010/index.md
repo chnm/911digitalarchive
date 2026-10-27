@@ -14,7 +14,7 @@ id: 3010
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: TO mark phillips,  Mark I took a picture of the Holy father late in may off my television I have a picture of the Blessed Mother leaning over the Pope . Her gown is transparent . Pink in color. She has a Large Crown on her head.  So any thing is possible. What a picture.  It is a message to all of us to open our eyes. Please get in touch.  Janice Falcone 401 364 8888  Box 222 Charlestown, R. I. 02813<br>
   'September 11 Email: CC':
     - html: false

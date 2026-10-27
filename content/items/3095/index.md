@@ -14,7 +14,7 @@ id: 3095
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Your right, people can read into it more if they choose. Let's not forget in the horrible clouds of smoke-innocent people lost their life's and affected everyone. May God bless us all!<br>
   'September 11 Email: CC':
     - html: false

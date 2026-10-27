@@ -14,7 +14,7 @@ id: 3188
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Call me a cynic, but I would like to know where I can see the image on video. Thanks!!<br>
   'September 11 Email: CC':
     - html: false

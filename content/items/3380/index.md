@@ -14,7 +14,7 @@ id: 3380
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: When I look at the photo I see two face images. One against the building and one coming out from the building adjacent to the one against the building. The one coming out has its mouth open, one eye, and a nose. Which image are people referring to. The one on the building or the other?<br>
   'September 11 Email: CC':
     - html: false

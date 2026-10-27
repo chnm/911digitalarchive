@@ -14,7 +14,7 @@ id: 3409
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I'll tell you what a monstrous act of evil is, it's trying to make money off of this tragedy. Why aren't you giving ALL 20 dollars to charity you selfish pig. I cannot fathom anyone trying to make money off of this! You should be ashamed! <br><br>Dwayne Gardner<br>
   'September 11 Email: CC':
     - html: false

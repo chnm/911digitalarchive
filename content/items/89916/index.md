@@ -22,9 +22,9 @@ item_type_metadata:
     - html: false
       text: Environmental Damage
   'HINY Photo: Description':
-    - html: false
+    - html: true
       text: |-
-        <br>At Chambers Street, West Side Highway staging area 1/2 mile from ground zero, 1pm, Sept 11, 2001. Behind the police officer is a damaged patrol car pulled from the disaster site. Above, F-16's patrolled the skies.
+        <br>At Chambers Street, West Side Highway staging area 1/2 mile from ground zero, 1pm, Sept 11, 2001. Behind the police officer is a damaged patrol car pulled from the disaster site. Above, F-16's patrolled the skies.<br>
 
         <p>Nikon FM2, Nikkor 105mm f/2.5.
   'HINY Photo: Submitted On':

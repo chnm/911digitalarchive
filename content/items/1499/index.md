@@ -26,23 +26,23 @@ item_type_metadata:
     - html: false
       text: ''
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        Bangladeshis again alarmed as gunman kill three, wound one in Oklahoma and Michigan, by Loblu Ansar, Thikana, 5 October 2002. Translated from Bangla by Moinuddin Naser.
-
-        A Bangladeshi man, Abdur Kousar Rahman, 38, and his American friend Sterling Molense, 30, were  shot dead by a masked gunman on Sept. 15 in Tulsa, Okla. while Rahman was working at his own shop.  Molense was shot and killed while he tried to save Rahman. When the gunman opened fire on Rahman, Molense jumped on him to protect him. Police have yet to catch anyone in connection to the incident. The reasons for the shooting were unknown.
-        <i>--by Lovlu Ansar, Thikana, 16 September 2002. </i>
-
-        And in Michigan,  checker cab driver Abu Taher, 38, was shot and killed and another driver Akbar Khan Shekil, 23, was injured on Sept. 25, near Detroit, in an area where many Bangladeshis live.  Since this incident, Bangladeshi cab drivers are living in fear. The police have not made an arrest to date.
-
-        Shekil said that he and Taher were talking while parked near a gas station, keeping their cars idiling side by side while waiting for their next passengers. Suddenly he heard several rounds of fire and then saw a man waiting outside his window brandishing a weapon. He saw more men standing beside Tahers car. He said the men appeared to be African American.
-
-        The man asked Shekil to get out of the car and get down. Shekil left his wallet inside the car and got out. The man took over the car and when Shekil tried to run away, the man shot at him and struck Shekils left elbow. He rushed to the door of the gas station shouting for help. At this time, the other thug shot at Taher. Taher also shouted and fell to the ground. An ambulance was called and Shekil and Taher were taken to the hospital where Taher was pronounced dead.
-
-        Shekil said that the man stole $217  from his car, which was later recovered a half a mile from where the incident occurred.
-
-        Abu Taher came to this country in 1997 after winning the diversity visa lottery.
-
+        Bangladeshis again alarmed as gunman kill three, wound one in Oklahoma and Michigan, by Loblu Ansar, Thikana, 5 October 2002. Translated from Bangla by Moinuddin Naser.<br>
+        <br>
+        A Bangladeshi man, Abdur Kousar Rahman, 38, and his American friend Sterling Molense, 30, were  shot dead by a masked gunman on Sept. 15 in Tulsa, Okla. while Rahman was working at his own shop.  Molense was shot and killed while he tried to save Rahman. When the gunman opened fire on Rahman, Molense jumped on him to protect him. Police have yet to catch anyone in connection to the incident. The reasons for the shooting were unknown.<br>
+        <i>--by Lovlu Ansar, Thikana, 16 September 2002. </i><br>
+        <br>
+        And in Michigan,  checker cab driver Abu Taher, 38, was shot and killed and another driver Akbar Khan Shekil, 23, was injured on Sept. 25, near Detroit, in an area where many Bangladeshis live.  Since this incident, Bangladeshi cab drivers are living in fear. The police have not made an arrest to date.<br>
+        <br>
+        Shekil said that he and Taher were talking while parked near a gas station, keeping their cars idiling side by side while waiting for their next passengers. Suddenly he heard several rounds of fire and then saw a man waiting outside his window brandishing a weapon. He saw more men standing beside Tahers car. He said the men appeared to be African American.<br>
+        <br>
+        The man asked Shekil to get out of the car and get down. Shekil left his wallet inside the car and got out. The man took over the car and when Shekil tried to run away, the man shot at him and struck Shekils left elbow. He rushed to the door of the gas station shouting for help. At this time, the other thug shot at Taher. Taher also shouted and fell to the ground. An ambulance was called and Shekil and Taher were taken to the hospital where Taher was pronounced dead.<br>
+        <br>
+        Shekil said that the man stole $217  from his car, which was later recovered a half a mile from where the incident occurred.<br>
+        <br>
+        Abu Taher came to this country in 1997 after winning the diversity visa lottery.<br>
+        <br>
         <i>Helal Uddin Rana, Bangla Patrika, 5 October 2002. </i>
   'VTMBH Article: Date':
     - html: false

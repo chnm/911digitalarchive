@@ -11,7 +11,7 @@ id: 3376
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: As Billy Graham's daughter was saying this morning as Brian Gumball asked<br><br>Why did God let this happen?" Her answer; "Over the last several years the Schools, the Government and the People have asked God to step out of the picture and let man run it. God being a gentleman has done exactly what They have asked and has taken his hand off of these. AND until the people invite God back into the Schools, The Government and in our everyday <br>lives things like this will continue to happen." Note the ugly form of Satan in the pictures. Does that tell you who is responsible for this tragedy?<br><br>It's like satan is just gloating over what he has done. Please encourage Everyone that you talk to to humble themselves before God and ask Him<br>to come back into our lives and take control. God is still on The Throne and as<br>we are before Him on bended knees we are only an arms length from Him. Now, reach out your arms and touch God and see what a change comes from a closer walk with Him..........then let's see if Satan is still smiling!<br>
   'September 11 Email: CC':
     - html: false

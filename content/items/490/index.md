@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: My name is Ann and I work for a hearing aid manufacturer in Norcross, GA. I would like to encourage our company to participate in relief efforts and I would like to propose to our management that your NYC group needs our help. If you can, I need to know what other items are needed by the families in addition to money. Send me an email and let me know how we can help. <P>I am so sorry for your losses. We in Atlanta all hurt with you.
+    - html: true
+      text: My name is Ann and I work for a hearing aid manufacturer in Norcross, GA. I would like to encourage our company to participate in relief efforts and I would like to propose to our management that your NYC group needs our help. If you can, I need to know what other items are needed by the families in addition to money. Send me an email and let me know how we can help. <p>I am so sorry for your losses. We in Atlanta all hurt with you.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

@@ -14,7 +14,7 @@ id: 3337
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Mark,       I have seen such an image taken of a firemen in a burning building.  I saw the picture in Seabrook, Tx. near Galveston.  I don't know if it was a Texas fireman in the picture fighting a local building fire taken by a bystander or the fireman just acquired it.  But it is the same image.  And in that picture an angel was over the fireman and satan.       I saw a series of frames from CNN but I already knew this was an evil act and how prophet of the President to say that.  And also how like satan to use religion to hide behind.  I don't know if you are a Christian, but as your camera picks up images you don't even see, I hope that you will hasten to know the One that will win this real war.     Marie Mercier      God Bless America! SIS Technologies, Ltd.<br>P: 281-484-6661<br>F: 281-484-8988<br>mariem@sis-tek.com<br>"
   'September 11 Email: CC':
     - html: false

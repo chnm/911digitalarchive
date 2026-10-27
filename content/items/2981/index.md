@@ -14,7 +14,7 @@ id: 2981
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi Mark, My mom sent  me the WTC picture you took.  Wow, what a shot!  It is a creepy image of the devil.  I was very concerned for you and your family on the day of the tragedy.  I was so glad to hear that you all are fine.   Everyone here in Cincinnati feels the pain of the people of NYC and all of the families that lossed loved ones during the horrific event.  There has been a continuous tribute to our local firefighters for their service to our own communities.  People have come together, held hands, and are proud to live in the greatest country in the world.    Keep up the good work!   Take care!  Say "hi" to andrea for me!   Love, Barbara (Weeden) Kaminsky  <br>
   'September 11 Email: CC':
     - html: false
