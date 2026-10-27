@@ -26,28 +26,28 @@ item_type_metadata:
     - html: false
       text: Creating public relations teams in Bosnia and Herzegovinas diplomatic and consular missions is an urgent task to ensure that Bosnia continues to enjoy its worldwide recognition.  In addition, the sooner these teams are created, the sooner cultural centers can be established to promote the history and Diaspora of Bosnia and Herzegovina.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        In the United States and Canada, every successful venture in business, politics, and even the arts, depends on a good marketing strategy. The Bosnian immigrant community must learn from this model and promote and better organize its diaspora.
-
-        Thanks to our public relations disorganization, every day we lose a large number of supporters who may not be linked to Bosnia and Herzegovina but still express their sympathy with and interest in our community. Unfortunately, we do nothing to keep that interest.
-
-        Creating public relations teams in our diplomatic and consular missions around the world is an urgent task if we still care to protect the remaining recognition enjoyed by Bosnia and Herzegovina. In addition, the sooner we create these teams, the sooner we will be able to establish cultural centers to promote Bosnia and Herzegovina.
-
-        There are a few main groups that should be the focus of our diplomatic and consular missions.
-
-        <i>Library and Reading Rooms:</i> Since the majority of our immigrants reside in smaller cities, without access to newspapers and new publications from the homeland, organizing libraries and reading rooms would benefit Bosnian immigrants. It would also provide them a place to assemble and share ideas.
-
-        <i>Courses:</i> Many Bosnian immigrants came to this country without English language or computer skills. It is essential that our mission teach these skills. The younger Bosnian generation can play a key role in coordinating these lessons by teaching the older generations the skills they learn in school.
-
-        <i>Student Associations:</i> Bosnian college students should consider forming associations with their fellow classmatesrather than just with the Bosnian communityas it will create more future opportunities for them. Such associations would strengthen the reputation of Bosnia and Herzegovina among teachers and students at universities across the continent.
-
-        <i>Veteran Associations:</i> It is also very important to involve war veterans and disabled persons in all newly formed associations of Bosnia and Herzegovina. Including these veterans would alleviate some of the disappointment, abandonment and isolation many of our soldiers feel living in the United States and Canada.
-
-        <i>Cultural Activities:</i> The diplomatic and consular mission should be responsible for organizing exhibitions, tributes and literary gatherings featuring Bosnian and diaspora authors and artists discussions of the cultural history of Bosnia and Herzegovina. Recognition of Bosnia and Herzegovinas cultural treasures and post-war artistic trends would promote our country in the United States, and make it possible to secure significant financial resources for restoring our national art.
-
-        <i>Bosnian Education:</i> The education systems in the United States and Canada offer excellent opportunities to include Bosnian language courses in schoolshowever, little has been done. A group of our citizens organized a petition for Bosnian language classes to be submitted to the Board of Education. This would mean Bosnian youth would receive school credit to study their native language.
-
+        In the United States and Canada, every successful venture in business, politics, and even the arts, depends on a good marketing strategy. The Bosnian immigrant community must learn from this model and promote and better organize its diaspora.<br>
+        <br>
+        Thanks to our public relations disorganization, every day we lose a large number of supporters who may not be linked to Bosnia and Herzegovina but still express their sympathy with and interest in our community. Unfortunately, we do nothing to keep that interest.<br>
+        <br>
+        Creating public relations teams in our diplomatic and consular missions around the world is an urgent task if we still care to protect the remaining recognition enjoyed by Bosnia and Herzegovina. In addition, the sooner we create these teams, the sooner we will be able to establish cultural centers to promote Bosnia and Herzegovina.<br>
+        <br>
+        There are a few main groups that should be the focus of our diplomatic and consular missions.<br>
+        <br>
+        <i>Library and Reading Rooms:</i> Since the majority of our immigrants reside in smaller cities, without access to newspapers and new publications from the homeland, organizing libraries and reading rooms would benefit Bosnian immigrants. It would also provide them a place to assemble and share ideas.<br>
+        <br>
+        <i>Courses:</i> Many Bosnian immigrants came to this country without English language or computer skills. It is essential that our mission teach these skills. The younger Bosnian generation can play a key role in coordinating these lessons by teaching the older generations the skills they learn in school.<br>
+        <br>
+        <i>Student Associations:</i> Bosnian college students should consider forming associations with their fellow classmatesrather than just with the Bosnian communityas it will create more future opportunities for them. Such associations would strengthen the reputation of Bosnia and Herzegovina among teachers and students at universities across the continent.<br>
+        <br>
+        <i>Veteran Associations:</i> It is also very important to involve war veterans and disabled persons in all newly formed associations of Bosnia and Herzegovina. Including these veterans would alleviate some of the disappointment, abandonment and isolation many of our soldiers feel living in the United States and Canada.<br>
+        <br>
+        <i>Cultural Activities:</i> The diplomatic and consular mission should be responsible for organizing exhibitions, tributes and literary gatherings featuring Bosnian and diaspora authors and artists discussions of the cultural history of Bosnia and Herzegovina. Recognition of Bosnia and Herzegovinas cultural treasures and post-war artistic trends would promote our country in the United States, and make it possible to secure significant financial resources for restoring our national art.<br>
+        <br>
+        <i>Bosnian Education:</i> The education systems in the United States and Canada offer excellent opportunities to include Bosnian language courses in schoolshowever, little has been done. A group of our citizens organized a petition for Bosnian language classes to be submitted to the Board of Education. This would mean Bosnian youth would receive school credit to study their native language.<br>
+        <br>
         Considering the migration patterns of our population, Bosnian language courses would only be possible in a few U.S. and Canadian cities, as such courses depend on a large percentage of students. As of now, only Chicago offers Bosnian language classes, though in Toronto the Board of Education is in the process of verifying a program. In New York and St. Louis, nothing has been done, thus far, to implement the program.
   'VTMBH Article: Date':
     - html: false

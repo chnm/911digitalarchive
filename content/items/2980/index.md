@@ -14,7 +14,7 @@ id: 2980
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: DEAR SIR,THIS IMAGE OF DEVIL,OR FALSE GOD,THE ARAB,PRAY TO<br>
   'September 11 Email: CC':
     - html: false

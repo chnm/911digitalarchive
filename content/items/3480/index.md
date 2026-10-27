@@ -14,7 +14,7 @@ id: 3480
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To Whom it May Concern,   Due to the press your company has received I can not get past the first web page to inquire on pricing and the different pictures you have available.   Is there an alternate way I can view these pictures or get pricing?   Thank you for making donations to the Twin Tower Disaster Fund.  I have purchased quite a bit over the past week all because I knew where my monies were headed.   Sincerely, Thad<br>
   'September 11 Email: CC':
     - html: false

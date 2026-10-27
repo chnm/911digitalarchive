@@ -11,7 +11,7 @@ id: 3232
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,   Thank you for sharing this picture.  Whatever it is, whoever it is, I believe you have captured something on film that should give us all reason to give some thought to where our hearts are spiritually.   Thanks again,   Angela G.<br>
   'September 11 Email: CC':
     - html: false

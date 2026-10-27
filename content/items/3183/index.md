@@ -11,7 +11,7 @@ id: 3183
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I personally think that is a sign stateting that the anti christ is here. so there for love one another because everybody will end up in the same hole.<br>
   'September 11 Email: CC':
     - html: false

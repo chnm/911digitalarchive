@@ -14,8 +14,8 @@ id: 2987
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold>I was watching tv this morning and saw a news clip of the 2nd tower being hit , from the southern angle and I saw the devils image in the flames.  I had heard about your photo but I just woke up and wasn't even thinking about it. I think it was cbs yet in the corner it said cnn. <br><br>Have other seen him in the flames.</bold><br>
+    - html: true
+      text: <br><b>I was watching tv this morning and saw a news clip of the 2nd tower being hit , from the southern angle and I saw the devils image in the flames.  I had heard about your photo but I just woke up and wasn't even thinking about it. I think it was cbs yet in the corner it said cnn. <br><br>Have other seen him in the flames.</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

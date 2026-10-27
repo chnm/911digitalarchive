@@ -14,7 +14,7 @@ id: 3207
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: YES, I CAN SEE THE IMAGE AND I DON'T BELIEVE THAT YOU DOCTURED OR WHATEVER YOU CALL IT I BELIEVE THAT IT IS AN ACT OF EVIL OF ALL SORTS AND THAT FOR UW TO BEGIN TO BELIEVE THERE IS A HEAVEN AND HELL BUT TO BELIEVE IN HEAVEN I SAW TWO BEAUTIFUL ANGELS AND SOME LIGHT SHINNING THRU SO THE PICTURE IS REAL.   YOUR FRIENDLY SUPPORTER....................IRENE......... <br><br>
   'September 11 Email: CC':
     - html: false

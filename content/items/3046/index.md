@@ -14,7 +14,7 @@ id: 3046
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hey Mark-<br><br>I believe in you and I think that the people who are giving you a hard time...THEY are the opportunists.<br>Love you man!<br><br>Say hello to Andrea and give a big kiss to your little pumpkin! <br><br>Nina Siemaszko-Burtis<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3296
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like to buy a copy of the photo of the devil and angel image taken during the attack.   Chris Fesmire   fez72@home.com<br>
   'September 11 Email: CC':
     - html: false

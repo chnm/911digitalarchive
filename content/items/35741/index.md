@@ -5,7 +5,7 @@ date: '2014-01-08 15:54:18'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: Family of <b>Manuel Asitimbay</b>, from Ecuador, who was working for Windows on the World and has been missing since September 11.th
   Title:
     - html: false

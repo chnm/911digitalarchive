@@ -14,8 +14,8 @@ id: 3343
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Just wanted to say this is an incredible photo.  It will make people think.  Is it just the random pattern of smoke, or something more sinister?  Who knows.  Great photo!   Carrie Westbrook   ps.  I saw this photo from a link a friend sent.  The link is <http://www.9news.com/newsroom/13294.html>http://www.9news.com/newsroom/13294.html Thought you might want to know where I saw it.  <br>
+    - html: true
+      text: Just wanted to say this is an incredible photo.  It will make people think.  Is it just the random pattern of smoke, or something more sinister?  Who knows.  Great photo!   Carrie Westbrook   ps.  I saw this photo from a link a friend sent.  The link is &lt;http://www.9news.com/newsroom/13294.html&gt;http://www.9news.com/newsroom/13294.html Thought you might want to know where I saw it.  <br>
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 3242
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Greetings:<br>Dig into your pocket and sort through all your quarters. You'll probably find one New Hampshire quarter, showing our State's trademark, The Old Man of the Mountains, a natural rock formation in Franconia Notch State Park. <br><br>With the thousands of photos being shot of the smoke clouds, it is not supernatural that a smoke cloud formation could momentarily resemble a face. Even a look at a grounded electrical outlet, and it resembles a face. <br><br>Tom Alciere<br>Nashua NH<br><br>P.S.: LMK if you want some World Trade Center jokes.<br>"
   'September 11 Email: CC':
     - html: false

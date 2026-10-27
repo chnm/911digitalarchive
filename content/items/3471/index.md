@@ -11,7 +11,7 @@ id: 3471
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Well, if this is a true view from the camera's eye, then where is the other one that I had seen on this sight? Why is that not on this now. I cannot vaguely remember what it looked like, but I do know I have seen it. A few of my friends have seen, as well.<br><br>I'm curious if you still have that and if it can be forwarded to me. <br><br>I have NO doubt that this is the work of the Devil, and many Demons that follow that piece of garbage. But, we must all remember to REBUKE, and that our LORD is much more powerful.<br><br>I know that many people are frightened concerning these issues, and the talk of "the end times", of "Revelations" is now even more discussed as never before.<br><br>Thanks,<br>Suzanne R.<br>
   'September 11 Email: CC':
     - html: false

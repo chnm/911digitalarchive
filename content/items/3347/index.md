@@ -14,7 +14,7 @@ id: 3347
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I do not see a picture of Satin in your photo. I wish everyone would stop distorting all of this. If anything should have appeared in your pictures, as a believer in God, it would have been God himself, or the Virgin Mary. <br><br>Come on, we have had enough of terror. People are looking and reading into to much of everything!<br>
   'September 11 Email: CC':
     - html: false

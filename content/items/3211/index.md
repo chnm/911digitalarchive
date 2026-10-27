@@ -14,7 +14,7 @@ id: 3211
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Please advise how I could receive a copy of this picture. (prices, shipping, etc.) It is truly amazing.<br><br>Mary L. Wright, 9169 Admiral St., Brooksville, FL 34613 <br><br>MLFL7041@aol.com<br>
   'September 11 Email: CC':
     - html: false

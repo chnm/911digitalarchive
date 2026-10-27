@@ -14,7 +14,7 @@ id: 3174
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,   I for one am glad that you captured this face in a photo. Our country was founded in the belief in God and as a nation we have drifted away from that belief. As a Christian I believe that this picture could very well be a warning to America to turn from our sinful ways and return  to the God of our forefathers. We have always in the past been a strong nation and a example to the world, but we  acomplished this with the leadership of God and our Savior Jesus.   I thank you for publishing this picture and pray that America will view this as a wakeup call. This could very well just be the beginning of some terrible times ahead of us. If one does not believe this just read Revelations. It's all predicted there for the reading. Some may call me a fanatic, but i'm not. I'm just a believer in the Word of God and I pray daily for our nation and the world as a whole.   I also pray for the families of the victims and the rescue workers who face the horrendious task they face each day.   Thanks again for shareing this with us. May God bless your efforts and keep you safe.                        In God We Trust (powerful words if we heed them)                              Sincerly,                              Doug Sheets<br>
   'September 11 Email: CC':
     - html: false

@@ -26,9 +26,9 @@ item_type_metadata:
     - html: false
       text: Messages
   'HINY Photo: Description':
-    - html: false
+    - html: true
       text: |-
-        <br>Missing persons wall at Union Square.
+        <br>Missing persons wall at Union Square.<br>
 
         <p>Nikon FM2, Nikkor 105mm f/2.5. <a href="http://www.geocities.com/synergy_two/wtcimages/index.html">http://www.geocities.com/synergy_two/wtcimages/index.html</a>
   'HINY Photo: Submitted On':

@@ -14,7 +14,7 @@ id: 3391
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: when my mother and i looked at the photo, we saw two evil faces, the original one and the one to the right<br>
   'September 11 Email: CC':
     - html: false

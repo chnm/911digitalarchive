@@ -14,8 +14,8 @@ id: 3446
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Mark,Thanks for the shipping.I`m in the photo biz too; we shoot all the clothing shots for the Cabela`s catalog.I`m the art director/owner/stylist.We`re all taking a hit these days.My cousin lost her husband at the WTC- James Murphy.Your pix will help me feel connected.God Bless You All.Thanks,Susan Naughton,Colorado<br>>Susan,<br><br>>I subtracted $15 from your total. We are paying the shipping on these via usps. Your credit card was charged $80.<br><br>>Sincerely,<br>>StellarImages<br><br>
+    - html: true
+      text: Mark,Thanks for the shipping.I`m in the photo biz too; we shoot all the clothing shots for the Cabela`s catalog.I`m the art director/owner/stylist.We`re all taking a hit these days.My cousin lost her husband at the WTC- James Murphy.Your pix will help me feel connected.God Bless You All.Thanks,Susan Naughton,Colorado<br>&gt;Susan,<br><br>&gt;I subtracted $15 from your total. We are paying the shipping on these via usps. Your credit card was charged $80.<br><br>&gt;Sincerely,<br>&gt;StellarImages<br><br>
   'September 11 Email: CC':
     - html: false
       text: ''

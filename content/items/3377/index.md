@@ -14,8 +14,8 @@ id: 3377
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold>Hi Mark! I first want to say,god bless and hope that you know that you are in our prays each and every day,as well as all of the people who have suffered this terrible tragidy.I am >from canada,and we here are as terrified and hurt by this as the people in the u.s. I have lost friends in this horrible attack also.May god bless each and every one of them.I was watching on tv as this nightmare unfolded and I saw that face in the smoke.I yelled to my husband and son in law to come and they both saw it as well.It really was upsetting to see such a thing.I know that your photo's are untouched as my own eyes saw what your camera captured on film that day.I will cut this short as im sure that you have a ton of email.Take care and be safe! God bless America!!! most sincerely; Jane St.Germain/Ontario Canada.</bold><br>
+    - html: true
+      text: <br> <b>Hi Mark! I first want to say,god bless and hope that you know that you are in our prays each and every day,as well as all of the people who have suffered this terrible tragidy.I am &gt;from canada,and we here are as terrified and hurt by this as the people in the u.s. I have lost friends in this horrible attack also.May god bless each and every one of them.I was watching on tv as this nightmare unfolded and I saw that face in the smoke.I yelled to my husband and son in law to come and they both saw it as well.It really was upsetting to see such a thing.I know that your photo's are untouched as my own eyes saw what your camera captured on film that day.I will cut this short as im sure that you have a ton of email.Take care and be safe! God bless America!!! most sincerely; Jane St.Germain/Ontario Canada.</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

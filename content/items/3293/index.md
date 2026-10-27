@@ -14,7 +14,7 @@ id: 3293
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Mark,<br>Got your phone message. The story is supposed to run tomorrow. They held it for space. Sorry about the delay. Erin<br><br>-----Original Message-----<br>From: Mark D. Phillips [mailto:mphillips@stellarimages.com] Sent: Saturday, September 15, 2001 12:53 PM To: eemery@denverpost.com<br>Cc: cbigger@mindspring.com<br>Subject: Here I am<br><br><br>Thanks for talking with me. It really did help. <br><br>Mark<br>'
   'September 11 Email: CC':
     - html: false

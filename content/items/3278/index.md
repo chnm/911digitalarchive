@@ -14,8 +14,8 @@ id: 3278
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br>Why would you put up on the web site a photo different from the one published in newspapers?  The photo on your web site is<bold> totally different! <br><br>Can you please put up an explanation for this?? <br><br>Thank you</bold>,<br><br>Linda Williams<br>
+    - html: true
+      text: <br>Why would you put up on the web site a photo different from the one published in newspapers?  The photo on your web site is<b> totally different! <br><br>Can you please put up an explanation for this?? <br><br>Thank you</b>,<br><br>Linda Williams<br>
   'September 11 Email: CC':
     - html: false
       text: ''

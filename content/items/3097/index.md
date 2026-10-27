@@ -14,7 +14,7 @@ id: 3097
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br>--<br>Hi,<br><br>I have just read through the messages at the 9News website. I saw the TV video footage of the "Face in the Smoke" as it occurred, so I am in no doubt that your picture is an original. <br><br>Someone wrote on the message board that the CNN picture seemed to be taken from a different side of the building to yours. Which makes me wonder if there were two "Faces".<br><br>Regards,<br><br>Irene Hepburn<br>Adelaide, South Australia<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3270
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: In viewing your picture it appears to me that there are two faces. One that is encompassed in the smoke but the most startling to me is the smaller more defined to the left of the image in the smoke. What do you think?<br><br>Deb<br>
   'September 11 Email: CC':
     - html: false

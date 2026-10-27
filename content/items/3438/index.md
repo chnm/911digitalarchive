@@ -14,7 +14,7 @@ id: 3438
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I saw your picture and it shocked me enough to write this to you. This is a sign of the times and should show people what is to happen soon.<br>
   'September 11 Email: CC':
     - html: false

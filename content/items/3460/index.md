@@ -14,7 +14,7 @@ id: 3460
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>Please do not think I am un sympathetic of what happened. My work is mostly in Manhattan and I have seen/heard what this disaster has done to us as a nation and as a people....I am deeply saddened for my colleagues ...........and.............the ones I still have not heard from. I <br><br>I was not looking to cause harm to you, that would never be my intention to anyone in business, but why would you ask me not to distribute this unique photograph?<br><br>Richard Moore<br>
   'September 11 Email: CC':
     - html: false

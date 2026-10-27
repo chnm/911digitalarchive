@@ -14,7 +14,7 @@ id: 3151
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark -- I received the following e-mail from Ken Irby. Do you want me to send him your e-mail address? Ang<br><br>Dear Anghar,<br>Mark reputation was not challenged in my piece, it was the perception of photo editors and readers. I am trying to reach Mark to offer his perspective on the image. Due to the weather, troubled phone lines, and politics on Friday, when I wrote the piece I was not about to reach him. If you have an email address I would appreciate it. <br>Cheers,<br>Kenny<br>
   'September 11 Email: CC':
     - html: false

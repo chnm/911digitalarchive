@@ -14,7 +14,7 @@ id: 3484
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like to know what happen to the first photos you sent out with the face in the cloud of smoke(in color) Ken at oldbutlermil@yadtel.net,,I saw the image on the news an thought I was seeing things.<br>
   'September 11 Email: CC':
     - html: false

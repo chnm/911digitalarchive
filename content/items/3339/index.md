@@ -14,7 +14,7 @@ id: 3339
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr Phillips,<br>we would like to print your foto aof the face in the smoke of the burning tower in our german monthly magazine »Info3«, based in Frankfurt, together with your explanations how the foto was taken. Please let us know the conditions.<br>With regards<br>Dr. Jens Heisterkamp, Editor<br>
   'September 11 Email: CC':
     - html: false

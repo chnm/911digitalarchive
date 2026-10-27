@@ -51,7 +51,7 @@ dublin_core:
 
         <p><b><a href="/items/33701/">Tynan21</a></b> Hospital and emergency workers ready to assist another patient arriving  from the WTC site. </p>
 
-        <p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/1958">Tynan22 </a></b> 1199 members await those injured in the WTC attacks. </p>
+        <p><b>Tynan22 </b> 1199 members await those injured in the WTC attacks. </p>
 
         <p><b><a href="/items/33982/">Tynan23 </a></b> Reactions as the towers collapse. </p>
 
@@ -65,13 +65,13 @@ dublin_core:
 
         <p> <b>Belinda Gallegos  </b> also covered the WTC aftermath  for the 1199SEIU News. She has contributed the following photos: </p>
 
-        <p><b> <a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2009"> Gallegos1 </a></b>Shawn Powell's widow, Jean with the American flag. </p>
+        <p><b>  Gallegos1 </b>Shawn Powell's widow, Jean with the American flag. </p>
 
-        <p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2010">Gallegos2 </a></b>The memorial service for the family of slain firefighter, Shawn Powell. </p>
+        <p><b>Gallegos2 </b>The memorial service for the family of slain firefighter, Shawn Powell. </p>
 
-        <p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2011">Gallegos3 </a></b> Joshua Powell, son of slain firefighter, Shawn Powell, at the memorial service with his fathers helmut. </p>
+        <p><b>Gallegos3 </b> Joshua Powell, son of slain firefighter, Shawn Powell, at the memorial service with his fathers helmut. </p>
 
-        <p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2012">Gallegos4 </a></b>Wife Jean and son Joshua at the memorial service slain firefighter, Shawn Powell. </p>
+        <p><b>Gallegos4 </b>Wife Jean and son Joshua at the memorial service slain firefighter, Shawn Powell. </p>
 featured: false
 files:
   - fullsize:
@@ -176,15 +176,15 @@ type: items
 <p><b><a href="/items/34103/">Tynan19  </a></b> Emergency and hospital workers together help patient out of an ambulance. </p>
 <p><b><a href="/items/33900/">Tynan20 </a></b>- Hospital workers ready to assist another patient arriving from the WTC site. </p>
 <p><b><a href="/items/33701/">Tynan21</a></b> Hospital and emergency workers ready to assist another patient arriving  from the WTC site. </p>
-<p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/1958">Tynan22 </a></b> 1199 members await those injured in the WTC attacks. </p>
+<p><b>Tynan22 </b> 1199 members await those injured in the WTC attacks. </p>
 <p><b><a href="/items/33982/">Tynan23 </a></b> Reactions as the towers collapse. </p>
 <p><b><a href="/items/33869/">Tynan24 </a></b> Unloading medical supplies to be ready for victims of the attacks. </p>
 <p><b><a href="/items/33807/">Tynan25 </a></b> Medical workers get ready to assist an injured man outside St. Vincent's Hospital emergency room. </p>
 <p><b><a href="/items/34207/">Tynan26 </a></b> Police and hospital workers busy outside St. Vincent's Hospital. </p>
 <p><b><a href="/items/33795/">Tynan27 </a></b> New York Catholic Archdiocese's Cardinal Egan dons a hospital gown to help victims of the WTC attacks. </p>
 <p> <b>Belinda Gallegos  </b> also covered the WTC aftermath  for the 1199SEIU News. She has contributed the following photos: </p>
-<p><b> <a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2009"> Gallegos1 </a></b>Shawn Powell's widow, Jean with the American flag. </p>
-<p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2010">Gallegos2 </a></b>The memorial service for the family of slain firefighter, Shawn Powell. </p>
-<p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2011">Gallegos3 </a></b> Joshua Powell, son of slain firefighter, Shawn Powell, at the memorial service with his fathers helmut. </p>
-<p><b><a href="https://web.archive.org/web/2003/http://www.911da.org/photograph/details/2012">Gallegos4 </a></b>Wife Jean and son Joshua at the memorial service slain firefighter, Shawn Powell. </p>
+<p><b>  Gallegos1 </b>Shawn Powell's widow, Jean with the American flag. </p>
+<p><b>Gallegos2 </b>The memorial service for the family of slain firefighter, Shawn Powell. </p>
+<p><b>Gallegos3 </b> Joshua Powell, son of slain firefighter, Shawn Powell, at the memorial service with his fathers helmut. </p>
+<p><b>Gallegos4 </b>Wife Jean and son Joshua at the memorial service slain firefighter, Shawn Powell. </p>
 {{< /raw >}}

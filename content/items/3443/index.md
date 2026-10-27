@@ -14,7 +14,7 @@ id: 3443
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The photographs are quite scary, but nothing compared to the real thing. I do, however offer a suggestion for your web site. Lose the JavaScript or whatever code used to popup an alert when you mouseover the image. The picture is out, all over the internet, anyway. <br><br>Thanks.<br>Joe Keller<br>
   'September 11 Email: CC':
     - html: false

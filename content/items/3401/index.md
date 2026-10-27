@@ -14,7 +14,7 @@ id: 3401
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I am actually intrigued that you were able to capture the image. As I sat watching the news on the morning of 11 September and watched in horror along with everyone else as the building collapsed, I remember thinking that I saw the image of a face in the smoke. And I immediately remember thinking "evil". Since looking for images in the clouds is a game my four year old and I like to play, I immediately shook the image out of my head and became slightly angry with myself for what I thought was my mind playing the game. I realize now that it was not just my imagination. Whether or not it is the face of evil, it is still an image to remember.<br>
   'September 11 Email: CC':
     - html: false

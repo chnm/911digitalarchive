@@ -14,7 +14,7 @@ id: 3273
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello:<br>I just wanted to let you know that on Tuesday, 9-11-01 my mother actually saw the evil face within the smoke. When I called her from work to see how she was doing that Tuesday morning she was crying due to the tragic attack but was also crying due to what she had seen which was a clear picture of an evil face.<br>Sandy<br>
   'September 11 Email: CC':
     - html: false

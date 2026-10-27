@@ -14,7 +14,7 @@ id: 3298
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Please send me infor on where to send $ for The Twin Towers Fund and for a copy of the Tower photo. esser@olympus.net<br>
   'September 11 Email: CC':
     - html: false

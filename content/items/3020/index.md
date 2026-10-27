@@ -14,7 +14,7 @@ id: 3020
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips:<br><br>I just want to thank you for your honesty.  I for one believe whole-heartedly this photograph was not doctored.  I have looked at it 100 times and find it incredible.  You have given us the opportunity to see the face of evil, but as we all know, evil is no match for good. <br><br>Thank you again for your photograph that I am sure will be remembered for all time. <br><br>Sue N.<br>
   'September 11 Email: CC':
     - html: false

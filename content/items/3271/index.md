@@ -14,7 +14,7 @@ id: 3271
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Hi,<br><br>A Birmingham, AL TV station ABC 33/40 their web site is www.abc3340.com broadcast a photo taken by a local man that was in New York on a local church trip. I have forwarded this photo. I think you were not the only one to have captured the face of evil!<br><br>Dave<br>dmayton@creationscorner.com<br><br><br><br><br>Attachment converted: maddogs enterprise:facebig.jpg (JPEG/JVWR) (000A4D08)<br>'
   'September 11 Email: CC':
     - html: false

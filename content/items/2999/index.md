@@ -14,7 +14,7 @@ id: 2999
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi,<br>I saw your photograph of the world trade center with the "devil's face" in the smoke.  I would like to buy a copy of the picture from you.  As an artist, I understand the assault to the integrity that you have taken from people who claim that you doctored this photo.  I, on the other hand, find it to be an incredible photograph that will never be forgotten.  Please email me back and let me know if it is possible to get a copy of the picture.  I would be willing to pay for it via credit card, PayPal, or whatever you find most convenient for you.  Thank you for taking the time to read my email! Jessica A. Poczatek<br>
   'September 11 Email: CC':
     - html: false

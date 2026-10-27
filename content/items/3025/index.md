@@ -14,7 +14,7 @@ id: 3025
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello Stellar Images, I have seen this picture in our local newspaper.I enjoyed hearing Marks testimony on this encredable picture that he capture this devilish shot through his camera not knowing of his task.I would like to add that I see an extra face under the chin of this monster.It is more profiled than the first face.Also to me it looks as though it may have a beard.? Some of the pictures I have seen of Christ he has a beard. The Lord will conqure all.I would enjoy your input on the findings of the extra face. Thank you,Gina jgcd3@yahoo.com <br>
   'September 11 Email: CC':
     - html: false

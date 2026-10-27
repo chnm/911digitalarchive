@@ -11,7 +11,7 @@ id: 3459
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Sir<br>I feel very terrible you are going through your situation concerning the pictures. I believe the pictures are authentic<br>
   'September 11 Email: CC':
     - html: false

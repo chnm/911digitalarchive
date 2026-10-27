@@ -14,7 +14,7 @@ id: 3375
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: to whom it may concern,the picture of the tower in flame with the face is simply unbelievable.i keep looking at it and it is skary.i don't know how the rest of the world feels about this,but does it really means something???i have no logical explanations to this aaprition.WOW!<br>
   'September 11 Email: CC':
     - html: false

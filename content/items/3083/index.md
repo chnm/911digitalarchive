@@ -14,7 +14,7 @@ id: 3083
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Does stellarimages accept checks? I would prefer not to use a credit card on the internet.   Thanks--K.Kee<br>
   'September 11 Email: CC':
     - html: false

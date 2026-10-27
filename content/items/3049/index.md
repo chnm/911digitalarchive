@@ -14,8 +14,8 @@ id: 3049
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: On second thought ... Want to try a letter to the editor? I'll consider printing it if you want to write something short. <br><br>"Mark D. Phillips" wrote:<br><br>>I just read comments by your reporter Bryce Hoffman about the photograph that I shot and sent to AP that everyone is saying contains the "face of Satan." I would appreciate your help in getting my response out on this photograph. AP never bothered to talk to me and send a quote from me about this picture. <br><br>>I have been inundated with email from the world and have posted an open letter regarding the photo on http://www.stellarimages.com and http://www.markdphillips.com. <br><br>>Any help you can provide is appreciated. <br><br>>Sincerely,<br>>Mark D. Phillips<br>>President, StellarImages<br>>http://www.stellarimages.com<br>>718-858-8980<br>>Brooklyn, NY<br>
+    - html: true
+      text: On second thought ... Want to try a letter to the editor? I'll consider printing it if you want to write something short. <br><br>"Mark D. Phillips" wrote:<br><br>&gt;I just read comments by your reporter Bryce Hoffman about the photograph that I shot and sent to AP that everyone is saying contains the "face of Satan." I would appreciate your help in getting my response out on this photograph. AP never bothered to talk to me and send a quote from me about this picture. <br><br>&gt;I have been inundated with email from the world and have posted an open letter regarding the photo on http://www.stellarimages.com and http://www.markdphillips.com. <br><br>&gt;Any help you can provide is appreciated. <br><br>&gt;Sincerely,<br>&gt;Mark D. Phillips<br>&gt;President, StellarImages<br>&gt;http://www.stellarimages.com<br>&gt;718-858-8980<br>&gt;Brooklyn, NY<br>
   'September 11 Email: CC':
     - html: false
       text: ''

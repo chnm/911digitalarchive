@@ -14,7 +14,7 @@ id: 3335
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thank you for providing information about the picture you took of the WTC burning.  I received it from a number of sources via email. I wasn't sure what to think.  Your clarifying the situation validates the picture.   I want to also thank you for taking pictures and documenting a part of history that will be a turning point for us as a Nation.  While this is an uncertain time, and fearful for many, it is important to log it for the future.  Your pictures contribute to this documentation.   You are obviously a gifted photographer.  I only hope and pray your proximity to taking such pictures hasn't caused you any trauma or harm.  It isn't often we remember the people who provide us the up front and personal photos and videos were right there, up front and personal.  The toll on you has the potential to be enormous.   I just wanted to say thank you!   Vicki Westburg Educator Fresno, California<br>
   'September 11 Email: CC':
     - html: false

@@ -5,7 +5,7 @@ date: '2014-01-08 15:38:50'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Antonio M </b> Antonio Melendez, 43, who was on the 107th floor  at the restaurant, Windows on the World, when the disaster struck.
   Title:
     - html: false

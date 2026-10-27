@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: SEIU Local 800 <P>Brother Stern, <P>Following the terrible acts of violence against the United States of America, we, Local 800, are filled with consternation and want to assure our support to you and to all of the SEIU members and their families. <P>We are truely sad and want to let you know that we are ready to help in any way possible in order to surpass this terrible tragedy.  We, Local 800 as a whole, assure you that our thoughts are with you and please recieve our deepest sympathies. <P>In solidarity, <P>Raymond Larcher,  President <P>Huguette Gaudreault,  Secretary-treasurer <P>Alain Brisson,  Secretary-correspondent
+    - html: true
+      text: SEIU Local 800 <p>Brother Stern, <p>Following the terrible acts of violence against the United States of America, we, Local 800, are filled with consternation and want to assure our support to you and to all of the SEIU members and their families. <p>We are truely sad and want to let you know that we are ready to help in any way possible in order to surpass this terrible tragedy.  We, Local 800 as a whole, assure you that our thoughts are with you and please recieve our deepest sympathies. <p>In solidarity, <p>Raymond Larcher,  President <p>Huguette Gaudreault,  Secretary-treasurer <p>Alain Brisson,  Secretary-correspondent
 lastmod: '2014-09-11 01:32:35'
 layout: single
 outputs:

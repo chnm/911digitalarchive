@@ -14,8 +14,8 @@ id: 3402
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Why not give all the money of this most likely doctered photo to charities, selling pics of the devil 4 profit$. u are the devil..........warned.... <br><br>i know b4 u do...........?<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: Why not give all the money of this most likely doctered photo to charities, selling pics of the devil 4 profit$. u are the devil..........warned.... <br><br>i know b4 u do...........?<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

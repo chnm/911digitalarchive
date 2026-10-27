@@ -14,8 +14,8 @@ id: 3476
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: God Bless you all! You have all been in my prayers every day. I wish there was more I could do besides donate blood and money & pray. Let us Texans know if there is anything y'all need. Sincerely,<br>Elyse<br><br>http://community.webtv.net/grapegoober/have a beautiful day<br>
+    - html: true
+      text: God Bless you all! You have all been in my prayers every day. I wish there was more I could do besides donate blood and money &amp; pray. Let us Texans know if there is anything y'all need. Sincerely,<br>Elyse<br><br>http://community.webtv.net/grapegoober/have a beautiful day<br>
   'September 11 Email: CC':
     - html: false
       text: ''

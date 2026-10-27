@@ -14,8 +14,8 @@ id: 3390
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> My son just forwarded me the account of your photo.  May I add to the mystery? <br><br><br>I too saw an image.  In yours the face is beginning to dissipate to some extent, but what <italic>I </italic>saw was an eerily correct rendition of the George Washington portrait, the one where the figure disappears into clouds.  I can still see Washington's features in your photo, though much less clearly than they originally appeared to me. <br><br><br>With the horror of subsequent events, the incident completely slipped my mind until I saw your photo.  <br><br><br>Best wishes to you and to our dear country. <br><br><br>Dan Traylor<br><br><br>
+    - html: true
+      text: <br> My son just forwarded me the account of your photo.  May I add to the mystery? <br><br><br>I too saw an image.  In yours the face is beginning to dissipate to some extent, but what <i>I </i>saw was an eerily correct rendition of the George Washington portrait, the one where the figure disappears into clouds.  I can still see Washington's features in your photo, though much less clearly than they originally appeared to me. <br><br><br>With the horror of subsequent events, the incident completely slipped my mind until I saw your photo.  <br><br><br>Best wishes to you and to our dear country. <br><br><br>Dan Traylor<br><br><br>
   'September 11 Email: CC':
     - html: false
       text: ''

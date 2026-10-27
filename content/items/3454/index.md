@@ -14,7 +14,7 @@ id: 3454
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: We are interested to getting copies of the face of the devil in the smoke.  How may we obtain them?  Thank You for your work.<br>
   'September 11 Email: CC':
     - html: false

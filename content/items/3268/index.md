@@ -14,7 +14,7 @@ id: 3268
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello,   I think there's something wrong on your website http://www.stellarimages.com/wtc01.html   The last picture on this site was taken in 1998, but the copyright is from 1991. ??????   By the way, I spent a lot of money during the "tribute to heroes" show.   Regards from Germany   D. Rongen<br>
   'September 11 Email: CC':
     - html: false

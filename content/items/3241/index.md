@@ -14,7 +14,7 @@ id: 3241
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>I noticed a face (in the smoke) of an evil grinning Arab while watching TV shortly after the collapse. The image appeared for at least 15 seconds and my wife saw it also. I'm waiting for that to be uncovered. Makes your shot look pedestrian.<br><br><br>Peace,<br><br>Mike Corso<br>Cool Site of the Day<br>Submit YOUR Site TODAY!<br>http://www.coolsiteoftheday.com/submit.html<br>
   'September 11 Email: CC':
     - html: false

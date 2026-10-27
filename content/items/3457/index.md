@@ -14,7 +14,7 @@ id: 3457
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was interested in your photos and was hoping you offered them in larger sizes as well. Please let me know if this is the case. <br><br>Steven M. Hinde<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3061
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mr.Phillips,     For the last 50 years the same type images have been appearing in our family photos in even more shocking manner. See http:\ilom.homestead.com for many examples. It's possible that some light may be shed on their source and intent. Sincerely, Michael Dickens<br>
   'September 11 Email: CC':
     - html: false

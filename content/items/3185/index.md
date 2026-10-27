@@ -14,7 +14,7 @@ id: 3185
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: It always amazes me how people believe in Jesus without reservation. Yet at the same time poo poo the existence of evil and all it's real implications. <br><br>I have heard that this is a wake up call for America for the last week. To my mind, this is a wake up call for all humanity. We are killing ourselves for any and all excuses.<br><br>When are we going to start overlooking our differences and focusing on our similarities? To understand that we all work, love our children, hate violence and war. In short, that we are just trying to survive each day the best way we can...<br>
   'September 11 Email: CC':
     - html: false

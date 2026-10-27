@@ -14,7 +14,7 @@ id: 3303
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I was trying to look at your pictures but the Internet keeps saying there is an error in line 200.  So anyway I say yes I would like to continue and the message just keeps repeatedly interfering not allowing use to freely view your sight.  I thought you might like to know.  Buy the way Mike good work and keep your chin up the only people accusing you of fraud are the people who need to console their fears for the things they do not understand.   <br><br>Sincerely,<br>Echo Peterson<br>
   'September 11 Email: CC':
     - html: false

@@ -14,8 +14,8 @@ id: 3364
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: i belive the photo is true and no alterations have been made.this also was in our last sunday's paper here in illinois...its a terrible thing that has happened and i'am sure we will all be stronger in the future if we just all stick together and pray for those who lost their lives in this terrible attack...GOD BLESS US ALL.... <br><br>AM300<br>lose weight-feel great<br>Natural Herbal Energizer<br>Solution to Weight Loss & Added Energy<br>217-384-7834 or<br>877-453-5274<br>For More Info and Samples<br><br>amsonline.com/homepages/gawthorp<br>
+    - html: true
+      text: i belive the photo is true and no alterations have been made.this also was in our last sunday's paper here in illinois...its a terrible thing that has happened and i'am sure we will all be stronger in the future if we just all stick together and pray for those who lost their lives in this terrible attack...GOD BLESS US ALL.... <br><br>AM300<br>lose weight-feel great<br>Natural Herbal Energizer<br>Solution to Weight Loss &amp; Added Energy<br>217-384-7834 or<br>877-453-5274<br>For More Info and Samples<br><br>amsonline.com/homepages/gawthorp<br>
   'September 11 Email: CC':
     - html: false
       text: ''

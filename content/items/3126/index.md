@@ -11,7 +11,7 @@ id: 3126
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark:<br><br>The image you have captured is in my opinion definitely a demonic image. For the last several years I have taken numerous pictures in the sky which have revealed many saintly images as well as many beastly images. I have captured what we belive to be the doorway to Heaven, Many hundreds of faces and even what we believe to be Our Lady of Grace. I belive God unveils these spiritual images to us for the many that need signs that Heaven and Hell exist as well as there in a great spiritual battle going on for souls. <br><br>Chris Aquadro<br>Northampton, MA<br>
   'September 11 Email: CC':
     - html: false

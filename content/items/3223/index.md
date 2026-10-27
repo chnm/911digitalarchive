@@ -14,7 +14,7 @@ id: 3223
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I have to say I have now seen 2 pictures that depict an evil face amongst the smoke, and although it could just be circumstantial, I believe that Satan is behind this. I know that alot of people are scared...I just wonder how many of them realize that this is<br>"The Beginning of The End". Your'e picture could influence alot of lost souls to seek salvation, and I believe that the Lord is using you for this purpose. I am praying for all of New York, and Washington...and the leaders of our country, the families that are suffering the loss of loved ones, and the men and women who are doing whatever they can to assist in the aftermath. Thank you for allowing the world to see "evil" with their own eyes....I believe that our Savior, Jesus Christ has given you a gift and a talent that may cause alot more prayer and belief in His word. God Bless You and yours. Sincerely, Angela Pedigo ( Jacksonville, Florida)<br>
   'September 11 Email: CC':
     - html: false

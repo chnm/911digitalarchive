@@ -14,7 +14,7 @@ id: 3114
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just wanted to say that I know his picture was not altered in any way, nor were the CNN color photos. I saw this "face" in the smoke as it was being broadcast live on CNN. It was so evil-looking; it's an image I'll never forget. ---Michele Hartle<br>
   'September 11 Email: CC':
     - html: false

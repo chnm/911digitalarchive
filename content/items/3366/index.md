@@ -14,7 +14,7 @@ id: 3366
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>Thank you kindly for your note on your web page which I found via Poynter.org. As a high school journalism instructor I proudly explained that a professional photographer who associated himself with AP would not alter a photo, especially of this magnitude. My students were skeptical but after reading from the AP web site and yours, they understood, and, I think, learned a lesson about ethics. <br><br>Thank you for your profound work and words. <br><br>Deborah Garner<br>Central High School Journalism<br>Springfield, Missouri<br>
   'September 11 Email: CC':
     - html: false

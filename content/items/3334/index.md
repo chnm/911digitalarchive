@@ -11,7 +11,7 @@ id: 3334
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: My high school art students are enjoying the image you captured on Sept. 11th, the face in the smoke. Bravo to a fellow artist! Although the whole event is disturbing, it's important to know that our art images capture history in the making. Peace....<br>
   'September 11 Email: CC':
     - html: false

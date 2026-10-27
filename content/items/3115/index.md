@@ -14,7 +14,7 @@ id: 3115
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: A lot of people are telling me that these photos are false! I want to believe that no one would do something like that. So I'm wanting to know where we can find video coverage of this pic? <br><br>Thanks for your help!<br>
   'September 11 Email: CC':
     - html: false

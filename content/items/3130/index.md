@@ -14,7 +14,7 @@ id: 3130
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: mr. phillips,<br>that's an amazing photo if ever i've seen one. what i see is two faces, one hovering just above the other. if you put your hand over this faces nose, you'll see another image, which looks to me like jesus over top satan. i also see the angel image that one of your e-mail persons spoke of. we do this all the time. my companion and myself. we saw this after just looking real hard for the angel image. please e-mail me back if you find it. <br>                                                                       " in total awe,"                                                                           ms. dickerson<br>
   'September 11 Email: CC':
     - html: false

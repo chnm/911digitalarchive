@@ -14,7 +14,7 @@ id: 3057
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Sir:<br><br>I am a normal, law abiding, middle aged woman. If your statement about not doctoring the image is true then you captured in a split second the face of evil. We live in a world of Yin and Yang, dark and light, good and evil - every mythology from the most primitive to the most sophisticated has embraced this concept. Never before did we have the where-with-all to capture it on tape or high speed film - you have provided the "mug shot." This does not freighten me, it enlightens me - for as the ghost disappears when you shine a flashlight on it in the dark, so evil exposed is rendered impotent when it is captured and displayed as you have. <br><br>If you have in any way "enhanced" this picture or video then you should be ashamed of yourself - but if we take you at your word, then you were chosen to do mankind a great service in showing that for every action (in this case, evil), there is an equal (the photo), and opposite reaction (the great outpouring of compassion). It is simple physics. <br><br>I am sure this has been very unnerving for you, there are sometimes great mysteries which we must simply accept without question. Accept this as some blessing rather than a curse and go forth and do good to all you encounter in this life. Try to remember the Buddha said, "Make of yourself a light." You captured the negative energy of that horrible moment in a split second, now you can go on to enlighten the world at your leisure. God Bless and Keep You.<br><br>Sincerely,<br>Peyton Parker-Williams<br>
   'September 11 Email: CC':
     - html: false

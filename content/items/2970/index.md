@@ -14,7 +14,7 @@ id: 2970
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Mr. Mark D. Phillips:   I'm sitting here in shock as I write this to you.  I heard about \"the\" image and did a search of it on the net for photos I had already viewed countless times.  Prior to reading about \"the\" image, I must say I never noticed anything out of the ordinary in any of the photos I had already viewed.  Well, I thought I found \"the\" photo with the first picture I happened to click on in my search, the image quite literally jumped out at me this time.  Only problem is - it's not this one, it is NOT yours.  So, there's another one out there.   And...brace yourself, there's a third, but it's not an image of satan, it is however, a clearly defined image of a skull face.  I'm not nuts, I know what I saw.  I'm going back to do another search to identify the photos and email them to you (no, I had NOT bookmarked them prior.) It's almost 2am NY time, I'll look for the photos tomorrow and email you again, please......make a mental note of my return email address and keep an eye out for my next email, it should contain where to locate the photos on the web.   Sincerely, Carmella Crespo   PS - I have a need to say this to you.  I believe in a stronger power than the devil, I believe in God almighty, and mighty He is.  The devil may be in the details, but God can and will wipe him out in His time according to His plan.  The devil, his days are numbered!<br>"
   'September 11 Email: CC':
     - html: false

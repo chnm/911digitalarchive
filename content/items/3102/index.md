@@ -14,7 +14,7 @@ id: 3102
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mr. Phillips,<br>Several days after the attack on America, I was looking at one of the endless videos of the burning buildings. At that time, I saw the "face" also. If anyone says that your photograph was "doctored", I can vouch that they are very wrong !!!<br><br>Philip R. Asbill<br>Durham, NC<br>philip@verizon.net<br>
   'September 11 Email: CC':
     - html: false

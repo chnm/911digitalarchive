@@ -26,7 +26,7 @@ item_type_metadata:
     - html: false
       text: A gay Egyptian seeking US asylum talks about a life forced to secrecy. This is an article from New York Blade, an independent gay weekly newspaper in New York City.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: <a href="http://www.nyblade.com/world/020125a.htm">Click here to read the story in the New York Blade.</a>
   'VTMBH Article: Date':
     - html: false

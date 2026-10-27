@@ -14,7 +14,7 @@ id: 3399
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>Hello I am from Albuquerque New Mexico. I am looking at a photo taken by you hopefully (not sure I have the right person) it s by mark d. Philips/the associated press. I am not sure if you are the right person but it s a picture of world trade center tragedy. If you are the right mark d Philips please let me know I have a few questions about one of the pictures in our newspaper. Thanks <br><br><br> <br><br><br> Steven<br><br><br>niceguyscomputer<br><br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3147
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I first viewed the "smoke devil" photo on Friday 9/14 after clicking onto the 9news.com website. I did not save the photo and was wondering if you could email me the photos and article that was on the same page as the photo that day? Since the site has changed the photos, I cannot get that photo now. It was the two pictures of the smoked faces. One from the AP the other from CNN. Both were on the same page. Could you please send me a copy from the website of that picture that was posted that day (9/14)? Thank you,<br>Angie Leveritt<br>
   'September 11 Email: CC':
     - html: false

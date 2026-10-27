@@ -14,7 +14,7 @@ id: 2971
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: http://www.stellarimages.com/<br>On this image from the site above, I do not believe it's the devil, I believe it to be jesus.  If you look carefuly at the image that was cut out from the picture and is pasted at the top right hand corner, at what would be the images neck, is the cross.  Look carefuly, you'll see it. <br><br>Sincerely,<br>Annie Cooper<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3056
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I am thinking of ordering one of your pictures of the NY skyline offered on your website.  Is it possible also to purchase a copy of the picture with the "face" in the smoke?  I have not been able to get a copy of any newspapers in which it ran and would like to have it also to save. <br><br>thank you,<br>Melinda Rodimel<br>
   'September 11 Email: CC':
     - html: false

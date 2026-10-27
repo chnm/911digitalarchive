@@ -14,7 +14,7 @@ id: 3315
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Do you know that the Dayton Daily News (Dayton, Ohio) put your face image in a Special Edition, before anyone noticed...   -mitch<br>
   'September 11 Email: CC':
     - html: false

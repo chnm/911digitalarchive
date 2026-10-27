@@ -14,7 +14,7 @@ id: 3060
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi, Lou Schisler from Minot, ND here.  Saw your "devil face" image in smoke on your website and saw that you were selling some of your NY skyline prints.  Are you also offering the smoke print for sale?  If so what is the cost?   Thanks,   Lou S.<br>
   'September 11 Email: CC':
     - html: false

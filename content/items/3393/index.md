@@ -14,8 +14,8 @@ id: 3393
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: i respect that completely.actually me and a friend are gettin someone to make us bumper stickers and all of the profit that we make will go to the red cross fund, even the man making them for us wont be making anything, i realize that we may not make alot of money but in the end it all adds up.<br>p.s. if u do start selling the pictures please let me know. <br>and i just got an idea which has probably came to your mind already, but you could find a buisness that would be willing to make copies and all material costs would be paid back and the profits could go to the red croos or other funds.<br>thank you,<br>chris pahl<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: i respect that completely.actually me and a friend are gettin someone to make us bumper stickers and all of the profit that we make will go to the red cross fund, even the man making them for us wont be making anything, i realize that we may not make alot of money but in the end it all adds up.<br>p.s. if u do start selling the pictures please let me know. <br>and i just got an idea which has probably came to your mind already, but you could find a buisness that would be willing to make copies and all material costs would be paid back and the profits could go to the red croos or other funds.<br>thank you,<br>chris pahl<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,8 +14,8 @@ id: 3233
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold>That picture has been altered if you ask me...........this is not a time to BS  Americans.</bold><br>
+    - html: true
+      text: <br><b>That picture has been altered if you ask me...........this is not a time to BS  Americans.</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

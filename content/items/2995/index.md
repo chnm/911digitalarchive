@@ -14,8 +14,8 @@ id: 2995
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: i do not read anything in to the "face". as we know many things such as smoke, clouds etc...can be interpreted as many different things, shapes, pictures, objects & even faces. i think if you turned the picture sideways and looked at it we would see some other "forms" of a face or object etc. thank you for the picture, although I wish for the world the wtc's were not in this situation for this picture to be taken.  I appreciate your photo journalism. god bless you. <br>
+    - html: true
+      text: i do not read anything in to the "face". as we know many things such as smoke, clouds etc...can be interpreted as many different things, shapes, pictures, objects &amp; even faces. i think if you turned the picture sideways and looked at it we would see some other "forms" of a face or object etc. thank you for the picture, although I wish for the world the wtc's were not in this situation for this picture to be taken.  I appreciate your photo journalism. god bless you. <br>
   'September 11 Email: CC':
     - html: false
       text: ''

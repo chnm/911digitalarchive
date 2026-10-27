@@ -14,7 +14,7 @@ id: 3082
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To whom it may concern:<br><br>My name is Jodi Coy and I am from Cincinnati, Ohio. I, too like everyone else was horrified to watch the tragedy unfold on television September 11, 2001. A friend of mine emailed the link to your picture that was taken which some say there is the face of Satan among the smoke. As I looked at the picture it wasn't the face you have the close up on that caught my eye. I don't know if you realize it or not but along with that face there are two more. If you look in the direction of north east of the one you are focused on there is a more definite picture of the evil that surrounded the towers. If you cannot see what it is I am seeing please let me know I will try to be more specific as to where it is I am seeing this. I believe that anywhere there is a terrible tragedy somewhere in the midst of it all you will see Satan. I am not a religious freak or anything like that I am just a spiritual person who thinks this terrible tragedy was un called for and that although many wonderful people had to lose their lives something great will come out of it all. Thank you for taking the time to read this. I hope to hear back from you if not may God Bless and keep you safe! <br><br>Sincerely,<br>Jodi Coy<br>
   'September 11 Email: CC':
     - html: false

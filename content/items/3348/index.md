@@ -14,7 +14,7 @@ id: 3348
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Regardless of the image depicted, God  Was  not and IS not on hiatus. Satan is real but DEFEATED-Lynda RKF<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3038
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>We are constantly praying for everyone in New York, the children, wives, husbands, rescue workers. Your sorrow is our sorrow. I wish I could send you pictures of all the flags and marques that say, "God Bless America" and "Our Prayers are with New York." My second wish would be that I could go to New York and help. We may be in Texas, but we are with you in our hearts and spirit! May God's blessings be on all of you!<br>
   'September 11 Email: CC':
     - html: false

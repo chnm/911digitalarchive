@@ -14,7 +14,7 @@ id: 2961
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Before you baulk at yet another email about your photo listen to this.  I have found photos and video in addition to yours that show face(s) in the smoke.   Carmen Taylor, amateur, took a photo distributed by AP.  Sean Adair took a photo distributed by Reuters. CNN has an exclusive video and your picture(s).   Carmen and Sean photos are in a slide show entitled "See images of the attack" on http://www.msnbc.com/modules/theweekinpictures/2001_archive/2001_0913.asp found in slide show 1, the last two frames.   Seans can also be viewed at http://www.adairproductions.com/WorldTradeCenter/pages/04_fireball_02.htm   CNN video is "Second plane hits World Trade Center" on http://www.cnn.com/SPECIALS/2001/trade.center/multimedia.rescue.html   Check them out for yourself.  I find that Sean's is unique and has two faces in the left tower.  Look from bottom and find a smaller white face then directly over that face is a larger black face.  The Carmen and CNN video are consistent.  I've not found any others exactly like yours.    Thankx, Jesse  <br>
   'September 11 Email: CC':
     - html: false

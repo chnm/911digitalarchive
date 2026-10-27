@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: Trade Union for the Municipal Sector KTV <P>Dear Mr Stern, <P>It is obviously with shock and disbelief that we we watched the terrible events in New York and Washington on Tuesday.  Our news services are full of stories of the offices of federal workers being evacuated or even being the subject of bomb blasts. Many federal workers appear to have been killed and hundreds of emergency services workers and police in New York have died in their valiant efforts to save fellow Americans who were the victims of these senseless attacks. <P>On behalf of the Trade Union for the Municipal Sector KTV, I offer you condolences and support as your union copes with what may be the loss of many members and activists or the grief of those who have lost familiy members.  It will obviously be some time before we know the full extent of the tragedy and i hope that you will let us know, as events unfold, of these terrible terrorist attacks.
+    - html: true
+      text: Trade Union for the Municipal Sector KTV <p>Dear Mr Stern, <p>It is obviously with shock and disbelief that we we watched the terrible events in New York and Washington on Tuesday.  Our news services are full of stories of the offices of federal workers being evacuated or even being the subject of bomb blasts. Many federal workers appear to have been killed and hundreds of emergency services workers and police in New York have died in their valiant efforts to save fellow Americans who were the victims of these senseless attacks. <p>On behalf of the Trade Union for the Municipal Sector KTV, I offer you condolences and support as your union copes with what may be the loss of many members and activists or the grief of those who have lost familiy members.  It will obviously be some time before we know the full extent of the tragedy and i hope that you will let us know, as events unfold, of these terrible terrorist attacks.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

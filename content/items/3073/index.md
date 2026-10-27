@@ -14,7 +14,7 @@ id: 3073
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br><br>The picture is not the face of the devil at all.  It is the face of the evil doer. <br><br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3068
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Personally, I think the picture is a "divine" moment that captured this new "warfare" that we are seeing. It is driven by something bigger, therefore yes, we do need to be praying and believing that God is bigger than any of this.<br><br>I know that I have seen a color photo from a different angle/source? Are you aware of this?<br><br>Thank you for your time,<br><br>R.Kousgaard<br>Omaha, NE<br>
   'September 11 Email: CC':
     - html: false

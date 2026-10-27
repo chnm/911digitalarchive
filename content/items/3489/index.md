@@ -14,7 +14,7 @@ id: 3489
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Yes Mark, I as well believe that this is the work of evil and the devil. Our Loving God did not do this evil deed. This is very upsetting however for those of us that believe that God is ruler and Jesus is our redeemer have nothing to fear. This photo is true to what is told in the bible as the future events for our World. Thank you for sharing your photo with the country. I continue to pray that God Blesses America and shows mercy to all of us. Bless You Mark,<br><br>Rita Cronin<br>Claims Support<br>Denver Property Claims Office<br>720-895-3811 Phone<br>720-895-3935 FAX<br>ckl8x@Allstate.com<br>
   'September 11 Email: CC':
     - html: false

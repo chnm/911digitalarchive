@@ -14,7 +14,7 @@ id: 3165
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark,<br><br>Natalie has told me some people have been accusing you of doctoring the World Trade Center photo. As a journalist concerned with ethics, I know damn well you didn't doctor the photo--it is absurd. People in times like these jump to knee-jerk conclusions, and want to lash out at someone--anyone. I'm sorry that in this case it had to be you, and hope you can ride it out with the knowledge that sensible people will put this to right.<br><br>You may remember that we met, some years ago, one night when we were all out together with Nat and Corky.<br><br>I wish you the best of luck.<br><br>Kind regards, John Wicklein<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3154
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr Phillips,<br><br>I saw your face image, and I was so amazed by it. It never occured to me you may have faked it, even though I knew nothing of your reputation. I think it is sad people are so suspicious nowadays. <br><br>It's an amazing thing that you captured, and I hope all these narrow-minded people will not bring you down.<br><br>Regards,<br><br>Nellie Doneva<br>staff photographer<br>Abilene (TX) Reporter-News<br>
   'September 11 Email: CC':
     - html: false

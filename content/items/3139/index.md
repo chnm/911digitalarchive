@@ -14,7 +14,7 @@ id: 3139
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi Mark<br><br>This is Marian Liu from the San Jose Mercury News. I need to interview you for a story concerning the recent influx of hoaxes trying to explain what happened last week. I just want to get you on the record that the photo (with the supposed devil face) is not doctored and ask you if we can reprint that photo.<br><br>I received you message this morning and have subsequently left you another message.<br><br>The story is set to run for tomorrow, so I hope that we can talk soon. <br><br>Thanks and take care - I know that this must be an incredibly chaotic time for you.<br><br>Marian Liu<br>Staff Writer<br>San Jose Mercury News<br>3890 Mowry Ave.<br>Fremont, CA 94538<br>w (510) 790-7315<br>c (510) 703-9546<br>
   'September 11 Email: CC':
     - html: false

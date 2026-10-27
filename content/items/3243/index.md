@@ -14,7 +14,7 @@ id: 3243
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br><br>You were blessed to have caught that face on camera. Someone has told me of a face in the smoke of the space ship ("Challenger" ?), the one with the school teacher in it hat blew up. Are you familiar with this story. Do you have pictures of that scene or know the photographer who took those pictures. I would like pics of those also.  I'm ordering the WTC pictures from you. <br><br><br>Bobbie<br>
   'September 11 Email: CC':
     - html: false

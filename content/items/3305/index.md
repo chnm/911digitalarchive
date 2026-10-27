@@ -14,7 +14,7 @@ id: 3305
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "<br><br>-----Original Message-----<br>From: Renee [mailto:holdher@prodigy.net] Sent: Wednesday, September 19, 2001 9:37 AM To: kusa@9news.com<br>Subject: demons on the clouds<br><br><br>This is to Mark Phillips. A lady from West Virgina sent me the photos that you can see by going to the site that is posted here. I began looking at them and was astounded at what I say. I even had my husband Bobbie come over and look at it to see if I was sure of what I was seeing. I didn't say much because of the circumstances. I am so glad that there are others that have seen these horrific pictures. Please email me back. I know that you are very busy in this time. Look at picture no 41. There are more than one. Renee Holder Thank you for your time.<br>http://www.tch.org/~russb/wtc/?N=A<br>"
   'September 11 Email: CC':
     - html: false

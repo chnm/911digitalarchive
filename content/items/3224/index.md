@@ -14,7 +14,7 @@ id: 3224
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Howdy! Saw your name on Romanesko's page today and thought, ``Nah, can't be the same Mark Phillips who used to work in Tampa.'' Sure enough. Just wanted to say howdy and to keep up the good work. I'm not far from y'all, working as an editor at Bloomberg in our Princeton office in New Jersey. Been here for seven years. Are you doing mainly freelance work these days? Don't know if you know or knew Ron Berard, but he's another Tampa Tribune photog who's working in the New York area. I saw him quoted in a story the other day. Best of luck to you.<br><br>Galen Meyer<br>
   'September 11 Email: CC':
     - html: false

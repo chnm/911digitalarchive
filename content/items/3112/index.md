@@ -14,7 +14,7 @@ id: 3112
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: mark i was looking for the face everey one was talking about ,i found it but was wrong about finding yours, what i found was another  face but from a side view check CNN. Com Sept 11 photos<br>
   'September 11 Email: CC':
     - html: false

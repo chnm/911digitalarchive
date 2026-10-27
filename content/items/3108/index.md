@@ -14,7 +14,7 @@ id: 3108
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I wanted to respond to seeing your pic. I have shown many people this pic. Although, some think it was if fact doctored. I only want to say that I know that if God wanted us to see something so profound as this, we would. I do beleive that God sends us msgs, like this. I also hate to say that Satan as strong as he is, can too show us his face. this is what he has done. I am very affraid for all of us. God help us all. Terry Dale spicer<br>
   'September 11 Email: CC':
     - html: false

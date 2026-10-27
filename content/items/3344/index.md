@@ -14,7 +14,7 @@ id: 3344
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: My daughter took pictures from Hoboken and the same face is in the pictures she took. When I saw the picture in the Philadelphia Daily news, I got the shivers. The face that shows up in my daughter's pictures is exactly the same as the one in Mark Phillips' photo<br>
   'September 11 Email: CC':
     - html: false

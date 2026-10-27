@@ -14,7 +14,7 @@ id: 3119
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thank you for this reply.  I will certainly read the article.  I am sure you know by now that your photo is all over the web.  The message board that I mentioned before gets some link or another posted several times a day showing your picture - all on different web sites.  Few, if any, credit you for the picture.  I hate that for you.  Guess it wasn't copyrighted tho, since it has been in so many newspapers nationwide. At least it got people talking and thinking.  One person on the message board even said that he saw the face live and first hand and had mentioned it to several people who thought he was nuts and was so happy to be validated when your photo came out.                  Best wishes.<br>
   'September 11 Email: CC':
     - html: false

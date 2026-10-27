@@ -14,7 +14,7 @@ id: 3214
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: hi this was very interesting for me to read about and very scary,because the night of the 11th we were<br>watching the news and the footage from the 2nd attact on the wtc I too have noticed in a totally different picture its the one where the man in the white shirt was down in the street when the 2nd plane hit and he jumped up looking up towards the building in that smoke rolled a very scary image of a<br>evil face alot more different then this one.I seen it over and over again I even called my son into the room to witness it but he really couldn't get to it in time so this really shocked me to also see<br>this.Maybe you can find this image to by seeing the news footages I seen it either on cbs east or cnn.<br><br>hope you can find it.<br>
   'September 11 Email: CC':
     - html: false

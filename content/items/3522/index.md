@@ -14,7 +14,7 @@ id: 3522
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips.....I thank you so much for the photos you have shared with the world....I believe the photo, with the face, is showing us all pure evil....That is what the image looks like, and what else would we see when this happened....Again thank you....I don't know why people would think it is a touched up photo....Look at all the other things over the years that have shown images in them....Just nothing this horrific....Pam Lopez <br><br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>http://www.NASHReports.homestead.com<br>Learn about Non-Alcoholic Steatohepatitis Click on the link and read the reports.<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>NASH-Non-Alcoholic-Steatohepatitis-subscribe@yahoogroups.com NASH-Non-Alcoholic-Steatohepatitis-unsubscribe@yahoogroups.com ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
   'September 11 Email: CC':
     - html: false

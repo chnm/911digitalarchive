@@ -14,7 +14,7 @@ id: 3143
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello my name is Keith Burr. I was lookink at the smoke picture again and I noticed something else this time. Just to he right and up slightly I see what appears to be a woman's face in the same picture. I was wondering if anyone else has seen the same image as I have or not. <br><br><br>Keith<br>Burr<br>
   'September 11 Email: CC':
     - html: false

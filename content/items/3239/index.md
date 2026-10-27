@@ -14,7 +14,7 @@ id: 3239
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: hi my name is crystal barton and it is werid how this picture came about but i would like to see the one in color if you can tell me where exactly i can find it. i am very soory for all the loses but am thankful for all the people showing their suport. my e-mail is ctbarton@citcom.net. thank you crystal<br>
   'September 11 Email: CC':
     - html: false

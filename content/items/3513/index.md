@@ -11,7 +11,7 @@ id: 3513
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "FYI, there's a way to copy this image by right-clicking, but I'm sure most don't know about it.<br><br>This was obviously a great tragedy of unspeakable evil and I appreciate your efforts in preventing others from profiting somehow from this picture. I'm not sure what to make of the satanic image, though. It makes one wonder whether the face actually posseses meaning or whether it's simply a confluence of rising smoke.<br><br>P.<br><br>(Embedded image moved to file: pic05436.pcx) Content-type: application/octet-stream;<br> name=\"pic05436.pcx\"<br>Content-Disposition: attachment; filename=\"pic05436.pcx\" <br><br>Attachment converted: maddogs enterprise:pic05436.pcx (????/----) (000A4E4A)<br>"
   'September 11 Email: CC':
     - html: false

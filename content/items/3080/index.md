@@ -14,7 +14,7 @@ id: 3080
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: There is a DEFINITE image, that has all the characteristics of a face, in the smoke. You know, there have been images in CLOUDS before, that were amazing, and this is another one. Thanks for sharing--- God Bless America<br>Joyce Shaw<br>Knoxville,Tennessee<br>
   'September 11 Email: CC':
     - html: false

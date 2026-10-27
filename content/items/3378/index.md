@@ -14,7 +14,7 @@ id: 3378
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: this must be a self portrait, if you are sick enough to broadcast additional fear into america.<br>
   'September 11 Email: CC':
     - html: false

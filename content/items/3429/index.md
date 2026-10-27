@@ -14,7 +14,7 @@ id: 3429
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thank you for your response to my e-mail.  You surely realize that there is no white laughing face with "horns" and large black eye holes in the version which is posted on the web site as there clearly is in the version which appeared in newpapers and other media.  I would love to understand why this image is absent from the web site version of the photo, and I am certain I am not the only one who is curious  about this. Linda Williams<br>
   'September 11 Email: CC':
     - html: false

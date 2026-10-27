@@ -14,7 +14,7 @@ id: 3254
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark I saw your picture for the first time tonight and just as clearly as I see the demon, much!! larger there is Jesus and it looks like he is crying, blood runing from his eyes, like at Gethsemene. From what I know of my Bible it does not surprise me satan used the air. I have not heard it preached but it is my personal belief we will see more attacks in the air whether it is planes, chemical or what because in Ephesians 2 it tells us satan is the prince of the air. <br><br>Our prayer for you , is that God will become real in your life today, as real as your earthly best friend, that you will talk with him, walk with him feel his presence, and embrace all his word and his life created for you.<br><br>
   'September 11 Email: CC':
     - html: false

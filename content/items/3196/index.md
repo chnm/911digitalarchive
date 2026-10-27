@@ -14,7 +14,7 @@ id: 3196
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: LOOK AGAIN, TAKE A CLOSER LOOK AT THE IMAGE, AT THE BOTTOM OF THE CHIN AREA, TO THE LEFT OF THE IMAGE, THERE IS A SECOND, BUT SMALLER IMAGE OF A FACE. I SEE IT VERY CLEARLY IN YOUR PHOTO THAT IS ON THE INTERNET. LOOK AGAIN.<br>
   'September 11 Email: CC':
     - html: false

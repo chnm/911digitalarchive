@@ -14,8 +14,8 @@ id: 2979
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold>I remember watching the video footage of this horrible incident and seeing this image emergeing from the clouds... <br><br>So, i believe that it was not "doctored" <br><br>however, i don't believe it's the image of evil or the devil...but, the image of angels or god...lifting the spirits of those so brutally killed. <br><br>And it harkens me to think of one of the top mottos in all of this terror...."god bless america".... <br><br><br><br>Traci Kotler</bold><br>
+    - html: true
+      text: <br><b>I remember watching the video footage of this horrible incident and seeing this image emergeing from the clouds... <br><br>So, i believe that it was not "doctored" <br><br>however, i don't believe it's the image of evil or the devil...but, the image of angels or god...lifting the spirits of those so brutally killed. <br><br>And it harkens me to think of one of the top mottos in all of this terror...."god bless america".... <br><br><br><br>Traci Kotler</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

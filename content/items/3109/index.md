@@ -14,8 +14,8 @@ id: 3109
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Hello,   I have obtained several pictures that correspond to the one posted on your main page.  I included a link to your site with the pictures I have.   Please review it and let me know if you approve it, or would like for me to remove it. (My site gets about 500 visitors per day, in case you have problems with extensive amounts of traffic.)   Thank you, Becky Blake F1 - Help For You & Your Computer<br>becky.blake@f1-help.com<br>http://www.f1-help.com  <br>
+    - html: true
+      text: Hello,   I have obtained several pictures that correspond to the one posted on your main page.  I included a link to your site with the pictures I have.   Please review it and let me know if you approve it, or would like for me to remove it. (My site gets about 500 visitors per day, in case you have problems with extensive amounts of traffic.)   Thank you, Becky Blake F1 - Help For You &amp; Your Computer<br>becky.blake@f1-help.com<br>http://www.f1-help.com  <br>
   'September 11 Email: CC':
     - html: false
       text: ''

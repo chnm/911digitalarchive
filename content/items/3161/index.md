@@ -14,8 +14,8 @@ id: 3161
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> Mark - if you have time could you please answer - don't know why your's was B&W -----Original Message----- <br><br><bold>From:</bold> Christian [mailto:chharden@vt.edu] <br><br><bold>Sent:</bold> Tuesday, September 18, 2001 11:25 PM <br><br><bold>To:</bold> kusa@9news.com<br><br><bold>Subject:</bold> Satanic Face in the Smoke <br><br><br>in reference to - http://9news.com/newsroom/13294.html Why do you have this picture in black and white if it was taken with a digital camera and has not been altered. Why would someone take a black and white photo with a dig. camera?  and why is the background completely black... it was mid morning, it should be the brightest/most transparent part of the smoke.   please respond.   "Rome wasn't burned in a day" HGthG <br><br>Christian<br>
+    - html: true
+      text: <br> Mark - if you have time could you please answer - don't know why your's was B&amp;W -----Original Message----- <br><br><b>From:</b> Christian [mailto:chharden@vt.edu] <br><br><b>Sent:</b> Tuesday, September 18, 2001 11:25 PM <br><br><b>To:</b> kusa@9news.com<br><br><b>Subject:</b> Satanic Face in the Smoke <br><br><br>in reference to - http://9news.com/newsroom/13294.html Why do you have this picture in black and white if it was taken with a digital camera and has not been altered. Why would someone take a black and white photo with a dig. camera?  and why is the background completely black... it was mid morning, it should be the brightest/most transparent part of the smoke.   please respond.   "Rome wasn't burned in a day" HGthG <br><br>Christian<br>
   'September 11 Email: CC':
     - html: false
       text: ''

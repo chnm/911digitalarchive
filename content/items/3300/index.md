@@ -14,7 +14,7 @@ id: 3300
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'THIS IS CRAP. ALTHOUGH THE HEINOUS ACTS WERE AND ARE THE MOST EVIL THING DONE TO MANKIND, THE SOULS LIFTING FROM THESE IMAGES WOULD NOT CREATE THE SO-CALLED FACE OF SATAN. STOP SCARING PEOPLE. <br><br><br><br>Subject: Drawn by a young girl in Pennsylvania <br><br>---------------------- Forwarded by Victoria Verdejo/CHASE on 09/19/2001 11:32 AM ---------------------------<br><br>Legal Department: (212) 270-3830 Fax Number: (212) 270-7487 <br><br>To: (see below)<br>Subject: Drawn by a young girl in Pennsylvania <br><br><br><br><br>(See attached file: healing.gif) THIS IS AN IMAGE TO BE BELIEVED!<br><br><br><br><br><br><br>Attachment converted: maddogs enterprise:healing.gif (GIFf/JVWR) (000A543A)<br>'
   'September 11 Email: CC':
     - html: false

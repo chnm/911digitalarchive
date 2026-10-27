@@ -14,7 +14,7 @@ id: 3261
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would like to thank you for sharing this with the rest of the world. Our prayers are with you and all NewYorkers in this time of devastation. For what it's worth, (especially those of us who found ourselves in your great city) we are not only feeling your pain, but we are also grieving with you. God be with you.    I have another concern about this photo. So many lives were lost in such a violent way. Is it possible that their blood is crying out for justice? I don't know your faith or your belief system, but when I look at that picture, i see a  slightly distorted negative of young Pres.Bush's face.    This was not meant to offend, by any means. Sincerely,  <br>
   'September 11 Email: CC':
     - html: false

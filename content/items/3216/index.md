@@ -14,7 +14,7 @@ id: 3216
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Just a note to let you know that during the initial video coverage of the WTC tragedy, I saw this very image.  I could barely comprehend what I had seen, but I told my family about the face in the smoke.  I was very interested to hear about your photo from my daughter; now I know I'm not crazy.  I do believe Satan is a powerful force in our world.  I just never imagined seeing something so obvious.  I will never forget the image.   May God grant you peace.   T. Kline<br>
   'September 11 Email: CC':
     - html: false

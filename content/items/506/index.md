@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: 32BJ
   'SEIU Story: Story':
-    - html: false
-      text: WTC Bldg 2, Lobby Worker, 13 months on the job <P>Sal Iraci was living in Italy, a little more than a year ago, when he returned to his native New York to look for work. 'There wasn't any work there (in Italy). So I came home,' Sal said. He landed a job at the World Trade Center. <P>'On the day of the crashes, I was working in the lobby. When the first plane hit, I was out in the truck dock. I went into the lobby to see what happened. We didn't know if it was a bomb or what,' Sal said. <P>'After the second explosion, the chandeliers shook. There was smoke and flames coming out of the elevator shafts. It was awful. I evacuated as fast as I could. I was on Broadway when the first tower came down. My eyes couldn't believe it. Such a waste of life,' Sal said.
+    - html: true
+      text: WTC Bldg 2, Lobby Worker, 13 months on the job <p>Sal Iraci was living in Italy, a little more than a year ago, when he returned to his native New York to look for work. 'There wasn't any work there (in Italy). So I came home,' Sal said. He landed a job at the World Trade Center. <p>'On the day of the crashes, I was working in the lobby. When the first plane hit, I was out in the truck dock. I went into the lobby to see what happened. We didn't know if it was a bomb or what,' Sal said. <p>'After the second explosion, the chandeliers shook. There was smoke and flames coming out of the elevator shafts. It was awful. I evacuated as fast as I could. I was on Broadway when the first tower came down. My eyes couldn't believe it. Such a waste of life,' Sal said.
 lastmod: '2014-09-11 01:32:37'
 layout: single
 outputs:

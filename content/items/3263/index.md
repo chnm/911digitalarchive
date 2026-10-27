@@ -14,8 +14,8 @@ id: 3263
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: hello, I believe the image in the picture was not altered in anyway because I too saw the smoke image >from the video and I was not going to say anything to any one because I did not think any one would believe me.  However, I saw many images from several different pictures taken from other different photographers.  I believe these images from the smoke are a very symbolic concerning this tragic event.  My husband and I saw an angel image and an old woman image, along with some very demonic images in the same bellowing smoke from another photo taken at a different angle of the smoke coming >from the towers.  The picture I am talking about, you can find at www.startribune.com under photos.   Thanks for sharing the story and photo with all of the people of America.   Valerie Henderson Minnesota<br>
+    - html: true
+      text: hello, I believe the image in the picture was not altered in anyway because I too saw the smoke image &gt;from the video and I was not going to say anything to any one because I did not think any one would believe me.  However, I saw many images from several different pictures taken from other different photographers.  I believe these images from the smoke are a very symbolic concerning this tragic event.  My husband and I saw an angel image and an old woman image, along with some very demonic images in the same bellowing smoke from another photo taken at a different angle of the smoke coming &gt;from the towers.  The picture I am talking about, you can find at www.startribune.com under photos.   Thanks for sharing the story and photo with all of the people of America.   Valerie Henderson Minnesota<br>
   'September 11 Email: CC':
     - html: false
       text: ''

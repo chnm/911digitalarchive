@@ -23,7 +23,7 @@ item_type_metadata:
     - html: false
       text: ''
   'VTMBH Article: Blurb':
-    - html: false
+    - html: true
       text: In the year 2000, Eighth Avenue experienced another changean increasing number of Fuzhou immigrants moved into the area, and, as a result, the areas real estate values doubled. <b>With a sidebar, Language barriers and lower education levels of Fuzhou immigrants challenge schools, by Shu-Bing Huang, World Journal, 20 June 2002. Translated by Wendy Szeto.</b>
   'VTMBH Article: Body':
     - html: false

@@ -11,7 +11,7 @@ id: 3451
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: That is just TOO spooky!!  I can only say that the devil was probably pleased that one of his agents acted in such a sick, spiteful, hateful way.  Joy M Dudek <br>
   'September 11 Email: CC':
     - html: false

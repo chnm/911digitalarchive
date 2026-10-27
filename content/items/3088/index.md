@@ -14,7 +14,7 @@ id: 3088
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,<br>As the smoke was rising, I called a friend to tell her I thought I saw a face in the smoke. I wasn't sure if it was a religious face or not because it happened so fast and until today had not seen the picture again. I just wanted to let you know I too saw what you captured. Sheila Lanciault<br>
   'September 11 Email: CC':
     - html: false

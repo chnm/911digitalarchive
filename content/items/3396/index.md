@@ -11,7 +11,7 @@ id: 3396
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I want to say that no matter if people beleive that the face of Satan appeared on that photo or not, he was definitly present for the occation.  God and Satan went rounds in mere minutes and although Satan claimed his few, God claimed victory and it is now evident throughout the nation with prayers and declarations of unity.<br>
   'September 11 Email: CC':
     - html: false

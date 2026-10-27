@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: Public Services International <P>Dear Andrew, <P>It is obvious with shock and dibelief that we watched the terrible events in New York and Washington yesterday.  Our news services are full of stories of the offices and federal workers being evacuated or even being the subject of bomb blasts.  Many federal workers appear to have been killed abd hundreds of emergency services workers and police in New York have died in their valiant efforts to save fellow Americans who were the victims of these senseless attacks. <P>On behalf of all PSI affiliates, I offer you condolences and support as your union copes with what may be the loss of many members and activists or the grief of those who have lost family members.  It will obviously be some time before we know the full extent of the tragedy and i hope that you will let us know, as events unfold, of any ways in which we or affiliates can provide assistance. <P>Yours in Solidarity, <P>Hans Engelberts, General Secretary
+    - html: true
+      text: Public Services International <p>Dear Andrew, <p>It is obvious with shock and dibelief that we watched the terrible events in New York and Washington yesterday.  Our news services are full of stories of the offices and federal workers being evacuated or even being the subject of bomb blasts.  Many federal workers appear to have been killed abd hundreds of emergency services workers and police in New York have died in their valiant efforts to save fellow Americans who were the victims of these senseless attacks. <p>On behalf of all PSI affiliates, I offer you condolences and support as your union copes with what may be the loss of many members and activists or the grief of those who have lost family members.  It will obviously be some time before we know the full extent of the tragedy and i hope that you will let us know, as events unfold, of any ways in which we or affiliates can provide assistance. <p>Yours in Solidarity, <p>Hans Engelberts, General Secretary
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

@@ -1651,7 +1651,7 @@ item_type_metadata:
         <p>(end
         of interview)</p>
   'Chinatown Interview: Interview (zh)':
-    - html: false
+    - html: true
       text: |-
         <p>
         錄音帶002-1 A面</p>

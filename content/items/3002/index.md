@@ -14,7 +14,7 @@ id: 3002
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Stellar Images,<br>Has anyone pointed out the second face present in this amazing photo? I see a second face half-hidden by the more obvious image. The second face is darker and to the left. Half the face is hidden by the front image so only one widely-opened eye is showing. A full outline of a nose and a rather large grin is also visible. Do you see it too? Amazed and intrigued,<br>Andra Stepanian<br><br>_________________________________________________________________ Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp<br>
   'September 11 Email: CC':
     - html: false

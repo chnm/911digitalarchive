@@ -14,7 +14,7 @@ id: 3176
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thanks for sharing this photo you took during the catastrophy. I swear it looks like George Bush..and that is scarey.. <br><br>Barb<br>
   'September 11 Email: CC':
     - html: false

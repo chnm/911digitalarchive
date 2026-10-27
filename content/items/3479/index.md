@@ -14,7 +14,7 @@ id: 3479
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'I just created a page with your image and am asking you to review it to see if it is ok to use. If this is not satisfactory I will certainly take it right down.<br><br>For your info, I also saw the image in a video tape and have been trying to find where I saw it and have been unable to find it. It was a side image instead of a full face like yours.<br><br>The site is http://allnixa.com/more.html <br><br>There are additional images, not yours, if you want to just go to: http://allnixa.com/wtc.html<br><br>Thank you,<br>Clyde Brinley<br>info@ameratrac.com<br>'
   'September 11 Email: CC':
     - html: false

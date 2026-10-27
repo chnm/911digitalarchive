@@ -5,7 +5,7 @@ date: '2014-01-08 15:41:50'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Victoria Alvarez de Brito</b> was working for Marsh and McLennan in the financial department  on September 11th.
   Title:
     - html: false

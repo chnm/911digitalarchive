@@ -14,7 +14,7 @@ id: 3070
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The  white face is very apparent. Please look just to the left of the white face and tell me if you see a softer more human face. The eye is very clear. I can't believe I did not see it immediately because it is so obvious. Please respond and let me know if you see it too.   God Bless America,     Benjamin Calderon<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3299
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: God Bless you for your work. Keep it up!! Sincerely,<br>Lisa<br>
   'September 11 Email: CC':
     - html: false

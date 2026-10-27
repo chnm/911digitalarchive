@@ -14,7 +14,7 @@ id: 3017
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: yes I am writing about the photo, my family and I studied the picture, and we think it looks like Bin Laden, if you will notice the darker smoke under the face looks like a beard, we said that it is very erie. <br>                                                            Thank You, Melanie Earley                                                                                  mhje2000@yahoo.com  or                                                                  melaniebfly@aol.com<br>
   'September 11 Email: CC':
     - html: false

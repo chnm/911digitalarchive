@@ -14,8 +14,8 @@ id: 3356
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: After reading thru your Q & A session, I think we can both agree God had you there taking those pictures for a reason, for the world to know that evil played such a role. It does not however hamper our thoughts and prayers for the friends and families of those who were in those buildings...if anything it reminds us of truth behind such an act of hate... evil is always present when something like this happens. Thanks for sharing your photo, I think many people have been convinced that there truly is one evil we must be aware of and you caught his thumb print on that building.<br>
+    - html: true
+      text: After reading thru your Q &amp; A session, I think we can both agree God had you there taking those pictures for a reason, for the world to know that evil played such a role. It does not however hamper our thoughts and prayers for the friends and families of those who were in those buildings...if anything it reminds us of truth behind such an act of hate... evil is always present when something like this happens. Thanks for sharing your photo, I think many people have been convinced that there truly is one evil we must be aware of and you caught his thumb print on that building.<br>
   'September 11 Email: CC':
     - html: false
       text: ''

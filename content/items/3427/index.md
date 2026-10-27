@@ -14,7 +14,7 @@ id: 3427
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I would just like to say that seeing that image was very chilling, it definitely looked like an image of what we perceive the devil to look like, or perhaps the work of the devil, or perhaps Osama was on the plane in a lighter thought and that was his evil spirit being engulfed by the lords spirit, who knows.  All I know is what does the devil really look like?? People say that looks like the devil, but whose ever really seen what the devil looks like???? Just wondering!!! Positively Thinking..<br>Cindy Fuller<br>
   'September 11 Email: CC':
     - html: false

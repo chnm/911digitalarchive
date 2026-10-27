@@ -14,7 +14,7 @@ id: 3215
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Wanted to let you know (don't know if this happened to others), that originally there were 2 photos, one from CNN and the other from AP. <br><br>When I went in to look at it again, beside the computer giving me trouble, when I went in to look at it, only the AP image was there.  The CNN photo was gone, replaced by the AP image. <br><br>Any ideas on what's going on.  People shouldn't be afraid of satan, but they should acknowledge that he does exist.  The creep would like to think that people either fear him or don't believe in him at all.   Christians know better.......... <br><br>Thanks for the good reporting....and for reporting the truth.....no matter what anyone thinks..... <br><br>Randu14348@cs.com<br>
   'September 11 Email: CC':
     - html: false

@@ -11,7 +11,7 @@ id: 3307
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: can not believe you are selling the pictures, and if you feel you must ALL of the proceeds should go the people and families of New York.    <br>
   'September 11 Email: CC':
     - html: false

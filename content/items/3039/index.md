@@ -14,7 +14,7 @@ id: 3039
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hi<br><br>Thanks for leaving this up on the website. A friend sent me a series of other pictures and I had seen a similar image in one of those photos. However, it seems to me that the very first time I accessed your web site the picture was in color and was more vivid. Is that version available? I would like to be able to share the image with friends who are deeply committed to prayer.<br><br>Thanks for any help you can give me.<br>Dora Lee Raras<br>dlraras@pacbell.net<br>
   'September 11 Email: CC':
     - html: false

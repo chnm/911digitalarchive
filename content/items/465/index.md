@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: "Organization Name: ver di <P>Dear Andrew L. Stern, <P>It is with unbelievable horror and great sadness that i learned about the terrorist attack agaisnt the people in your country.  It is incomprehensible <P>In the name of ver. di's executive board and on behalf of its members i would like to express our deepest regrets and our strongest feelings of solidarity. <P>We are with you all, with the relatives of victims, with everyone involved directly in the catastrophe, we are with your members and with the American people. <P>In solidarity, <P>Frank Bsirske"
+    - html: true
+      text: "Organization Name: ver di <p>Dear Andrew L. Stern, <p>It is with unbelievable horror and great sadness that i learned about the terrorist attack agaisnt the people in your country.  It is incomprehensible <p>In the name of ver. di's executive board and on behalf of its members i would like to express our deepest regrets and our strongest feelings of solidarity. <p>We are with you all, with the relatives of victims, with everyone involved directly in the catastrophe, we are with your members and with the American people. <p>In solidarity, <p>Frank Bsirske"
 lastmod: '2014-09-11 01:32:35'
 layout: single
 outputs:

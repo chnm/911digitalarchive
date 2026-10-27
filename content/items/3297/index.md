@@ -14,7 +14,7 @@ id: 3297
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I saw the footage of this shot that has the devils face in it..on tv and i saw the same thing as it played..so i know the photo was not tampered with...i watched it closely after i had been sent this pic in email.... <br>Cheryl Gilliam<br>
   'September 11 Email: CC':
     - html: false

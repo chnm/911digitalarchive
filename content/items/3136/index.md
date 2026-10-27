@@ -14,8 +14,8 @@ id: 3136
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: '<br><br><br>Hello,<br><br><br><br> I want to thank you for sharing your photograph; the one that shows, what I believe, to be Satan.   I do hope it does scare some people, for it should give them an understanding who is #1 behind all of this awful destruction, and murdering of so many human beings.  I pray for all lost lives, their families, and for our country. <br><br><br><br><br><br><br><italic>Gwen<br><br><br><br><br><br><br></italic><br>'
+    - html: true
+      text: '<br><br><br>Hello,<br><br><br><br> I want to thank you for sharing your photograph; the one that shows, what I believe, to be Satan.   I do hope it does scare some people, for it should give them an understanding who is #1 behind all of this awful destruction, and murdering of so many human beings.  I pray for all lost lives, their families, and for our country. <br><br><br><br><br><br><br><i>Gwen<br><br><br><br><br><br><br></i><br>'
   'September 11 Email: CC':
     - html: false
       text: ''

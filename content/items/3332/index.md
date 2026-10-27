@@ -14,7 +14,7 @@ id: 3332
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark,<br>My husband and I saw your photo on the 15th. It was in color and both towers were seen. That full photo, Gave me the hevejeves. Could you please tell me why you are only showing the right side of the photo? The left side of the photo was really the scary one to me. It looked like a hand was crushing the building and you could also see the image of satan? Or of significant evil.<br>Sincerely,<br>Judy Sierra<br>
   'September 11 Email: CC':
     - html: false

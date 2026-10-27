@@ -14,7 +14,7 @@ id: 3465
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I commend y'all for donating moneys from the sales of NYC photographs. I would ask that the much-hyped photo of the "face in the smoke" be added to the other 4 -- perhaps for a higher price and with all of the additional price going to the donations.<br><br>Luck and timing contributed to the capture of the eerie visual effect in the smoke, but it helps put the whole thing in perspective, as terrorism itself is the face of evil.<br><br>I for one would buy an 8x10 of the original. Please contact me if you decide to offer it along-side the other 4.<br><br>thanks,<br><br>Josh Warren<br>Software Engineer<br>CMG WDS - Nashua<br><br>(This statement is not an official statement from, nor does it represent an official position of, CMG Wireless Data Solutions)<br>
   'September 11 Email: CC':
     - html: false

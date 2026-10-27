@@ -14,8 +14,8 @@ id: 3435
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold><italic>It was quite a shock for all to see such a evil sight as this.I thank you for sharing the truth with the world.It has inspired me to write a poem to the world .A letter of strength and hope for all.I am a average house wife and mother.I have never done this type of thing before and don't know how to proceed in getting this poem to the world.If you have any ideas I would surley appreciate it.I believe this is a special poem inspired by God.Sincerely ,Mary Anne.</italic></bold><br>
+    - html: true
+      text: <br> <b><i>It was quite a shock for all to see such a evil sight as this.I thank you for sharing the truth with the world.It has inspired me to write a poem to the world .A letter of strength and hope for all.I am a average house wife and mother.I have never done this type of thing before and don't know how to proceed in getting this poem to the world.If you have any ideas I would surley appreciate it.I believe this is a special poem inspired by God.Sincerely ,Mary Anne.</i></b><br>
   'September 11 Email: CC':
     - html: false
       text: '"Mary Anne" <krista265@home.com>'

@@ -26,57 +26,57 @@ item_type_metadata:
     - html: false
       text: Four years ago, when JaLeas Lamots called an ambulance to their Bronx home, the police became violent upon learning that JaLea was a transsexual. The city settled this month for $360,000, but JaLea said, Its actually not behind me.
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        The Bloomberg administration settled a lawsuit filed by a Bronx transgendered woman and her family, who charged they were brutalized when the police arrived at their home in response to a 911 medical emergency call in 1998.
-
-        While the settlement divided $360,000 among four members of the family they remain angry over what they suffered nearly four years ago.
-
-        Its actually not behind me, said JaLea Lamot, the transgendered woman. We still deal with it every day... We still have the after-affects.
-
-        The incident began when JaLeas mother, Nancy Lamot, called an ambulance to the Lamot home in the Bronx. JaLea, now 30, had taken some over-the-counter allergy medicine and laid down for a nap. Nancy, now 46, called 911 when she had trouble reviving JaLea.
-
-        When police arrived on the scene they allegedly became violent upon learning that JaLea was a transsexual. When Nancy and her son, John Baez, tried to defend JaLea the officers allegedly responded with force and used pepper spray throughout the apartment.
-
-        The police arrested Nancy, Ricardo Perez, a Lamot family friend, and Baez. All three faced multiple felony and misdemeanor charges. The charges were dismissed. JaLea was taken, handcuffed, by ambulance to a local hospital and kept overnight in a psychiatric unit.
-
-        The suit, filed in 1999, named the city and 11 individual police officers as defendants. In a 1998 interview, a Bronx commanding officer defended the officers.
-
-        Basically, they responded to help an emotionally disturbed person who was suicidal, said Captain Philip Van Gostein. The people there didnt think the person should be handcuffed to be taken to the hospital...Actually, [the officers] were trying to help that person.
-
-        It is police practice to handcuff a suicidal person who is being taken to the hospital to prevent that person from hurting him or herself, Gostein said. He added that the officers had not made any reference to JaLea being a transsexual.
-
-        The Lamots wanted more than money from the lawsuit. I wanted to speak out, JaLea said. I would rather stand trial so everybody can hear what these men did... They came and they did this to us and none of us can do anything. Thats always in our memory. We were taught to respect these people
-
-        Both JaLea and her mother are still angry with the police.
-
-        I had no problem with cops, Nancy said. My brother was a cop... I dont trust them. I would never call the cops again...I get anxiety attacks when a cop comes too close. I have to walk away.
-
-        Nancy said she continues to have problems with her eyes resulting from the pepper spray and she now wears glasses.
-
-        JaLea also harbors some bitterness towards Michael L. Spiegel, the attorney for the Lamot family.
-
-        A lawyers a lawyer, she said. He gets more out of this than we do. I feel that we should have took it to trial...We were pressured.
-
-        Out of the settlement, $150,000 went to JaLea, $105,000 went to Baez, $65,000 went to Nancy, and $40,000 went to Perez. Spiegel said that he received the standard fee of one third of each of the four settlement amounts.
-
-        Nancy did not criticize Spiegel.
-
-        What he did he did, she said. Ill just say Im happy with him.
-
-        Spiegel declined to respond to the comments about him, but he said their feelings about the police and the settlement were understandable.
-        I dont blame them for being angry at the police, he said. I think they have a right to be angry at the police. I think that any amount of money that people receive in these kinds of cases is not enough for what they endured. A mother called 911 for help and ended up with the entire family being assaulted... I think the settlement was ultimately in their best interests. Any lawsuit is only seeking to go back and, in some meager way, compensate them for what happened.
-
-        Nancy feels that sentiment most keenly.
-
-        Im not happy, she said. I dont feel it was fair that we had to settle and I also dont feel that its fair that the police officers didnt get charged with anything. They violated my rights, my familys rights, and they invaded my home... The money really has nothing to do with it. Its just the fact that they can do whatever they want and get away with it.
-        Activists who have followed the case since 1999 were supportive of the Lamots.
-
-        The civil suit process was never going to bring full justice to them, said Joo-Hyun Kang, executive director of the Audre Lorde Project, New York Citys community center for queer people of color.
-
-        A call seeking comment from the New York City Gay and Lesbian Anti-Violence Project, another group that protested the police action, was not returned.
-
-        <a href = "http://www.gaycitynews.com">The Gay City News</a>
+        The Bloomberg administration settled a lawsuit filed by a Bronx transgendered woman and her family, who charged they were brutalized when the police arrived at their home in response to a 911 medical emergency call in 1998.<br>
+        <br>
+        While the settlement divided $360,000 among four members of the family they remain angry over what they suffered nearly four years ago.<br>
+        <br>
+        Its actually not behind me, said JaLea Lamot, the transgendered woman. We still deal with it every day... We still have the after-affects.<br>
+        <br>
+        The incident began when JaLeas mother, Nancy Lamot, called an ambulance to the Lamot home in the Bronx. JaLea, now 30, had taken some over-the-counter allergy medicine and laid down for a nap. Nancy, now 46, called 911 when she had trouble reviving JaLea.<br>
+        <br>
+        When police arrived on the scene they allegedly became violent upon learning that JaLea was a transsexual. When Nancy and her son, John Baez, tried to defend JaLea the officers allegedly responded with force and used pepper spray throughout the apartment.<br>
+        <br>
+        The police arrested Nancy, Ricardo Perez, a Lamot family friend, and Baez. All three faced multiple felony and misdemeanor charges. The charges were dismissed. JaLea was taken, handcuffed, by ambulance to a local hospital and kept overnight in a psychiatric unit.<br>
+        <br>
+        The suit, filed in 1999, named the city and 11 individual police officers as defendants. In a 1998 interview, a Bronx commanding officer defended the officers.<br>
+        <br>
+        Basically, they responded to help an emotionally disturbed person who was suicidal, said Captain Philip Van Gostein. The people there didnt think the person should be handcuffed to be taken to the hospital...Actually, [the officers] were trying to help that person.<br>
+        <br>
+        It is police practice to handcuff a suicidal person who is being taken to the hospital to prevent that person from hurting him or herself, Gostein said. He added that the officers had not made any reference to JaLea being a transsexual.<br>
+        <br>
+        The Lamots wanted more than money from the lawsuit. I wanted to speak out, JaLea said. I would rather stand trial so everybody can hear what these men did... They came and they did this to us and none of us can do anything. Thats always in our memory. We were taught to respect these people<br>
+        <br>
+        Both JaLea and her mother are still angry with the police.<br>
+        <br>
+        I had no problem with cops, Nancy said. My brother was a cop... I dont trust them. I would never call the cops again...I get anxiety attacks when a cop comes too close. I have to walk away.<br>
+        <br>
+        Nancy said she continues to have problems with her eyes resulting from the pepper spray and she now wears glasses.<br>
+        <br>
+        JaLea also harbors some bitterness towards Michael L. Spiegel, the attorney for the Lamot family.<br>
+        <br>
+        A lawyers a lawyer, she said. He gets more out of this than we do. I feel that we should have took it to trial...We were pressured.<br>
+        <br>
+        Out of the settlement, $150,000 went to JaLea, $105,000 went to Baez, $65,000 went to Nancy, and $40,000 went to Perez. Spiegel said that he received the standard fee of one third of each of the four settlement amounts.<br>
+        <br>
+        Nancy did not criticize Spiegel.<br>
+        <br>
+        What he did he did, she said. Ill just say Im happy with him.<br>
+        <br>
+        Spiegel declined to respond to the comments about him, but he said their feelings about the police and the settlement were understandable.<br>
+        I dont blame them for being angry at the police, he said. I think they have a right to be angry at the police. I think that any amount of money that people receive in these kinds of cases is not enough for what they endured. A mother called 911 for help and ended up with the entire family being assaulted... I think the settlement was ultimately in their best interests. Any lawsuit is only seeking to go back and, in some meager way, compensate them for what happened.<br>
+        <br>
+        Nancy feels that sentiment most keenly.<br>
+        <br>
+        Im not happy, she said. I dont feel it was fair that we had to settle and I also dont feel that its fair that the police officers didnt get charged with anything. They violated my rights, my familys rights, and they invaded my home... The money really has nothing to do with it. Its just the fact that they can do whatever they want and get away with it.<br>
+        Activists who have followed the case since 1999 were supportive of the Lamots.<br>
+        <br>
+        The civil suit process was never going to bring full justice to them, said Joo-Hyun Kang, executive director of the Audre Lorde Project, New York Citys community center for queer people of color.<br>
+        <br>
+        A call seeking comment from the New York City Gay and Lesbian Anti-Violence Project, another group that protested the police action, was not returned.<br>
+        <br>
+        <a href="http://www.gaycitynews.com">The Gay City News</a>
   'VTMBH Article: Date':
     - html: false
       text: '2002-07-18'

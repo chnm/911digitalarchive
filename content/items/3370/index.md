@@ -14,7 +14,7 @@ id: 3370
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: With all the news that has come out of the day of 9-11, I still cannot believe that I am concluding that the last US administration can be blamed. So much evidence is pointing to klintin and his treasonous acts. Therefore, when I first saw your photo, my first thought was not that it was the devil. I saw immediately the face of klintin!!!<br>
   'September 11 Email: CC':
     - html: false

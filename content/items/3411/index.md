@@ -14,8 +14,8 @@ id: 3411
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> What I immediately saw was Aslan, the lion who represents Christ in C.S. Lewis's <italic>The Lion the Witch and the Wardrobe</italic>.  Before I read or listened to the comments, it was Aslan.  And in the midst of all this, that sad love is what is truly present.   Nancy Jones  harvjon@rockisland.com<br>
+    - html: true
+      text: <br> What I immediately saw was Aslan, the lion who represents Christ in C.S. Lewis's <i>The Lion the Witch and the Wardrobe</i>.  Before I read or listened to the comments, it was Aslan.  And in the midst of all this, that sad love is what is truly present.   Nancy Jones  harvjon@rockisland.com<br>
   'September 11 Email: CC':
     - html: false
       text: '"Janet L. Ramsey" <marioma@gwe.net>'

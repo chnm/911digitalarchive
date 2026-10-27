@@ -14,7 +14,7 @@ id: 3275
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br> As we sat here at work and looked at the several pictures of this image, a friend of mine  pointed out another face. In the fire, it has an image of someone watching the other image. It  is more of a side angle. If you have any thoughts on this - please e-mail me back and let me know.<br> Thanks,<br>Rebecca Dowdy<br>
   'September 11 Email: CC':
     - html: false

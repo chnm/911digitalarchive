@@ -14,7 +14,7 @@ id: 3313
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "WED SEP 19th<br><br>To: Mark D. Phillips<br><br>Mark;<br><br>You should be ashamed to deny citizens a copy of this sobering picture of the WTC in flames showing Satan's(?) face. No doubt you would have made lots of money selling the other WTC pictures you have taken over the past decade or so, but now it appears that you are attempting to PROFIT from this horrible disaster. Will you give the money to a victim's fund? I sincerely hope you will.<br><br>Al Barrs<br>NW FL USA<br>###<br>"
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3516
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I supported you until I just saw you were selling the picture - a part of the proceeds will go torward the charity? How about all of it - how could you possible think of making money off this?<br>
   'September 11 Email: CC':
     - html: false

@@ -5,7 +5,7 @@ date: '2014-01-08 15:57:48'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Vishnoo Ramsaroop</b> and two of his daughters. Vishnoo, 45,worked in tower 2, on the 104th floor at the American  Building Maintenance company.
   Title:
     - html: false

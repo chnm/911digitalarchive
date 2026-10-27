@@ -14,8 +14,8 @@ id: 3024
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Dude,<br><br>Check this out.<br><br><A HREF="http://www.mlive.com/news/index.ssf?/ap/stories/20010913smoke.frm"> http://www.mlive.com/news/index.ssf?/ap/stories/20010913smoke.frm</A> <br><br>Kevin<br>
+    - html: true
+      text: Dude,<br><br>Check this out.<br><br><a href="http://www.mlive.com/news/index.ssf?/ap/stories/20010913smoke.frm"> http://www.mlive.com/news/index.ssf?/ap/stories/20010913smoke.frm</a> <br><br>Kevin<br>
   'September 11 Email: CC':
     - html: false
       text: ''

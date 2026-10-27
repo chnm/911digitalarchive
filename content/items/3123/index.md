@@ -14,7 +14,7 @@ id: 3123
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Why is it that we can't get a picture of the colored photo taken that has the image of what we say was Satan? Even if I am prepared to buy it, I can't find where it is even offered. What is the reason behind this? It was an amazing photo and I would very much like a copy of it. Is this ever going to be possible? Thank you for such awesome photography at all times but especially at such a difficult and heart wrenching time. God bless you, Sincerely, Robin Sherrill<br>
   'September 11 Email: CC':
     - html: false

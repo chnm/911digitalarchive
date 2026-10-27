@@ -5,7 +5,7 @@ date: '2014-01-08 15:54:00'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Padres de Martin</b>  The parents of Martin  Morales 22, remained in Mexico, while he worked for Windows on the World to support them.
   Title:
     - html: false

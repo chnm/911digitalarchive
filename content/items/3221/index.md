@@ -11,7 +11,7 @@ id: 3221
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Thanks for the picture on the internet that looks like satan. I saw  the face in the clouds when it was being covered live.  How can I get a picture of that angle.  the face was straight ahead; it did not look evil. thanks, God bless you.  America is finally calling evil evil.  We have for so long thought everything was ok.  God bless our country. Sincerely, diane pizza,<br>
   'September 11 Email: CC':
     - html: false

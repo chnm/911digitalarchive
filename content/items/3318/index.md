@@ -14,7 +14,7 @@ id: 3318
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark, I too saw a face, not the one you show. It was in smoke and I watched it as it rolled up out of sight. So shocked, I told my husband "look, there if a face" He too saw it. The face was pleasant. I have never gotten over seeing it. In the Bible, we know God tells us who have ask Jesus into our hearts, that at our time of departure we will not be alone. <br>                                    Beth Eggert, TX.<br>
   'September 11 Email: CC':
     - html: false

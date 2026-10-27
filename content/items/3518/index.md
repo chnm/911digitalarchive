@@ -14,7 +14,7 @@ id: 3518
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Hi:  I'm not really sure why I'm writing to you. I was looking at the picture of the face in the smoke but I keep seeing three faces there is a face on each side fo the face you have pointed out. Please let me know if you can see it too. God Bless <br><br>With All My Love In<br>Christ Jesus Johanne<br>"
   'September 11 Email: CC':
     - html: false

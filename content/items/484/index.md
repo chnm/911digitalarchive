@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: Desde la Federación Estatal de Trabajadores de Comercio , Hostelería - Turismo y Juego de la Unión General de Trabajadores de España (FECHTJ-UGT) les enviamos nuestros mensajes de solidaridad por los atroces acontecimientos ocurridos el pasado día  i1 contra World Trade Center y el Pentágono. <P>Asimismo, les rogamos hagan llegar a los familiares y compañeros de los fallecidos en el brutal atentado nuestro más sentido pésame , como la pronta recuperación a los miles de heridos.
+    - html: true
+      text: Desde la Federación Estatal de Trabajadores de Comercio , Hostelería - Turismo y Juego de la Unión General de Trabajadores de España (FECHTJ-UGT) les enviamos nuestros mensajes de solidaridad por los atroces acontecimientos ocurridos el pasado día  i1 contra World Trade Center y el Pentágono. <p>Asimismo, les rogamos hagan llegar a los familiares y compañeros de los fallecidos en el brutal atentado nuestro más sentido pésame , como la pronta recuperación a los miles de heridos.
 lastmod: '2014-09-11 01:32:36'
 layout: single
 outputs:

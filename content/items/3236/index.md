@@ -14,7 +14,7 @@ id: 3236
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "<br><br>Message: de Mike Simm<br>excuse my english, use to speak in french. First time i've looked to the photo I didn't see an evil face but a distorted picture of j.F.KENNEDY picture. My opinion, even if i believe that some surnatural phenomena could append, is that this photo seems a hoax. If it's true , the author of this hoax is like another terrorist himself. If not, it seems that humanity is in big problem. I ask you, wich of these is the most probable? But I allready know that prophecies should be accomplished soon as Nostradamus and Bible said but I don't want to fall into naive persusion. The fact are more talkin to us.<br><br>Mike<br><br>_________________________________________________________________ Téléchargez MSN Explorer gratuitement à l'adresse http://explorer.msn.fr/intl.asp<br>"
   'September 11 Email: CC':
     - html: false

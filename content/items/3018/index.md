@@ -14,7 +14,7 @@ id: 3018
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I THINK YOU ARE A PROFECIONAL AND YOU DID JUST YOUR JOB RIGHT<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3047
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips,         I was wondering how I could get a copy of the picture you took titled,''Satan in the Smoke''. It was in the newspaper a couple of days ago and as soon as I saw it I got chills up my back.  You did a wonderful job of capturing it.  I would greatly appriciate information on how to get it.                                                                             Thanks,                                                                           Natalie Wilson  angel1ga@lycos.com<br>
   'September 11 Email: CC':
     - html: false

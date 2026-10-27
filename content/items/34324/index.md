@@ -5,8 +5,8 @@ date: '2014-01-08 15:28:50'
 draft: false
 dublin_core:
   Description:
-    - html: false
-      text: <b>Campaign Poster. </> September 11, 2001 was also the scheduled day for New York City's Mayorial primary. This poster from the mayorial campaign of former Bronx Borough President Fernando Ferrer featured the New York skyline with the Twin Towers.
+    - html: true
+      text: Campaign Poster. &lt;/&gt; September 11, 2001 was also the scheduled day for New York City's Mayorial primary. This poster from the mayorial campaign of former Bronx Borough President Fernando Ferrer featured the New York skyline with the Twin Towers.
   Title:
     - html: false
       text: 2002.jpeg

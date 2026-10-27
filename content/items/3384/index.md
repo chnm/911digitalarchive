@@ -14,7 +14,7 @@ id: 3384
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: dear info@stellarimage.com,          If It is okay with you is it okay if I use this photo to put on our schools website, because I need this picture for a project because its about the disater , actually a dedication page. If you say yes thats great, but if you say no thats okay. You can contact me at vvallar@home.com.    thank you,       Vivian Vallar<br>
   'September 11 Email: CC':
     - html: false

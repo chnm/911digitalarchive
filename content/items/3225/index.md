@@ -14,7 +14,7 @@ id: 3225
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: In the King James Version of the Bible, satan is known as the angel of light. He is also one of the most beutiful angels God created. I personally don't think the devil could look like this. By the way , the picture is great.<br>May God Bless You<br>
   'September 11 Email: CC':
     - html: false

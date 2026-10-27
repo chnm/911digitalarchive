@@ -14,7 +14,7 @@ id: 3259
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'I wanted to drop you a quick note on three topics: <br>      1.  As a homeschool mom thanks for both of your Educ. sites for kids, they are               great!<br>      2.  Thankyou for sharing your work and taking all the questioning, the face in the             smoke is a great picture!<br>      3.  It is a bit late in life, but with the kids getting older, I would love to do something with my love and writing, photography and research, common sense says that it sums up a "journalist" type interest.  Do you think it is to late to start schooling for such a hobby of pt job?  If it is not to late (I am 37) where would you suggest I start, I have been raising kids for 17 years and have been home with them, I know school but what kind? <br><br>                                                Thankyou,  Mrs R<br>'
   'September 11 Email: CC':
     - html: false

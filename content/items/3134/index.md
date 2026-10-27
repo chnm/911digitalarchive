@@ -14,8 +14,8 @@ id: 3134
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: i realize that you have gotten unaccountable letters, emails, and calls about this picture so i am goin to make this short sweet and to the point.<br>i saw the website where you can buy pictures of the world trade center but i didnt see the face picture up for sale, i was wondering if i could get a picture of that.i realize it would be reproduction but i think it would be a good idea for many people to have a picture of it, reminding the future generations about what happend in our lifetime as well as how america stood for its freedom. and what may happen again at any time.<br>thank you.<br>chris pahl<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: i realize that you have gotten unaccountable letters, emails, and calls about this picture so i am goin to make this short sweet and to the point.<br>i saw the website where you can buy pictures of the world trade center but i didnt see the face picture up for sale, i was wondering if i could get a picture of that.i realize it would be reproduction but i think it would be a good idea for many people to have a picture of it, reminding the future generations about what happend in our lifetime as well as how america stood for its freedom. and what may happen again at any time.<br>thank you.<br>chris pahl<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

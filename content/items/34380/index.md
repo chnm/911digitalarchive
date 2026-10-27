@@ -5,7 +5,7 @@ date: '2014-01-08 15:29:44'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: <b>Felix Martinez</b> and her baby Wendy in their village in Mexico;  family of Jose Morales, who had been working in a pizza place at the twin towers since June, 2001.
   Title:
     - html: false

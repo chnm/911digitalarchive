@@ -14,7 +14,7 @@ id: 3423
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To tell you the truth it almost looks like a lion too. But whatever it is I bet it is the devil who else would do this much destruction? Know what I mean? I am sure you do.<br>Anna<br>
   'September 11 Email: CC':
     - html: false

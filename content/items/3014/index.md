@@ -14,7 +14,7 @@ id: 3014
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: What about the first image that came out in color.  Was it a doctored image.  I noticed it is no longer coming up.  BR<br>
   'September 11 Email: CC':
     - html: false

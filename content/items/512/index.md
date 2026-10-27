@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: 32BJ
   'SEIU Story: Story':
-    - html: false
-      text: "As told by another 32BJ member: <P>'So many people were lost. Some were young, some old. It's so very sad. I can't tell you how bad I feel,' said Gashi Naxhija, a 40-year-old World Trade Center worker. 'When the buildings went down, I lost my uncle.' <P>Mon Gjombalaj, Gashi's uncle, has worked at the World Trade Center since the building opened.  <P>'My uncle loved that building. He worked maintenance. He loved his job.  I have so much sadness because I lost my uncle. So much, we lost so much. . .,' Gashi said, her voice trailing off as she struggled with her emotions. <P>While she understands the anger people are feeling, Gashi is saddened by the anti-Moslem sentiment expressed by some. <P>'I am a Moslem. And I don't think this terror had anything to do with religion. Every group of people has bad people and good people. You cannot judge all Moslems by this terrorism.  Moslems like my uncle and me were hurt by this too,' Gashi said."
+    - html: true
+      text: "As told by another 32BJ member: <p>'So many people were lost. Some were young, some old. It's so very sad. I can't tell you how bad I feel,' said Gashi Naxhija, a 40-year-old World Trade Center worker. 'When the buildings went down, I lost my uncle.' <p>Mon Gjombalaj, Gashi's uncle, has worked at the World Trade Center since the building opened.  <p>'My uncle loved that building. He worked maintenance. He loved his job.  I have so much sadness because I lost my uncle. So much, we lost so much. . .,' Gashi said, her voice trailing off as she struggled with her emotions. <p>While she understands the anger people are feeling, Gashi is saddened by the anti-Moslem sentiment expressed by some. <p>'I am a Moslem. And I don't think this terror had anything to do with religion. Every group of people has bad people and good people. You cannot judge all Moslems by this terrorism.  Moslems like my uncle and me were hurt by this too,' Gashi said."
 lastmod: '2014-09-11 01:32:37'
 layout: single
 outputs:

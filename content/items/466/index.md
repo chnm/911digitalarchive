@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: 'Schroder Investment Management North America Inc. <P>Dear Andy: <P>My sincere condolences to the SEIU members and families who were affected by the tragedy at the World Trade Center last week.  The list of people I knew personally who are missing grows daily. It was a horrific and senseless deed. I wanted to send my personal check, which is matched by Schroders, to you as soon as possible.'
+    - html: true
+      text: 'Schroder Investment Management North America Inc. <p>Dear Andy: <p>My sincere condolences to the SEIU members and families who were affected by the tragedy at the World Trade Center last week.  The list of people I knew personally who are missing grows daily. It was a horrific and senseless deed. I wanted to send my personal check, which is matched by Schroders, to you as soon as possible.'
 lastmod: '2014-09-11 01:32:35'
 layout: single
 outputs:

@@ -14,7 +14,7 @@ id: 3488
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips:<br><br>In addition to the satanic face seen in the photo you took, my 5-year-old son also saw a similar face while we were watching the collapse of the second tower at www.abcnews.go.com. Shortly afterwards, his twin sister saw the satanic face on the side of the building that you photographed in the same video footage. You may want to check out this video. If you wish to contact me, please send an email to acrow@grecoinc.com.<br><br>Respectfully Submitted,<br><br>Arlene Crow<br>
   'September 11 Email: CC':
     - html: false

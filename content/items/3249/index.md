@@ -14,8 +14,8 @@ id: 3249
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: I, too, see the devil image others have ntoed. I also see something more. On this links opening page, http://9news.com/newsroom/13294.html the larger photo in black & white, shown on the right of the screen, appears to have an image of our lady, The Statue of Liberty's head - located at the tip of the 'devil's (left)horn'; viewing the photo, the image appears on the right of the head, at the tip of the horn.<br>Debbie<br>
+    - html: true
+      text: I, too, see the devil image others have ntoed. I also see something more. On this links opening page, http://9news.com/newsroom/13294.html the larger photo in black &amp; white, shown on the right of the screen, appears to have an image of our lady, The Statue of Liberty's head - located at the tip of the 'devil's (left)horn'; viewing the photo, the image appears on the right of the head, at the tip of the horn.<br>Debbie<br>
   'September 11 Email: CC':
     - html: false
       text: ''

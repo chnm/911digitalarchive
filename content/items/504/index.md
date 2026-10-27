@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: ''
   'SEIU Story: Story':
-    - html: false
-      text: 'Jamaica Civil Service Association <P>Dear Brother Stern: <P>It is with a profound sense of grief and sorrow that we learn of that dastard act of human cowardice mainifested through the terrorist act carried out on the people of the United States. <P>As we follow the stories live here in Jamaica we too like the American people are tempted to immediately order revenge, but as we come together in prayer it is our hope that divine intervention will cause us to find another solution to this problem, as in the end it is the innocent who suffers most. <P>To the workers and people of New York and the United States, be assured that your grief is as much felt here and may your accustomed resilience bolstered by the American dream be once again evident among you.'
+    - html: true
+      text: 'Jamaica Civil Service Association <p>Dear Brother Stern: <p>It is with a profound sense of grief and sorrow that we learn of that dastard act of human cowardice mainifested through the terrorist act carried out on the people of the United States. <p>As we follow the stories live here in Jamaica we too like the American people are tempted to immediately order revenge, but as we come together in prayer it is our hope that divine intervention will cause us to find another solution to this problem, as in the end it is the innocent who suffers most. <p>To the workers and people of New York and the United States, be assured that your grief is as much felt here and may your accustomed resilience bolstered by the American dream be once again evident among you.'
 lastmod: '2014-09-11 01:32:37'
 layout: single
 outputs:

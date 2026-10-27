@@ -14,7 +14,7 @@ id: 3406
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br>I just saw your picture of the "face" for the first time. It is certainly an eerie sight! The reason I am responding is to let you know that when I first heard of the "face" I looked for it in the news coverage, but never saw anything resembling a face IN THE SMOKE. What I did see was another satanic face in the FIRE as it billowed out. I don't remember if it was the first or second tower, but if you have a chance to review this footage, perhaps you will see what I saw, too. <br><br>God Bless.<br>
   'September 11 Email: CC':
     - html: false

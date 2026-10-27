@@ -14,7 +14,7 @@ id: 3437
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: LOOK CLOSELY,THAT  IS NOT THE FACE OF THE DEVIL.                                  THAT IS THE FACE OF      USAMA BIN LADEN   LOOK AT THE  FACE AND THE BEARD.        SPOOKY.........<br>
   'September 11 Email: CC':
     - html: false

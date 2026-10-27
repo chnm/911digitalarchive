@@ -14,8 +14,8 @@ id: 3031
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><bold><italic>do you think there going to bomb El Paso? Well one thing that is going to be hard to forget is what they did. i will never forget what happened and those who lost their lives for something they did not do. is this true? that on nov.11,2001 something bad os going to happen? they say it is going to be worst then what happened on 9-11-01. well i just wnat you to know that this tragedy affected my heart.</italic></bold><br>
+    - html: true
+      text: <br><b><i>do you think there going to bomb El Paso? Well one thing that is going to be hard to forget is what they did. i will never forget what happened and those who lost their lives for something they did not do. is this true? that on nov.11,2001 something bad os going to happen? they say it is going to be worst then what happened on 9-11-01. well i just wnat you to know that this tragedy affected my heart.</i></b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

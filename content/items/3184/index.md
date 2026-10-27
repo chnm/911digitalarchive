@@ -14,7 +14,7 @@ id: 3184
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: So how do I get a copy of the "face of Satan" photo anyway....   Do I have to buy it?   I would like to have a copy to email out with a e-newsletter I send out weekly.   -thanks   Kendall Faull<br>
   'September 11 Email: CC':
     - html: false

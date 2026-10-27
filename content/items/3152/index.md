@@ -14,7 +14,7 @@ id: 3152
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: YOU ARE JUST ANOTHER BUNCH OF DAMN WARTIME PROFITEERS<br>
   'September 11 Email: CC':
     - html: false

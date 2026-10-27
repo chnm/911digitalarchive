@@ -23,7 +23,7 @@ item_type_metadata:
     - html: false
       text: Priya Malhotra
   'VTMBH Article: Blurb':
-    - html: false
+    - html: true
       text: A New York Asian American Network for Cancer Awareness, Research and Training conference focused on cancer prevention and research.Asian Pacific Islander (API) health data that is collected on a national level often masks the problems that South Asians in New York City face, Nadia Islam told <i>Desi Talk.</i>
   'VTMBH Article: Body':
     - html: false

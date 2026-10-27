@@ -14,7 +14,7 @@ id: 3037
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I heard cnn had photo of the face in the smoke if so can you to tell me how to find it!<br><br><br>Thanks !!!!!<br>
   'September 11 Email: CC':
     - html: false

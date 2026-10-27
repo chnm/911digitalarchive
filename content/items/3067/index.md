@@ -14,7 +14,7 @@ id: 3067
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br>Mark:<br><br>Thanks so much for your e-mail...<br><br>Your photo has created such a firestorm of interest that we were wondering if you'd agree to do a quick phone interview with us that we could post as an audio stream?<br><br>Also, would you be willing to take part in an online discussion with interested viewers?<br><br>I tried calling your numbers but the NY area is still overloaded. <br><br>Let me know.<br><br>Regards,<br><br>Jack Maher<br>Executive Producer, KUSA-TV<br>303-871-1491<br>
   'September 11 Email: CC':
     - html: false

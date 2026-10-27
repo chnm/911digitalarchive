@@ -14,7 +14,7 @@ id: 3509
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: <br> Hello Mark,<br><br>  Wow what a picture. Are you related to the Phillips from Leger NC,  Everett and Edna. If so I am Alan Hutchins son of Mary Phillips, if not  sorry to take your time.<br><br> Anyway............. Truely a picture is worth a thousand words and you have<br>  helped convey a deep image to America, God Bless. <br><br><br>           Alan Hutchins<br>
   'September 11 Email: CC':
     - html: false

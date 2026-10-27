@@ -14,7 +14,7 @@ id: 3379
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Sir,<br>I heard it from a friend who look it up the newspaper's website about the Photo which showed the face of Satan as well as Angel who helped takes Souls up to Heaven. So you see, Sir, none of us could see with our eyes except the persons could see with Lord's Blessing. The Photo proved the Satan is real and is behind this Terrorist's attack. Satan do not want peace,love,happiness and is complete opposite of God who want love,peace,happiness. How sad is it that people have been blinded to the truth which the battles for souls have been going on since mankind and it is getting worse. The Holy Bible told the story about good and evil. A person who work in the Modell's Sport Store told us about his religious Grandmother were on plane flight took picture of a Angel. She has the picture developed and it showed the angel. Everything I told is the truth. Remember, Jesus Christ said, The truth shall set you free. I hope a lot of people learn from this lesson. Keep up the good work, Mark <br>Sincerely Your,<br>Robert F. Schaffer<br>Phila.,Pa.<br><br><br><br><br>
   'September 11 Email: CC':
     - html: false

@@ -14,8 +14,8 @@ id: 3412
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold>The "Atlanta Journal" indicated your web site had a copy of the "Satan in the Smoke" picture by Mark D. Phillips.  I was unable to locate the photo when searching your site.</bold>   <bold>Please advise the web address to access this photo as I may wish to purchase a copy.</bold>   <bold>Thank you.</bold>   <bold>Chris Mazur Auburn, GA</bold><br>
+    - html: true
+      text: <br> <b>The "Atlanta Journal" indicated your web site had a copy of the "Satan in the Smoke" picture by Mark D. Phillips.  I was unable to locate the photo when searching your site.</b>   <b>Please advise the web address to access this photo as I may wish to purchase a copy.</b>   <b>Thank you.</b>   <b>Chris Mazur Auburn, GA</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

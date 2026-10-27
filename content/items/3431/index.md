@@ -14,8 +14,8 @@ id: 3431
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold>Mark:</bold>   <bold>I wondered why I got the response from you I did in regards to "nominations" and "winning awards".  I did not mean to insinuate that would be the case with these photos.  My comment in regards to award nominations was if someone were to announce this has all been a farce, a movie, similar to "War of the Worlds."  </bold>   <bold>I keep waiting, but it isn't said.  Instead, I grieve for those with losses, and feel a tremendous amount of loss for people I do not know, and wonder how anyone could have so much hate in them to do what was done.</bold>   <bold>I am sorry if you took offense to my comment.  It was not in the least bit intended that way.  It is not necessary to respond to this message.</bold>   <bold>Joan</bold><br>
+    - html: true
+      text: <br> <b>Mark:</b>   <b>I wondered why I got the response from you I did in regards to "nominations" and "winning awards".  I did not mean to insinuate that would be the case with these photos.  My comment in regards to award nominations was if someone were to announce this has all been a farce, a movie, similar to "War of the Worlds."  </b>   <b>I keep waiting, but it isn't said.  Instead, I grieve for those with losses, and feel a tremendous amount of loss for people I do not know, and wonder how anyone could have so much hate in them to do what was done.</b>   <b>I am sorry if you took offense to my comment.  It was not in the least bit intended that way.  It is not necessary to respond to this message.</b>   <b>Joan</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

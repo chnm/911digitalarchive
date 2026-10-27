@@ -14,8 +14,8 @@ id: 3442
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> If you say it's so, I'll take you at your word.  Man, that is pretty spooky. <br><br>So, what kind of setup were you using?   What was your shutter speed? <br><br>Obviously, the timing had to be just right to catch something like that. <br><br>Doesn't that make you wonder whether you were somehow chosen by <br><br>the perfect timing, of such a vulgar event? <br><br> <br><br><br>"Mark D. Phillips" wrote:<br><br><paraindent><param>left</param><br><br><fontfamily><param>Monaco</param>Please visit </fontfamily><<http://www.stellarimages.com><fontfamily><param>Monaco</param>http://www.stellarimages.com and read about the photo. It is real and definitely not enhanced. <br><br>Sincerely,<br><br>Mark D. Phillips<br><br>President, StellarImages<br><br>></fontfamily><<http://9news.com/newsroom/13294.html><fontfamily><param>Monaco</param>http://9news.com/newsroom/13294.html <br><br><br><br></fontfamily></paraindent><fontfamily><param>Monaco</param> <br><br></fontfamily><br>
+    - html: true
+      text: <br> If you say it's so, I'll take you at your word.  Man, that is pretty spooky. <br><br>So, what kind of setup were you using?   What was your shutter speed? <br><br>Obviously, the timing had to be just right to catch something like that. <br><br>Doesn't that make you wonder whether you were somehow chosen by <br><br>the perfect timing, of such a vulgar event? <br><br> <br><br><br>"Mark D. Phillips" wrote:<br><br><br><br>Please visit &lt;&lt;http://www.stellarimages.com&gt;http://www.stellarimages.com and read about the photo. It is real and definitely not enhanced. <br><br>Sincerely,<br><br>Mark D. Phillips<br><br>President, StellarImages<br><br>&gt;&lt;&lt;http://9news.com/newsroom/13294.html&gt;http://9news.com/newsroom/13294.html <br><br><br><br> <br><br><br>
   'September 11 Email: CC':
     - html: false
       text: ''

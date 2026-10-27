@@ -11,7 +11,7 @@ id: 3004
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: In the color picture you can see more then one face. We have counted at least 3. I think they are of the evil hearts of those who  would do such a thing. Anyone who knows their BIBLE would tell you that satin is a beautiful creature. Not something that is going to scare you to death as far as looks goes.<br>
   'September 11 Email: CC':
     - html: false

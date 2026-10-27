@@ -26,14 +26,14 @@ item_type_metadata:
     - html: false
       text: ''
   'VTMBH Article: Body':
-    - html: false
+    - html: true
       text: |-
-        On a recent visit to New York, Bangladeshs Finance and Planning Minister M. Saifur Rahman, said that because of the countrys continuing harmony among different religious groups, Bangladesh has emerged a vibrant, resilient and strong South Asia democracy.
-        Rahman spoke at a seminar organized by the Bangladesh Journalists and Writers Association (BJWA), an organization of Bangladeshis living in New York. The seminar, Investment Opportunities in Bangladesh, encouraged Bangladeshis in America to send surplus money to Bangladesh for investment purposes.
-        There was a minimum of communal backlash in Bangladesh, even after the big riots between Hindu and Muslims in neighboring India, Rahman claimed. Peace is possible because the Bangladeshi people are not communal [religious friction] at all. But some foreigners are propagandizing against Bangladesh, branding it a communal country, he added.
-        Rahman urged all Bangladeshis living abroad, irrespective of religion, to invest in Bangladesh.
-        The seminar was mostly attended by Bangladeshis. Dr. Iftekher Ahmed Chowdhury, Permanent Representative of Bangladesh to the United Nations, moderated.
-
+        On a recent visit to New York, Bangladeshs Finance and Planning Minister M. Saifur Rahman, said that because of the countrys continuing harmony among different religious groups, Bangladesh has emerged a vibrant, resilient and strong South Asia democracy.<br>
+        Rahman spoke at a seminar organized by the Bangladesh Journalists and Writers Association (BJWA), an organization of Bangladeshis living in New York. The seminar, Investment Opportunities in Bangladesh, encouraged Bangladeshis in America to send surplus money to Bangladesh for investment purposes.<br>
+        There was a minimum of communal backlash in Bangladesh, even after the big riots between Hindu and Muslims in neighboring India, Rahman claimed. Peace is possible because the Bangladeshi people are not communal [religious friction] at all. But some foreigners are propagandizing against Bangladesh, branding it a communal country, he added.<br>
+        Rahman urged all Bangladeshis living abroad, irrespective of religion, to invest in Bangladesh.<br>
+        The seminar was mostly attended by Bangladeshis. Dr. Iftekher Ahmed Chowdhury, Permanent Representative of Bangladesh to the United Nations, moderated.<br>
+        <br>
         <i>Bangla Patrika covers the United States and South Asia from Long Island City.</i>
   'VTMBH Article: Date':
     - html: false

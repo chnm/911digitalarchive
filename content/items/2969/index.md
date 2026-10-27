@@ -14,7 +14,7 @@ id: 2969
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: As l watched the unfolding of the attack l said to my wife look close at the second WTC after it was struck, there is an image in the smoke and then on Sept. 20, 01 a friend was telling me about the image that a photographer had captured. I am absoluately positive that the picture is untouched.<br>Regards<br>Thomas Reed<br>
   'September 11 Email: CC':
     - html: false

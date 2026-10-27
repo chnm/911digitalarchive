@@ -14,7 +14,7 @@ id: 3000
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'He visto su foto y dejeme decirle que fue captada en un momento unico. es increiblemente espectacular. desde mi cuidad pude ver la transmision de este lamentable  siniestro  y algo pude ver de lo que usted capto perfectamente en la fotografÌa. La verdad  hay cosas que no tienen palabras. REBECCA CERVANTES B. AstrÛloga<br>LÌnea Astral 901-8800010<br>Desde Celular Celcaribe: * 2000<br>rebeccac@metrotel.net.co<br>www.delcaribe.com/astrologia<br>Barranquilla - Colombia  (SudamÈrica)   _____________________________________________ Recuerda consultar tu guÌa de AstrologÌa antes de tomar decisiones importantes. <br>'
   'September 11 Email: CC':
     - html: false

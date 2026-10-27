@@ -14,7 +14,7 @@ id: 3440
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I want to let you know that there are those of us who believe in your integrity. The picture should give all of us something to think about and take inventory of oneself. If it is a Heaven then it is a Hell. And if there is a one true God then there is a devil. All of this I do believe and have a wonderful relationship with God through His Son, Jesuha the Christ. My heart hurts for the victims and their families, our President, and all America. It is a new way of life in America starting on (911). May God help us in spite of that horrible dark tragedy, to comfort each other and rise to the occasion of our responsibilities, for they will be great. Mark, take courage in knowing there are still people who is honest and realize that If God aloud this; then that same God aloud you to capture and show us the enemy as the author of this awful evil.<br>As had as this is to bear, I believe we still had Gods mercy; this could have been most of America. We must turn from and turn to God for our strength and protection. Be Blessed. Ann<br>
   'September 11 Email: CC':
     - html: false

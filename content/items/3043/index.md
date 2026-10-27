@@ -14,7 +14,7 @@ id: 3043
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mr. Phillips,<br>   I just want to offer my sympathy.  I am a United States Navy Sailor.  And, we are now going through some tough times being on the brink of war.  It scares us all.  But, there is nothing that can compare to what all of you living in New York have gone through in the last two weeks.  I just want you to know everyone there is in my prayers.    I first saw your picture at work.  Someone had e-mailed it to a friend of mine.  I can't say that it scared me.  All I can say is it freaked a lot of us out.  But, it doesn't surprise me that the "devil" was seen.  He is evil.  A friend of mine said it was not the devil's face we saw in that picture.  But, the face of Death.  I don't know.  But, as you said, we shouldn't let that picture add to our fear and our doubts of what is to come.    God Bless you and everyone who is there in New York.  And, God Bless the ones whom He has taken home. <br><br>Sincerely,<br>Michelle Lovelace<br>IT2      USN<br>
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3163
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Stellarimages,<br><br>I am writing to request if it would be<br>O.K to merely provide a link to your<br>photograph/page at<br>http://www.stellarimages.com/ by Mark D. Phillips of the face at twin towers<br>smoke. The reason I ask is that I am<br>getting approximately 100 - 200<br>inquiries regarding the photo per day<br>and being asked for the link to it<br>constantly, it would be easier for me<br>to put up a link on the front page of my website to lead people directly there.<br>The site is<br>http://www.castleofspirits.com and I can assure you we have been well known on<br>the Internet for a long time, we are<br>currently receiving 100,000 hits per day to the site and we can only hope that<br>people will go through and buy a copy of the photo for donation purposes.<br><br>I thank you for a quick response,<br><br>Kind Regards,<br><br>Rowena Gilbert<br>http://www.castleofspirits.com<br>
   'September 11 Email: CC':
     - html: false

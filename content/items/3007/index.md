@@ -14,7 +14,7 @@ id: 3007
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mr Philips,<br><br>I can see 2 faces in this picture.<br>One is in his beard lower and it also has horns . Look closely his face is sideways.<br><br>Just an observation.<br><br>Thank you<br><br>Dominique Ledoux, Montreal<br>
   'September 11 Email: CC':
     - html: false

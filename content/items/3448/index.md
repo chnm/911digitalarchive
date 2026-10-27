@@ -14,7 +14,7 @@ id: 3448
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Some folks always want to distract from the true message... kind of like folks playing albums backwards so they can here evil messages! Hoping that your photojournalism takes him to more pleasurable photos where horrific images have no place.<br><br>Kathy L. Fowler<br>Sales Administrative Assistant<br>Phone: 972/602-4637 Fax: 972/660-5734<br>Office Depot BSD 1079<br>2220 N. Hwy 360<br>Grand Prairie, TX 75050<br>'
   'September 11 Email: CC':
     - html: false

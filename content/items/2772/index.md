@@ -5,9 +5,9 @@ date: '2014-01-07 17:52:01'
 draft: false
 dublin_core:
   Description:
-    - html: false
+    - html: true
       text: |-
-        "Osama Bin Laden in Fist of Allah" [Flash file, 2001, 0:31 seconds]
+        "Osama Bin Laden in Fist of Allah" [Flash file, 2001, 0:31 seconds]<br>
         Animation. In a torture dungeon Osama Bin Laden is being sodomized by a masked S/M figure. He is then guillotined. All action is set to dialogue and music from the 1994 film <i>Pulp Fiction</i>, directed by Quentin Tarantino. Images include graphic violence, which may offend some viewers
   Title:
     - html: false

@@ -14,7 +14,7 @@ id: 3321
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: It appears that there may be a face behind the face just to the left, it seems to be peering out from behind. I was wondering if you had noticed it previously.?<br>
   'September 11 Email: CC':
     - html: false

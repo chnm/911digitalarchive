@@ -14,7 +14,7 @@ id: 3198
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "hello, My name is Katherine I am 12 years old I live in Montreal Qc. I was watching television this morning and I heard about this mysterious photographe of a face in the smoke. I thought it was very weard, so I really wanted to know more about it.<br><br>What do you think it is that did that? I think it's probably from all those innocent people that past away at the same time. It's awful isn't it. <br><br>I just wanted to give you my point of view: There are more good people in the world then bad <br>Sincerely Katherine<br><br>P.SKeep me up to date please<br>THANKS<br>"
   'September 11 Email: CC':
     - html: false

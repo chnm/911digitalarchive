@@ -14,7 +14,7 @@ id: 3069
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: It looks like bill clinton to me.<br>
   'September 11 Email: CC':
     - html: false

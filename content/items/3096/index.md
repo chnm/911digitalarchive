@@ -14,7 +14,7 @@ id: 3096
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Dear Mark, A friend has just sent me a email of your picture of the WTC. I know many people say they see a devil with horns but that is NOT what I see. If you look closely you can see it is the face and head of a lion with a cross below its beard. A lion in the Christian bible represents the Lion of Judah which represents Jesus. I cannot for one minute believe that a satanic presence would overshadow the presence of God during this catastophe. I know without a shadow of a doubt that your picture is a sign from our God and Creator that He indeed was present that horrific day to gather His people back into Him. The face I see in your picture is the Lions face depicted in the Bible from the four living creatures. The King of Judah, the Lion of Judah was there present triumphing over evil. No that was no devil that day but our Lord and God and Saviour. You have proof in your picture. Thank you, Marianne Gardner email at: Marina335@aol.com Cottage Grove, Oregon<br>'
   'September 11 Email: CC':
     - html: false

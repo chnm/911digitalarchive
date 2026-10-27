@@ -14,8 +14,8 @@ id: 3054
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Mr. Phillips,<br>Could I have a photo of the devil in the smoke from the World Trade Center disaster? My e-mail is rem700ci@yahoo.com<br>I would really appreciate it so I could have a copy to keep.<br>Sincerely,<br>Christopher Ioan<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
+    - html: true
+      text: Mr. Phillips,<br>Could I have a photo of the devil in the smoke from the World Trade Center disaster? My e-mail is rem700ci@yahoo.com<br>I would really appreciate it so I could have a copy to keep.<br>Sincerely,<br>Christopher Ioan<br><br>__________________________________________________ Do You Yahoo!?<br>Get email alerts &amp; NEW webcam video instant messaging with Yahoo! Messenger. http://im.yahoo.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

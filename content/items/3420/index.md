@@ -14,8 +14,8 @@ id: 3420
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "<br><br>    Hello Mr. Phillips,           About 6 a.m. this morning my friend woke me up to tell me of this picture she'd just seen on the Internet.  Explaining what the picture depicted, she urged me to pull this 9News website up for viewing.  Now that I've seen it, I feel as you do, it is what it is!  But I also believe that Satan is a real entity and his time is running short.  He's on a mission to claim as many victims as possible.    Let me encourage you to continue taking pictures, it's a valid and lasting service.  To those who know you and have been in the business as long as you have, should quite frankly know better than to suspect you of malicious as what's being suggested......shame on them!     Gloria Jones       --- Gloria Jones --- <mailto:icjr@earthlink.net>icjr@earthlink.net --- EarthLink: It's your Internet.   <br><br><br>"
+    - html: true
+      text: "<br><br>    Hello Mr. Phillips,           About 6 a.m. this morning my friend woke me up to tell me of this picture she'd just seen on the Internet.  Explaining what the picture depicted, she urged me to pull this 9News website up for viewing.  Now that I've seen it, I feel as you do, it is what it is!  But I also believe that Satan is a real entity and his time is running short.  He's on a mission to claim as many victims as possible.    Let me encourage you to continue taking pictures, it's a valid and lasting service.  To those who know you and have been in the business as long as you have, should quite frankly know better than to suspect you of malicious as what's being suggested......shame on them!     Gloria Jones       --- Gloria Jones --- &lt;mailto:icjr@earthlink.net&gt;icjr@earthlink.net --- EarthLink: It's your Internet.   <br><br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

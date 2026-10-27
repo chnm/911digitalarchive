@@ -14,7 +14,7 @@ id: 3285
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: You do know there's an AP story out about yer picture, don't ya?<br>
   'September 11 Email: CC':
     - html: false

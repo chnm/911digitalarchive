@@ -14,8 +14,8 @@ id: 3050
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Dear Mr. Phillips   I hope that you will make available the picture with the apparent image of the evil face. I would be interested in buying it and I live in Canada and am not even American. I am sure that I can not afford your usual prices but would you be making posters or prints?   The photo shows what happened for what it was, as you said, an evil act.   B.C. Sitts <mailto:bcsitts@home.com>bcsitts@home.com<br>
+    - html: true
+      text: Dear Mr. Phillips   I hope that you will make available the picture with the apparent image of the evil face. I would be interested in buying it and I live in Canada and am not even American. I am sure that I can not afford your usual prices but would you be making posters or prints?   The photo shows what happened for what it was, as you said, an evil act.   B.C. Sitts &lt;mailto:bcsitts@home.com&gt;bcsitts@home.com<br>
   'September 11 Email: CC':
     - html: false
       text: ''

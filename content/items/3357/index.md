@@ -14,7 +14,7 @@ id: 3357
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Interested in "Satan's face " Pix. Can you please call me @ 212-503-4779. On deadline.<br><br>Thanks<br><br>Mike Mandel / Photo Editor<br>Yahoo Internet Life Magazine / 212-503-4779<br>
   'September 11 Email: CC':
     - html: false

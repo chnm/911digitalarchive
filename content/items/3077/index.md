@@ -14,7 +14,7 @@ id: 3077
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just wanted to say you captured the heart of what was happenng at that very moment.  ive heard of this photo for a few days now, and while i completely belive it, im not sure if im happy to have finally seen it.  either way, this is a tragedy, but its good to see so many americans finally realizing there is a God, and there is evil in this world. Maybe now they will finally pray.  thank you, Crystal Towler<br>
   'September 11 Email: CC':
     - html: false

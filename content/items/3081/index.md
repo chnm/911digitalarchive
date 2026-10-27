@@ -14,8 +14,8 @@ id: 3081
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "Read Psalms Chapter 46, Ch.55:22 and Ch. 91 and Isaiah Chapter 41:10, 13 & Chapter 43:1-3 <br><br><br>Get more from the Web. FREE MSN Explorer download : <http://explorer.msn.com'>http://explorer.msn.com <br><br>"
+    - html: true
+      text: "Read Psalms Chapter 46, Ch.55:22 and Ch. 91 and Isaiah Chapter 41:10, 13 &amp; Chapter 43:1-3 <br><br><br>Get more from the Web. FREE MSN Explorer download : &lt;http://explorer.msn.com'&gt;http://explorer.msn.com <br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

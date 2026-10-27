@@ -14,8 +14,8 @@ id: 3240
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br> <bold>Would like to ask if this particular picture is for sale?  Would like to include in our Family Archieves as an item of historical information about this atrosity that has touched our Country.  </bold>   <bold>          Thank you</bold>   <bold>                Margie Blythe-Poland</bold><br>
+    - html: true
+      text: <br> <b>Would like to ask if this particular picture is for sale?  Would like to include in our Family Archieves as an item of historical information about this atrosity that has touched our Country.  </b>   <b>          Thank you</b>   <b>                Margie Blythe-Poland</b><br>
   'September 11 Email: CC':
     - html: false
       text: ''

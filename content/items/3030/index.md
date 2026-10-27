@@ -14,7 +14,7 @@ id: 3030
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br>It was a real pleasure meeting you today, it also broke up all the sad stories we have been doing...I have a lot of respect for your work..I am at your site now, only going to read the first page..Will check out the rest tomarrow.. TOOOOO Tired today.. They sent us on another job just as we left you... Thanks for the picture, I will treasure that one.... If you ever decide you want to expand your business to video, PLEASE call me..... Will be in touch again<br>John Weitzman<br>
   'September 11 Email: CC':
     - html: false

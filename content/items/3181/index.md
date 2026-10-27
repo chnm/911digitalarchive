@@ -14,7 +14,7 @@ id: 3181
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Noticed I spelled devil with a little "d".  Yes, I think the devil was truly in this, however, the devil still answers to God.  A lot of people would say, "How could God allow such a thing?"  It usually takes a tragedy to get our attention.  Sad, but true.  Anyway, I just hate to give the devil credit for anything.  He would like our focus.  The focus should be on God.  If you know the Lord Jesus Christ, there is no fear at this time.  I hope you do.  God bless.   <br><br>:)  Debbie  <br>
   'September 11 Email: CC':
     - html: false

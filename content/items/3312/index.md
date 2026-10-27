@@ -14,7 +14,7 @@ id: 3312
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips:<br><br>There is no doubt in my mind who is behind the dreadful attack on the World Trade Center, and no photo is necessary to demonstrate who that is. It simply attests to it.<br><br>I grieve for NYC and all that is being endured there. <br><br>ne<br>
   'September 11 Email: CC':
     - html: false

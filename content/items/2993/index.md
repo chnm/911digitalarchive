@@ -14,7 +14,7 @@ id: 2993
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark:<br><br>It was at last Sunday's mass in church that I learned of the photograph you took.  Our priest mentioned it in his homily and then showed us the photograph as we were exiting church.  The devastation we have witnessed is truly the work of the devil and your photograph confirms it.  God Bless you.  Sophie Wittelsberger<br>
   'September 11 Email: CC':
     - html: false

@@ -14,8 +14,8 @@ id: 2984
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: <br><italic>I don't know if that picture is true or not, but I believe God will get us through this act of war.</italic><br>
+    - html: true
+      text: <br><i>I don't know if that picture is true or not, but I believe God will get us through this act of war.</i><br>
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 3141
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: You can't even show the picture without painting it with garbage, are you that afraid you will lose out on the money your gonna make from another tragedy.!! <br><br>Keep your stupid pictures !!!!<br>--<br><br>_______________________________________________ Talk More, Pay Less with Net2Phone Direct(R), up to 1500 minutes free! http://www.net2phone.com/cgi-bin/link.cgi?143<br>
   'September 11 Email: CC':
     - html: false

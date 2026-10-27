@@ -14,7 +14,7 @@ id: 3382
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "are u a funny ole guy or what?  isn't it funny that  no one else pictures got that  but urs did   seeing how u change pics for a living    that's sad when u use tons of peoples tragady to  make urself look big?  how sad!        <br><br>            FYI: i'm only 13 and i know better then that<br>"
   'September 11 Email: CC':
     - html: false

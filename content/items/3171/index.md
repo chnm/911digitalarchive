@@ -14,7 +14,7 @@ id: 3171
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark this is Keith Burr. The other day I sent you a e-mail stating that I thought I saw another image in the smoke. I think you took my message the wrong way. In no way I'am I trying to say anything bad about your picture. I find it amassing myself. As far as my not thinking about the human loss and suffering, I feel for everyone involved. Iam from northern NY and I have been involved in fire and EMS sense 1975. I have seen many bad times for many people. Never anything this big, but my heart still goes out to them. I'am truly sorry if you thought I was making fun of your picture or belittling you. I would not do that. Take care Keith<br>
   'September 11 Email: CC':
     - html: false

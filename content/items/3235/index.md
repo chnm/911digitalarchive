@@ -14,7 +14,7 @@ id: 3235
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Is it  Bin Loden or  satan???????????<br>
   'September 11 Email: CC':
     - html: false

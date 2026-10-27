@@ -14,7 +14,7 @@ id: 3168
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Hello,   I would like to know if I can save the picture of the twin towers with the face on my computer and print it to show people. Let me know if that is possible.     Thanks, Daniel Serian thoros@earthlink.net<br>
   'September 11 Email: CC':
     - html: false

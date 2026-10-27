@@ -14,7 +14,7 @@ id: 3144
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: To Mark D. Phillips<br><br>Hi !<br><br>I received, by the Net, another pict (extracted from CNN film) of this "face of satan" looked in<br>the smoke during the attacks.<br>Unfortunately I can't find the source... But if it's really coming from a CNN film, ... it should be easy to check<br>!<br>Can I send it to you and at what email address please (as this one does not received attachments) ?<br><br>Take care<br><br>Gerard Wolber<br>(from Paris, France)<br>
   'September 11 Email: CC':
     - html: false

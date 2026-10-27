@@ -14,7 +14,7 @@ id: 3397
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mr. Phillips:I am very excited about the additional images I see in your photo "Face of Evil". Just above the face of evil I clearly see a cherub with wings unfurled holding our National Symbol,the bald eagle. It may appear to some that the cherub is releasing the eagle. No matter how that is seen,the image clearly shows Light overcomes Evil. Please let me know if you see this. If you do, please spread the word, and let me know if you see this encouraging image. The photo I saw was marked CNN Exclusive.   Sincerely yours,   Lou Dalrymple 226 Valley Road Toccoa, Georgia 30577  <br>
   'September 11 Email: CC':
     - html: false

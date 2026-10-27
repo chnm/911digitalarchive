@@ -14,7 +14,7 @@ id: 3111
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Dear Mr. Phillips,<br><br> My secretary has seen a hardcopy of the WTC picture with the demonic face in the smoke. She said the contrast in the hardcopy made the demonic face more easily discerned than in the image on your website. Will you consider making a larger version of your picture visible on your website and/or selling hardcopies of your picture? <br><br>Best regards,<br>Jim Paschall<br>UOP Patent Department<br>Tel: 847-391-2355<br>Fax: 847-391-2387<br>Email: jcpascha@uop.com<br>'
   'September 11 Email: CC':
     - html: false

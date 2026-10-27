@@ -14,7 +14,7 @@ id: 3494
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: "Mad Dog! This is Chuck's bro. How are you? Chuck forwarded yer photo to me--too weird! I bet you could make a fortune with the National Enquirer, World News, and Star!! As for freaking out, remember yer therapist is just a phone call away. If not, remember just how deep in the south I live and ask yerself one question: \"Are you saved??\"<br>Hope all is well. Glad to hear yer brother was ok. Also, know that your city and all it's people are being thought about. If you know of anything we can do from this end, don't hesitate. Take Care. John<br>"
   'September 11 Email: CC':
     - html: false

@@ -14,7 +14,7 @@ id: 3229
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: A friend showed us the picture of  "A Face in the Smoke?" dated Sept. 17, 2001 -  3:04p with story by Susan Wells and Jack Maher. My question is how do I find this photo on the web site? Thank You. Judith Herrin<br>
   'September 11 Email: CC':
     - html: false

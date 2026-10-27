@@ -14,7 +14,7 @@ id: 3324
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Sir, I know your dealing with alot in New York right now. But just a note from us here in Canada, we cannot express our sorrow nor our grief enough to let all Americans know we are with them. Your photo has caused alot of interest and all I can say is , KEEP TAKING PICTURES the next one may be a picture of God. Best Regards ReidW@shaw.ca<br>
   'September 11 Email: CC':
     - html: false

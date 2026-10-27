@@ -14,8 +14,8 @@ id: 3383
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: I originally received an email with the picture of the devil in color along side of the one you show now in black and white.  Do you still have the one which shows both? This is the site I got them >from the other day and after saving it in a folder, it only shows the B&W picture.  Did you do both of them.  http://9news.com/newsroom/13294.html  ?  I gave away the original one and would like to have one for myself.  We are studying Spiritual Wafare and it was a great object lesson.  Thanks,   Patricia Haldin <br>
+    - html: true
+      text: I originally received an email with the picture of the devil in color along side of the one you show now in black and white.  Do you still have the one which shows both? This is the site I got them &gt;from the other day and after saving it in a folder, it only shows the B&amp;W picture.  Did you do both of them.  http://9news.com/newsroom/13294.html  ?  I gave away the original one and would like to have one for myself.  We are studying Spiritual Wafare and it was a great object lesson.  Thanks,   Patricia Haldin <br>
   'September 11 Email: CC':
     - html: false
       text: ''

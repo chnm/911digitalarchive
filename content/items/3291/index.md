@@ -14,7 +14,7 @@ id: 3291
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: the answer to the question is gestalt perceptual experience....we force form on that which is ambiguous....what's interesting about this phenomena is that so many people saw the same thing...........I actually saw it in the moment that day but I attributed my perception to my background in teaching sensation and perception and the fact that I'm an oil painter and I often smear paint on a canvas and rotate it 4 time to see what I "see" before starting something novel....I think it's called chiroso....like a Rorschack....good and evil is a constant theme for me and I have painted and drawn many devils in my day...I thought it was my own psychology.<br>
   'September 11 Email: CC':
     - html: false

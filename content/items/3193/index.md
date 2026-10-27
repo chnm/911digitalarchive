@@ -14,8 +14,8 @@ id: 3193
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: Dear Mr. Phillips:<br>Has anyone pointed out the other faces in the picture besides the one that is most obvious. Check out the shadow to the lower left of the smoke on the dark side of the building, you will see a couple of faces there also. There are some more faces in the picture also can you see them? <br><br>Billy<br><br><http://9news.com/newsroom/13294.html>9NEWS.com - Newsroom<br>
+    - html: true
+      text: Dear Mr. Phillips:<br>Has anyone pointed out the other faces in the picture besides the one that is most obvious. Check out the shadow to the lower left of the smoke on the dark side of the building, you will see a couple of faces there also. There are some more faces in the picture also can you see them? <br><br>Billy<br><br>&lt;http://9news.com/newsroom/13294.html&gt;9NEWS.com - Newsroom<br>
   'September 11 Email: CC':
     - html: false
       text: ''

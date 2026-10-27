@@ -14,7 +14,7 @@ id: 3449
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Dear Mark Phillips,<br><br>I am requesting your permission to use the photograph you took of the face in the towers on a web-site that I am dedicating to the victims of the US attacks on Sept 11th.<br><br>I shall give full details of who took the photo, who he works for and how he can be contacted, and, if so desired, where the photo can be purchased. <br><br><br>We expect 10's of millions of viewers to our site because of its content and the advertising we have lined up via the world radio and tv network. <br><br>This will benefit us, showing a photo that is DIFFERENT, you in a world wide audience getting to know your site and the photographer who took the photo. <br><br><br>I would appreciate an immediate reply, thanking you, <br><br><br>Kevin Kilfeather<br>
   'September 11 Email: CC':
     - html: false

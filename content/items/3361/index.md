@@ -11,7 +11,7 @@ id: 3361
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Yeah right. "I cannot explain..."  You scumbags oughta be ashamed of yourself. Not even the smoke has even cleared after the tragedy that took the lives of some 6000 people and you are already trying to cash in on their lives. I can see selling pictures of the historical city landmark twin towers as we remember them, but please have the courtesy not to try and capitalize on the explosion pictures. Especially not on the superstition of some poor suckers. <br>
   'September 11 Email: CC':
     - html: false

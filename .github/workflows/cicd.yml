@@ -1,11 +1,18 @@
+# Prod builds on merge to main; dev deploys are manual (Actions -> Run
+# workflow on a branch), since a full build of this ~90k-item site is costly
+# and every branch shares the one dev FQDN.
 on:
   workflow_dispatch:
   push:
     branches:
-      - "**"
+      - main
     paths:
       - '**'
       - "!.github/**"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   hugo-build-release-deploy:

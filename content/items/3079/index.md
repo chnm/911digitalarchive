@@ -14,7 +14,7 @@ id: 3079
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: fascinating stuff<br>i'm with you all the way!<br>it's amazing the hand that we sometimes get dealt with! i love the photo. also, please tell andrea that her column today on UN was artfully done and wonderful<br>dave lieber<br><br>--<br>http://www.star-telegram.com/dave<br>
   'September 11 Email: CC':
     - html: false

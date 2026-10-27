@@ -14,7 +14,7 @@ id: 3110
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: We first saw your photo in our local news paper the TIMES LEADER out of Wilkes Barre, Pa. Members of my family can see an image of an Angel in the smoke over the World Trade Center. I didn't believe them until the showed me. It is very faint and the picture in the paper was black and white, but I can see. It is not as noticable as the so called devils image but it is there. I know you are very busy, but if you have the time please let me know if anyone else has seen this image. You can email me at NPC@EPIX.Net.<br><br>Thank you,<br>Nicole<br>Dallas, Pa<br>
   'September 11 Email: CC':
     - html: false

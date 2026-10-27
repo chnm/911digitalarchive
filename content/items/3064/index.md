@@ -14,7 +14,7 @@ id: 3064
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: This is cool, but you see stuff in clouds all the time.<br>
   'September 11 Email: CC':
     - html: false

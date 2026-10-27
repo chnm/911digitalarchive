@@ -17,8 +17,8 @@ item_type_metadata:
     - html: false
       text: 1199 in New Jersey
   'SEIU Story: Story':
-    - html: false
-      text: In viewing our website for the first time, I could not help but fill up  when I saw the Justice for Janitors logo. I immediately thought of the  window-washers on the 102nd floor.   <P>Just in case it's do-able, I'd like to  share my vision. I'd love to see the streets of New York surrounding ground  zero cleaned by our members, wearing J for J shirts, in honor of our lost  service workers. The title 'Justice for Janitors' certainly has a most  significant meaning at this time in our nation's history.
+    - html: true
+      text: In viewing our website for the first time, I could not help but fill up  when I saw the Justice for Janitors logo. I immediately thought of the  window-washers on the 102nd floor.   <p>Just in case it's do-able, I'd like to  share my vision. I'd love to see the streets of New York surrounding ground  zero cleaned by our members, wearing J for J shirts, in honor of our lost  service workers. The title 'Justice for Janitors' certainly has a most  significant meaning at this time in our nation's history.
 lastmod: '2014-09-11 01:32:35'
 layout: single
 outputs:

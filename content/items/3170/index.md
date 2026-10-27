@@ -14,8 +14,8 @@ id: 3170
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "I am sending this to you because it really breaks my heart. I send my regards to those who suffer and are still suffering. It is hard to except. God bless, and my prayers  are with you. Please feel free to reply, this really has changed the way I think about things. <br><br><br>Get more from the Web. FREE MSN Explorer download : <http://explorer.msn.com'>http://explorer.msn.com <br><br>"
+    - html: true
+      text: "I am sending this to you because it really breaks my heart. I send my regards to those who suffer and are still suffering. It is hard to except. God bless, and my prayers  are with you. Please feel free to reply, this really has changed the way I think about things. <br><br><br>Get more from the Web. FREE MSN Explorer download : &lt;http://explorer.msn.com'&gt;http://explorer.msn.com <br><br>"
   'September 11 Email: CC':
     - html: false
       text: ''

@@ -14,7 +14,7 @@ id: 3040
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,   I am a Single Mom with Two Kids in California and I'm not anyone important, but I hope this thought helps you.   I strongly believe that there was a reason that you took this picture and captured this significant image.  It will reach many people in a strong way and hopefully touch their heart in a positive way.    Janell Hodgkin<br>
   'September 11 Email: CC':
     - html: false

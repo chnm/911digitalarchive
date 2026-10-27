@@ -14,7 +14,7 @@ id: 3353
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'Dear Mark: Thank you for your followup interview regarding your "Face in Smoke" photograph of the WTC attack.  I read it with interest through our local 9News websight here in Denver.  As a Christian, I believe that perhaps God used you and allowed to you to capture this image, not as a reason to fear, but to encourage all of us to see the evil that is truly behind these hateful attacks, and then to pray and seek God.  As President Bush said, "we have seen evil" and I believe God allowed you to confirm this to many. I do not know what your religious beliefs are, but the Bible tells us that the devil comes to "kill, steal, and destroy."   Please do not let the critics and doubters upset you.  For many, your photo is a call to prayer for our president, our country, our churches, and our people...thank you.  Again, thank you for sharing this photo and I pray the peace of God will rule in your heart.  Thanks...Deb<br>'
   'September 11 Email: CC':
     - html: false

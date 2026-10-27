@@ -14,7 +14,7 @@ id: 3189
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Mark,<br>      I just wanted to tell you why I believe that this image was there.  Satan had control of those people and it is his way of trying to scare us.  Me being a Christian actually take this to heart.  God destroyed him by having the buildings crumble just like he will destroy him in the end.  Pray that people will be led to truth through your photo. <br><br>In Him,<br>      Holly<br>
   'September 11 Email: CC':
     - html: false

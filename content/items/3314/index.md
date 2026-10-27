@@ -14,7 +14,7 @@ id: 3314
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: Maybe the face carries a resemblance to the true organizer of this event (which ofcourse is satan, but I am meaning a live person here on earth besides satan).   As truth will be shouted from the rooftops the Bible tells us.  So, go over faces that are known to belong to terrorists! Dr AnnaRich Drannette@ctaz.com   Dr. Taylor years ago had a picture of Jesus in the clouds in his book "America and WW3". It was also an untouched fotograph someone swore by it's authenticity.<br>
   'September 11 Email: CC':
     - html: false

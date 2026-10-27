@@ -14,7 +14,7 @@ id: 3201
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I only want to say, when I look at the picture I see the Lion Of Judah. NOT satan/the devil (uncap'd on purpose-I give NO credit or honor to the deceiver).  To God be the glory for He is still in control and was present to watch over the souls that belonged to Him.  No request or need to respond.<br>
   'September 11 Email: CC':
     - html: false

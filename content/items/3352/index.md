@@ -14,7 +14,7 @@ id: 3352
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: I just wanted you to know we might see the devil in this one instance but we see God in all the other picture with everyone helping and praying I hope someone can point that out, we see it many many times <br>Thanks Robert Staudt<br>
   'September 11 Email: CC':
     - html: false

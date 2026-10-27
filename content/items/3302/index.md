@@ -14,7 +14,7 @@ id: 3302
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: The picture of the tower in smoke you published must be a self portrait, for you to broadcast more fear into america.<br><br><br><br>Pete kesselring<br>
   'September 11 Email: CC':
     - html: false

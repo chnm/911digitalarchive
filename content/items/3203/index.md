@@ -14,7 +14,7 @@ id: 3203
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
+    - html: true
       text: 'First, your photo is amazing! Second, can you tell me where the video of the same photo can be seen? Thank you .<br>Kathy Berry<br>Philadelphia, PA<br>________________________________________________________________ GET INTERNET ACCESS FROM JUNO!<br>Juno offers FREE or PREMIUM Internet access for less! Join Juno today! For your FREE software, visit: http://dl.www.juno.com/get/tagj.<br>'
   'September 11 Email: CC':
     - html: false

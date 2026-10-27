@@ -14,8 +14,8 @@ id: 3404
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: '<br> <bold>From:</bold> Sue Anne Smith <bold>To: </bold><<mailto:info@stellarimages.com>info@stellarimages.com <bold>Sent:</bold> Friday, September 28, 2001 8:05 PM <bold>Subject:</bold> Fox News report<br><br>I just saw a report on Fox News that states the picture of the Devil face in the smoke is a hoax, they showed the photo. I personally believe it is not doctored and Mark Phillips is a credible photographer.  I was curious as to what if anything you plan to do to refute that report. Sincerely, Sue Anne Smith<br>'
+    - html: true
+      text: '<br> <b>From:</b> Sue Anne Smith <b>To: </b>&lt;&lt;mailto:info@stellarimages.com&gt;info@stellarimages.com <b>Sent:</b> Friday, September 28, 2001 8:05 PM <b>Subject:</b> Fox News report<br><br>I just saw a report on Fox News that states the picture of the Devil face in the smoke is a hoax, they showed the photo. I personally believe it is not doctored and Mark Phillips is a credible photographer.  I was curious as to what if anything you plan to do to refute that report. Sincerely, Sue Anne Smith<br>'
   'September 11 Email: CC':
     - html: false
       text: ''

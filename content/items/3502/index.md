@@ -14,8 +14,8 @@ id: 3502
 item_type: September 11 Email
 item_type_metadata:
   'September 11 Email: Body':
-    - html: false
-      text: "I believe the face was in the smoke. I think Bin Ladin(However it's spelled) could possibly be Satan himself. The image even looks like him. But Bin Ladin can smile now, for the time is soon coming that he will be pushing up daisy's!                                     Doing a great job! GOD BLESS AMERICA!!!!!!!!!!                                  Donna Mitcham               Burr Ferry, LouisianaContent-Type: image/gif;  name=\"Ivy.gif\"<br>Content-ID: <002a01c14296$4c95d520$311ebfcf@wnonline.net> <br><br>Attachment converted: maddogs enterprise:Ivy.gif (GIFf/JVWR) (000A561D)<br>"
+    - html: true
+      text: "I believe the face was in the smoke. I think Bin Ladin(However it's spelled) could possibly be Satan himself. The image even looks like him. But Bin Ladin can smile now, for the time is soon coming that he will be pushing up daisy's!                                     Doing a great job! GOD BLESS AMERICA!!!!!!!!!!                                  Donna Mitcham               Burr Ferry, LouisianaContent-Type: image/gif;  name=\"Ivy.gif\"<br>Content-ID: &lt;002a01c14296$4c95d520$311ebfcf@wnonline.net&gt; <br><br>Attachment converted: maddogs enterprise:Ivy.gif (GIFf/JVWR) (000A561D)<br>"
   'September 11 Email: CC':
     - html: false
       text: ''
